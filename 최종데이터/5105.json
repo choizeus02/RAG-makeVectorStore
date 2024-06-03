@@ -1,0 +1,76 @@
+{
+    "quote_number": "5105",
+    "quote_title": "코어i7-14세대 14700KF + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.4.6",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 4070 SUPER 조합",
+    "quotation_summary": " 코어i7-14세대 14700KF + 지포스 RTX 4070 SUPER# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 14세대까지 출시가 된 상황에서 13세대로 구성하는 것은 애매하죠. 14700K 벌크로 변경인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다.2. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트로 변경3. 그래픽카드는 1티어 AS 중에서도 최상위면서 화이트 색상에 가격적인 메리트도 높은 이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB로 변경4. SSD인 P31은 NVMe 규격 중에서는 속도가 가장 느린 젠3 제품입니다.젠3보다 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경5. 구성하신 케이스는 상단 3열 수냉쿨러 장착이 불가능합니다. 또한 화이트 컨셉인데 블랙 색상의 케이스인지라 상단 3열 수냉쿨러 장착이 가능하고 화이트 색상에 가성비까지 좋은 DARKFLASH DF2100 MESH RGB 강화유리 화이트 (미들타워)로 변경6. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 변경7. CPU쿨러는 최상위 성능군 중에서도 탑티어 성능이면서 가격도 낮은 편이라 사실상 끝판왕이라고 할 수 있는 잘만 Alpha II A36 (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700K (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[데스크탑 HDD]Western Digital WD 1TB BLUE WD10EZEX SATA3/7200/64M /HDD상세보기[케이스]DARKFLASH DF2100 MESH RGB 강화유리 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]잘만 Alpha II A36 (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 6000클럭 튜닝램 제품 가운데 CL타이밍 값이 30으로 낮은편인 ADATA사의 LANCER RGB 화이트 튜닝램입니다. 라이프워런티정책으로 A/S정책이 좋으며 16GB 2장 총 32GB 패키지입니다.그래픽카드는 RTX 4070과 RTX 4070 Ti 제품 사이에 위치한 라인업이며 A/S퀄리티 1티어인 이엠텍사 화이트색상 제품입니다. 보조전원 커넥터는 12VHPWR 규격이며 제원 상 길이 315mm, 두께 50mm입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700K",
+            "가격": "571,760원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "379,300원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "327,840원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB",
+            "가격": "922,830원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,900원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD 1TB BLUE WD10EZEX SATA3/7200/64M /HDD",
+            "가격": "70,050원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DF2100 MESH RGB 강화유리 화이트",
+            "가격": "66,090원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,430원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,350원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2871900원",
+    "CPU": "코어i7-14세대 14700K (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "잘만 Alpha II A36 (WHITE)",
+    "cpu_score": 98,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 31768
+}

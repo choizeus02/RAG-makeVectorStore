@@ -1,0 +1,60 @@
+{
+    "quote_number": "4201",
+    "quote_title": "AMD 라이젠5-4세대 5600G",
+    "date_create": "2024.3.12",
+    "cpu_gpu_combinations": "라이젠5 5600G +  조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600G# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 세계 2위의 D램 제조사가 SK하이닉스고 ESSENCORE는 SK하이닉스 모듈만 사용하는 사실상의 자회사죠. SK하이닉스 램이라고 봐도 무방해서 안정적으로 사용할 수 있습니다.2. 케이스는 최근 가격을 대폭인하하여 가성비가 월등히 좋아진 화이트 색사으이 미들타워인 대양케이스 ME NO.14 레인보우 강화유리 화이트 (미들타워)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600G (세잔) (멀티팩)상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]대양케이스 ME NO.14 레인보우 강화유리 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]3RSYS Socoool RC350 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 6코어 12쓰레드 디자인에 내장그래픽 성능이 월등히 좋은 CPUSSD는 젠3 제품 중에서는 5년 무상AS에 성능도 좋고 가격적인 메리트도 있는 SSD파워서플라이는 topower사의 600W 브론즈등급 화이트색상 제품입니다. A/S보증기간 7년을 제공하고 화이트 색상 제품이라 화이트감성 PC에 알맞는 제품입니다.CPU쿨러는 CPU쿨러는 케이스와도 잘 어울리는 화이트 색상에 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600G",
+            "가격": "152,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "83,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "21,040원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "대양케이스 ME NO.14 레인보우 강화유리 화이트",
+            "가격": "61,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 ARGB",
+            "가격": "22,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "506360원",
+    "CPU": "AMD 라이젠5-4세대 5600G (세잔) (멀티팩)",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "3RSYS Socoool RC350 ARGB (WHITE)",
+    "cpu_score": 504,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": null
+}

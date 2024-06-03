@@ -1,0 +1,76 @@
+{
+    "quote_number": "5000",
+    "quote_title": "AMD 라이젠9-5세대 7950X + 지포스 RTX 4060 Ti",
+    "date_create": "2024.4.3",
+    "cpu_gpu_combinations": "라이젠9 7950X + RTX 4060 Ti 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X + 지포스 RTX 4060 Ti# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 AVX 512 명령어를 지원하는 라이젠 라파엘 제품 중 성능이 가장 좋은 7950X로 구성2. 메인보드는 840A급 출력의 드라이버 모스펫 전원부가 적용된 ATX 규격의 ASRock B650 PG Lightning 대원씨티에스로 구성3. 딥러닝의 경우 메모리는 많으면 많을수록 좋습니다. 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 PATRIOT DDR5-5200 CL42 SIGNATURE (32GB) x 2개 64기가로 구성4. 그래픽카드는 VRAM 16GB로 사용 목적에 가장 효율적이라고 할 수 있는 MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB로 구성5. SSD는 젠4 규격의 끝판왕급 성능 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 구성6. HDD는 PMR 방식의 원천 기술을 가지고 있는 도시바의 Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)로 구성7. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 구성8. 파워는 정격 800W 골드인증 제품인 쿨러마스터 G800 GOLD로 구성해서 안정성과 가성비를 모두 챙겼습니다.9. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서도 최상위 1티어 제품이면서 압도적인 가성비까지 제공하는 잘만 Alpha II A36 (BLACK)로 구성10. 모니터는 가장 선호되는 IPS패널에 32인치 QHD해상도 제품인 크로스오버 Q32V75 QHD IPS 75 무결점으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]PATRIOT DDR5-5200 CL42 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]잘만 Alpha II A36 (BLACK)상세보기[모니터]크로스오버 Q32V75 QHD IPS 75 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기데스크탑 HDD는 안정성 높은 PMR 방식의 HDD파워서플라이는 안정성과 가성비를 겸비한 골드인증 800W 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X)",
+            "가격": "890,930원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "153,020원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "PATRIOT DDR5-5200 CL42 SIGNATURE  32GB",
+            "가격": "117,280원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB",
+            "가격": "610,840원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,690원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "100,880원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "90,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,430원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 Q32V75 QHD IPS 75 무결점",
+            "가격": "209,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2694640원",
+    "CPU": "AMD 라이젠9-5세대 7950X (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "PATRIOT DDR5-5200 CL42 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "잘만 Alpha II A36 (BLACK)",
+    "cpu_score": 60,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62909,
+    "gpu_benchmarkscore": 22891
+}

@@ -1,0 +1,66 @@
+{
+    "quote_number": "3344",
+    "quote_title": "13600KF + 4070 ti super White (워크스테이션, 게이밍)",
+    "date_create": "2024.2.22",
+    "cpu_gpu_combinations": "코어i5-13600KF + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 13600KF + 4070 ti super White (워크스테이션, 게이밍)# 13600KF + 4070 ti super White (워크스테이션# 게이밍)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "13600KF + 4070 ti super White (워크스테이션, 게이밍)",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600KF (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 맥스 WIFI상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 핑크 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]잘만 Alpha II A36 (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 벌크도 공식적으로 3년 보증을 지원해 14600KF급으로 구성하신다면 벌크로는 14600KF보다 금액적 메리트가 높아 13600KF 쪽이 나으실 거 같습니다.메인보드는 14페이즈 900A(75A)의 뛰어난 전원부입니다.그래픽카드는 AS 1티어 갤럭시의 4070  TI SUPERSSD는 삼성 980 프로 OEM 제품으로 가성비가 좋습니다.파워서플라이는 10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600KF",
+            "가격": "1,588,590원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 맥스 WIFI",
+            "가격": "201,700원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,310원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB",
+            "가격": "1,321,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 핑크",
+            "가격": "98,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,600원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3802840원",
+    "CPU": "인텔 코어i5-13세대 13600KF (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 맥스 WIFI",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "잘만 Alpha II A36 (WHITE)",
+    "cpu_score": 194,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 31768
+}

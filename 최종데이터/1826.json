@@ -1,0 +1,66 @@
+{
+    "quote_number": "1826",
+    "quote_title": "[상급/240만] 13600KF + 4070 Ti_Pure White Mesh",
+    "date_create": "2023.10.9",
+    "cpu_gpu_combinations": "코어i5-13600KF + RTX 4070 Ti 조합",
+    "quotation_summary": " 사실상 게이머들에게 최고의 조합이라 생각합니다.새하얀 부품으로 구성되어 만들어진 PC는 받는 순간부터 고객에게 기쁨을 선사할 것이라 생각합니다.# 240만원# 250만원 예산의 최적 조합# 퓨어 화이트 조합에 엠비언트라이트 포인트",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "1. 13600KF + 4070 Ti 퓨어 화이트 조합입니다.2. RGB과도하지 않은 화이트 RGB 구성입니다.3. 수랭 쿨링을 사용해 시스템 전반의 온도가 낮습니다.4. 케이스 파워 쿨러의 색상 깔맞춤이 인상적입니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600KF (랩터레이크) (정품)상세보기[메인보드]ASRock B760M 스틸레전드 WiFi D5 에즈윈상세보기[메모리]G.SKILL DDR5-5600 CL30 RIPJAWS S5 J 화이트 패키지 (32GB(16Gx2))상세보기[그래픽카드]PNY 지포스 RTX 4070 Ti VERTO D6X 12GB Triple White Edition 마이크로닉스상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DLM200 MESH PERFORMANCE 강화유리 화이트 (미니타워)상세보기[파워서플라이]DARKFLASH UPMOST 750W 80PLUS GOLD FULL MODULAR 화이트상세보기[CPU쿨러]DARKFLASH Twister DX-240 V2.6 ARGB (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 인텔 게이밍 최강 CPU입니다. 사실상 13세대 인텔 CPU 중 가장 명작입니다.메인보드는 후면에 엠비언트라이트가 인상적이며, M.2 방열판에 장난 없습니다. 전원부 또한 i7 CPU에 대항하는 빵빵한 구성을 갖추고 있습니다.메모리는 튜닝 메모리 명가 G.SKILL 제품입니다. 새하얀 방열판으로 우수한 성능을 감싸 놓았습니다.그래픽카드는 4070 ti 퓨어 화이트 모델입니다. 보는 순간 하얀 설원이 떠오르는 제품입니다.SSD는 PCIe 4.0 하이앤드 제품입니다. 명불 허전이죠.케이스는 깔끔한 화이트 제품입니다. 볼수록 깊이가 느껴지는 화이트 톤은 실증나지 않는 케이스의 정석입니다.파워서플라이는 출시부터 화제가 되었던 파워입니다. 화이트 750w 제품 중 가장 낮은 가격을 형성하고 있으면서도 골드 등급에 풀모듈러 입니다.조립PC관련는 믿고 맡길 수 있는 서비스조립PC관련는 수랭은 전문가의 손에 맡겨져야 합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600KF",
+            "가격": "1,588,590원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M 스틸레전드 WiFi D5 에즈윈",
+            "가격": "220,620원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-5600 CL30 RIPJAWS S5 J 화이트 패키지) 32GB",
+            "가격": "167,400원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "PNY 지포스 RTX 4070 Ti VERTO D6X 12GB Triple White Edition 마이크로닉스",
+            "가격": "1,190,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLM200 MESH PERFORMANCE 강화유리 화이트",
+            "가격": "66,060원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH UPMOST 750W 80PLUS GOLD FULL MODULAR 화이트",
+            "가격": "118,920원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Twister DX-240 V2.6 ARGB",
+            "가격": "84,330원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3601920원",
+    "CPU": "인텔 코어i5-13세대 13600KF (랩터레이크) (정품)",
+    "Motherboard": "ASRock B760M 스틸레전드 WiFi D5 에즈윈",
+    "Graphic Card": "PNY 지포스 RTX 4070 Ti VERTO D6X 12GB Triple White Edition 마이크로닉스",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "G.SKILL DDR5-5600 CL30 RIPJAWS S5 J 화이트 패키지 (32GB(16Gx2))",
+    "Power Supply": "DARKFLASH UPMOST 750W 80PLUS GOLD FULL MODULAR 화이트",
+    "CPU Cooler": "DARKFLASH Twister DX-240 V2.6 ARGB (화이트)",
+    "cpu_score": 194,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 31768
+}

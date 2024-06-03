@@ -1,0 +1,66 @@
+{
+    "quote_number": "3923",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090",
+    "date_create": "2024.3.7",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 딥러닝용도라면 AVX512 명령어를 지원하는 라이젠 CPU의 활용도가 더 높습니다. 또한 공랭쿨러로 구성해야 한다면 대장급 성능의 3열 수냉쿨러를 강제하는 14700KF는 구성이 불가능하기도 하구요.현시점 최상위 성능인 7950X3D로 구성2. 메인보드는 최상위 칩셋이면서 젠5X16 젠4X16 속도를 지원하는 슬롯 2개를 제공하는 ASUS ProArt X670E-CREATOR WIFI 대원씨티에스로 변경ASUS TUF Gaming X670E-PLUS WIFI 대원씨티에스와 같은 메인보드는 그래픽카드 추가가 불가능한 레이아웃이 적용되어 있습니다. 꼭 확인을 하고 선택하시기 바라구요.3. 삼성 램의 경우 불량 이슈가 크게 터졌던 상황이라 SK하이닉스 모듈이 적용되어 있어서 안정적으로 사용이 가능한 패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB)로 변경4. 그래픽카드는 1개 더 추가를 하려면 두께가 슬림한 제품으로 구성을 해야 합니다. MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3로 변경5. 케이스는 파노라마 뷰 제품군 특성상 쿨링 및 환기가 잘 되지 않습니다. 동일 제품군이면서 전면 풀메시 디자인의 일반 케이스인 마이크로닉스 ML-420 BTF 블랙 (빅타워)로 변경6. 4090 그래픽카드 1개를 더 추가할 계획이면 1200W 용량으로는 힘듭니다. FSP HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)로 변경7. CPU쿨러는 최상위 성능군이면서 소음은 아주 조용한 사실상 공랭쿨러 끝판왕이라고 할 수 있는 3RSYS Socoool RC 1800 Quiet ARGB (BLACK)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS ProArt X670E-CREATOR WIFI 대원씨티에스상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3상세보기[SSD]삼성전자 990 PRO M.2 NVMe (4TB)상세보기[케이스]마이크로닉스 ML-420 BTF 블랙 (빅타워)상세보기[파워서플라이]HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "891,910원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ProArt X670E-CREATOR WIFI 대원씨티에스",
+            "가격": "768,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3",
+            "가격": "2,695,558원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 990 PRO M.2 NVMe 4TB",
+            "가격": "507,760원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 블랙",
+            "가격": "131,980원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "HYDRO PTM PRO 1650W Platinum ATX3.0",
+            "가격": "555,490원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "61,500원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5848638원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS ProArt X670E-CREATOR WIFI 대원씨티에스",
+    "Graphic Card": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3",
+    "SSD": "삼성전자 990 PRO M.2 NVMe (4TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (BLACK)",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

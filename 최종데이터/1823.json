@@ -1,0 +1,66 @@
+{
+    "quote_number": "1823",
+    "quote_title": "[중급/100만] 12400F + 3060_Pure Black Cuby",
+    "date_create": "2024.2.8",
+    "cpu_gpu_combinations": "코어i5-12400F + RTX 3060 조합",
+    "quotation_summary": " 1. 12400F + RTX 3060 블랙 단정한 조합입니다.2. RGB가 불편하신 분께 칠흑 같은 어둠을 드립니다.# 100만원 게이밍# 칠흑 같은 블랙 시스템# RGB가 불편한 분께 강력추천",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "12400F + 3060 조합은 100만원 견적에서 가장 인기 있는 견적입니다.3060으로 즐길 수 있는 게임이 많은 만큼 만족스러운 구매가 될 것입니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-12세대 12400F (엘더레이크)(벌크)상세보기[메인보드]ASRock H610M-HDV/M.2 R2.0 D4 에즈윈 벌크상세보기[메모리]마이크론 Crucial DDR4-3200 CL22 (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 3060 MIRACLE V2 D6 12GB상세보기[SSD]마이크론 Crucial P3 Plus 대원씨티에스 (1TB)상세보기[케이스]DAVEN V300 Black (미니타워)상세보기[파워서플라이]SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU상세보기[CPU쿨러]DARKFLASH Ellsworth S21 (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 AMD에 게이밍 왕좌를 내주었지만 명가의 명기입니다.메인보드는 12400F에 찰떡궁합 메인보드 입니다. AS 명가 에즈윈의 제품입니다.메모리는 마이크론의 안정성을 담보 받은 16G 제품입니다. 삼성, 하이닉스와 함께 DRAM 제조가 가능한 기업의 제품입니다.그래픽카드는 AS 3대장 이엠텍의 제품입니다. 구관이 명관이라는 말이 실감납니다.SSD는 PCIe 4.0 대역폭의 가성비 제품입니다. 매우 빠른 반응속도가 특징입니다.케이스는 큐브형 외형으로 감성 충만하고 시스템실과 파워실이 구분되어 발열 관리에 유리합니다.파워서플라이는 명가 슈플의 600w 스탠다드 입니다.CPU쿨러는 대형 쿨러는 시스템 내부의 공기 흐름마저도 효율적으로 바꿔줍니다.조립PC관련는 믿고 맡길 수 있는 서비스",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-12세대 12400F",
+            "가격": "164,970원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock H610M-HDV/M.2 R2.0 D4 에즈윈 벌크",
+            "가격": "88,860원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4-3200 CL22  16GB",
+            "가격": "41,250원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 3060 MIRACLE V2 D6 12GB",
+            "가격": "399,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P3 Plus 대원씨티에스 1TB",
+            "가격": "96,030원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN V300 Black",
+            "가격": "36,910원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU",
+            "가격": "61,500원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21",
+            "가격": "27,120원",
+            "수량": "1"
+        }
+    },
+    "total_price": "956890원",
+    "CPU": "인텔 코어i5-12세대 12400F (엘더레이크)(벌크)",
+    "Motherboard": "ASRock H610M-HDV/M.2 R2.0 D4 에즈윈 벌크",
+    "Graphic Card": "이엠텍 지포스 RTX 3060 MIRACLE V2 D6 12GB",
+    "SSD": "마이크론 Crucial P3 Plus 대원씨티에스 (1TB)",
+    "Memory": "마이크론 Crucial DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 (블랙)",
+    "cpu_score": 595,
+    "gpu_score": 47,
+    "performance_grade": "저성능",
+    "cpu_benchmarkscore": 19566,
+    "gpu_benchmarkscore": 20545
+}

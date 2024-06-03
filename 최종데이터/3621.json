@@ -1,0 +1,76 @@
+{
+    "quote_number": "3621",
+    "quote_title": "AMD 라이젠9-5세대 7900 + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.2.29",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7900 + 지포스 RTX 4070 SUPER# 방송용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 인텔은 14세대까지 출시가 된 상황에서 12세대로 구성하는 것은 추천을 하기가 어렵습니다. 또한 i9은 B760 칩셋으론느 버티기가 어렵고 쿨러도 공랭으로는 감당이 불가능합니다. 대장급 성능의 3열 수냉쿨러를 강제하는 제품이죠.CPU는  12개의 모든 코어가 P코어로 방송하기에도 쾌적하고 게임 성능도 좋은 7900으로 변경2. 메인보드는 600A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 ASRock B650M PG Riptide 대원씨티에스로 구성3. 메모리는 방송의 경우는 안정성이 중요한데 튜닝 메모리는 안정성을 담보하기가 어려워서 규격램으로 구성하는 것을 추천드립니다.또한 듀얼타워 공랭쿨러로 조립하는 경우에는 메모리 슬롯을 다 덮어버려서 메모리가 보이지 않아서 튜닝 램으로 구성하는 메리트도 떨어지게 됩니다. TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))로 변경4.  케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로  변경5. 구성한 파워는 현재 유통하는 업체가 많이 없어서 견적왕의 최대 메리트인 견적비교가 원활하지 않습니다.세계 최대의 글로벌 제조사인 CWT에서 OEM 생산으로 압도적인 전압변동률을 제공 전압출렁임 없이 안정적으로 사용할 수 있는  MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)로 변경6. CPU쿨러는 케이스와 잘 어울리면서 대장급 성능의 듀얼타워 공랭쿨러 중에서는 가성비가 좋은 PentaWave S06D LE ARGB로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 압도적인 전성비로 인한 말도 안되는 낮은 온도의  12코어 24쓰레드 CPU\n온도 제어가 힘든 고성능 CPU에 있어서 가성비 공랭 CPU쿨러로 온도 제어가 가능한 별종인 제품데스크탑 HDD는 안정성 높은 PMR 방식의 HDD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "523,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "213,420원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "994,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,490원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "97,460원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0",
+            "가격": "144,200원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "33,370원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "168,990원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2461100원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 107,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 31768
+}

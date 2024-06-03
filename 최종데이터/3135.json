@@ -1,0 +1,71 @@
+{
+    "quote_number": "3135",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.2.18",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4070 SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 가성비가 좋은 ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴으로 추천을 드리지만 현재 유통하는 업체가 많지 않아서 견적왕의 최대 메리트인 견적비교가 원활하지 않습니다.패키지가 아니라 단품+단품 조합이어도 동일하게 구성이 가능해서 ASRock B650M Pro RS 대원씨티에스 + ASRock AMD Wi-Fi 6E Kit 무선랜카드로 추천드리구요.2. 메모리는 1티어 화이트 컨셉 제품인 TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))로 추천합니다.3. 케이스는 구성하신 아쿠아리움의 경우는 C타입 포트 미지원에 USB 포트도 2개만 적용되어 있고 기판도 얇아서 가격을 절감한 것이 눈으로 보이는 제품입니다. C타입 포트를 적용하였고 디자인도 멋지고 최근 출시하여 가성비도 좋은 몬스타 가츠 X520LA 화이트 (미니타워)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE WHITE ARGB 서린상세보기[공유기/허브/랜카드/PoE]ASRock AMD Wi-Fi 6E Kit 무선랜카드상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 B650칩셋 제품이라서 PBO와 커브옵티마이저 기능을 지원하는 제품입니다. 400A급 드라이버모스펫 구성의 전원부 성능을 가지고 있으며 기판일부와 방열판색상이 화이트라 화이트조합에 알맞습니다.SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "172,490원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린) 32GB",
+            "가격": "164,400원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB",
+            "가격": "905,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "62,440원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+            "가격": "43,243원",
+            "수량": "1"
+        },
+        "공유기/허브/랜카드/PoE": {
+            "제품명": "ASRock AMD Wi-Fi 6E Kit 무선랜카드",
+            "가격": "33,700원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2154093원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

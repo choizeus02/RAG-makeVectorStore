@@ -1,0 +1,60 @@
+{
+    "quote_number": "1255",
+    "quote_title": "78003D + 반본체",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠7 7800X3D +  조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "5800x3D 기반이라..렘오버 해도 그렇게 체감이 막 좋거나 하지는 않을 겁니다.QHD 기반이고 하면 렘 용량은 32기가 기준으로 해주시는게 좋을 듯 하며ATX 3.0 파워는 RTX 4천번대 전용 케이블 구성 때문에 그러는데SF Leadex 혹은 Antec NeoECO 기준으로 구성하면RTX 4천번대 전용 호환 케이블을 주는 부분이니활용성적인 측면에 대해서 큰 차이는 없을 겁니다.https://quasarzone.com/bbs/qn_partner/views/1296760정말죄송합니다 혹시 같은 조건으로 13700k 견적 가능하실까요 ㅠㅠ? 믿을건 로비오트님밖에없습니다13700K갈 가격이 있으시다면...음.. 명확하게 글카 제외 얼마나 쓰실 수 있는건가요?150입니다 조금부족하려나용?150오바되도 상관없을거같습니다 일단 견적 받고싶습니다 와이프와의 원만한 합의보겠습니다그 가격에 게임용이면 그냥 7800x3D를 하면 됩니다https://quasarzone.com/bbs/qc_bench/views/84662#p6",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]DARKFLASH DF2100 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)상세보기[CPU쿨러]DEEPCOOL AG620상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 7950x3D를 제외하면\n이걸 따라올 게이밍 CPU는 없다!메인보드는 12페이즈 / 720a 스펙의 전원부 모델!\n7950x까지 커버 가능!\n그리고 화이트 감성!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!SSD는 이천 특산물! SK 하이닉스!\nPCIe 3.0의 끝판왕!케이스는 DLX21과 똑같은 확장성!\n하지만 조금더 가성비!파워서플라이는 PCie 5.0 기반 구성!\n리뉴얼된 리덱스! 믿음의 슈퍼플라워!CPU쿨러는 5만원대 언더의 가성비 공냉쿨러!\n하지만 성능은 끝판왕 공냉쿨러!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,960원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DF2100 MESH RGB 강화유리 블랙",
+            "가격": "81,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE",
+            "가격": "159,408원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DEEPCOOL AG620",
+            "가격": "36,680원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1380038원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)",
+    "CPU Cooler": "DEEPCOOL AG620",
+    "cpu_score": 225,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": null
+}

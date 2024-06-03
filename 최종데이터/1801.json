@@ -1,0 +1,66 @@
+{
+    "quote_number": "1801",
+    "quote_title": "2023년 8월 월간견적 가성비 FHD 게이밍 - 인텔 + RX 6600",
+    "date_create": "2024.3.8",
+    "cpu_gpu_combinations": "코어i5-13600KF + RTX 4060 Ti 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "2023년 8월 월간견적 가성비 FHD 게이밍 - 인텔 + RX 6600 입니다 ^^",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600KF (랩터레이크) (정품)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB상세보기[SSD]마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (2TB)상세보기[케이스]앱코 NCORE G30 트루포스 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU상세보기[CPU쿨러]3RSYS Socoool RC-1800 Quiet 솔더링 (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 박격포 리뉴얼 모델!파워서플라이는 CWT OEM 제품!\n고주파 무한 교체 AS의 슈퍼플라워!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600KF",
+            "가격": "1,588,590원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "199,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  32GB",
+            "가격": "116,210원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+            "가격": "538,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS 2TB",
+            "가격": "221,840원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "앱코 NCORE G30 트루포스 화이트",
+            "가격": "53,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU",
+            "가격": "61,500원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC-1800 Quiet 솔더링",
+            "가격": "65,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2961820원",
+    "CPU": "인텔 코어i5-13세대 13600KF (랩터레이크) (정품)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+    "SSD": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU",
+    "CPU Cooler": "3RSYS Socoool RC-1800 Quiet 솔더링 (WHITE)",
+    "cpu_score": 194,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 22891
+}

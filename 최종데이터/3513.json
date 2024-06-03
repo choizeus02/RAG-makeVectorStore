@@ -1,0 +1,59 @@
+{
+    "quote_number": "3513",
+    "quote_title": "14600K + 4070 TI SUPER",
+    "date_create": "2024.2.26",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 14600K + 4070 TI SUPER# 14600K + 4070 TI SUPER",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14600K + 4070 TI SUPER",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600K (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[케이스]1stPlayer T7-P 블랙 (미들타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 900W ETA SILVER PCIE5상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[이벤트특가][SSD + RAM] 마이크론 Crucial T500 1TB + Crucial DDR5-5600 (32GB(16Gx2)) 패키지 대원씨티에스상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 14페이즈 900A(75A) 급 뛰어난 전원부로 14600K까지 문제 없이 사용 가능합니다.그래픽카드는 AS 3대장 조텍의 RTX 4070 Ti SUPER Trinity 입니다.케이스는 케이스는 시소닉 유통사 맥스엘리트에서 나온 1stPlayer T7-P 블랙 제품이 가격대비 호환성도 좋고, 정숙성이 뛰어난 하이드로 베어링이 탑재된 쿨링팬이 기본 6개에 가성비가 뛰어납니다.파워서플라이는 4000번대 그래픽카드를 위한 12VHPWR 젠더를 제공하고, 900W 실버 등급에 가격대도 8만원선으로 가성비도 뛰어난 파워입니다.CPU쿨러는 대장급 공랭 중 뛰어난 정숙성과 성능을 겸비한 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600K",
+            "가격": "434,220원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포",
+            "가격": "201,700원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,239,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7-P 블랙",
+            "가격": "38,230원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 900W ETA SILVER PCIE5",
+            "가격": "94,300원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,400원",
+            "수량": "1"
+        },
+        "SSD + RAM": {
+            "제품명": "마이크론 Crucial T500 1TB + Crucial DDR5-5600 패키지 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2173850원",
+    "CPU": "코어i5-14세대 14600K (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 900W ETA SILVER PCIE5",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 181,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 31768
+}

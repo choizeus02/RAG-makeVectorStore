@@ -1,0 +1,66 @@
+{
+    "quote_number": "4267",
+    "quote_title": "AMD 라이젠 스레드리퍼 PRO 7965WX + 지포스 RTX 4090",
+    "date_create": "2024.3.14",
+    "cpu_gpu_combinations": "라이젠 스레드리퍼 PRO 7965WX (스톰 픽) + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠 스레드리퍼 PRO 7965WX + 지포스 RTX 4090# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 TRX50 소켓 중에서는 가격적인 메리트가 높은 GIGABYTE TRX50 AERO D 피씨디렉트로 변경2. 그래픽카드는 많은 업체에서 유통 중인 제품 중에서는 두께가 얇은 편에 속하는 PNY XLR8 지포스 RTX 4090 VERTO EPIC-X RGB TF OC D6X 24GB 마이크로닉스 x 2개로 변경3. 구성하신 BRAVOTEC GUARDIAN 5100M 타이탄 글래스 Black (빅타워)은 빅타워로 표기가 되어 있지만 PCI슬롯이 7개만 제공하는 사실상 미들타워로 4슬롯 가까이 차지하는 4090  2WAY 장착시 두번째 그래픽카드는 케이스 바닥에 간섭이 생길 가능성이 아주 높습니다. 가격대비 미친 퀄리티를 제공하는 리얼 빅타워 제품인 마이크로닉스 ML-420 BTF 블랙 (빅타워)로 변경4. 파워는 4000번대 16핀 전용 커넥터가 적용된 그래픽카드의 경우는 12VHPWR 케이블을 지원하는 제품으로 구성하는 것이 보다 안정적으로 사용할 수가 있습니다. 2개의 12VHPWR 케이블을 기본 제공하여 안정적으로 사용할 수 있는 FSP HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)로 변경5. CPU쿨러는 현재 유통중인 제품 중에서는 최상위 성능인 420mm 라디에이터 일체형 3열 수냉쿨러인 Phanteks GLACIER ONE 420 D30 (BLACK)으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠 스레드리퍼 PRO 7965WX (스톰 픽) (멀티팩(정품))상세보기[메인보드]GIGABYTE TRX50 AERO D 피씨디렉트상세보기[메모리]CORSAIR DDR5-5600 CL40 VENGEANCE BLACK 패키지 (128GB(32Gx4))상세보기[그래픽카드]PNY XLR8 지포스 RTX 4090 VERTO EPIC-X RGB TF OC D6X 24GB 마이크로닉스 x 2 개상세보기[SSD]삼성전자 990 PRO M.2 NVMe (4TB)상세보기[케이스]마이크로닉스 ML-420 BTF 블랙 (빅타워)상세보기[파워서플라이]HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)상세보기[CPU쿨러]Phanteks GLACIER ONE 420 D30 (BLACK)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠 스레드리퍼 PRO 7965WX)",
+            "가격": "3,773,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE TRX50 AERO D 피씨디렉트",
+            "가격": "1,033,450원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "CORSAIR DDR5-5600 CL40 VENGEANCE BLACK 패키지) 128GB",
+            "가격": "761,630원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "PNY XLR8 지포스 RTX 4090 VERTO EPIC-X RGB TF OC D6X 24GB 마이크로닉스 x 2 개",
+            "가격": "3,226,670원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 990 PRO M.2 NVMe 4TB",
+            "가격": "507,760원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 블랙",
+            "가격": "131,970원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "HYDRO PTM PRO 1650W Platinum ATX3.0",
+            "가격": "555,490원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Phanteks GLACIER ONE 420 D30",
+            "가격": "283,540원",
+            "수량": "1"
+        }
+    },
+    "total_price": "13500180원",
+    "CPU": "AMD 라이젠 스레드리퍼 PRO 7965WX (스톰 픽) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE TRX50 AERO D 피씨디렉트",
+    "Graphic Card": "PNY XLR8 지포스 RTX 4090 VERTO EPIC-X RGB TF OC D6X 24GB 마이크로닉스 x 2 개",
+    "SSD": "삼성전자 990 PRO M.2 NVMe (4TB)",
+    "Memory": "CORSAIR DDR5-5600 CL40 VENGEANCE BLACK 패키지 (128GB(32Gx4))",
+    "Power Supply": "HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)",
+    "CPU Cooler": "Phanteks GLACIER ONE 420 D30 (BLACK)",
+    "cpu_score": 23,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 83328,
+    "gpu_benchmarkscore": 38694
+}

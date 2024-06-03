@@ -1,0 +1,66 @@
+{
+    "quote_number": "2771",
+    "quote_title": "5600 + 4060 FHD 게이밍(화이트 견적)",
+    "date_create": "2024.2.11",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 4060 조합",
+    "quotation_summary": " 5600 + 4060 FHD 게이밍(화이트 견적)# 5600 + 4060 FHD 게이밍(화이트 견적)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "5600 + 4060 FHD 게이밍(화이트 견적)",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME B550M-A 대원CTS상세보기[메모리]마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4060 MIRACLE WHITE D6 8GB상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]앱코 G20 에픽 강화유리 화이트 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트상세보기[CPU쿨러]3RSYS Socoool RC350 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 여전히 가성비 게이밍 CPU로 명성이 자자한 CPU입니다.메인보드는 5600과 가성비 좋게 구성하기 좋은 메인보드입니다.메모리는 가격도 좋고 보증 정책 괜찮은 메모리입니다.SSD는 이천 특산물로 불리며 낮은 발열과 뛰어난 성능으로 게임용이나 사무용도로도 훌륭한 제품입니다. \n안정성이 이미 검증된 제품이죠파워서플라이는 케이블은 물론 커넥터까지 화이트라 화이트 감성 내기도 좋고, 블랙에 비해 통풍구도 개선되서 쿨링면에서도 좀 더 괜찮습니다. 마닉 풀체인지 파워가 불량률도 적고 내구성을 위한 에프터 쿨링이나 정숙성을 위한 제로펜 기능 등으로 뛰어난 기능까지 있어 스테디 셀러인 파워입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME B550M-A 대원CTS",
+            "가격": "113,890원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4 8G PC4-25600 CL22",
+            "가격": "21,480원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 MIRACLE WHITE D6 8GB",
+            "가격": "437,870원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "앱코 G20 에픽 강화유리 화이트",
+            "가격": "39,900원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+            "가격": "61,600원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 ARGB",
+            "가격": "22,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "941680원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME B550M-A 대원CTS",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 MIRACLE WHITE D6 8GB",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개",
+    "Power Supply": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+    "CPU Cooler": "3RSYS Socoool RC350 ARGB (WHITE)",
+    "cpu_score": 504,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 22891
+}

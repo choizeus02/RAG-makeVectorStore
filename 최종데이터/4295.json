@@ -1,0 +1,66 @@
+{
+    "quote_number": "4295",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 지포스 RTX 4060 Ti",
+    "date_create": "2024.3.15",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4060 Ti 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 지포스 RTX 4060 Ti# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 동일한 제품이면서 와이파이&블루투스 모듈이 미리 장착되어 있느냐 따로 장착하느냐의 차이만 있는 ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴으로 변경M.2 소켓에 장착하는 방식이라 조립의뢰를 하든 직접 조립을 하든 손쉽게 장착할 수 있습니다.2. 지금 구성처럼 듀얼타워 공랭쿨러로 조립하게 되면 메인보드의 메모리 슬롯을 모두 덮어버려서 메모리가 보이지 않습니다. LED가 적용되어 있는 튜닝 메모리의 메리트가 많이 반감되죠. 어차피 보이지가 않아서 LED가 적용되어 있는 제품보다는 화이트 방열판에 높이가 낮아서 간섭걱정 없고 가격도 저렴한 TeamGroup T-CREATE DDR5-6000 CL38 EXPERT 화이트 패키지 서린 (32GB(16Gx2))로 변경3. 케이스의 경우 공랭쿨러로 조립한다면 상단 공간이 많이 남는 X620보다는 X520의 더 잘 어울립니다. 비주얼적으로도 X520이 더 이쁘기도 하구요. 몬스타 가츠 X520LA 화이트 (미들타워)로 변경4. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 변경5. 구성하신 쿨러는 현재 품절이라 구성이 불가능합니다. 대장급 성능의 듀얼타워 공랭쿨러 화이트 제품 중에서는 압도적인 가성비를 제공하는 3RSYS Socoool RC1200 ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴상세보기[메모리]TeamGroup T-CREATE DDR5-6000 CL38 EXPERT 화이트 패키지 서린 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4060 Ti EX WHITE OC D6 8GB상세보기[SSD]장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC1200 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 가성비 좋은 화이트 B650M WiFi 킷 메인보드",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "203,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴",
+            "가격": "209,510원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-CREATE DDR5-6000 CL38 EXPERT 화이트 패키지 서린) 32GB",
+            "가격": "157,940원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4060 Ti EX WHITE OC D6 8GB",
+            "가격": "625,900원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 삼성전자 1TB",
+            "가격": "64,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "61,940원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1200 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1482440원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4060 Ti EX WHITE OC D6 8GB",
+    "SSD": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자",
+    "Memory": "TeamGroup T-CREATE DDR5-6000 CL38 EXPERT 화이트 패키지 서린 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC1200 ARGB (WHITE)",
+    "cpu_score": 355,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 22891
+}

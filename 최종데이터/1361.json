@@ -1,0 +1,66 @@
+{
+    "quote_number": "1361",
+    "quote_title": "5600 + RTX 3060 + 영상편집(가성비) + FHD 가성비 게이밍",
+    "date_create": "2024.1.11",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 3060 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "https://quasarzone.com/bbs/qf_hwjoin/views/1772794단적인 게임용도 기반구성이라 보여지는데그래도 작업을 하는 편이니 렘 용량은 32기가를 기준으로 해주시는게 좋을 듯 합니다 ㅠㅠ그래픽카드는 영상편집도 있고게임도 하시는 부분이라 최대한 높게 구성하면 RTX 3060 12기가 정도 구성이 될 듯 합니다.사용하시다가 저장공간이 부족하다고 느껴지신다면차후에 HDD 정도는 추가해서 활용 하시면 좋을 듯 합니다 ^^",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]MSI A520M-A PRO상세보기[메모리]마이크론 Crucial DDR4-3200 CL22 (16GB) x 2 개상세보기[그래픽카드]AFOX 지포스 RTX 3060 D6 12GB 대원씨티에스상세보기[SSD]삼성전자 970 EVO Plus M.2 2280 (500GB)상세보기[케이스]DAVEN D4 MESH BLACK (미들타워)상세보기[파워서플라이]FSP HYPER K PRO 600W 80PLUS Standard 230V EU상세보기[CPU쿨러]PCCOOLER PALADIN EX400 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 가성비의 6코어 CPU!\n게이밍용으론 아직도 극한의 갓성비!메인보드는 5600 한정 가성비 메인보드!\nAS는 걸리지만 가심비는 최고!메모리는 QHD 게이밍은 32기가!\n특히 싱글 AAA급 게임은 더더욱!그래픽카드는 RTX 3060 12GB 가성비 제품!\n대원씨티에스 유통으로파워서플라이는 FPS 가성비 파워!\n동급 기준 최고의 선택지!CPU쿨러는 팔라딘 400의 가성비 제품!\n소음 억제력 , 발열 제어능력 준수!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI A520M-A PRO",
+            "가격": "71,000원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4-3200 CL22  16GB",
+            "가격": "41,250원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "AFOX 지포스 RTX 3060 D6 12GB 대원씨티에스",
+            "가격": "383,960원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 970 EVO Plus M.2 2280 500GB",
+            "가격": "87,980원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D4 MESH BLACK",
+            "가격": "34,840원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "FSP HYPER K PRO 600W 80PLUS Standard 230V EU",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PCCOOLER PALADIN EX400",
+            "가격": "22,160원",
+            "수량": "1"
+        }
+    },
+    "total_price": "891100원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "MSI A520M-A PRO",
+    "Graphic Card": "AFOX 지포스 RTX 3060 D6 12GB 대원씨티에스",
+    "SSD": "삼성전자 970 EVO Plus M.2 2280 (500GB)",
+    "Memory": "마이크론 Crucial DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "FSP HYPER K PRO 600W 80PLUS Standard 230V EU",
+    "CPU Cooler": "PCCOOLER PALADIN EX400 (BLACK)",
+    "cpu_score": 504,
+    "gpu_score": 81,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 17063
+}

@@ -1,0 +1,81 @@
+{
+    "quote_number": "3062",
+    "quote_title": "AMD 라이젠5-5세대 7600 + 라데온 RX 7800 XT",
+    "date_create": "2024.2.16",
+    "cpu_gpu_combinations": "라이젠5 7600 + RX 7800 XT 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7600 + 라데온 RX 7800 XT# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 드라이버 모스펫 전원부와 히트싱크가 적용되어 있는 ASRock B650M PG Lightning 에즈윈으로 변경2. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경3. SSD는 구성한 제품은 젠3 규격입니다. 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경했고, 저렴한 방열판도 하나 추가했습니다.4. 케이스는 식스팬 기본 장착에 메인보드 CPU 장착 후면부에 120mm 팬을 추가 장착하여 CPU의 온도를 효과적으로 낮출 수 있도록 설계되어 최고 수준의 쿨링 효율을 보여주는 세븐 팬 제품인 잘만 N7 PLUS Black (미들타워)로 변경LED OFF도 가능하고 동시에 팬 속도 조절도 되는 장점이 아주 많은 제품입니다.5. CPU쿨러는 대장급 성능의 듀얼타워 공랭쿨러인 Thermalright Peerless Assassin 120 SE 서린으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]PowerColor 라데온 RX 7800 XT Hellhound D6 16GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)상세보기[케이스]잘만 N7 PLUS Black (미들타워)상세보기[파워서플라이]DEEPCOOL PK800D 80Plus Bronze상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라파엘 논X 제품의 막내로 높은 전성비와 게임 성능으로 DDR5 시스템 가성비 게이밍 라인의 최강자 CPU",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "239,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,010원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "PowerColor 라데온 RX 7800 XT Hellhound D6 16GB",
+            "가격": "713,410원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,110원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/256M",
+            "가격": "158,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "잘만 N7 PLUS Black",
+            "가격": "39,950원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DEEPCOOL PK800D 80Plus Bronze",
+            "가격": "66,780원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,490원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "160,650원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1804460원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "PowerColor 라데온 RX 7800 XT Hellhound D6 16GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "DEEPCOOL PK800D 80Plus Bronze",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 312,
+    "gpu_score": 11,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 29006
+}

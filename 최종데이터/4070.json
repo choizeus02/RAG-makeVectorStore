@@ -1,0 +1,71 @@
+{
+    "quote_number": "4070",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090",
+    "date_create": "2024.3.10",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 다음 세대 CPU와 VGA는 올해 말 아니면 내년 초에 나올 가능성이 높습니다. 빠른 시간 내에 나올 가능성은 없습니다. 현재 다음 세대에 대한 떡밥도 안 나온 상황입니다. 6월에 열리는 컴퓨텍스가 되어야 대략적인 윤곽이 나올 겁니다. 1년 가까이 기다릴 수 있다면 기다리면 되지만 그게 아니라면 필요할 때 구매하는 것이 맞습니다.2. CPU는 최상위 제품인 7950X3D로 구성3. 메인보드는 840A급 출력의 드라이버 모스펫 전원부가 적용된 ATX 규격의 ASRock B650 PG Lightning 대원씨티에스로 구성4. 그래픽카드는 1티어 AS 중에서도 최상위면서 가격적인 메리트도 높은 이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB로 구성5. SSD는 최근에 출시한 젠4 규격의 끝판왕급 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 구성6. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로  구성7. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 1050W 고용량에 플래티넘 인증 고효율 제품인 마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)로 구성8. CPU쿨러는 케이스와도 잘 어울리면서 대장급 성능의 듀얼타워 공랭쿨러 중에서는 가성비가 월등히 좋은 편인 PentaWave S06D LE ARGB로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "891,920원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "152,670원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE  32GB",
+            "가격": "121,560원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+            "가격": "2,874,550원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0",
+            "가격": "211,940원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,060원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4868260원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

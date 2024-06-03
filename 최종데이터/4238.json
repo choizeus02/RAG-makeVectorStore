@@ -1,0 +1,65 @@
+{
+    "quote_number": "4238",
+    "quote_title": "AMD 라이젠7-5세대 7700",
+    "date_create": "2024.3.13",
+    "cpu_gpu_combinations": "라이젠7 7700 +  조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7700# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 8코어 16스레드로 개발로 사용하기에 좋은 7700으로 구성2. 메인보드는 드라이버 모스펫 전원부와 히트싱크 그리고 와이파이&블루투스 모듈이 적용되어 있는 ASRock B650M PG Lightning + WiFi6E 모듈 패키지 디앤디컴으로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 구성4. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 구성했고, 저렴한 방열판도 하나 추가했습니다.5. 케이스는 최고 수준의 가성비와 공간활용성까지 겸비한 몬스타 가츠 X320M 블랙 (미니타워)로 구성6. 파워는 80PLUS 인증보다 까다로운 테스트 환경으로 차세대 인증으로 평가받는 ETA 브론즈 인증 제품인 마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE로 구성7. CPU쿨러는 싱글타워 끝판왕급 성능에 케이스와도 잘 어울리고 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 PentaWave Z04E SRB ARGB로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7700 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning + WiFi6E 모듈 패키지 디앤디컴상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X320M 블랙 (미니타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[쿨러.튜닝.조명.액세서리]케이엘시스템 KLcom M.2 2280 방열판 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "쿨러.튜닝.조명.액세서리는 높은 NVMe SSD의 온도를 제어해 줄 가성비 좋은 SSD 방열판",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7700",
+            "가격": "401,348원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning + WiFi6E 모듈 패키지 디앤디컴",
+            "가격": "190,640원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X320M 블랙",
+            "가격": "29,890원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE",
+            "가격": "43,070원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "케이엘시스템 KLcom M.2 2280 방열판",
+            "가격": "1,260원",
+            "수량": "1"
+        }
+    },
+    "total_price": "920558원",
+    "CPU": "AMD 라이젠7-5세대 7700 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning + WiFi6E 모듈 패키지 디앤디컴",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 209,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 35970,
+    "gpu_benchmarkscore": null
+}

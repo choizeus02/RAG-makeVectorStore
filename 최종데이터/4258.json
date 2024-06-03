@@ -1,0 +1,66 @@
+{
+    "quote_number": "4258",
+    "quote_title": "코어i5-14세대 14600KF + 지포스 RTX 4060 Ti",
+    "date_create": "2024.3.14",
+    "cpu_gpu_combinations": "코어i5-14600KF + RTX 4060 Ti 조합",
+    "quotation_summary": " 코어i5-14세대 14600KF + 지포스 RTX 4060 Ti# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다. 14600KF 벌크로 변경2. 구성하신 메인보드는 단종이 되었고 현재 MSI MAG B760M 박격포 II로 새롭게 출시가 되었습니다.3. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 구성4. 파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 700W로 변경구성하신 쿨러마스터 MWE 700 BRONZE V2 230V는 무상 5년 제공이라 AS기간 하나만으로도 충분한 메리트가 있습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600KF (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB) x 2 개상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]topower Guardian TOP-700DG 80PLUS BRONZE상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD파워서플라이는  7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급 파워CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600KF",
+            "가격": "400,040원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "212,810원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+            "가격": "531,230원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 x 2 개 1TB",
+            "가격": "227,220원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-700DG 80PLUS BRONZE",
+            "가격": "72,590원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,340원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1939340원",
+    "CPU": "코어i5-14세대 14600KF (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB) x 2 개",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-700DG 80PLUS BRONZE",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 181,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 22891
+}

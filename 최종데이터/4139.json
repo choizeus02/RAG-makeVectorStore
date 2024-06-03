@@ -1,0 +1,71 @@
+{
+    "quote_number": "4139",
+    "quote_title": "코어i7-14세대 14700KF + 지포스 RTX 4060",
+    "date_create": "2024.3.11",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 4060 조합",
+    "quotation_summary": " 코어i7-14세대 14700KF + 지포스 RTX 4060# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다. 14700K 벌크로 변경2. 14700K는 이전세대에 비해서 E코어 4개가 늘어나서 메인보드 전원부를 더 신경써야 합니다. B칩셋으로는 온도 잡기가 어렵습니다.1120A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 가격대비 가장 전원부 퀄리티가 높은 GIGABYTE Z690 AORUS ELITE 제이씨현으로 변경3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈이 적용되어 있어서 안정적으로 사용할 수 있고 가격적도 저렴한 편인 패트리어트 5600MHz 고클럭 규격램 32기가 2개 64기가로 변경4. 그래픽카드는 구성한 제품은 품절이라 1티어 AS에 가격적인 메리트도 있는 이엠텍 지포스 RTX 4060 MIRACLE BLACK D6 8GB로 변경5. 파워는 정격 800W 골드인증 제품인 쿨러마스터 G800 GOLD로 변경해서 안정성과 가성비를 모두 챙겼습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700K (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z690 AORUS ELITE 제이씨현상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4060 MIRACLE BLACK D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[데스크탑 HDD]Toshiba 1TB P300 HDWD110 (SATA3/7200/64M)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]발키리 A360 ARGB (BLACK)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "파워서플라이는 안정성과 가성비를 겸비한 골드인증 800W 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700K",
+            "가격": "573,850원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z690 AORUS ELITE 제이씨현",
+            "가격": "256,000원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 MIRACLE BLACK D6 8GB",
+            "가격": "441,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 1TB P300 HDWD110",
+            "가격": "76,850원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "90,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 A360 ARGB",
+            "가격": "91,085원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1928055원",
+    "CPU": "코어i7-14세대 14700K (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z690 AORUS ELITE 제이씨현",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 MIRACLE BLACK D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "발키리 A360 ARGB (BLACK)",
+    "cpu_score": 98,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 22891
+}

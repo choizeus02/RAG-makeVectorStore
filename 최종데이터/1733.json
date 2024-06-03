@@ -1,0 +1,71 @@
+{
+    "quote_number": "1733",
+    "quote_title": "어도비 영상편집 i5 13500 + GTX 1660SUPER 작업용 컴퓨터 견적",
+    "date_create": "2024.3.6",
+    "cpu_gpu_combinations": "코어i5-13500 + GTX 1660 SUPER 조합",
+    "quotation_summary": " i5 13500 / GTX 1660SUPER / RAM 32GB / SSD 1TB + HDD 4TB# 어도비# 영상편집# 프리미어# 포토샵# 작업용# SSD+HDD 구성",
+    "quote_person_introduction": "안녕하세요. 로카프입니다.우리 주변에는 아직 컴퓨터 견적구성을 어떻게 할 지 몰라 고민에 빠지는 분들이 많이 계십니다.성능은 괜찮을까? 고장은 나지 않을까? 가격은 괜찮은건가? 이런 고민들을 한 번쯤은 해보셨을 겁니다.용도에 알맞는 성능과 합리적인 가격, 최우선으로 안정성과 신뢰도 높은 부품들로 구성된 견적을 추천해드리겠습니다.컴퓨터를 처음 알아보시는 분들의 입장에서 생각하고 견적을 구성해드리는 견적맨이 되겠습니다.",
+    "quote_feedback": "요청하신대로 120만원대 금액으로1TB SSD + 4TB HDD, 인텔 13세대 CPU + NVIDIA 지포스 그래픽카드 조합으로 견적 구성해봤습니다.메모리 역시 16GB 2장으로 총 32GB이며 파워는 600W 용량으로 구성했습니다.메인보드 무선랜 기능의 경우 기능유무에 따라 제품 라인업이 나뉘어있습니다.꼭 WIFI를 사용하셔야 하는 환경이 아니라면 필요하지 않습니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13500 (랩터레이크) (정품)상세보기[메인보드]ASRock B760M Pro RS D5 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]ARKTEK 지포스 GTX 1660 SUPER D6 6GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)상세보기[케이스]DAVEN D4 MESH BLACK (미들타워)상세보기[파워서플라이]SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 고성능을 발휘하는 P코어 6개 효율성 높은 E코어 8개로 이루어진 빅리틀 구조의 CPU인 13500이며 따라서 윈도우11 사용이 권장됩니다. 12400F보다 보다 나은 멀티성능을 보여주며 내장그래픽 탑재 모델로 프리미어 프로 작업 시 퀵싱크 기능을 통해 작업능률 향상을 도모할 수 있습니다.메인보드는 13400, 13500 CPU와 구성하여 사용하기에 적절하고 전원부방열판과 M.2 SSD 방열판 잘 구성되어있는 제품입니다. 기판일부와 방열판색상이 화이트라서 화이트감성 PC 맞출 때 구성하기에도 좋습니다.메모리는 라이프워런티정책으로 제품 단종 시까지 서비스 지원하는 팀그룹 JEDEC 표준 일반램입니다.그래픽카드는 STCOM에서 유통하는 ARKTEK GTX 1660SUPER이며 24년 3월 초 현재 20만원대 중반의 그래픽카드입니다. FHD해상도에서 사양이 낮은 온라인게임들은 무리없이 플레이가능하며 사양이 조금 있는 편인 스팀게임들도 옵션타협해서 즐기실 수 있습니다.SSD는 최대읽기속도 7,300MB/s 최대쓰기속도 6,800MB/s를 자랑하는 최상위권 PCIe 4.0 SSD인 T500입니다. 보증기간 5년 제공하며 파이슨 컨트롤러가 적용되어 있습니다.데스크탑 HDD는 CMR 방식의 보다 안정적인 기록방식을 적용한 WD사의 4TB 하드디스크입니다.케이스는 전면팬 3개와 후면팬 1개가 제공되며 기본팬 LED ON/OFF 기능이 제공되는 D4 MESH BLACK입니다. LED ON/OFF 기능이 있어 사용자의 취향에 맞춰 설정할 수 있는 장점이 있으며 CPU쿨러와 그래픽카드 호환성도 좋습니다.파워서플라이는 국내 유통중인 파워중 A/S정책이 가장 좋은 슈퍼플라워사의 600W 파워입니다. 고주파 증상 발생 시에도 원활한 A/S 진행이 가능합니다!CPU쿨러는 듀얼타워공랭쿨러 가운데 탁월한 쿨링성능과 정숙성을 보여주는 Peerless Assassin 120 SE 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13500",
+            "가격": "333,410원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M Pro RS D5 에즈윈",
+            "가격": "173,180원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,480원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ARKTEK 지포스 GTX 1660 SUPER D6 6GB",
+            "가격": "254,220원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/256M",
+            "가격": "158,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D4 MESH BLACK",
+            "가격": "34,840원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU",
+            "가격": "61,500원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1309060원",
+    "CPU": "인텔 코어i5-13세대 13500 (랩터레이크) (정품)",
+    "Motherboard": "ASRock B760M Pro RS D5 에즈윈",
+    "Graphic Card": "ARKTEK 지포스 GTX 1660 SUPER D6 6GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 257,
+    "gpu_score": 152,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32035,
+    "gpu_benchmarkscore": 12926
+}

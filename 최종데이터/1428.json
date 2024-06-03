@@ -1,0 +1,71 @@
+{
+    "quote_number": "1428",
+    "quote_title": "QHD 가성비 게이밍 PC (배틀그라운드, 디아블로4)",
+    "date_create": "2023.9.25",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4070 Ti 조합",
+    "quotation_summary": " 1. 200만원 가량의 예산에서 최적의 게이밍 견적2. CPU, GPU, SSD 등 가성비 부품들로 만들어진 견적3. 성능도 성능이지만 AS 및 가성비를 중점적으로 만들어진 견적# QHD에서 배그 및 디아블로를 쾌적하게 즐기시는 걸 원하시는 분",
+    "quote_person_introduction": "견적을 작성할 때AS 및 가성비 위주로 견적을 중점적으로 작성하고 있습니다.조립 업체에서 일한 경력을 바탕으로실질적으로 오랜 기간 잘 쓸 수 있는 견적을 작성하고 있으며또한, SFF 및 남들이 주로 생각지 못한 견적을 만드는 것도 가능합니다.",
+    "quote_feedback": "<라이젠 7500F + ZOTAC 4070 Ti 견적>배틀그라운드 및 디아블로 게임시 6코어에 최적의 성능을 내는 CPU가 필요함-> 7500F의 경우 6코어 12쓰레드 구성에 5nm를 공정으로 제작되어-> 성능 및 발열도 뛰어나며 비교적 좋은 게임 성능을 내는 가성비 CPU그래픽 카드의 경우 AS가 좋아야 하고, 성능 및 기타 방면에서 문제가 없어야 함-> AS가 매우 좋은 ZOTAC / FHD, QHD에서 최고의 성능을 낼 수 있는 4070 Ti-> ZOTAC 4070 Ti로 선택7600과 4070 Ti 등 안정적인 파워 공급이 이루어져야 함-> 내부 품질도 뛰어나며 브론즈 등급이지만, 실제 스펙은 골드 등급에 준하는 제품PCB 방수 코팅 및 135mm 듀얼 볼베어링 및제로팬까지 지원하는 파워또한, AS가 6년 무상 새제품 교환->ASUS TUF Gaming 750W 80PLUS BRONZE 로 선택",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock A620M-HDV/M.2+ 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 Ti Trinity OC D6X 12GB상세보기[SSD]마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)상세보기[케이스]DAVEN D6 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]DEEPCOOL AG400상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 게임용 최고의 가성비 CPU메인보드는 가격, 품질이 괜찮은 저가형 AM5 A620 칩셋의 M-ATX 메인보드메모리는 호환성 문제 없는 DDR5 메모리그래픽카드는 AS 및 성능, 외관까지 괜찮은 ZOTAC 4070 TiSSD는 AS 5년에 PCI-E 4.0 중에 가성비가 괜찮은 제품케이스는 가격, 구성이 좋은 미들타워 케이스파워서플라이는 가성비 괜찮은 골드등급 파워CPU쿨러는 군더더기 없는 깔끔한 보급형 쿨러쿨러.튜닝.조명.액세서리는 기본적인 M.2 방열판조립PC관련는 견적왕 PC 기본 조립",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock A620M-HDV/M.2+ 대원씨티에스",
+            "가격": "104,570원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 Ti Trinity OC D6X 12GB",
+            "가격": "1,169,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS 1TB",
+            "가격": "127,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D6 MESH 강화유리 블랙",
+            "가격": "36,900원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DEEPCOOL AG400",
+            "가격": "21,740원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1920130원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock A620M-HDV/M.2+ 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 Ti Trinity OC D6X 12GB",
+    "SSD": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "DEEPCOOL AG400",
+    "cpu_score": 355,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 31768
+}

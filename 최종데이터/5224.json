@@ -1,0 +1,76 @@
+{
+    "quote_number": "5224",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.4.10",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 지포스 RTX 4070 SUPER# 방송용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 드라이버 모스펫 전원부와 히트싱크가 적용되어 있는 ASRock B650M PG Lightning 대원씨티에스로 변경2. 메모리의 경우 삼성과 마이크론 램은 대규모 불량 이슈가 있었던 터라 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경3. 화이트 컨셉이라 그래픽카드는 1티어 AS 중에서도 최상위면서 화이트 색상에 가격적인 메리트도 높은 이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB로 변경4. 구성하신 P31 SSD는 NVMe 규격 중에서는 속도가 가장 느린 젠3 제품입니다.젠3 보다 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경했고, 저렴한 방열판도 하나 추가했습니다.5. 구성하신 케이스는 상단에 3열 수냉쿨러를 장착할 수 있는 제품으로 공랭쿨러 장착시 공간이 많이 남아서 미관상 좋지 못하게 됩니다. 튜닝하라고 만들어 놓은 케이스인데 튜닝을 하지 않는다면 케이스를 선택하는 메리트가 많이 떨어지죠.공랭쿨러로 구성하실 생각이라면 미니타워로 내부를 꽉채울 수 있으면서 5개의 팬을 기본장착한 공랭쿨러 튜닝특화 어항케이스인 Antec CX200M RGB ELITE 화이트 (미니타워)로 추천을 드립니다.6. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 변경7. CPU쿨러는 케이스와 아주 잘 어울리면서 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공하는 3RSYS Socoool RC1200 ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB상세보기[SSD]장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자상세보기[케이스]Antec CX200M RGB ELITE 화이트 (미니타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC1200 ARGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "그래픽카드는 RTX 4070과 RTX 4070 Ti 제품 사이에 위치한 라인업이며 A/S퀄리티 1티어인 이엠텍사 화이트색상 제품입니다. 보조전원 커넥터는 12VHPWR 규격이며 제원 상 길이 315mm, 두께 50mm입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "203,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 대원씨티에스",
+            "가격": "153,020원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "66,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB",
+            "가격": "922,820원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 삼성전자 1TB",
+            "가격": "111,790원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec CX200M RGB ELITE 화이트",
+            "가격": "53,400원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1200 ARGB",
+            "가격": "34,410원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,350원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1910710원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB",
+    "SSD": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC1200 ARGB (WHITE)",
+    "cpu_score": 355,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 31768
+}

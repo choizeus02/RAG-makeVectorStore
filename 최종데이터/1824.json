@@ -1,0 +1,66 @@
+{
+    "quote_number": "1824",
+    "quote_title": "[상급/210만] 13600KF + 4070 Super_RGB White PUBG",
+    "date_create": "2024.2.8",
+    "cpu_gpu_combinations": "코어i5-13600KF + RTX 4070 SUPER 조합",
+    "quotation_summary": " 1. 13600KF + 4070 Super 화이트 RGB 감성 조합입니다.2. 과도하지 않은 화이트 RGB 구성입니다.3. 높은 쿨링 성능으로 시스템 전반의 온도가 낮습니다.# 210만원# 단아한 화이트에 적당한 RGB",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "한 세대 아쉬운 구성이지만 13600KF의 성능은 발군입니다.14세대의 CPU가 나왔음에도 여전히 인기가 좋은 CPU입니다.13600KF+4070 Super 조합은 높은 게이밍 성능을 보장합니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600KF (랩터레이크)(벌크)상세보기[메인보드]ASRock B760M PG Riptide D5 에즈윈상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DARKFLASH DF2100 MESH RGB 강화유리 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 14세대와 비비는 성능, 가격은 합리적인 제품입니다. 7500F와 7800X3D 사이를 담당하고 있습니다.메인보드는 14+1+1 페이즈의 강력한 전원부, 풀옵션 제품입니다.메모리는 대표 제조사 ADATA제품입니다. 상단 RGB가 영롱합니다.그래픽카드는 AS 3대장 이엠텍의 화이트 제품입니다. 비싼 VGA를 쓸 수록 더욱 중요해지는 AS, 그리고 믿을 수 있는 품질을 보증합니다.SSD는 PCIe 4.0 하이앤드 라인업 입니다.  초당 7GB가 넘는 데이터를 전송할 수 있습니다.케이스는 3열 수랭 장착이 가능하고, ATX 사이즈 메인보드가 장착 가능한 건 기본, 풍부한 옵션은 덤 입니다.파워서플라이는 가성비 최고 라인업 제품입니다. 슈퍼플라워와 같은 AS 정책이 적용됩니다.CPU쿨러는 저렴한 가격에 높은 성능을 가진 제품입니다. AS 명가 다크플래시에서 AS합니다.조립PC관련는 믿고 맡길 수 있는 서비스조립PC관련는 수랭은 전문가의 손에 맡겨져야 합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600KF",
+            "가격": "1,588,590원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG Riptide D5 에즈윈",
+            "가격": "167,350원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "325,500원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB",
+            "가격": "905,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DF2100 MESH RGB 강화유리 화이트",
+            "가격": "66,190원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,710원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3387170원",
+    "CPU": "인텔 코어i5-13세대 13600KF (랩터레이크)(벌크)",
+    "Motherboard": "ASRock B760M PG Riptide D5 에즈윈",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (화이트)",
+    "cpu_score": 194,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 31768
+}

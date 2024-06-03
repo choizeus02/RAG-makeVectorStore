@@ -1,0 +1,76 @@
+{
+    "quote_number": "4061",
+    "quote_title": "코어i5-14세대 14600KF + 지포스 RTX 4080 SUPER",
+    "date_create": "2024.3.9",
+    "cpu_gpu_combinations": "코어i5-14600KF + RTX 4080 SUPER 조합",
+    "quotation_summary": " 코어i5-14세대 14600KF + 지포스 RTX 4080 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 그래픽카드는 지금 구성한 이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB와 동일한 네이밍을 가지고 있는 이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB로 변경2. 웨스턴 디지털의 4TB 제품은 Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)과 Western Digital WD BLUE 5400/256M (WD40EZAZ, 4TB) 2가지 제품이 유통되고 있고 전자의 경우 PMR 방식이 후자의 경우는 SMR/PMR 방식이 혼용되고 있습니다. 구성한 제품은 PMR 방식이라 그대로 진행하면 됩니다.3. 듀얼 타워 공랭쿨러로 조립하게 되면 메인보드 메모리 슬롯을 모두 덮어버려서 메모리가 보이지 않습니다. 방열판 장착해도 볼 수가 없으니 메리트가 떨어지죠.방열판은 메모리 오버클럭을 빡세게 할 경우라면 장착을 추천하겠지만 그게 아니라면 규격램이라 온도가 높지 않아서 별도의 방열판이 필요하지 않습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600KF (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600KF",
+            "가격": "400,150원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "212,810원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+            "가격": "1,585,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/256M",
+            "가격": "158,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "61,940원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "61,500원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3027210원",
+    "CPU": "코어i5-14세대 14600KF (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (WHITE)",
+    "cpu_score": 181,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 34625
+}

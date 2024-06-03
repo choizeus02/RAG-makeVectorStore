@@ -1,0 +1,71 @@
+{
+    "quote_number": "2046",
+    "quote_title": "인텔 중상금 게이밍ONLY 구성(13600KF, 4060Ti)",
+    "date_create": "2024.3.22",
+    "cpu_gpu_combinations": "코어i5-13600KF + RTX 4060 Ti 조합",
+    "quotation_summary": " 1. 라이젠이 대세지만 인텔을 희망하는 분들을 위한 구성2. 13600KF, 4060 Ti로 FHD에서 만족스러운 성능3. 공랭 구성으로 작업용도로는 다소 무리# 인텔 게이밍 PC 구성을 희망하시는 분들",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "작업용으로는 쿨링이 부족할 수 있으나 게임용도로는 사용하는데 큰 지장이 없는 구성입니다.AMD가 대세이긴하나 인텔을 원하시는 분들을 위한 견적입니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600KF (랩터레이크) (정품)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4060 Ti OC D6 8GB상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]DAVEN AQUARIUM 블랙 (미들타워)상세보기[파워서플라이]SF-700R12ST MEGA 80PLUS STANDARD 230V EU상세보기[CPU쿨러]PentaWave Z06D (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 생각보다 발열은 제법 있지만 성능은 그래도 검증된 제품메인보드는 기존 B760M 박격포 리비전메모리는 검증된 가성비 DDR5 5600클럭 제품그래픽카드는 무난한 선택지 갤럭시SSD는 성능, 가격 현재로써는 최선입니다.케이스는 상단 3열도 가능하고 그래픽카드도 415mm까지 가능하고 외형까지도 멋진 물건파워서플라이는 AS 1등 파워의 자존심, SuperFlower 정격 700W 제품CPU쿨러는 생소하지만 성능만큼은 확실한 제품, 가성비도 검증 완료!소프트웨어는 -조립PC관련는 -",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600KF",
+            "가격": "1,588,590원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "199,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  16GB",
+            "가격": "64,700원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4060 Ti OC D6 8GB",
+            "가격": "564,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN AQUARIUM 블랙",
+            "가격": "56,970원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SF-700R12ST MEGA 80PLUS STANDARD 230V EU",
+            "가격": "71,302원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z06D",
+            "가격": "56,910원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,730원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2973252원",
+    "CPU": "인텔 코어i5-13세대 13600KF (랩터레이크) (정품)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4060 Ti OC D6 8GB",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개",
+    "Power Supply": "SF-700R12ST MEGA 80PLUS STANDARD 230V EU",
+    "CPU Cooler": "PentaWave Z06D (BLACK)",
+    "cpu_score": 194,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 22891
+}

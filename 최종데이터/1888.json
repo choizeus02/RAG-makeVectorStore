@@ -1,0 +1,66 @@
+{
+    "quote_number": "1888",
+    "quote_title": "[상급/210만] 13600KF + 4070_RGB Pink Sakura Edition",
+    "date_create": "2024.1.9",
+    "cpu_gpu_combinations": "코어i5-13600KF + RTX 4070 조합",
+    "quotation_summary": " 1. 13600KF + RTX 4070 핑크 블링블링 조합입니다.2. 게임을 위해 어떤 제품을 사야 할 지 고민 된다면, 그 고민의 시간까지 SAVE 시켜줄 수 있는 구성입니다.# #핑크는 진리# 210만원 # 게이머의 워너비 # 단정한 시스템",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "200만원 극 초반 핑크 시스템입니다.시선을 머물게 하는 매력이 있습니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600KF (랩터레이크) (정품)상세보기[메인보드]ASRock B760M 스틸레전드 WiFi D5 에즈윈상세보기[메모리]G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 EX GAMER PINK OC D6X 12GB상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 핑크 (미들타워)상세보기[파워서플라이]Classic II 750W 80PLUS Bronze 230V EU HDB PINK상세보기[CPU쿨러]DARKFLASH Twister DX-360 ARGB (핑크)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 인텔 게이밍 최강 CPU입니다. 사실상 13세대 인텔 CPU 중 가장 명작입니다.메인보드는 후면에 엠비언트라이트가 인상적이며, M.2 방열판에 장난 없습니다. 전원부 또한 i7 CPU에 대항하는 빵빵한 구성을 갖추고 있습니다.메모리는 튜닝 메모리 명가 GSKILL 제품입니다. 블랙&화이트 방열판과 위로 빛나는 하얀 RGB가 일품입니다.그래픽카드는 핑크의 세계관을 이해하는 갤럭시의 트리플 팬 제품입니다.SSD는 PCIe 4.0 하이앤드 제품입니다. 명불 허전이죠.케이스는 핑크의 세계관을 담을 유일 그릇 입니다.파워서플라이는 유일무이 핑크 제품입니다. 잊을 수 없는 컬러를 완성합니다.CPU쿨러는 핑크 바디에 우수한 성능은 기본입니다.조립PC관련는 믿고 맡길 수 있는 서비스조립PC관련는 수랭은 전문가의 손에 맡겨져야 합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600KF",
+            "가격": "1,588,590원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M 스틸레전드 WiFi D5 에즈윈",
+            "가격": "220,620원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지) 32GB",
+            "가격": "196,990원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 EX GAMER PINK OC D6X 12GB",
+            "가격": "840,190원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 핑크",
+            "가격": "98,520원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "Classic II 750W 80PLUS Bronze 230V EU HDB PINK",
+            "가격": "72,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Twister DX-360 ARGB",
+            "가격": "134,890원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3317800원",
+    "CPU": "인텔 코어i5-13세대 13600KF (랩터레이크) (정품)",
+    "Motherboard": "ASRock B760M 스틸레전드 WiFi D5 에즈윈",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 EX GAMER PINK OC D6X 12GB",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))",
+    "Power Supply": "Classic II 750W 80PLUS Bronze 230V EU HDB PINK",
+    "CPU Cooler": "DARKFLASH Twister DX-360 ARGB (핑크)",
+    "cpu_score": 194,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 31768
+}

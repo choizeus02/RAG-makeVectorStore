@@ -1,0 +1,81 @@
+{
+    "quote_number": "4251",
+    "quote_title": "7950X3D + RTX 4080 SUPER",
+    "date_create": "2024.3.13",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4080 SUPER 조합",
+    "quotation_summary": " 7950X3D + RTX 4080 SUPER# 7950X3D + RTX 4080 SUPER",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7950X3D + RTX 4080 SUPER",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock X670E 스틸레전드 대원씨티에스상세보기[메모리]TeamGroup DDR5-6000 CL48 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4080 SUPER SG OC D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Western Digital 4TB Ultrastar DC HC310 패키지 (SATA3/7200/256M)상세보기[케이스]Antec PERFORMANCE 1 FT MESH 강화유리 Black (빅타워)상세보기[파워서플라이]SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)상세보기[CPU쿨러]쿨러마스터 MASTER AIR MA824 STEALTH상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]NOCTUA NF-A14 PWM x 7 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7천번대 최상급 게이밍 + 작업용 CPU입니다.메인보드는 현재 최상급 X670E 칩셋으로 PCIe5.0을 지원해 뛰어난 대역폭을 자랑하고 16+2+1페이즈  960A(60A)의 준수한 전원부로 추후 CPU 업글도 문제 없는 보드입니다.메모리는 믿고 쓰는 서린의 6000 클럭 DDR5 메모리입니다.SSD는 PCIE4.0 대역폭 상급 SSD파워서플라이는 슈퍼플라워의 ATX 3.0 골드 풀모듈러로 10년 보증에 유니버셜 커넥터 적용과 고주파 발생시 새제품 교환 등 뛰어난 AS 정책의 파워입니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "891,920원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock X670E 스틸레전드 대원씨티에스",
+            "가격": "442,630원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-6000 CL48 Elite 서린  16GB",
+            "가격": "68,990원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4080 SUPER SG OC D6X 16GB",
+            "가격": "1,784,010원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital 4TB Ultrastar DC HC310 패키지",
+            "가격": "1,320,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec PERFORMANCE 1 FT MESH 강화유리 Black",
+            "가격": "206,600원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0",
+            "가격": "227,420원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "쿨러마스터 MASTER AIR MA824 STEALTH",
+            "가격": "144,200원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "NOCTUA NF-A14 PWM x 7 개",
+            "가격": "31,390원",
+            "수량": "7"
+        }
+    },
+    "total_price": "5775200원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock X670E 스틸레전드 대원씨티에스",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4080 SUPER SG OC D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-6000 CL48 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)",
+    "CPU Cooler": "쿨러마스터 MASTER AIR MA824 STEALTH",
+    "cpu_score": 63,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 34625
+}

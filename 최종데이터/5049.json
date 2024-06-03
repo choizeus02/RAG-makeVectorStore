@@ -1,0 +1,60 @@
+{
+    "quote_number": "5049",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D",
+    "date_create": "2024.4.4",
+    "cpu_gpu_combinations": "라이젠7 7800X3D +  조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 7800X3D에 어울리는 퀄리티가 높은 제품으로 구성을 해 주는 것이 좋습니다.600A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 ASRock B650M PG Riptide 대원씨티에스로 변경2. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있고 가격도 저렴한 편인 PATRIOT DDR5-5200 CL42 SIGNATURE (32GB)로 변경3. 구성하신 SSD인 P31은 NVMe 규격 중에서 속도가 가장 느린 젠3 제품입니다.젠3 보다 2배 더 빠른 5년 무상AS의 갓성비 젠4 제품인 ADATA LEGEND 960 M.2 NVMe (2TB)로 변경읽기속도 : 7,400(MB/s) / 쓰기속도 : 6,800(MB/s)로 최고 수준의 성능이면서 디램 버퍼 메모리와 전용 히트싱크가 적용되어 있습니다.4. 케이스는 지금 구성하신 3RSYS L920 Quiet 블랙 (미들타워)가 저소음 케이스 중에서는 원탑입니다.기존 L920도 조용했는데 Quiet 팬으로 개선을 했고 여기에 팬 컨트롤러까지 적용되어 있어서 보다 조용하게 사용할 수 있습니다.Antec P7 NEO (미들타워)보다는 레벨 차이가 큰 상위 제품이라고 할 수 있습니다.5. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로 변경6. CPU쿨러는 케이스 내부가 보이지 않아서 ARGB 제품은 크게 메리트가 없구요. 대장급 성능이면서 소음까지도 아주 낮은 현 시스템과 아주 잘 어울리는 DARKFLASH Ellsworth D21 (BLACK)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]PATRIOT DDR5-5200 CL42 SIGNATURE (32GB) x 2 개상세보기[SSD]ADATA LEGEND 960 M.2 NVMe (2TB)상세보기[케이스]3RSYS L920 Quiet 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]DARKFLASH Ellsworth D21 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "529,200원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "214,880원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "PATRIOT DDR5-5200 CL42 SIGNATURE  32GB",
+            "가격": "117,280원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "ADATA LEGEND 960 M.2 NVMe 2TB",
+            "가격": "204,160원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L920 Quiet 블랙",
+            "가격": "119,510원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "129,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth D21",
+            "가격": "47,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1479190원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "SSD": "ADATA LEGEND 960 M.2 NVMe (2TB)",
+    "Memory": "PATRIOT DDR5-5200 CL42 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "DARKFLASH Ellsworth D21 (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": null
+}

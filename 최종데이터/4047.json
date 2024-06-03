@@ -1,0 +1,66 @@
+{
+    "quote_number": "4047",
+    "quote_title": "라라랜드 끝판왕 게이밍 PC",
+    "date_create": "2024.3.22",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RX 7900 XTX 조합",
+    "quotation_summary": " 1. 게이밍 특화 라라랜드 종결구성2. 가성비 챙긴 7800X3D x 7900 XTX로 만족감은 더 높게3. AFMF로 최저프레임까지도 확실히 잡는 구성# 라라랜드로 게이밍 구성의 끝을 보고싶은 분들께",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "라라랜드로 게이밍 PC의 끝을 원하시는 분들께 추천드리는 구성입니다.게이밍 CPU로는 이미 검증도 끝나고 다들 원하는 7800X3D와AFMF로 새롭게 진화한 RX 7800 XTX로 이 가격에는 경험할 수 없는게이밍 만족감을 선사합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개상세보기[그래픽카드]PowerColor 라데온 RX 7900 XTX Hellhound D6 24GB 대원씨티에스상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)상세보기[CPU쿨러]DARKFLASH Ellsworth D21 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 Intel 13700K 가격에 성능은 13900KS를 뛰어넘는다..!\n더 이상 무슨 설명이 필요?.............메인보드는 Ryzen 7800X3D를 사용하면서도 성능 저하 걱정 안해도 되는 제품메모리는 검증된 가성비 DDR5 5600클럭 제품그래픽카드는 RTX 4080 슈퍼급의 성능이라고 이야기하지만,\n그보다 저렴하고 AFMF로 그 이상의 프레임도 볼 수 있는 그래픽카드SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD케이스는 상단 3열 수냉 설치가 가능하고, 전면 C타입 포트가 있는 제품중\n가성비 1등의 제품, 이제는 너무나 유명한 다크플래시죠.파워서플라이는 PCIE 5 지원하는 AS 1티어 Superflower의 정격 850W 제품CPU쿨러는 저소음 공랭의 강자조립PC관련는 -",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "213,740원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  16GB",
+            "가격": "64,970원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "PowerColor 라데온 RX 7900 XTX Hellhound D6 24GB 대원씨티에스",
+            "가격": "1,394,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,400원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK",
+            "가격": "154,407원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth D21",
+            "가격": "47,300원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2681527원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "PowerColor 라데온 RX 7900 XTX Hellhound D6 24GB 대원씨티에스",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)",
+    "CPU Cooler": "DARKFLASH Ellsworth D21 (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 6,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 30951
+}

@@ -1,0 +1,66 @@
+{
+    "quote_number": "4600",
+    "quote_title": "AMD 라이젠9-5세대 7900 + 지포스 RTX 4060",
+    "date_create": "2024.3.23",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 4060 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7900 + 지포스 RTX 4060# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리의 경우 삼성과 마이크론은 대규모 불량 이슈가 발생했던 터라 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2개로 변경2. 그래픽카든느 3060의 경우 단종 수준이고 유통하는 업체도 얼마 없으며 성능이 더 좋은 4060과의 가격차이도 없습니다.1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4060으로 변경3. 케이스는 최근에 출시된 보급형 끝판왕급 가성비 제품이라고 할 수 있는 몬스타 가츠 X420A 블랙 (미들타워)로 변경4. 파워는 6년 무상AS에 무려 9종에 달하는 보호회로를 적용하여 안정성에 몰빵을 하고서도 가격은 아주 착한 수준으로 출시가 되었고 현재 출시 이벤트로 가격을 더 인하해서 판매 중이라 갓성비 중에서도 갓성비라고 할 수 있는 몬스타 가츠 ExtremeX FX700 80PLUS STANDARD로 변경5. CPU쿨러는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 가성비가 가장 좋은 3RSYS Socoool RC1200 ARGB로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X420A 블랙 (미들타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX700 80PLUS STANDARD상세보기[CPU쿨러]3RSYS Socoool RC1200 ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 압도적인 전성비로 인한 말도 안되는 낮은 온도의  12코어 24쓰레드 CPU\n온도 제어가 힘든 고성능 CPU에 있어서 가성비 공랭 CPU쿨러로 온도 제어가 가능한 별종인 제품메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "538,780원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "214,920원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,500원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB",
+            "가격": "424,480원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X420A 블랙",
+            "가격": "31,310원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX700 80PLUS STANDARD",
+            "가격": "43,500원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1200 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1519410원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX700 80PLUS STANDARD",
+    "CPU Cooler": "3RSYS Socoool RC1200 ARGB",
+    "cpu_score": 107,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 22891
+}

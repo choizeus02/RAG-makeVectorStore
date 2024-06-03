@@ -1,0 +1,60 @@
+{
+    "quote_number": "2786",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D",
+    "date_create": "2024.2.11",
+    "cpu_gpu_combinations": "라이젠9 7950X3D +  조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D# 사무",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 메인보드는 사타 포트가 2개 뿐입니다. 지금까지 언급한 많은 하드디스크 연결하는 것과는 완전히 반대되는 제품이라고 할 수 있습니다.앞서 적은 글에서도 꾸준히 언급을 했는데 6개의 사타 포트를 지원하는 ASUS PRIME X670-P-CSM 대원씨티에스로 변경2. 화이트 컨셉을 원한다고 하셔서 거기에 맞게 추천을 드렸었는데 반영이 거의 되지는 않았네요.메인보드만 변경하고 진행해도 크게 문제가 되지는 않습니다. Z06D는 소음이 있는 편이라 Thermalright Peerless Assassin 120 SE 서린으로 추천드립니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS PRIME X670-P-CSM 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]마이크로닉스 GX2-뉴런 메쉬 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "892,880원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME X670-P-CSM 대원씨티에스",
+            "가격": "403,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  32GB",
+            "가격": "115,810원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 GX2-뉴런 메쉬",
+            "가격": "180,960원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0",
+            "가격": "221,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2095545원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME X670-P-CSM 대원씨티에스",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 63,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": null
+}

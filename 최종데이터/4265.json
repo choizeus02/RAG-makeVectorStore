@@ -1,0 +1,65 @@
+{
+    "quote_number": "4265",
+    "quote_title": "인텔 코어i5-14세대 14500",
+    "date_create": "2024.3.14",
+    "cpu_gpu_combinations": "코어i5-14500 +  조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14500# 사무",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 삼성 램의 경우 불량 이슈가 크게 터졌던 제품입니다.라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램으로 변경2. 작업에 있어서 체감이 가장 크게 되는 부품 중에 하나가 SSD입니다. P31은 NVMe 규격 중에서 속도가 가장 느린 젠3 제품입니다.젠3 보다 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경3. 구성하신 웨스턴 디지털 HDD는 SMR방식이라 추천을 하지 않습니다. PMR방식의 원천기술을 가지고 있는 도시바의 P300으로 변경4. 케이스는 보급형 끝판왕급 가성비로 공간활용성까지 좋은 몬스타 가츠 X320M 블랙 (미니타워)로 변경5. 파워는 6년 무상AS에 무려 9종에 달하는 보호회로를 적용하여 안정성에 몰빵을 하고서도 가격은 아주 착한 수준으로 출시가 되었고 현재 출시 이벤트로 가격을 더 인하해서 판매 중이라 갓성비 중에서도 갓성비라고 할 수 있는 몬스타 가츠 ExtremeX FX700 80PLUS STANDARD로 변경6. CPU쿨러는 싱글타워 끝판왕급 성능에 케이스와도 잘 어울리고 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 PentaWave Z04E SRB ARGB로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (정품)상세보기[메인보드]MSI PRO B760M-A WIFI상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB)상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]몬스타 가츠 X320M 블랙 (미니타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX700 80PLUS STANDARD상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "데스크탑 HDD는 안정성 높은 PMR 방식의 HDD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14500",
+            "가격": "331,670원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI PRO B760M-A WIFI",
+            "가격": "173,200원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 16GB",
+            "가격": "64,300원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "100,780원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X320M 블랙",
+            "가격": "29,890원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX700 80PLUS STANDARD",
+            "가격": "43,500원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        }
+    },
+    "total_price": "869090원",
+    "CPU": "인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (정품)",
+    "Motherboard": "MSI PRO B760M-A WIFI",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB)",
+    "Power Supply": "몬스타 가츠 ExtremeX FX700 80PLUS STANDARD",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 247,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 32733,
+    "gpu_benchmarkscore": null
+}

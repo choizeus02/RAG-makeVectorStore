@@ -1,0 +1,60 @@
+{
+    "quote_number": "2563",
+    "quote_title": "MD 라이젠9-5세대 7900 (라파엘",
+    "date_create": "2024.2.5",
+    "cpu_gpu_combinations": "라이젠9 7900 +  조합",
+    "quotation_summary": " MD 라이젠9-5세대 7900 (라파엘# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "케이스는 강화유리처럼 파손 위험없는 풀아크릴 스윙도어 패널에 6개의 기본 팬을 장착하고 LED OFF 기능까지 적용된 보급형 끝판왕급인 3RSYS R240 블랙 (미들타워)로 변경했습니다.나머지는 이전에 추천드린 제품으로 진행하면 되어서 그래도 구성을 했구요.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning + WiFi6E 모듈 패키지 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]잘만 N7 PLUS Black (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]JIUSHARK JF200MINI Crystal (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 압도적인 전성비로 인한 말도 안되는 낮은 온도의  12코어 24쓰레드 CPU\n온도 제어가 힘든 고성능 CPU에 있어서 가성비 공랭 CPU쿨러로 온도 제어가 가능한 별종인 제품SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "523,320원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning + WiFi6E 모듈 패키지 에즈윈",
+            "가격": "180,760원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "잘만 N7 PLUS Black",
+            "가격": "39,950원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "JIUSHARK JF200MINI Crystal",
+            "가격": "28,070원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1100420원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning + WiFi6E 모듈 패키지 에즈윈",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "JIUSHARK JF200MINI Crystal (BLACK)",
+    "cpu_score": 107,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": null
+}

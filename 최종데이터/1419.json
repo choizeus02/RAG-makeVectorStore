@@ -1,0 +1,76 @@
+{
+    "quote_number": "1419",
+    "quote_title": "4K UHD 최고의 게이밍 PC (운영체제 포함)",
+    "date_create": "2023.9.14",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+    "quotation_summary": " 1. 최고의 성능과 약간의 감성을 챙기고 싶으신 분들을 위한 견적2. 성능과 온도, 확장성에서 전혀 부족함 없는 견적3. 4K UHD 게임에서 매우 쾌적하게 게임 하시길 원하시는 분들# 450만원 미만에 최고의 게이밍 PC를 원하시는 분",
+    "quote_person_introduction": "견적을 작성할 때AS 및 가성비 위주로 견적을 중점적으로 작성하고 있습니다.조립 업체에서 일한 경력을 바탕으로실질적으로 오랜 기간 잘 쓸 수 있는 견적을 작성하고 있으며또한, SFF 및 남들이 주로 생각지 못한 견적을 만드는 것도 가능합니다.",
+    "quote_feedback": "<라이젠 7800X3D + 4090 견적>7800X3D의 경우 8코어 16쓰레드 구성에3D V-Cache 를 탑재하여 현시점에서 매우 좋은 게임 성능을 내는 CPUFHD, QHD, 4K UHD에서 최고의 성능을 낼 수 있는는 4090여러가지 고사양 게임(리그 오브 레전드, 배틀그라운드, 디아블로4, 호그와트 등 및 여러가지 게임)을4K UHD에서 하시는 분들에게 적합한 견적",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]inno3D 지포스 RTX 4090 OC D6X 24GB X3상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]BRAVOTEC GUARDIAN 3100M V2 타이탄 글래스 (빅타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)상세보기[CPU쿨러]PentaWave Z06D (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]ARCTIC P14 PWM PST ARGB 서린 (1PACK) x 2 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 게임용 최고의 CPU메인보드는 가격, 품질이 괜찮은 중급형 AM5 B650 칩셋의 ATX 메인보드메모리는 호환성 문제 없는 DDR5 메모리그래픽카드는 AS가 좋으며 크기가 다른 4090에 비해 호환성이 좋은 4090SSD는 PCI-E 4.0에서 최상급 성능을 내는 SSD케이스는 가격, 호환성 전천후 좋은 빅타워 케이스파워서플라이는 제품 품질, AS 및 40 시리즈 호환성에 결격 사유 없는 1000W 플레티넘 등급 파워CPU쿨러는 성능, 발열 제어는 공냉쿨러 중에 상급에 속하고 가성비가 매우 좋은 쿨러소프트웨어는 Microsoft Windows 11 Home (처음사용자용 한글)쿨러.튜닝.조명.액세서리는 140mm 시스템 쿨러에서 성능이 뛰어난 시스템 쿨러조립PC관련는 견적왕 PC 기본 조립",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "147,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "inno3D 지포스 RTX 4090 OC D6X 24GB X3",
+            "가격": "2,868,880원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "BRAVOTEC GUARDIAN 3100M V2 타이탄 글래스",
+            "가격": "83,040원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK",
+            "가격": "205,402원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z06D",
+            "가격": "56,910원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,730원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "ARCTIC P14 PWM PST ARGB 서린 x 2 개",
+            "가격": "18,970원",
+            "수량": "2"
+        }
+    },
+    "total_price": "4362362원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "inno3D 지포스 RTX 4090 OC D6X 24GB X3",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)",
+    "CPU Cooler": "PentaWave Z06D (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 38694
+}

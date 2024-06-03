@@ -1,0 +1,66 @@
+{
+    "quote_number": "5072",
+    "quote_title": "AMD 라이젠5-5세대 7600 + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.4.5",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7600 + 지포스 RTX 4070 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 5700X3D와 7600은 비슷한 게임 성능이라 최신 세대면서 DDR5 메모리를 사용하는 7600으로 구성하는 것이 좋습니다. 5700X3D는 기존 AM4 소켓 유저들의 업그레이드용이라고 보면 됩니다.2. 5700X3D는 이전 세대인 AM4 소켓을 사용하고 DDR4 메모리만 장착할 수 있습니다. 7600은 최신 세대인 AM5 소켓을 사용하면서 최대 2027년까지 소켓을 유지해서 업그레이드에도 용이하고 DDR5 메모리를 사용한다는 점이 가장 큰 차이구요.게임 성능은 비슷합니다.3. 견적서가 없어서 7600을 기반으로 하는 QHD 가성비 견적 추천을 드리겠습니다.7600과 4070 SUPER 조합이구요.언급하신 게임들은 QHD에서 쾌적하게 즐길 수 있습니다.4. 참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Lightning 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]1stPlayer T7-P 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "그래픽카드는 RTX 4070과 RTX 4070 Ti 제품 사이에 위치한 라인업이며 길이 234.1mm, 두께 40.2mm의 제원을 가지고 있습니다. 보조전원 커넥터는 12VHPWR 규격이며 구매 후 14일 이내 제품 등록 시 무상 3년 보증에 추가로 2년 확대보증 서비스를 제공하여 오래도록 사용할 수 있습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600",
+            "가격": "234,060원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 대원씨티에스",
+            "가격": "153,020원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,030원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+            "가격": "912,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,900원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7-P 블랙",
+            "가격": "38,230원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1716130원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Lightning 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

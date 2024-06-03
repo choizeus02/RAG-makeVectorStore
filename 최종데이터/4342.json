@@ -1,0 +1,71 @@
+{
+    "quote_number": "4342",
+    "quote_title": "7800X3D + RTX 4070 SUPER",
+    "date_create": "2024.3.16",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " 7800X3D + RTX 4070 SUPER# 7800X3D + RTX 4070 SUPER",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7800X3D + RTX 4070 SUPER",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]inno3D 지포스 RTX 4070 SUPER OC D6X 12GB X3상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]1stPlayer T7 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[모니터]크로스오버 279QA9 IPS165 QHD 패스트 게이밍 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 7000번대 3D 제품으로 7950X3D와 달리 별도의 설정없이도 뛰어난 게임 성능을 자랑합니다.  \n전성비는 물론 온도도 뛰어나 공랭으로 가성비 좋게 게이밍 환경 구성이 가능합니다.SSD는 삼성 980 프로 OEM 제품으로 가성비가 좋습니다.케이스는 전면 TYPE-C 포트 지원에 그래픽카드 지지대 기본 구성으로 구성도 좋고, 탈부착형 먼지 필터로 관리도 용이한 가성비 뛰어난 케이스입니다.파워서플라이는 10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책에 뛰어난 가성비까지 겸비한 파워입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 에즈윈",
+            "가격": "215,930원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "inno3D 지포스 RTX 4070 SUPER OC D6X 12GB X3",
+            "가격": "937,600원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7 블랙",
+            "가격": "37,920원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,060원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 279QA9 IPS165 QHD 패스트 게이밍 무결점",
+            "가격": "239,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2343140원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 에즈윈",
+    "Graphic Card": "inno3D 지포스 RTX 4070 SUPER OC D6X 12GB X3",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

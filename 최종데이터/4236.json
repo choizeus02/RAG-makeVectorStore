@@ -1,0 +1,71 @@
+{
+    "quote_number": "4236",
+    "quote_title": "인텔 코어i7-14세대 14700KF + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.3.13",
+    "cpu_gpu_combinations": "코어i7-14700KF + RTX 4070 SUPER 조합",
+    "quotation_summary": " 인텔 코어i7-14세대 14700KF + 지포스 RTX 4070 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "i7에 어울리는 게이밍용 구성은 200만원 미만에서는 구성이 불가능합니다.윈도우까지 포함해서는 위 구성처럼 250만원 정도는 생각을 하셔야 합니다. 그게 아니라면 7500F로 구성해야 금액대에 맞출 수가 있습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 SUPER STORM X Dual OC D6X 12GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-14세대 14700KF",
+            "가격": "538,220원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "336,940원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 SUPER STORM X Dual OC D6X 12GB",
+            "가격": "830,320원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,340원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2377550원",
+    "CPU": "인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 SUPER STORM X Dual OC D6X 12GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 98,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 31768
+}

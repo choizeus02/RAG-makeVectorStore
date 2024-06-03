@@ -1,0 +1,66 @@
+{
+    "quote_number": "3728",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + RTX 4080 SUPER",
+    "date_create": "2024.3.3",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4080 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + RTX 4080 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 짜주신 CPU 쿨러 외에 공랭쿨러라는 것은 추가로 달지 않아도 괜찮을까요?네 팬을 따로 추가하지 않아도 충분한 쿨링 능력을 보여주는 구성입니다.2. 게임 외에 간단한 영상 편집이나 그림 작업으로 사용해도 적당할까요?간단한 영상 편집이나 그림 작업용도로는 문제없습니다.게임에 특화되어 있지만 8코어 CPU인지라 기본적인 작업 성능은 제공을 합니다.3. 메모리는 32GB 를 혹시 64GB로 올리면 전부 사용 못할까요?(혹시 더 쾌적해질까요?)메모리라는 것이 모자라면 문제가 되지만 남게되면 성능과는 무관해집니다. 메모리 슬롯만 차지하고 있는 플라스틱 막대기가 되는 거죠. 대부분의 게임이나 작업은 32기가면 충분합니다.4. 구성을 잘하셔서 그대로 진행하셔도 좋고 파워만 골드보다 상위인 플래티넘 인증 화이트 제품인 SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE5)로 변경해도 좋겠네요.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE WHITE ARGB 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 6000클럭 튜닝램 제품 가운데 CL타이밍 값이 30으로 낮은편인 ADATA사의 LANCER RGB 화이트 튜닝램입니다. 라이프워런티정책으로 A/S정책이 좋으며 16GB 2장 총 32GB 패키지입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "256,650원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "328,000원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+            "가격": "1,589,130원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 화이트",
+            "가격": "95,400원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "215,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+            "가격": "43,243원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3273728원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+    "cpu_score": 225,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 34625
+}

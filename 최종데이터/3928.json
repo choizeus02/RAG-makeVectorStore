@@ -1,0 +1,76 @@
+{
+    "quote_number": "3928",
+    "quote_title": "인텔 코어i9-14세대 14900K + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.3.7",
+    "cpu_gpu_combinations": "코어i9-14900K + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 인텔 코어i9-14세대 14900K + 지포스 RTX 4070 Ti SUPER# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "MSI가 파워 전문 업체가 아니라서  세계 최대의 글로벌 제조사인 CWT에서 OEM 생산을 합니다.CWT라는 회사의 종특이라고 할 수 있는 것이 압도적인 전압변동률인데 전압출렁임 없이 안정적인 시스템을 만들어 줍니다.시소닉을 유통한다고 시소닉 파워가 아니죠. 맥스엘리트는 어찌보면 MSI가 파워 유통을 훨씬 늦게 시작했죠.국립전파연구원 인증결과를 확인해 보니 Helly Technology (Guangzhou) Co.,Ltd.라는 곳에서 제조를 했다고 나오는데 생전 듣도보도 못한 곳입니다. CWT와는 하늘과 땅 차이의 수준이라고 보면 될 겁니다.https://www.rra.go.kr/ko/license/A_b_popup_keyno.do?key_no=R-R-mAX-HA-850BA2전파인증결과 주소입니다.파워는 그대로 구성하시는 것을 강추하구요.구성 문제없으니 진행하시면 되겠습니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB) x 2 개상세보기[케이스]마이크로닉스 ML-420 BTF 블랙 (빅타워)상세보기[파워서플라이]MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)상세보기[CPU쿨러]Phanteks GLACIER ONE 420 D30 (BLACK)상세보기[모니터]LG전자 32QN650상세보기[키보드+마우스 세트]로지텍코리아 MK235 Wireless Combo (정품)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "782,110원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "336,940원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,239,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 x 2 개 1TB",
+            "가격": "227,220원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 블랙",
+            "가격": "131,980원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0",
+            "가격": "144,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Phanteks GLACIER ONE 420 D30",
+            "가격": "283,540원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "LG전자 32QN650",
+            "가격": "328,430원",
+            "수량": "1"
+        },
+        "키보드+마우스 세트": {
+            "제품명": "로지텍코리아 MK235 Wireless Combo",
+            "가격": "29,900원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3965800원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB) x 2 개",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)",
+    "CPU Cooler": "Phanteks GLACIER ONE 420 D30 (BLACK)",
+    "cpu_score": 56,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 31768
+}

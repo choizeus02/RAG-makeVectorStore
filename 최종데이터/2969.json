@@ -1,0 +1,66 @@
+{
+    "quote_number": "2969",
+    "quote_title": "5600 + 4060",
+    "date_create": "2024.2.15",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 4060 조합",
+    "quotation_summary": " 5600 + 4060# 5600 + 4060",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "5600 + 4060",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]MSI B550M PRO-VDH WIFI상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4060 STORM X Dual OC D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]DARKFLASH DRX70 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU상세보기[CPU쿨러]DEEPCOOL AG400상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 여전히 가성비 게이밍 CPU로 명성이 자자한 CPU입니다.그래픽카드는 AS 1티어 업체인 이엠텍 제품은 말이 필요없습니다.SSD는 삼성 980 프로 OEM 제품으로 가성비가 좋습니다.케이스는 5만원 이하 케이스 중 전면 TYPE-C 포트를 지원하고, 그래픽카드 지지대 기본 구성에 그래픽카드 호환성도 준수한 케이스입니다.파워서플라이는 스테디셀러 파워인 마닉 풀체인지가 브론즈 등급에 AS기간도 7년으로 늘었고, 제로팬으로 정숙성도 뛰어나고 애프터쿨링으로 내구성을 높여 메리트도 높고 가격대도 좋습니다.CPU쿨러는 팔라딘 400 급 성능에 2만원 초반선의 극가성비 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI B550M PRO-VDH WIFI",
+            "가격": "127,200원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  16GB",
+            "가격": "31,990원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 STORM X Dual OC D6 8GB",
+            "가격": "554,020원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,110원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DRX70 MESH RGB 강화유리 블랙",
+            "가격": "46,110원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU",
+            "가격": "57,390원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DEEPCOOL AG400",
+            "가격": "21,700원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1115170원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "MSI B550M PRO-VDH WIFI",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 STORM X Dual OC D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU",
+    "CPU Cooler": "DEEPCOOL AG400",
+    "cpu_score": 504,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 22891
+}

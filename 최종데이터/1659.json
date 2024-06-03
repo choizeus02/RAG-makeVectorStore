@@ -1,0 +1,43 @@
+{
+    "quote_number": "1659",
+    "quote_title": "테스트",
+    "date_create": "2023.6.19",
+    "cpu_gpu_combinations": "#NAME?",
+    "quotation_summary": " 테스트# 테스트",
+    "quote_person_introduction": "견적맨 정보",
+    "quote_feedback": "테스트",
+    "computer_estimate_data": "[CPU쿨러]PentaWave Z06D (BLACK)상세보기[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기",
+    "quote_description": "CPU쿨러는 테스트",
+    "parts_price": {
+        "CPU쿨러": {
+            "제품명": "PentaWave Z06D",
+            "가격": "56,910원",
+            "수량": "1"
+        },
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK",
+            "가격": "154,407원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "147,900원",
+            "수량": "1"
+        }
+    },
+    "total_price": "886207원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)",
+    "CPU Cooler": "PentaWave Z06D (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": null
+}

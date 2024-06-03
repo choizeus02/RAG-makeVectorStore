@@ -1,0 +1,71 @@
+{
+    "quote_number": "4120",
+    "quote_title": "14700K + RTX 4060 (워크스테이션)",
+    "date_create": "2024.3.10",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 4060 조합",
+    "quotation_summary": " 14700K + RTX 4060 (워크스테이션)# 14700K + RTX 4060 (워크스테이션)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14700K + RTX 4060 (워크스테이션)",
+    "computer_estimate_data": "[CPU]인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품)상세보기[메인보드]MSI MAG B760M 박격포 맥스 WIFI상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4060 WINDFORCE OC D6 8GB 제이씨현상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)상세보기[데스크탑 HDD]Toshiba 1TB P300 HDWD110 (SATA3/7200/64M)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]발키리 A360 ARGB (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 이전 세대 대비 4코어가 늘어난  8+12코어 16+12스레드의 i7입니다.메인보드는 14페이즈 900A(75A)의 뛰어난 전원부입니다.케이스는 상단 3열 수냉 장착 가능한 가성비 좋은 케이스입니다.파워서플라이는 10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책에 뛰어난 가성비까지 겸비한 파워입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-14세대 14700K",
+            "가격": "573,850원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 맥스 WIFI",
+            "가격": "212,810원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4060 WINDFORCE OC D6 8GB 제이씨현",
+            "가격": "424,200원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 1TB",
+            "가격": "129,690원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 1TB P300 HDWD110",
+            "가격": "76,850원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 A360 ARGB",
+            "가격": "91,085원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1927065원",
+    "CPU": "인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "MSI MAG B760M 박격포 맥스 WIFI",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4060 WINDFORCE OC D6 8GB 제이씨현",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "발키리 A360 ARGB (BLACK)",
+    "cpu_score": 98,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 22891
+}

@@ -1,0 +1,66 @@
+{
+    "quote_number": "2570",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4060 Ti",
+    "date_create": "2024.2.5",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4060 Ti 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4060 Ti# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 게임용도라면 14700보다는 성능이 훨씬 더 좋은 7800X3D로 구성하는 것이 좋습니다. 인텔 최상위 CPU인 14900K보다도 대부분의 온라인 게임에서 더 높은 프레임을 보여줍니다.2. 메인보드는 화이트 방열판이 적용되어 있는 ASRock B650M Pro RS 대원씨티에스로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 32기가 2개 64기가로 구성4. 그래픽카드는 1티어 AS에 화이트 색상인 이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB로 구성5. SSD는 젠4 규격 최상위 제품이면서 가격적인 메리트도 있는 Western Digital WD BLACK SN850X M.2 NVMe (1TB)로 구성6. 케이스는 미니타워 어항케이스에서는 끝판왕이라고 할 수 있는 3RSYS S315 Quiet 리버스 화이트 (미니타워)로 구성7. 이 금액대에서는 슈퍼플라워 화이트 색상의 파워서플라이가 없습니다.파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 700W 화이트로 변경8. 어항케이스는 상단 3열 수냉쿨러를 장착해야 가장 멋진 세팅이 가능합니다. 공랭과 수냉 사이의 차이가 아주 커서 수냉쿨러로 강추하구요. 케이스와 잘 어울리는 쿨러마스터 MasterLiquid 360L Core ARGB (White)로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]3RSYS S315 Quiet 리버스 화이트 (미니타워)상세보기[파워서플라이]topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]쿨러마스터 MasterLiquid 360L Core ARGB (White)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메인보드는 B650칩셋 제품이라서 PBO와 커브옵티마이저 기능을 지원하는 제품입니다. 400A급 드라이버모스펫 구성의 전원부 성능을 가지고 있으며 기판일부와 방열판색상이 화이트라 화이트조합에 알맞습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "172,490원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  32GB",
+            "가격": "115,820원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+            "가격": "580,590원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS S315 Quiet 리버스 화이트",
+            "가격": "76,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "72,590원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "쿨러마스터 MasterLiquid 360L Core ARGB",
+            "가격": "95,810원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1880680원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "쿨러마스터 MasterLiquid 360L Core ARGB (White)",
+    "cpu_score": 225,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 22891
+}

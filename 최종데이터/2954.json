@@ -1,0 +1,76 @@
+{
+    "quote_number": "2954",
+    "quote_title": "AMD 라이젠5-5세대 7600 + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.2.14",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7600 + 지포스 RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 성능 차이가 크지 않지만 온도 차이가 커서 SFF 시스템에서는 7600X보다 아주 유리하다고 할 수 있는 7600으로 변경2. SSD는 최근에 출시된 젠4 규격의 끝판왕이라고 할 수 있는 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경나머지 부품들은 동일하게 구성했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (정품)상세보기[메인보드]ASUS ROG STRIX B650E-I GAMING WIFI STCOM상세보기[메모리]ESSENCORE KLEVV DDR5-6400 CL32 CRAS V RGB 패키지 서린 (64GB(32Gx2))상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5640/128M (WD80EAZZ, 8TB)상세보기[케이스]SSUPD MESHROOM D Snow White (리틀밸리)상세보기[파워서플라이]쿨러마스터 V850 SFX GOLD ATX 3.0 WHITE (PCIE5)상세보기[CPU쿨러]Thermalright SILVER SOUL 135 WHITE 서린상세보기[쿨러.튜닝.조명.액세서리]be quiet SHADOW WINGS 2 PWM 서린 (140mm White)상세보기[쿨러.튜닝.조명.액세서리]be quiet SHADOW WINGS 2 PWM 서린 (120mm White)상세보기[쿨러.튜닝.조명.액세서리]Thermalright TL-B9W상세보기[쿨러.튜닝.조명.액세서리]Thermalright TL-B8W 서린 x 2 개상세보기[쿨러.튜닝.조명.액세서리]Thermalright FAN HUB Controller Rev.A 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600",
+            "가격": "239,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ROG STRIX B650E-I GAMING WIFI STCOM",
+            "가격": "443,210원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-6400 CL32 CRAS V RGB 패키지 서린) 64GB",
+            "가격": "356,690원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 피씨디렉트",
+            "가격": "1,363,470원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5640/128M",
+            "가격": "175,040원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "SSUPD MESHROOM D Snow White",
+            "가격": "172,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 V850 SFX GOLD ATX 3.0 WHITE",
+            "가격": "240,480원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright SILVER SOUL 135 WHITE 서린",
+            "가격": "95,810원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "Thermalright FAN HUB Controller Rev.A 서린",
+            "가격": "10,550원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3326970원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (정품)",
+    "Motherboard": "ASUS ROG STRIX B650E-I GAMING WIFI STCOM",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-6400 CL32 CRAS V RGB 패키지 서린 (64GB(32Gx2))",
+    "Power Supply": "쿨러마스터 V850 SFX GOLD ATX 3.0 WHITE (PCIE5)",
+    "CPU Cooler": "Thermalright SILVER SOUL 135 WHITE 서린",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

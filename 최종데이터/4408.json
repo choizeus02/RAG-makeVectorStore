@@ -1,0 +1,66 @@
+{
+    "quote_number": "4408",
+    "quote_title": "인텔 코어i5-14세대 14600K + 지포스 RTX 4060",
+    "date_create": "2024.3.18",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 4060 조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14600K + 지포스 RTX 4060# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 기존 견적 부품은 고정하고 나머지 추천드리겠습니다.2. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 구성3. 4060 그래픽카드는 최대 전력 소모량이 115W로 저전력 제품이라 파워는 정격 500W면 충분한 용량이 됩니다.파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 700W로 구성4. 14600K는 공랭으로 커버가 가능하지만 지속적으로 부하가 걸리는 작업을 할 때면 아무래도 수냉의 온도 제어가 더 확실한 것은 사실입니다.대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14600K (랩터레이크 리프레시) (벌크)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4060 STORM X Dual OC D6 8GB상세보기[SSD]삼성전자 980 PRO M.2 NVMe (1TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]topower Guardian TOP-600DG 80PLUS BRONZE상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기파워서플라이는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 파워CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14600K",
+            "가격": "433,190원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "212,810원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 STORM X Dual OC D6 8GB",
+            "가격": "412,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 980 PRO M.2 NVMe 1TB",
+            "가격": "155,820원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-600DG 80PLUS BRONZE",
+            "가격": "57,100원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,340원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1539150원",
+    "CPU": "인텔 코어i5-14세대 14600K (랩터레이크 리프레시) (벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 STORM X Dual OC D6 8GB",
+    "SSD": "삼성전자 980 PRO M.2 NVMe (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-600DG 80PLUS BRONZE",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 181,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 22891
+}

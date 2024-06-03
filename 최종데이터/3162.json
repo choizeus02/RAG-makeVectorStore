@@ -1,0 +1,76 @@
+{
+    "quote_number": "3162",
+    "quote_title": "AMD 라이젠5-4세대 5600 + 지포스 RTX 4060",
+    "date_create": "2024.2.19",
+    "cpu_gpu_combinations": "코어i7-14700KF + RTX 4060 조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600 + 지포스 RTX 4060# 사무",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다. 14700KF 벌크로 변경2. 14세대 들어오면서 i7은 E코어 4개가 추가되면서 유의미한 작업 성능 향상이 있었습니다. 이로 인해서 메인보드도 전원부가 튼튼한 제품으로 구성을 해줘야 하는데요. 1440A급 출력의 드라이버 모스펫이 적용되어서 14세대와 함께 새롭게 출시된 GIGABYTE Z790 AORUS ELITE X 피씨디렉트로 변경3. 메모리는 16기가 1개가 아니라 2개로 구성해야 합니다. 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경4. 그래픽카드는 성능이 더 좋으면서도 저렴한 갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB로 변경5. 작업에 있어서 체감이 가장 크게 되는 부품이 SSD입니다. 구성한 P3는 디램리스 제품으로 속도가 많이 떨어지기도 하고 NVMe 규격에서는 가장 느린 젠3 제품이라 메인드라이브로 추천하지 않습니다.젠3 보다 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경6. HDD는 PMR방식의 원천기술을 가지고 있는 도시바의 P300으로 변경7. 구성하신 케이스는 상단 3열 수냉쿨러 장착이 불가능합니다. 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 변경8. 파워는 정격 600W 브론즈 인증 제품인 쿨러마스터 MWE 600 BRONZE V2 230V로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700KF (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB상세보기[SSD]삼성전자 PM9A1 M.2 NVMe 벌크 (1TB)상세보기[데스크탑 HDD]Toshiba 1TB P300 HDWD110 (SATA3/7200/64M)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700KF",
+            "가격": "529,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,490원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
+            "가격": "447,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M.2 NVMe 벌크 1TB",
+            "가격": "104,500원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 1TB P300 HDWD110",
+            "가격": "74,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,500원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "160,650원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1993950원",
+    "CPU": "코어i7-14세대 14700KF (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
+    "SSD": "삼성전자 PM9A1 M.2 NVMe 벌크 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 98,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 22891
+}

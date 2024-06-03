@@ -1,0 +1,71 @@
+{
+    "quote_number": "3838",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 라데온 RX 6800",
+    "date_create": "2024.3.5",
+    "cpu_gpu_combinations": "라이젠5 7500F + RX 6800 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 라데온 RX 6800# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 게임용도로는 13500은 추천을 하지 않습니다. 10% 가량 성능이 더 좋은 7500F가 훨씬 저렴한 금액대에 판매 중이라 가성비 차이가 아주 크게 납니다. 7500F로 변경2. 메인보드는 드라이버 모스펫 전원부와 히트싱크가 적용되어 있는 ASRock B650M PG Lightning 에즈윈으로 변경3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경4. 그래픽카드는 4060과는 체급이 다른 수준으로 이전 세대 하이엔급 성능인 3070 Ti 보다도 깡성능이 더 높은 넘사벽 갓성비 제품이라고 할 수 있는 XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB로 변경5. 구성하신 P31 SSD는 NVMe 규격 중에서는 속도가 가장 느린 젠3 제품입니다.젠3 보다 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경했고, 저렴한 방열판도 하나 추가했습니다.6. 케이스는 식스팬이 적용되어 있고 LED 모드 변경과 팬 속도 조절까지 가능하고 350mm VGA 장착 지원하는 갓성비 수준의 제품인 EDDY A1 MESH 강화유리 화이트 (미들타워)로 변경7. 파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 700W 화이트로 변경8. 7500F는 듀얼 타워 공랭쿨러가 필요할 만큼 온도가 높지 않습니다. 싱글타워 공랭쿨러로도 온도 제어가 충분하구요.CPU쿨러는 케이스와도 잘 어울리는 화이트 색상에 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 3RSYS Socoool RC350 ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]EDDY A1 MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]3RSYS Socoool RC350 ARGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "그래픽카드는 RTX 4070 바로 아랫 등급!\nRTX 4060 Ti보다 월등히 좋지만 더 좋은 가성비 제품!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "203,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,010원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "65,400원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB",
+            "가격": "507,420원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "EDDY A1 MESH 강화유리 화이트",
+            "가격": "39,680원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "72,590원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 ARGB",
+            "가격": "22,800원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1239920원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "3RSYS Socoool RC350 ARGB (WHITE)",
+    "cpu_score": 355,
+    "gpu_score": 25,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 25024
+}

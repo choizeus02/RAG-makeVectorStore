@@ -1,0 +1,71 @@
+{
+    "quote_number": "1422",
+    "quote_title": "7600X + RTX 4070 Ti + 화이트 감성 + QHD 게이밍 견적",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 Ti 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "HDD는 SMR 방식보다는 PMR이나 CMR 작동방식이 안정적일텐데2TB급에서는 토시바 p300 7200rpm 64mb가 거의 유일한 가성비 대체품 입니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS PRIME A620M-A 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 Ti AERO OC V2 D6X 12GB 피씨디렉트상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]DARKFLASH DK1000 MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-750F14HG LEADEX III GOLD WHITE상세보기[CPU쿨러]DARKFLASH Ellsworth S21 (화이트)상세보기[모니터]삼성전자 오디세이 G5 C32G54T상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 새로나온 가성비 CPU!\n동급 인텔대비 월등한 게이밍 성능!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 화이트중 가장 이쁜 모델!\n가성비도 좋고! 피씨디렉트라 As도 괜찮고!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "239,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A620M-A 대원씨티에스",
+            "가격": "119,100원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 Ti AERO OC V2 D6X 12GB 피씨디렉트",
+            "가격": "1,547,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,500원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK1000 MESH 강화유리 화이트",
+            "가격": "66,200원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-750F14HG LEADEX III GOLD WHITE",
+            "가격": "139,402원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21",
+            "가격": "27,120원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "삼성전자 오디세이 G5 C32G54T",
+            "가격": "301,900원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2675162원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME A620M-A 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 Ti AERO OC V2 D6X 12GB 피씨디렉트",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-750F14HG LEADEX III GOLD WHITE",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 (화이트)",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

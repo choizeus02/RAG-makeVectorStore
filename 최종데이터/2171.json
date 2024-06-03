@@ -1,0 +1,54 @@
+{
+    "quote_number": "2171",
+    "quote_title": "AMD 사무용 PC (Non-RGB)",
+    "date_create": "2024.1.17",
+    "cpu_gpu_combinations": "라이젠5 5600G +  조합",
+    "quotation_summary": " 저렴한 제품으로 가격 맞추기가 아닌 가격 대비 뛰어난 성능과 우수한 품질 A/S 등을 고려하여 견적 구성했습니다# 사무용 PC# 가정용 PC# 저렴한 PC# 간단한 문서 작업# 간단한 게임# 영상 시청# 주식",
+    "quote_person_introduction": "저렴한 제품으로 가격 맞추기가 아닌 가격 대비 뛰어난 성능과 안정성 A/S 등을 고려하여 합리적인 구매 하실 수 있도록 도움 드리겠습니다",
+    "quote_feedback": "저렴한 제품으로 가격 맞추기가 아닌 가격 대비 뛰어난 성능과 우수한 품질 A/S 등을 고려하여 견적 구성했습니다",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600G (세잔) (멀티팩)상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]아이구주 HATCH MIO블랙 (미니타워)상세보기[파워서플라이]FSP HYPER K PRO 500W 80PLUS Standard 230V EU상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 내장 그래픽 성능 뛰어나고 가성비 좋은 AMD 라이젠5-4세대 5600G 제품을 선택했습니다메인보드는 RGB 헤더와 전원부 방열판 까지 있는 가성비 메인보드 ASUS PRIME A520M-A II 제품을 선택했습니다메모리는 뛰어난 성능과 안정성을 제공하는 SK 하이닉스 칩셋을 사용하고 라이프타임 워런티까지 제공하는 ESSENCORE KLEVV DDR4-3200 CL22 제품을 선택했습니다SSD는 뛰어난 성능과 안정성을 제공하는 SK하이닉스 GOLD P31 M2 NVMe 제품을 선택했습니다케이스는 심플한 디자인과 뛰어난 품질의 아이구주 HATCH MIO 제품을 선택했습니다파워서플라이는 안정적이고 효율 뛰어난 1티어 파워 FSP HYPER K PRO 500W 80PLUS Standard 230V EU 제품을 선택했습니다",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600G",
+            "가격": "152,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "71,450원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "20,510원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "아이구주 HATCH MIO블랙",
+            "가격": "37,550원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "FSP HYPER K PRO 500W 80PLUS Standard 230V EU",
+            "가격": "58,700원",
+            "수량": "1"
+        }
+    },
+    "total_price": "439720원",
+    "CPU": "AMD 라이젠5-4세대 5600G (세잔) (멀티팩)",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "FSP HYPER K PRO 500W 80PLUS Standard 230V EU",
+    "cpu_score": 504,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": null
+}

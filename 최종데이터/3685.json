@@ -1,0 +1,71 @@
+{
+    "quote_number": "3685",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + RTX 4070 Ti SUPER",
+    "date_create": "2024.3.2",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + RTX 4070 Ti SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 파워는 세계 최대의 글로벌 제조사인 CWT에서 OEM으로 생산 압도적인 전압변동률을 제공하여 안정적인 시스템을 구축해 줄 MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)로 변경2. CPU쿨러는 동일 제품군이면서 쿨링 팬이 저소음으로 업그레이드 된 상위 제품군이라고 할 수 있는 3RSYS Socoool RC 1800 Quiet ARGB (BLACK)으로 변경최근 가격을 대폭 인하하여 가성비가 월등히 더 좋아졌습니다.3. 상단 시스템 팬은 케이스에 적용되어 있는 팬과 동일한 BRAVOTEC G140 ARGB PWM (BLACK) 2개 추가했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]BRAVOTEC GUARDIAN 3100M V2 타이탄 글래스 (빅타워)상세보기[파워서플라이]MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (BLACK)상세보기[쿨러.튜닝.조명.액세서리]BRAVOTEC G140 ARGB PWM (BLACK) x 2 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,290원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "213,420원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "317,720원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB",
+            "가격": "1,301,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "BRAVOTEC GUARDIAN 3100M V2 타이탄 글래스",
+            "가격": "86,120원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0",
+            "가격": "144,190원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "61,500원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "BRAVOTEC G140 ARGB PWM x 2 개",
+            "가격": "7,590원",
+            "수량": "2"
+        }
+    },
+    "total_price": "2885910원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

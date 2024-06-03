@@ -1,0 +1,66 @@
+{
+    "quote_number": "3915",
+    "quote_title": "14600KF + RTX 4070 SUPER (몬스타 가츠 X620A 리버스 블랙)",
+    "date_create": "2024.3.6",
+    "cpu_gpu_combinations": "코어i5-14600KF + RTX 4070 SUPER 조합",
+    "quotation_summary": " 14600KF + RTX 4070 SUPER (몬스타 가츠 X620A 리버스 블랙)# 14600KF + RTX 4070 SUPER (몬스타 가츠 X620A 리버스 블랙)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14600KF + RTX 4070 SUPER (몬스타 가츠 X620A 리버스 블랙)",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600KF (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (32GB)상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]몬스타 가츠 X620A 리버스 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]발키리 A360 ARGB (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기그래픽카드는 AS 1티어 갤럭시의 RTX 4070 SUPERSSD는 PCIE4.0 대역폭 상급 SSD파워서플라이는 10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책에 뛰어난 가성비까지 겸비한 파워입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600KF",
+            "가격": "400,150원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "212,840원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45 32GB",
+            "가격": "119,450원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "994,900원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X620A 리버스 블랙",
+            "가격": "59,510원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 A360 ARGB",
+            "가격": "91,085원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2229985원",
+    "CPU": "코어i5-14세대 14600KF (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (32GB)",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "발키리 A360 ARGB (BLACK)",
+    "cpu_score": 181,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 31768
+}

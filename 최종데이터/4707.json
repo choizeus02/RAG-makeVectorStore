@@ -1,0 +1,71 @@
+{
+    "quote_number": "4707",
+    "quote_title": "AMD 라이젠5-4세대 5600 + 지포스 RTX 4060 Ti",
+    "date_create": "2024.3.25",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 4060 Ti 조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600 + 지포스 RTX 4060 Ti# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 가성비가 더 좋은 화이트 튜닝 램인 ADATA XPG DDR4-3200 CL16 SPECTRIX D35G RGB 화이트 패키지 (16GB(8Gx2))로 변경2. 그래픽카드는 1티어 AS 중에서도 최상위면서 가격적인 메리트도 높은 이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB로 변경3. 케이스는 식스팬이 적용되어 있는 화이트 색상의 제품 중 압도적인 비주얼과 가성비를 자랑하는 1stPlayer T7-P 화이트 (미들타워)로 변경4. CPU쿨러는 싱글타워 끝판왕급 성능에 AM4 무뽑방지 세이프티 브라켓을 제공하면서 최근 3만원 대에서 만원 중후반대로 가격을 대폭인하해서 갓성비 중에서도 갓성비라고 할 수 있는 3RSYS TEAMMOST TM41 ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASRock B550M Pro SE 디앤디컴상세보기[메모리]ADATA XPG DDR4-3200 CL16 SPECTRIX D35G RGB 화이트 패키지 (16GB(8Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]1stPlayer T7-P 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]3RSYS TEAMMOST TM41 ARGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]케이엘시스템 KLcom M.2 2280 방열판 (SILVER)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현재 게임 가성비가 가장 좋은 CPUSSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD파워서플라이는 topower사의 600W 브론즈등급 화이트색상 제품입니다. A/S보증기간 7년을 제공하고 화이트 색상 제품이라 화이트감성 PC에 알맞는 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "144,380원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B550M Pro SE 디앤디컴",
+            "가격": "177,340원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR4-3200 CL16 SPECTRIX D35G RGB 화이트 패키지) 16GB",
+            "가격": "56,580원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+            "가격": "577,530원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7-P 화이트",
+            "가격": "42,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM41 ARGB",
+            "가격": "25,050원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "케이엘시스템 KLcom M.2 2280 방열판",
+            "가격": "1,260원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1218710원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASRock B550M Pro SE 디앤디컴",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "ADATA XPG DDR4-3200 CL16 SPECTRIX D35G RGB 화이트 패키지 (16GB(8Gx2))",
+    "Power Supply": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "3RSYS TEAMMOST TM41 ARGB (WHITE)",
+    "cpu_score": 504,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 22891
+}

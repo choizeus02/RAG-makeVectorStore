@@ -1,0 +1,66 @@
+{
+    "quote_number": "1663",
+    "quote_title": "5600 + RTX 4070 + FHD 풀옵션 게이밍 + QHD 풀옵션 게이밍",
+    "date_create": "2023.11.20",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 4070 조합",
+    "quotation_summary": " # 게임용# FHD 게임# QHD 게임# RTX 4070",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "150 이하라..감성이나 이런거 뺴고 4070 넣고 구성해도 150이하가 나오긴 할 겁니다.단적인 게임용도라고 본다면 메리트는 없다 봅니다.3070 TI 대비 4070이 단순 게임성능은 월등히 앞서는 부분이고전력 소비 역시 권장 650w로 750w이상인 3070 TI보다 낮은 편입니다.추가적으로 G사 B550보드라는 점이 좀 걸리는데은근 이슈가 많았던 지라;;",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME B550M-A 대원CTS상세보기[메모리]삼성전자 DDR4-3200 (16GB) PC4-25600 x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 TWIN EDGE OC D6X 12GB상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]DARKFLASH DF2100 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]FSP HYPER K PRO 700W 80PLUS Standard 230V EU상세보기[CPU쿨러]잘만 CNPS9X PERFORMA RGB (SILVER)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 가성비의 6코어 CPU!\n게이밍용으론 아직도 극한의 갓성비!메인보드는 PCie 4.0 지원!\n중저가형 메인보드중 최고의 가성비!그래픽카드는 RTX 3080 보단 못하지만 뛰어난 전성비!\nQHD 가성비로는 딱!SSD는 이천 특산물! SK 하이닉스!\nPCIe 3.0의 끝판왕!케이스는 DLX21과 똑같은 확장성!\n하지만 조금더 가성비!파워서플라이는 FSP 가성비의 새로운 모델!\n안정성 좋고 팬소음 적고!CPU쿨러는 가성비 좋고 성능 좋고!\n3만원 미만에서의 갓성비 모델!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME B550M-A 대원CTS",
+            "가격": "113,890원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "삼성전자 DDR4-3200 PC4-25600  16GB",
+            "가격": "43,310원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 TWIN EDGE OC D6X 12GB",
+            "가격": "874,950원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DF2100 MESH RGB 강화유리 블랙",
+            "가격": "81,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "FSP HYPER K PRO 700W 80PLUS Standard 230V EU",
+            "가격": "84,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 CNPS9X PERFORMA RGB",
+            "가격": "33,740원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1555860원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME B550M-A 대원CTS",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 TWIN EDGE OC D6X 12GB",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "삼성전자 DDR4-3200 (16GB) PC4-25600 x 2 개",
+    "Power Supply": "FSP HYPER K PRO 700W 80PLUS Standard 230V EU",
+    "CPU Cooler": "잘만 CNPS9X PERFORMA RGB (SILVER)",
+    "cpu_score": 504,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 31768
+}

@@ -1,0 +1,71 @@
+{
+    "quote_number": "4734",
+    "quote_title": "AMD 라이젠5-4세대 5600 +  라데온 RX 6600",
+    "date_create": "2024.3.26",
+    "cpu_gpu_combinations": "라이젠5 5600 + RX 6600 조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600 +  라데온 RX 6600# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 시스템의 색상은 한가지로 맞춰주는 것이 좋습니다. 현재 부품들 구성으로 봐서는 블랙으로 통일하는 것이 좋겠네요.2. 메인보드는 전원부 히트싱크에 램슬롯 4개가 적용되어 있는 ASUS PRIME B550M-A 대원CTS로 변경3. 메모리는 라이프타임 워런티로 삼성램 대비 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 사용해서 안정성도 높고 가격도 저렴한 ESSENCORE KLEVV DDR4-3200 CL22 (8GB) 2개 16기가로 변경4. 파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 600W로 변경5. CPU쿨러는 싱글타워 끝판왕급 성능에 케이스와도 잘 어울리고 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 PentaWave Z04E SRB ARGB로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME B550M-A 대원CTS상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[그래픽카드]ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]3RSYS J540 (미들타워)상세보기[파워서플라이]topower Guardian TOP-600DG 80PLUS BRONZE상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현재 게임 가성비가 가장 좋은 CPU메인보드는 전원부 방열판이 적용된 B550 칩셋 중 가성비가 좋은 메인보드SSD는 젠3 제품 중에서는 5년 무상AS에 성능도 좋고 가격적인 메리트도 있는 SSD케이스는 보급형 끝판왕급 제품파워서플라이는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "144,380원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME B550M-A 대원CTS",
+            "가격": "116,060원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "21,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스",
+            "가격": "265,550원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS J540",
+            "가격": "32,450원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-600DG 80PLUS BRONZE",
+            "가격": "59,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,460원",
+            "수량": "1"
+        }
+    },
+    "total_price": "932130원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME B550M-A 대원CTS",
+    "Graphic Card": "ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-600DG 80PLUS BRONZE",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 504,
+    "gpu_score": 88,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 16473
+}

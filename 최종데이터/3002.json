@@ -1,0 +1,66 @@
+{
+    "quote_number": "3002",
+    "quote_title": "코어i7-14세대 14700KF + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.2.15",
+    "cpu_gpu_combinations": "코어i7-14700KF + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 코어i7-14세대 14700KF + 지포스 RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 20코어 28스레드인 14700KF로 구성2. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부가 적용되어 있어서 안정적으로 사용할 수 있는 GIGABYTE Z790 AORUS ELITE X 피씨디렉트로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 구성4. 그래픽카드는 1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4070 Ti SUPER로 구성했습니다. 고가의 그래픽카드일수록 추가되는 2년의 무상AS는 아주 큰 메리트가 됩니다.5. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 구성6. 케이스는 5V ARGB 140mm 고성능 저소음 팬 4개를 기본장착하고 각종 편의 기능을 적용하여 완성형에 가까운 제품인 3RSYS R640 Quiet 블랙 (미들타워)로 구성8개의 팬을 제어할 수 있는 5V ARGB & PWM 허브를 제공하고 무엇보다도 현재 유통중인 케이스 중 가장 조용한 편에 속하는 제품입니다.7. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로 구성8. CPU쿨러는 최상위 성능군 1티어 제품이면서 소음은 가장 낮은 수준으로 사실상 3열 수냉쿨러 끝판왕이라고 할 수 있는 3RSYS Socoool 라니 XY-360 Quiet (BLACK)로 구성해서 케이스와 조합한 완벽한 저소음 시스템으로 만들어 봤습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700KF (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS R640 Quiet 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]3RSYS Socoool 라니 XY-360 Quiet (BLACK)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700KF",
+            "가격": "529,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,450원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,189,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,110원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS R640 Quiet 블랙",
+            "가격": "85,800원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "129,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool 라니 XY-360 Quiet",
+            "가격": "162,230원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2665150원",
+    "CPU": "코어i7-14세대 14700KF (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool 라니 XY-360 Quiet (BLACK)",
+    "cpu_score": 98,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 31768
+}

@@ -1,0 +1,60 @@
+{
+    "quote_number": "4906",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠7 7800X3D +  조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 게임 끝판왕인 7800X3D로 구성2. 메인보드는 600A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 ASRock B650M PG Riptide 대원씨티에스로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2개 32기가로 구성4. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 구성5. 케이스는 최근까지 6만원 내외로 판매중이다가 3만원 중반대로 가격을 대폭 인하하면서 가성비가 월등히 좋아진 3RSYS J700 RGB BLACK (미들타워)로 구성6. 파워는 정격 800W 골드인증 제품인 쿨러마스터 G800 GOLD로 구성해서 안정성과 가성비를 모두 챙겼습니다.7. CPU쿨러는 케이스와도 잘 어울리고 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공하는 PentaWave S06D LE ARGB로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS J700 RGB BLACK (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!파워서플라이는 안정성과 가성비를 겸비한 골드인증 800W 파워CPU쿨러는 케이스와도 잘 어울리는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "529,200원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "214,870원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,830원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,900원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS J700 RGB BLACK",
+            "가격": "39,100원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "90,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,710원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1145440원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 225,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": null
+}

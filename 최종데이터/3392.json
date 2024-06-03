@@ -1,0 +1,71 @@
+{
+    "quote_number": "3392",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.2.24",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 게임이라면 끝판왕인 7800X3D로 구성하는 것이 좋습니다.2. 메인보드는 기판까지 화이트로 제대로 된 화이트 감성을 느낄 수 있는 GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트로 구성3. 7800X3D는 100MB에 육박하는 L3 캐시 메모리로 게임을 박살내는 타입의 제품이라 메모리 클럭의 영향을 다른 CPU에 비해서 덜 받습니다. 또한 듀얼 타워 공랭쿨러로 보통 구성을 하는데 메인보드의 메모리 슬롯을 모두 덮어버려서 메모리가 보이지 않아서 화이트 튜닝 메모리로 구성하는 메리트가 크지 않습니다. QVL 리스트 지원여부와 쿨링 팬과의 간섭까지 고려를 해야 해서 보통은 규격램으로 추천을 드리는 편입니다. TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))로 변경4. 그래픽카드는 4070 Ti SUPER 성능이 더 좋아서 1티어 AS에 화이트 감성인 이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB로 변경5. 구성한 SSD인 P31은 NVMe 규격 중에서 속도가 가장 느린 젠3 제품입니다. 젠3 보다 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경6. 케이스는 최근 가장 핫한 파노라마 뷰가 적용된 압도적인 디자인과 가성비를 자랑하고 하단부 타공망 적용으로 쿨링 효율도 높였으며 C타입 포트까지 지원하는 몬스타 가츠 X520LA 화이트 (미니타워)로 변경7. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 변경8. CPU쿨러는 대장급 성능의 듀얼타워 공랭쿨러인 Thermalright Peerless Assassin 120 SE WHITE ARGB 서린으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE WHITE ARGB 서린상세보기[모니터]한성컴퓨터 TFG32Q14V 1500R 리얼 144 게이밍 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,290원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,800원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB",
+            "가격": "1,178,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,890원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "62,440원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+            "가격": "43,243원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "한성컴퓨터 TFG32Q14V 1500R 리얼 144 게이밍 무결점",
+            "가격": "314,920원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2792823원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

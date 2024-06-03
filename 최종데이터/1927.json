@@ -1,0 +1,71 @@
+{
+    "quote_number": "1927",
+    "quote_title": "고성능게이밍 no.04 5세대 7800X3D",
+    "date_create": "2024.1.26",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " 가성비짱 AMD X3D CPU입니다.ASRock B650 PG Lightning  보드는 전원부의 14+2+1 페이즈 최대840A(60A)의 뛰어난 전원부를 사용하였고 가격은 저렴하고 성능은 좋은 편입니다. ATX보드로 호환성 좋고 가격대비 성능이 좋습니다.팀그룹 메모리는 메모리 클럭이 높아서 성능도 좋고 라이프타임 워런티로 압도적인 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가를 상용하였습니다.마이크로닉스 Classic II 1050W 80PLUS GOLD 230V EU 풀모듈러 화이트로 국내 유일 무일 넘버1원 파워 입니다.따로 설명이 필요없는 매우 뛰어나고 안정적인 회사의 제품 입니다.완벽한 저소음 시스템을 만들어 줄 3RSYS Socoool RC-1800 Quiet 솔더링 (BLACK)을 사용 하였습니다.# 300만원대 게임 가성비 PC를 원하시는분# 영상편집# 게임 개발# 게임하면서 유튜를 보시는분",
+    "quote_person_introduction": "가성비와 성능을 동시에 구현하고 노력 하였습니다.제품 구성은 인기상품들로 구성되었으며 믿고 사용해도 하나도 부족하지 않는 제품들 입니다.",
+    "quote_feedback": "가성비짱 AMD X3D CPU입니다.ASRock B650 PG Lightning  보드는 전원부의 14+2+1 페이즈 최대840A(60A)의 뛰어난 전원부를 사용하였고 가격은 저렴하고 성능은 좋은 편입니다. ATX보드로 호환성 좋고 가격대비 성능이 좋습니다.팀그룹 메모리는 메모리 클럭이 높아서 성능도 좋고 라이프타임 워런티로 압도적인 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가를 상용하였습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4070 SUPER STORM X Dual OC D6X 12GB상세보기[SSD]ADATA XPG SX8200 Pro M.2 2280 코잇 (2TB)상세보기[케이스]마이크로닉스 GX1-PUNCH 강화유리 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 1050W 80PLUS GOLD 230V EU 풀모듈러 화이트12VHPWR 케이블 제공상세보기[CPU쿨러]3RSYS Socoool RC-1800 Quiet 솔더링 (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기",
+    "quote_description": "메인보드는 ASRock B650 PG Lightning  보드는 전원부의 14+2+1 페이즈 최대840A(60A)의 뛰어난 전원부를 사용하였고 가격은 저렴하고 성능은 좋은 편입니다. ATX보드로 호환성 좋고 가격대비 성능이 좋습니다.메모리는 팀그룹 메모리는 메모리 클럭이 높아서 성능도 좋고 라이프타임 워런티로 압도적인 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가를 상용하였습니다.파워서플라이는 마이크로닉스 Classic II 1050W 80PLUS GOLD 230V EU 풀모듈러 화이트로 국내 유일 무일 넘버1원 파워 입니다. \n따로 설명이 필요없는 매우 뛰어나고 안정적인 회사의 제품 입니다.CPU쿨러는 완벽한 저소음 시스템을 만들어 줄 3RSYS Socoool RC-1800 Quiet 솔더링 (BLACK)을 사용 하였습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "147,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "124,800원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 SUPER STORM X Dual OC D6X 12GB",
+            "가격": "854,660원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "ADATA XPG SX8200 Pro M.2 2280 코잇 2TB",
+            "가격": "234,000",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 GX1-PUNCH 강화유리",
+            "가격": "99,360원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 1050W 80PLUS GOLD 230V EU 풀모듈러 화이트12VHPWR 케이블 제공",
+            "가격": "199,940원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC-1800 Quiet 솔더링",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,730원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2426380원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 SUPER STORM X Dual OC D6X 12GB",
+    "SSD": "ADATA XPG SX8200 Pro M.2 2280 코잇 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "마이크로닉스 Classic II 1050W 80PLUS GOLD 230V EU 풀모듈러 화이트12VHPWR 케이블 제공",
+    "CPU Cooler": "3RSYS Socoool RC-1800 Quiet 솔더링 (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

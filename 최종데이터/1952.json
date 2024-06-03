@@ -1,0 +1,66 @@
+{
+    "quote_number": "1952",
+    "quote_title": "2023년 12월 월간견적 PC - 4K 게이밍 (인텔)",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "코어i9-14900KF + RTX 4090 조합",
+    "quotation_summary": " # 4K 게이밍# 최상위 게이밍# 끝판왕 게이밍# 월간견적# 추천견적# RTX 4090",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "2023년 12월 월간견적 PC - 4K 게이밍 (인텔)",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900KF (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 WINDFORCE V2 D6X 24GB 피씨디렉트상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DF5000-BS MESH ARGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-1300F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)상세보기[CPU쿨러]3RSYS Socoool 라니 XY 360 ARGB (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 인텔 14세대의 i9 CPU\n인텔 기준 최상위 게이밍 성능!메인보드는 고주파 관련 이슈 해결 완료!\n1000A 이상의 탄탄한 전원부!메모리는 고수율 하이닉스 A다이 언락!\n블레이드 감성의 메모리!그래픽카드는 기가바이트 가성비 제품!\nRTX 4090 중 가장 가성비!SSD는 PCie 4.0 기반 가장 빠른 SSD!\n믿음의 WD 제품!케이스는 DF 5000의 개선판!\nBTF까지 완벽 대응!파워서플라이는 슈퍼플라워의 선출고 AS! 무제한 고주파 교체!\nATX 3.0 완벽 대응!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900KF",
+            "가격": "764,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "194,120원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 WINDFORCE V2 D6X 24GB 피씨디렉트",
+            "가격": "2,910,610원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DF5000-BS MESH ARGB 강화유리 블랙",
+            "가격": "84,770원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1300F14XG LEADEX VII GOLD ATX 3.0",
+            "가격": "285,120원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool 라니 XY 360 ARGB",
+            "가격": "167,190원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4876010원",
+    "CPU": "인텔 코어i9-14세대 14900KF (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 WINDFORCE V2 D6X 24GB 피씨디렉트",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "SuperFlower SF-1300F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool 라니 XY 360 ARGB (BLACK)",
+    "cpu_score": 56,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 38694
+}

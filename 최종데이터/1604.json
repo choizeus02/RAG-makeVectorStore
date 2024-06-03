@@ -1,0 +1,71 @@
+{
+    "quote_number": "1604",
+    "quote_title": "후반 디아블로4 콜오브듀티 라이젠 7800X3D + RTX 4090 게이밍 컴퓨터 견적",
+    "date_create": "2024.3.27",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+    "quotation_summary": " 라이젠 7800X3D / RTX 4090 / RAM 32GB / SSD 1TB + HDD 4TB# 4K 게이밍# 패스오브엑자일# 콜오브듀티# 디아블로4# 최고성능",
+    "quote_person_introduction": "안녕하세요. 로카프입니다.우리 주변에는 아직 컴퓨터 견적구성을 어떻게 할 지 몰라 고민에 빠지는 분들이 많이 계십니다.성능은 괜찮을까? 고장은 나지 않을까? 가격은 괜찮은건가? 이런 고민들을 한 번쯤은 해보셨을 겁니다.용도에 알맞는 성능과 합리적인 가격, 최우선으로 안정성과 신뢰도 높은 부품들로 구성된 견적을 추천해드리겠습니다.컴퓨터를 처음 알아보시는 분들의 입장에서 생각하고 견적을 구성해드리는 견적맨이 되겠습니다.",
+    "quote_feedback": "13700K는 수랭쿨러 사용이 권장되며 메인보드는 DDR4 규격을 지원하지만 메모리는 DDR5 제품이라 호환이 불가합니다.게이밍 용도시라면 7800X3D 구성이 성능과 가격면에서 좀 더 유리하여 7800X3D + RTX 4090 기반으로 견적을 재구성해봤습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)상세보기[케이스]darkFlash DLX200 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 3D V캐시 구성으로 압도적인 게이밍 성능을 자랑하며 공랭쿨러로도 사용이 가능한 7800X3D입니다. 8코어 16쓰레드 구조로 방송하시는 데도 충분한 성능을 발휘하는 제품입니다.메인보드는 840A급 드라이버모스펫 채용으로 전원부 성능이 매우 뛰어나 라이젠 7000시리즈 어떤 CPU와도 구성 할 수 있는 제품입니다. 또한, ATX 사이즈 메인보드로 확장성 역시 매우 좋습니다.메모리는 라이프워런티정책으로 제품 단종 시까지 서비스 지원하는 팀그룹 JEDEC 표준 일반램입니다.그래픽카드는 RTX 4000번대 최상위 제품인 RTX 4090입니다. GIGABYTE 그래픽카드는 구입 후 30일 이내 홈페이지 등록 시 3년무상보증에 1년을 더 연장하여 총 4년의 무상 서비스를 제공합니다.SSD는 최대읽기속도 7,300MB/s 최대쓰기속도 6,300MB/s를 자랑하는 최상위권 PCIe 4.0 SSD인 SN850X입니다. WD BLACK SSD 대시보드를 통해 게임모드 이용 시 SSD의 저전력모드를 비활성화시켜 최고의 퍼포먼스를 발휘할 수 있습니다.데스크탑 HDD는 CMR 방식의 보다 안정적인 기록방식을 적용한 WD사의 4TB 하드디스크입니다.케이스는 CPU쿨러 최대 180mm, 그래픽카드 최대 395mm까지 호환가능하며 140mm 기본팬 4개가 제공되는 DLX200 MESH 제품입니다. 상단 커버를 분리할 수 있어 추가 팬이나 수랭쿨러 장착이 용이한 장점이 있습니다.파워서플라이는 RTX 4090의 권장파워용량 1000W를 충족하는 플래티넘등급의 슈퍼플라워 제품입니다. 12VHPWR 커넥터를 지원하며 고주파 증상에도 원활한 A/S를 받을 수 있을만큼 정책이 매우 좋습니다.CPU쿨러는 듀얼타워공랭쿨러 가운데 탁월한 쿨링성능과 정숙성을 보여주는 Peerless Assassin 120 SE 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "147,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,480원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현",
+            "가격": "2,929,490원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/256M",
+            "가격": "158,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "darkFlash DLX200 MESH RGB 강화유리 블랙",
+            "가격": "109,483원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK",
+            "가격": "205,402원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4374745원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 225,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 38694
+}

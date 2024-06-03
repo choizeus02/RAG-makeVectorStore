@@ -1,0 +1,71 @@
+{
+    "quote_number": "2111",
+    "quote_title": "AMD FHD 가성비 게이밍 PC",
+    "date_create": "2024.4.2",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 4060 조합",
+    "quotation_summary": " 1. 가격 대비 성능을 최우선으로 고려하여 견적 구성하였습니다2. A/S 평가가 좋고 품질 좋은 제품들로 구성하였습니다# AMD 게이밍 PC# FHD 게이밍 PC# 100만원 견적# 가성비",
+    "quote_person_introduction": "저렴한 제품으로 가격 맞추기가 아닌 가격 대비 뛰어난 성능과 안정성 A/S 등을 고려하여 합리적인 구매 하실 수 있도록 도움 드리겠습니다",
+    "quote_feedback": "저렴한 제품으로 가격 맞추기가 아닌 가격 대비 뛰어난 성능과 우수한 품질 A/S 등을 고려하여 견적 구성했습니다",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]GIGABYTE B550M AORUS ELITE 제이씨현상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4060 STORM X Dual OC D6 8GB상세보기[SSD]장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자상세보기[케이스]1stPlayer T7-P 블랙 (미들타워)상세보기[파워서플라이]FSP HYPER K PRO 600W 80PLUS Standard 230V EU상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현시점 압도적 가성비 1위 CPU인 AMD 라이젠5-4세대 5600 제품 추천 드립니다메인보드는 전원부 히트싱크가 갖춰져 있으며 성능 저하 없이 그래픽카드 사용하시려면 PCLe 4.0 지원하는 GIGABYTE B550M AORUS ELITE 제품 추천 드립니다메모리는 SK 자회사 제품으로 하이닉스 칩셋을 사용해 뛰어난 성능과 안정성을 제공하는 ESSENCORE KLEVV DDR4-3200 CL22 제품 추천 드립니다그래픽카드는 AS 1티어 제품인 이엠텍 지포스 RTX 4060 STORM X Dual OC D6 8GB 제품 추천 드립니다SSD는 삼성 980 PRO OEM 제품으로 뛰어난 성능에 가격까지 저렴한 PM9A1 M.2 NVMe 병행수입 제품 추천 드립니다케이스는 120MM 쿨링팬 6개 기본 제공하고 디자인, 편의성, 가격까지 어느 하나 빠지는 것 없는  1stPlayer T7-P 제품 추천 드립니다파워서플라이는 브론즈급 효율과 뛰어난 안정성을 제공하는 1티어 파워 FSP HYPER K PRO 600W 80PLUS Standard 230V EU 제품 추천 드립니다CPU쿨러는 싱글 타워 공랭 제품 최상급 성능에 가격까지 저렴한 갓성비 PentaWave Z04E SRB ARGB 제품 추천 드립니다쿨러.튜닝.조명.액세서리는 SSD 발열이 높아 방열판 추가 하셔야 하며 가격 저렴한 장우컴퍼니 JW-HTK01 M.2 방열판 추천 드립니다",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B550M AORUS ELITE 제이씨현",
+            "가격": "119,850원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  16GB",
+            "가격": "31,990원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 STORM X Dual OC D6 8GB",
+            "가격": "554,110원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 삼성전자 1TB",
+            "가격": "111,790원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7-P 블랙",
+            "가격": "39,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "FSP HYPER K PRO 600W 80PLUS Standard 230V EU",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1119320원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B550M AORUS ELITE 제이씨현",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 STORM X Dual OC D6 8GB",
+    "SSD": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "FSP HYPER K PRO 600W 80PLUS Standard 230V EU",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 504,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 22891
+}

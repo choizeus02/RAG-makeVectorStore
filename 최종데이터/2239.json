@@ -1,0 +1,66 @@
+{
+    "quote_number": "2239",
+    "quote_title": "2024년 2월 월간 견적 - 가성비 QHD 게이밍 (인텔 + RX 7800 XT)",
+    "date_create": "2024.3.4",
+    "cpu_gpu_combinations": "코어i5-13400F + RX 7800 XT 조합",
+    "quotation_summary": " # 가성비 QHD 게이밍# QHD 게이밍# 더 파이널스# 배그# TL# 쓰론 앤 리버티# AAA게임# 사이버펑크# 월간 견적# 추천 견적",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "2024년 2월 월간 견적 - 가성비 QHD 게이밍 (인텔 + RX 7800 XT)",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13400F (랩터레이크) (정품)상세보기[메인보드]ASRock B760M PG LIGHTNING D5 에즈윈상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개상세보기[그래픽카드]SAPPHIRE 라데온 RX 7800 XT PULSE D6 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DARKFLASH DK1000 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SF-700R12ST MEGA 80PLUS STANDARD 230V EU상세보기[CPU쿨러]쿨러마스터 HYPER 420S ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 인텔 13세대 i5 CPU!\nE코어가 추가된 가성비 멀티 성능 CPU!메인보드는 13500까지 커버 가능한 DDR5 기준 가성비 메인보드!\n에즈윈 유통으로 AS 정책도 매우 좋음!메모리는 하이닉스 선별 IC 제품!\n인식률 좋고 제품 안정성도 좋고!그래픽카드는 팬 깍는 장인 사파이어!\n이엠텍 유통! 신뢰의 AS!SSD는 전성비 최고의 신형 PCIe 4.0 모델!\n안정성 좋은 파이슨 E25 컨트롤러!케이스는 기본팬 풍속 조절 가능!\n그래픽카드 지지대까지 무료 증정!파워서플라이는 RTX 3060 Ti라면 권장 파워로 충분!\n고주파 무한 교체 AS의 슈퍼플라워!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13400F",
+            "가격": "251,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING D5 에즈윈",
+            "가격": "157,420원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  16GB",
+            "가격": "64,700원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "SAPPHIRE 라데온 RX 7800 XT PULSE D6 16GB",
+            "가격": "702,920원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK1000 MESH 강화유리 블랙",
+            "가격": "61,700원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SF-700R12ST MEGA 80PLUS STANDARD 230V EU",
+            "가격": "71,302원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "쿨러마스터 HYPER 420S ARGB",
+            "가격": "17,750원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1520382원",
+    "CPU": "인텔 코어i5-13세대 13400F (랩터레이크) (정품)",
+    "Motherboard": "ASRock B760M PG LIGHTNING D5 에즈윈",
+    "Graphic Card": "SAPPHIRE 라데온 RX 7800 XT PULSE D6 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개",
+    "Power Supply": "SF-700R12ST MEGA 80PLUS STANDARD 230V EU",
+    "CPU Cooler": "쿨러마스터 HYPER 420S ARGB",
+    "cpu_score": 399,
+    "gpu_score": 11,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 25232,
+    "gpu_benchmarkscore": 29006
+}

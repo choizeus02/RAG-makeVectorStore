@@ -1,0 +1,71 @@
+{
+    "quote_number": "4228",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.3.13",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4070 SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 램 타이밍이 조금 더 조여져 있어서 성능도 소폭 더 좋으면서 가격도 저렴하고 QVL리스트 지원도 하는 ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))로 변경2. 그래픽카드는 1티어 AS 중에서도 최상위면서 가격적인 메리트도 높은 이엠텍 지포스 RTX 4070 SUPER STORM X Dual OC D6X 12GB로 변경고가의 제품인 만큼 AS도 신경을 써주는 것이 좋습니다.3. SSD는 젠4 규격의 끝판왕급 제품이라고 할 수 있는 마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)로 변경4. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로 변경5. 7800X3D는 온도가 아주 낮은 편으로 어떤 수냉쿨러를 장착하더라도 온도 차이가 없는 수준이라 가격대비 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]MSI PRO B650M-A WIFI상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]이엠텍 지포스 RTX 4070 SUPER STORM X Dual OC D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)상세보기[케이스]3RSYS S406 Quiet 리버스 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[쿨러.튜닝.조명.액세서리]3RSYS ICEAGE G4 그래픽카드 지지대 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메인보드는 440A급 출력의 드라이버 모스펫과 와이파이&블루투스 모듈이 적용된 가성비 메인보드CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI PRO B650M-A WIFI",
+            "가격": "190,920원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "335,580원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 SUPER STORM X Dual OC D6X 12GB",
+            "가격": "830,320원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 1TB",
+            "가격": "129,690원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS S406 Quiet 리버스 블랙",
+            "가격": "82,090원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,340원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "3RSYS ICEAGE G4 그래픽카드 지지대",
+            "가격": "12,880원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2306330원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "MSI PRO B650M-A WIFI",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 SUPER STORM X Dual OC D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

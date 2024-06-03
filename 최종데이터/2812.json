@@ -1,0 +1,71 @@
+{
+    "quote_number": "2812",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D +  지포스 RTX 4070 SUPER",
+    "date_create": "2024.2.12",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D +  지포스 RTX 4070 SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 메인보드 QVL 리스트 지원을 하면서 시스템 컨셉과 잘 어울리는 LED가 적용되어 있는 튜닝 램인 ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))로 변경2. 추가하려는 시스템 팬은 하단부 장착의 경우 내부의 시스템 팬과 디자인이 유사한 제품으로 구성해서 깔맞춤으로 해주면 더 멋진 세팅이 됩니다.지금 추가하신 제품은 듀오 팬으로 내부에는 LED가 발광하지 않고 테두리만 LED가 적용되어 있어서 후면에 추가하고 시스템 팬 그리고 수냉쿨러 팬과 같은 디자인의 NZXT F140 RGB CORE Black (2PACK/Controller)로 변경했습니다.컨트롤러도 추가되어 있어서 내부의 팬을 동기화하기도 편합니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]NZXT H6 Flow RGB Matte Black (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]NZXT KRAKEN 360 RGB (BLACK)상세보기[쿨러.튜닝.조명.액세서리]NZXT F120 RGB CORE Black (1PACK)상세보기[쿨러.튜닝.조명.액세서리]NZXT F140 RGB CORE Black (2PACK/Controller)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "207,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "335,400원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "989,600원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "NZXT H6 Flow RGB Matte Black",
+            "가격": "202,180원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NZXT KRAKEN 360 RGB",
+            "가격": "308,710원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "NZXT F140 RGB CORE Black",
+            "가격": "33,490원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2849700원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "NZXT KRAKEN 360 RGB (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

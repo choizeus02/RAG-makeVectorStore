@@ -1,0 +1,71 @@
+{
+    "quote_number": "4197",
+    "quote_title": "AMD 라이젠5-5세대 7600 + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.3.12",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7600 + 지포스 RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 파워는 세계 최대의 글로벌 제조사인 CWT에서 OEM 생산 압도적인 전압변동률을 제공하여 전압 출렁임 없이 안정적인 시스템을 만들어 줄 MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)로 변경4070 Ti SUPER 정도면 넉넉히 사용할 수 있도록 850W 정도는 구성하는 것이 좋습니다.2. 케이스에 LED가 적용되어 있어서 케이스와도 잘 어울리는 대장급 성능의 듀얼타워 공랭쿨러로 압도적인 가성비를 제공하는 PentaWave S06D LE ARGB로 변경3. M.2 방열판은 히트파이프가 적용되어 있어서 냉각 성능이 더 좋고 가격도 저렴한 엠스톤 M.2 SSD 히트파이프 방열판 (블랙)으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DRX70 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[쿨러.튜닝.조명.액세서리]엠스톤 M.2 SSD 히트파이프 방열판 (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라파엘 논X 제품의 막내로 높은 전성비와 게임 성능으로 DDR5 시스템 가성비 게이밍 라인의 최강자 CPUCPU쿨러는 케이스와도 잘 어울리는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "234,070원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,010원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "335,580원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,239,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DRX70 MESH RGB 강화유리 블랙",
+            "가격": "46,050원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0",
+            "가격": "144,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,060원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "엠스톤 M.2 SSD 히트파이프 방열판",
+            "가격": "4,900원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2421890원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

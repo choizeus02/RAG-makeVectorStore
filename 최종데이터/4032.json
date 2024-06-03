@@ -1,0 +1,71 @@
+{
+    "quote_number": "4032",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + RTX 4070 SUPER",
+    "date_create": "2024.3.9",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + RTX 4070 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 7800X3D는 100MB에 육박하는 L3 캐시메모리로 게임을 박살 내는 타입의 제품이라 다른 CPU에 비해서 메모리 클럭의 영향을 덜 받습니다. 즉 5600MHz 규격램이나 6000MHz 튜닝램이나 체감이 안된다는 말이구요.또한 듀얼타워 공랭쿨러로 대부분 조립을 할텐데 메인보드 메모리 슬롯을 덮어버려서 메모리가 보이지 않습니다. RGB가 적용된 튜닝 메모리로 구성하더라도 쿨러때문에 메리트가 많이 떨어지구요. 특히나 구성한 팀그룹처럼 높이가 높은 방열판이 적용되어 있는 경우는 쿨링팬을 공랭쿨러 히트싱크보다 높이 달아야 간섭이 생기지 않기 때문에 미관상으로도 보기가 안좋습니다.메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경2. 그래픽카드는 1티어에 준하는 AS를 제공하는 화이트 색상의 제품인 inno3D 지포스 RTX 4070 SUPER OC D6X 12GB TWIN X2 WHITE로 변경3. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경4. 케이스는 구성하신 몬스타 가츠 X620A 리버스 (미들타워)의 경우 상단에 3열 수냉쿨러를 장착해야 가장 멋진 세팅이 가능한 제품입니다. 공랭쿨러로 조립할 생각이라면 X620A가 아니라 비주얼로는 더 이쁜 편인 몬스타 가츠 X520LA 화이트 (미들타워)로 구성하는 것이 좋습니다.5. CPU쿨러는 싱글타워로는 7800X3D 온도 잡기가 어렵습니다. 최상위 성능의 듀얼타워 공랭쿨러로 소음도 아주 낮은 수준이고 최근 가격을 대폭 인하하여 갓성비가 된 3RSYS Socoool RC 1800 Quiet ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]inno3D 지포스 RTX 4070 SUPER OC D6X 12GB TWIN X2 WHITE상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "256,640원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "inno3D 지포스 RTX 4070 SUPER OC D6X 12GB TWIN X2 WHITE",
+            "가격": "903,920원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "61,940원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "61,500원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2335120원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "inno3D 지포스 RTX 4070 SUPER OC D6X 12GB TWIN X2 WHITE",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

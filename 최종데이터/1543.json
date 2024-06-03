@@ -1,0 +1,71 @@
+{
+    "quote_number": "1543",
+    "quote_title": "QHD 배틀그라운드 풀옵션 프레임 완전방어 컴퓨터(7600, RTX 4080)",
+    "date_create": "2023.10.10",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 4060 Ti 조합",
+    "quotation_summary": " 1. QHD 해상도 모니터를 사용하시는 분2. 프레임 완전 방어를 목표로 PC 구성을 원하시는 분3. 오로지 게임을 위한 PC를 구하시는 분# 배틀그라운드# QHD# 디아블로 4",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 견적맨으로 활동하고 있는 coke-bear 입니다.퀘이사존에서 주로 활동하며 그 외 커뮤니티에서도 간간히 활동하고 있습니다.하드웨어에 관심이 많아 제품을 직접 사용해보기도 하고 주변 지인들 PC 견적부터 조립도 해주다보니PC 구매를 어려워하거나 용도에 맞지 않게 구매하여 불필요한 지출을 하는 경우를 보게 되었습니다.그런 분들께 조금이라도 도움이 되고자 PC 구매자분들께 합리적인 구매를 할 수 있게 견적맨으로 활동하게 되었습니다.",
+    "quote_feedback": "QHD 해상도에서 배틀그라운드 완전 프레임 방어를 위해 4080 그래픽카드를 탑재한 게이밍 PC 입니다.그래픽카드의 우월한 성능으로 CPU를 가성비 있게 7600 CPU와 A620 메인보드로 구성하였습니다.4080 그래픽카드의 병목이 없는 선에서 구성 가능한 7600 CPU로 구성하여 FHD 해상도에서도 풀프레임으로 쾌적하게 즐기실 수 있습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME B550M-A 대원CTS상세보기[메모리]마이크론 Crucial DDR4-3200 CL22 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]DARKFLASH DK260 Air MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]DARKFLASH Ellsworth S21 ARGB (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "케이스는 다크 플래쉬의 DK 260 AIR 미들타워 제품입니다. 가격 대비 강판 두께나 기본팬 성능이 출중한 편입니다.CPU쿨러는 다크플래쉬의 s21 쿨러입니다.\n기본 무뽑방지가 적용되어 있고 더 높은 가격대의 팔라딘이나 rc400 이랑 쿨링 성능이 동일하고 소음 부분에서는 더 정숙하여 가성비가 좋습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME B550M-A 대원CTS",
+            "가격": "113,890원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4-3200 CL22  16GB",
+            "가격": "41,250원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+            "가격": "538,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,500원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "97,250원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK260 Air MESH RGB 강화유리 블랙",
+            "가격": "50,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21 ARGB",
+            "가격": "27,120원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1229810원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME B550M-A 대원CTS",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "마이크론 Crucial DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 ARGB (블랙)",
+    "cpu_score": 504,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 22891
+}

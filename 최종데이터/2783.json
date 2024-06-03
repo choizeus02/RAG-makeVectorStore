@@ -1,0 +1,71 @@
+{
+    "quote_number": "2783",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4090",
+    "date_create": "2024.2.11",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4090# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 튼튼한 전원부와 기판까지 화이트로 제대로 된 화이트 감성을 느낄 수 있는 GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트로 구성2. 메모리는 화이트 컨셉에 가장 잘 어울리는 TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))로 구성3. 그래픽카드는 화이트 컨셉의 1티어 제품인 GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트로 구성4. SSD는 젠4 규격의 끝판왕이라고 할 수 있는 마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB)로 구성5. 케이스는 원하시는 리안리 PC-O11D EVO XL White (미들타워)로 구성했습니다.리안리 PC-O11 VISION White (빅타워)은 상단까지 막혀있어서 쿨링 효율을 기대하기 어려운 제품이고 시스템 팬도 하단밖에는 추가가 불가능합니다.6. 파워는 1000W 용량의 화이트 컨셉 제품인 SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)로 구성7. CPU쿨러는 발키리와 동일한 성능군에 있으면서 소음은 가장 낮은 수준으로 사실상 3열 수냉쿨러의 끝판왕이라고 할 수 있는 3RSYS Socoool 라니 XY-360 Quiet (WHITE)로 구성8. 측면과 하단에 장착할 시스템 팬은 디자인을 해치지 않는 리버스 팬으로 구성해서 튜닝을 극대화했고 5V ARGB HUB도 하나 추가했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB)상세보기[케이스]리안리 PC-O11D EVO XL White (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]3RSYS Socoool 라니 XY-360 Quiet (WHITE)상세보기[쿨러.튜닝.조명.액세서리]3RSYS Silence GI 120 리버스 (WHITE) x 6 개상세보기[쿨러.튜닝.조명.액세서리]3RSYS Silence GI 120 ARGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]쿨러텍 FANHUB-8상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스) 32GB",
+            "가격": "335,600원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+            "가격": "2,933,890원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 2TB",
+            "가격": "217,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "리안리 PC-O11D EVO XL White",
+            "가격": "36,680원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "215,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool 라니 XY-360 Quiet",
+            "가격": "162,230원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "쿨러텍 FANHUB-8",
+            "가격": "4,190원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4732885원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "3RSYS Socoool 라니 XY-360 Quiet (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 38694
+}

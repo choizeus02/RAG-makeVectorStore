@@ -1,0 +1,66 @@
+{
+    "quote_number": "3659",
+    "quote_title": "AMD 라이젠9-5세대 7900 + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.3.1",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7900 + 지포스 RTX 4070 SUPER# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 7900X의 경우 온도가 높아서 3열 수냉쿨러를 강제하고 더 좋은 메인보드를 사용해야 해서 가성비가 많이 떨어집니다.성능 차이가 크지 않으면서 압도적인 전성비로 부품 구성이 아주 자유로운 편인 7900으로 변경2. 메인보드는 600A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 ASRock B650M PG Riptide 대원씨티에스로 변경3. 메모리의 경우 삼성과 마이크론 램은 최근 불량 이슈가 크게 났던 제품들이라 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경4. 그래픽카드는 1티어 AS에 가격적인 메리트도 높은 갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB로 변경5. 케이스는 고성능 저소음 5V ARGB 140mm 팬 4개를 기본 장착하고 C타입 포트 등 각종 편의 기능을 적용한 완성형에 가까운 3RSYS L610 Quiet (블랙)으로 변경10개의 팬을 제어할 수 있는 5V ARGB & PWM 허브를 제공하고 무엇보다도 현재 유통 중인 케이스 중 가장 조용한 편에 속합니다.기본 HDD 장착은 3개이며 스토리지 파츠 추가시 최대 11개까지 장착할 수 있어서 많은 HDD를 장착할 때 유용한 케이스기도 합니다.6. 4070 SUPER는 정격 700W를 권장파워로 요구하는 그래픽카드인지라 1050W의 용량이 필요하지는 않습니다.파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로 변경7. CPU쿨러는 RC1800 동일 제품군 중 성능은 높으면서 소음은 아주 낮고 최근 가격도 대폭 인하해서 가성비가 월등히 좋아진 3RSYS Socoool RC 1800 Quiet ARGB (BLACK)로 변경케이스와 조합시 완벽한 저소음 시스템이 됩니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]마이크론 Crucial T500 히트싱크 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]3RSYS L610 Quiet (블랙)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 압도적인 전성비로 인한 말도 안되는 낮은 온도의  12코어 24쓰레드 CPU\n온도 제어가 힘든 고성능 CPU에 있어서 가성비 공랭 CPU쿨러로 온도 제어가 가능한 별종인 제품",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "523,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "213,420원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "994,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 히트싱크 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "256,010원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L610 Quiet",
+            "가격": "88,300원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "47,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2373440원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "마이크론 Crucial T500 히트싱크 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (BLACK)",
+    "cpu_score": 107,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 31768
+}

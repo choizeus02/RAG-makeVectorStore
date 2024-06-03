@@ -1,0 +1,76 @@
+{
+    "quote_number": "3501",
+    "quote_title": "96코어 192스레드의 워크스테이션",
+    "date_create": "2024.4.9",
+    "cpu_gpu_combinations": "라이젠 스레드리퍼 PRO 7995WX (스톰 픽) + A6000 조합",
+    "quotation_summary": " 1. 가격 상관없이 국내 정식 유통되는 부품들로 구성된 워크스테이션을 구입하길 희망하는 분들께2. 호환 걱정안해도되는 확실한 조합 구성을 선물로 드립니다.# 국내에서 구매 가능한 초고성능 워크스테이션을 찾는 분들께",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "자세한 설명이 필요할까 싶은 금액대부터 남다른 워크스테이션 구성입니다.단순 서버부터 클라우드, 머신러닝 등 모든 영역에 활용 가능합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠 스레드리퍼 PRO 7995WX (스톰 픽) (멀티팩(정품))상세보기[메인보드]ASUS PRO WS TRX50-SAGE WiFi 대원씨티에스상세보기[메모리]G.SKILL DDR5-6400 CL32 ZETA R5 NEO ECC/REG 패키지 (192GB(48Gx4)) x 4 개상세보기[그래픽카드]NVIDIA RTX A6000 D6 48GB (병행수입)상세보기[SSD]마이크론 Crucial T700 M.2 NVMe 대원씨티에스 (4TB)상세보기[데스크탑 HDD]Western Digital WD RED Pro 7200/512M (WD201KFGX, 20TB)상세보기[케이스]커세어 CORSAIR iCUE 7000X RGB BLACK (빅타워)상세보기[파워서플라이](SuperFlower) SF-2000F14HP LEADEX PLATINUM /파워상세보기[CPU쿨러]NOCTUA NH-U14S TR5-SP6상세보기[쿨러.튜닝.조명.액세서리]ARCTIC P14 PWM PST 피씨디렉트 (black/black) x 7 개상세보기[쿨러.튜닝.조명.액세서리]Thermalright FAN HUB Controller Rev.A 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 말할 것 없는 워크스테이션용 CPU 최강의 제품메인보드는 국내에서 정식 유통되는 TRX50 소켓 제품중 1티어메모리는 기존 64GB 패키지 품절로 192GB 패키지로 변경합니다.그래픽카드는 A6000 정식유통 제품 재고가없어서 병행으로 교체됐습니다.SSD는 국가권력급 게이밍 PC 구성이라면 SSD마저도 최고의 성능으로데스크탑 HDD는 믿고 쓰는 WD RED 20TB, 데이터도 확실하게케이스는 여유있는 사이즈로 추후 A6000 2Way 이상 구성도 가능한 케이스파워서플라이는 향후 확장성을 고려한 넉넉한 용량CPU쿨러는 TRX50에 사용가능한 공랭 제품쿨러.튜닝.조명.액세서리는 시스템팬 사용을 위한 허브조립PC관련는 -",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠 스레드리퍼 PRO 7995WX)",
+            "가격": "14,733,870원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRO WS TRX50-SAGE WiFi 대원씨티에스",
+            "가격": "1,302,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6400 CL32 ZETA R5 NEO ECC/REG 패키지) x 4 개 192GB",
+            "가격": "1,880,000원",
+            "수량": "4"
+        },
+        "그래픽카드": {
+            "제품명": "NVIDIA RTX A6000 D6 48GB",
+            "가격": "6,980,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T700 M.2 NVMe 대원씨티에스 4TB",
+            "가격": "320,850원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD RED Pro 7200/512M",
+            "가격": "859,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "커세어 CORSAIR iCUE 7000X RGB BLACK",
+            "가격": "439,830원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SF-2000F14HP LEADEX PLATINUM /파워",
+            "가격": "631,070원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NOCTUA NH-U14S TR5-SP6",
+            "가격": "203,290원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "Thermalright FAN HUB Controller Rev.A 서린",
+            "가격": "10,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "33001690원",
+    "CPU": "AMD 라이젠 스레드리퍼 PRO 7995WX (스톰 픽) (멀티팩(정품))",
+    "Motherboard": "ASUS PRO WS TRX50-SAGE WiFi 대원씨티에스",
+    "Graphic Card": "NVIDIA RTX A6000 D6 48GB (병행수입)",
+    "SSD": "마이크론 Crucial T700 M.2 NVMe 대원씨티에스 (4TB)",
+    "Memory": "G.SKILL DDR5-6400 CL32 ZETA R5 NEO ECC/REG 패키지 (192GB(48Gx4)) x 4 개",
+    "Power Supply": "(SuperFlower) SF-2000F14HP LEADEX PLATINUM /파워",
+    "CPU Cooler": "NOCTUA NH-U14S TR5-SP6",
+    "cpu_score": 0,
+    "gpu_score": 14,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 154674,
+    "gpu_benchmarkscore": 28212
+}

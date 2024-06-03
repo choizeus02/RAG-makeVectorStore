@@ -1,0 +1,48 @@
+{
+    "quote_number": "4762",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D",
+    "date_create": "2024.3.27",
+    "cpu_gpu_combinations": "#NAME?",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "조립 가능하고 호환도 문제없습니다.부품을 변경해드리고 싶지만 조립과 호환 여부만 확인해 드렸습니다.참고하시기 바랍니다.",
+    "computer_estimate_data": "[메인보드]ASUS TUF GAMING B650M-PLUS WIFI 대원씨티에스상세보기[메모리]SK하이닉스 DDR5-5600 (16GB) x 2 개상세보기[케이스]BRAVOTEC SWORD S830 RGB 타이탄 글래스 블랙 (빅타워)상세보기[파워서플라이]시소닉 FOCUS GOLD GM-750 Modular상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "메인보드": {
+            "제품명": "ASUS TUF GAMING B650M-PLUS WIFI 대원씨티에스",
+            "가격": "322,680원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "SK하이닉스 DDR5-5600  16GB",
+            "가격": "70,060원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "BRAVOTEC SWORD S830 RGB 타이탄 글래스 블랙",
+            "가격": "57,040원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "시소닉 FOCUS GOLD GM-750 Modular",
+            "가격": "133,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,480원",
+            "수량": "1"
+        }
+    },
+    "total_price": "691320원",
+    "Motherboard": "ASUS TUF GAMING B650M-PLUS WIFI 대원씨티에스",
+    "Memory": "SK하이닉스 DDR5-5600 (16GB) x 2 개",
+    "Power Supply": "시소닉 FOCUS GOLD GM-750 Modular",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": null,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": null,
+    "gpu_benchmarkscore": null
+}

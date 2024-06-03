@@ -1,0 +1,66 @@
+{
+    "quote_number": "2326",
+    "quote_title": "AMD 라이젠5-4세대 5600 + 지포스 RTX 3050",
+    "date_create": "2024.1.31",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 3050 조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600 + 지포스 RTX 3050# 사무",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 80만원 정도라면 구성 자체를 대폭 수정해야 합니다.우선은 CPU와 메인보드는 호환이 되지 않습니다. 7500F로 구성한다면 견적 금액을 맞추는 것이 불가능합니다. CPU는 게임 가성비가 가장 좋은 5600으로 변경2. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 사용해서 안정성도 높고 가격도 저렴한 ESSENCORE KLEVV DDR4-3200 CL22 (8GB) 2개 16기가로 변경3. 그래픽카드는 금액대 내에서 구성이 가능한 화이트 색상의 갤럭시 갤라즈 GALAX 지포스 RTX 3050 EX WHITE OC D6 8GB로 변경4. 현재 시스템이 젠3 SSD만 지원을 합니다. P5 Plus로 구성해도 속도는 반토막이 나게 됩니다.5년 무상AS의 갓성비 젠3 제품인 ESSENCORE KLEVV CRAS C730 M.2 NVMe (1TB)로 변경읽기속도 : 3,700(MB/s) / 쓰기속도 : 2,800(MB/s)로 최고 수준의 성능이면서 디램 버퍼 메모리가 적용되어 있습니다.5. 케이스는 사이즈를 줄여놓은 핑크 컨셉의 제품인 DARKFLASH DLM21 RGB MESH 강화유리 핑크 (미니타워)로 변경6. 파워도 핑크 색상의 제품이 있습니다. Classic II 650W 80PLUS Bronze 230V EU HDB PINK로 변경7. CPU쿨러도 핑크 색상인 DARKFLASH Ellsworth S11 PRO ARGB (핑크)로 변경해서 최대한 화이트&핑크 컨셉을 고려했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[그래픽카드]갤럭시 갤라즈 GALAX 지포스 RTX 3050 EX WHITE OC D6 8GB상세보기[SSD]ESSENCORE KLEVV CRAS C730 M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DLM21 RGB MESH 강화유리 핑크 (미니타워)상세보기[파워서플라이]Classic II 650W 80PLUS Bronze 230V EU HDB PINK상세보기[CPU쿨러]DARKFLASH Ellsworth S11 PRO ARGB (핑크)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현재 게임 가성비가 가장 좋은 CPU",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "71,450원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "20,510원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 갤라즈 GALAX 지포스 RTX 3050 EX WHITE OC D6 8GB",
+            "가격": "313,020",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "ESSENCORE KLEVV CRAS C730 M.2 NVMe 1TB",
+            "가격": "157,840원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLM21 RGB MESH 강화유리 핑크",
+            "가격": "59,030원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "Classic II 650W 80PLUS Bronze 230V EU HDB PINK",
+            "가격": "64,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S11 PRO ARGB",
+            "가격": "28,710원",
+            "수량": "1"
+        }
+    },
+    "total_price": "878730원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "Graphic Card": "갤럭시 갤라즈 GALAX 지포스 RTX 3050 EX WHITE OC D6 8GB",
+    "SSD": "ESSENCORE KLEVV CRAS C730 M.2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "Classic II 650W 80PLUS Bronze 230V EU HDB PINK",
+    "CPU Cooler": "DARKFLASH Ellsworth S11 PRO ARGB (핑크)",
+    "cpu_score": 504,
+    "gpu_score": 153,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 12885
+}

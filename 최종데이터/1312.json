@@ -1,0 +1,60 @@
+{
+    "quote_number": "1312",
+    "quote_title": "13900K + 개발자 작업용",
+    "date_create": "2023.9.19",
+    "cpu_gpu_combinations": "코어i9-13900K +  조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "https://www.ppomppu.co.kr/zboard/view.php?id=pc_consult&page=1&divpage=4&no=18601어떤 작업툴을 돌리는지 알아야 답변이 가능 할 듯 합니다.DDR5로 4장을 모두 장착하는 경우에는 성능저하가 발생하는 부분이나DDR4보다 클럭이 더 높게 작동하는 부분으로성능은 더 좋을 듯 합니다 ^^13세대 기준 인텔 논K 제품과 K 제품군 간 격차가 크게 발생하는 부분으로13600K > 13900 > 13700 순으로 성능 격차가 있는 부분이니i7 혹은 i9급으로 구성하시는 경우에는 K 모델로 구성하시는걸 추천드리며발열 역시 상당히 높은 부분으로 수냉이 권장 됩니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i9-13세대 13900K (랩터레이크) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 4 개상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]FSP HYPER K PRO 600W 80PLUS Standard 230V EU상세보기[CPU쿨러]DARKFLASH Twister DX-360 V2.6 ARGB (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메인보드는 기가바이트가 실수한 제품! 완벽한 갓성비!\n500w까지는 충분히 버티는 전원부!메모리는 하이닉스 A다이 언락 모델!\n인식률 / 수율 최상! 안정성도 최상!케이스는 구관이 명관!\n베스트셀러 케이스!파워서플라이는 FPS 가성비 파워!\n동급 기준 최고의 선택지!CPU쿨러는 크라켄과 동급 성능!\n케이스와의 깔맞춤!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-13세대 13900K",
+            "가격": "809,880원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE 피씨디렉트",
+            "가격": "337,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE x 4 개 32GB",
+            "가격": "123,900원",
+            "수량": "4"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "FSP HYPER K PRO 600W 80PLUS Standard 230V EU",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Twister DX-360 V2.6 ARGB",
+            "가격": "134,890원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2102600원",
+    "CPU": "인텔 코어i9-13세대 13900K (랩터레이크) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE 피씨디렉트",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 4 개",
+    "Power Supply": "FSP HYPER K PRO 600W 80PLUS Standard 230V EU",
+    "CPU Cooler": "DARKFLASH Twister DX-360 V2.6 ARGB (블랙)",
+    "cpu_score": 67,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 61879,
+    "gpu_benchmarkscore": null
+}

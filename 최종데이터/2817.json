@@ -1,0 +1,71 @@
+{
+    "quote_number": "2817",
+    "quote_title": "7800X3D + 4070 Ti Super 화이트 게이밍",
+    "date_create": "2024.2.12",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " 7800X3D + 4070 Ti Super 화이트 게이밍# 7800X3D + 4070 Ti Super 화이트 게이밍",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7800X3D + 4070 Ti Super 화이트 게이밍",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]앱코 G20 에픽 강화유리 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE WHITE ARGB 서린상세보기[쿨러.튜닝.조명.액세서리]DARKFLASH DL240 ARGB 그래픽카드 지지대 (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7000번대 3D 모델 주인공인 7800X3D입니다. 순정 상태에서 13900KS를 넘어서는 뛰어난 게임 성능과 뛰어난 전성비가 장점입니다.메인보드는 실버계열 방열판과 Dr.MOS 전원부가 탑재된 가성비 좋은 보드입니다.메모리는 갓서린에서 유통하는 팀그룹 DDR5 5600 클럭 메모리입니다.그래픽카드는 AS 1티어 이엠텍의 RTX 4070 SUPER입니다.SSD는 PCIe4.0 최상급 성능의 SSD입니다.파워서플라이는  10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책도 동일하고 가격대도 좋은 파워입니다.CPU쿨러는 써멀리아트의 대장급 공랭입니다. 화이트 감성과 정숙성을 원하시는 분들에게 추천드립니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "172,490원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,450원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB",
+            "가격": "905,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "앱코 G20 에픽 강화유리 화이트",
+            "가격": "39,900원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+            "가격": "43,243원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "DARKFLASH DL240 ARGB 그래픽카드 지지대",
+            "가격": "17,650원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2080003원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

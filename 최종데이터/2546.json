@@ -1,0 +1,66 @@
+{
+    "quote_number": "2546",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090",
+    "date_create": "2024.2.5",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090# 사무",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 현존 끝판왕이라고 할 수 있는 7950X3D로 구성2. 메인보드는 상위 X670 칩셋 중에서는 압도적인 가성비를 제공하는 ASUS PRIME X670-P-CSM 대원씨티에스로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 32기가 2개 64기가로 구성4. 그래픽카드는 화이트 컨셉의 1티어 제품이면서 현재 성능이 가장 좋은 GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트로 구성5. SSD는 젠4 규격의 끝판왕인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 구성6. 케이스는 5V ARGB 고성능 저소음 140mm 시스템 팬을 장착하고 최대 11개의 HDD(스토리지 파츠 구매 시)를 장착할 수 있는 완성형에 가까운 3RSYS L610 Quiet (화이트)로 구성11개 HDD 장착을 지원하지만 거대한 그래픽카드가 HDD 베이 부분을 지나게 되면서 아래 부분은 사실상 사용이 안된다고 보고 7개 정도가 맥시멈이라고 생각하면 되겠습니다. 어차피 메인보드에서도 6개의 사타 포트만 지원을 해서 충분하실 겁니다.7. 파워는 화이트 컨셉에 1000W 고용량 제품인 SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)로 구성8. CPU쿨러는 최상위 성능이면서 소음은 가장 낮은 수준으로 추천드린 케이스와 한세트 인것 처럼 잘 어울리는 극저소음 시스템을 완성시켜 줄 3RSYS Socoool 라니 XY-360 Quiet (WHITE)로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS PRIME X670-P-CSM 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]3RSYS L610 Quiet (화이트)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]3RSYS Socoool 라니 XY-360 Quiet (WHITE)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "892,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME X670-P-CSM 대원씨티에스",
+            "가격": "403,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  32GB",
+            "가격": "115,830원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+            "가격": "2,933,900원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L610 Quiet",
+            "가격": "88,300원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "215,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool 라니 XY-360 Quiet",
+            "가격": "162,230원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5157615원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME X670-P-CSM 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "3RSYS Socoool 라니 XY-360 Quiet (WHITE)",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

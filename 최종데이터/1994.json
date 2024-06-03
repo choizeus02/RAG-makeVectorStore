@@ -1,0 +1,66 @@
+{
+    "quote_number": "1994",
+    "quote_title": "2024년 1월 월간 견적 - 상급 FHD 게이밍 (AMD",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4060 Ti 조합",
+    "quotation_summary": " # FHD 최상급 게이밍# FHD 게이밍# 로아# 디아4# 배그# AAA게임# 더 파이널스# 풀옵션# 월간견적# 추천견적",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "2024년 1월 월간 견적 - 상급 FHD 게이밍 (AMD",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock A620M-HDV/M.2+ 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]DAVEN D6 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]DARKFLASH SAVEMOST 700W 80PLUS STANDARD상세보기[CPU쿨러]DEEPCOOL AG400상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 7600 이랑 2-3% 성능차이\n거의 동급 수준의 가성비 게이밍 CPU!메인보드는 7900까지 충분히 커버 가능한 탄탄한 전원부!\nA620에서 M.2 3장을 사용 할 수 있는 갓성비!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 RTX 3060 Ti 대비 큰 성능차이는 없으나\n더욱 뛰어난 전성비!SSD는 PCie 4.0 기반 가장 빠른 SSD!\n믿음의 WD 제품!케이스는 LED On/Off가 가능한 가성비 케이스!파워서플라이는 가성비 700w 모델!\n새제품 교환 정책까지!CPU쿨러는 3만원 미만 공냉쿨러는 AG400으로!\n가장 좋은 성능의 가성비 공냉 쿨러!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock A620M-HDV/M.2+ 에즈윈",
+            "가격": "108,511원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+            "가격": "539,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D6 MESH 강화유리 블랙",
+            "가격": "36,900원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH SAVEMOST 700W 80PLUS STANDARD",
+            "가격": "61,700원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DEEPCOOL AG400",
+            "가격": "21,740원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1234311원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock A620M-HDV/M.2+ 에즈윈",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "DARKFLASH SAVEMOST 700W 80PLUS STANDARD",
+    "CPU Cooler": "DEEPCOOL AG400",
+    "cpu_score": 355,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 22891
+}

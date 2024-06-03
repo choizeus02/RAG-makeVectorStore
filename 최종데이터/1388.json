@@ -1,0 +1,71 @@
+{
+    "quote_number": "1388",
+    "quote_title": "7950x3d + RTX 4090 + 최고사양 + ROG 감성",
+    "date_create": "2023.5.4",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "CPU쿨러도 달아야 하는 부분이고케이스 너무 오버페이 아닌가 봅니다...솔찍히 이정도까지 정말 필요한가.. 도 의문이기는 하구요..(저 케이스는 일반 수냉보다는 커수용이라 케이스 조금 더 작은거 추천드립니다)그냥 깔맞춤 감성까지 한다고 하면 크라켄 수냉도 넣고팬도 깔맞춤 하는거 추천드립니다.메모리는 QVL 있는걸로 구성한 부분입니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]ASUS ROG CROSSHAIR X670E HERO 대원씨티에스상세보기[메모리]G.SKILL DDR5-6000 CL32 TRIDENT Z5 NEO RGB J 패키지 (64GB(32Gx2))상세보기[그래픽카드]ASUS ROG STRIX 지포스 RTX 4090 O24G GAMING OC D6X 24GB상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (2TB) x 2 개상세보기[케이스]NZXT H9 Elite Matte Black (미들타워)상세보기[파워서플라이]맥스엘리트 MAXWELL DUKE 1300W 80PLUS PLATINUM 풀모듈러 ATX 3.0상세보기[CPU쿨러]NZXT KRAKEN 360 RGB (BLACK)상세보기[쿨러.튜닝.조명.액세서리]NZXT F120 RGB CORE Black (1PACK) x 7 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "893,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ROG CROSSHAIR X670E HERO 대원씨티에스",
+            "가격": "1,044,660원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL32 TRIDENT Z5 NEO RGB J 패키지) 64GB",
+            "가격": "338,539원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ASUS ROG STRIX 지포스 RTX 4090 O24G GAMING OC D6X 24GB",
+            "가격": "3,479,370원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe x 2 개 2TB",
+            "가격": "289,000원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "NZXT H9 Elite Matte Black",
+            "가격": "336,220원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "맥스엘리트 MAXWELL DUKE 1300W 80PLUS PLATINUM 풀모듈러 ATX 3.0",
+            "가격": "297,080원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NZXT KRAKEN 360 RGB",
+            "가격": "303,050원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "NZXT F120 RGB CORE Black x 7 개",
+            "가격": "30,010원",
+            "수량": "7"
+        }
+    },
+    "total_price": "7479989원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "ASUS ROG CROSSHAIR X670E HERO 대원씨티에스",
+    "Graphic Card": "ASUS ROG STRIX 지포스 RTX 4090 O24G GAMING OC D6X 24GB",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (2TB) x 2 개",
+    "Memory": "G.SKILL DDR5-6000 CL32 TRIDENT Z5 NEO RGB J 패키지 (64GB(32Gx2))",
+    "Power Supply": "맥스엘리트 MAXWELL DUKE 1300W 80PLUS PLATINUM 풀모듈러 ATX 3.0",
+    "CPU Cooler": "NZXT KRAKEN 360 RGB (BLACK)",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

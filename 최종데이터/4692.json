@@ -1,0 +1,66 @@
+{
+    "quote_number": "4692",
+    "quote_title": "블랙수트 느낌의 깔끔한 7800X3D x RTX4080 조합",
+    "date_create": "2024.3.25",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4080 SUPER 조합",
+    "quotation_summary": " 1. 7800X3D x RTX 4080 Super x 32GB 6000 CL30 게이밍 조합2. 블랙톤으로 단정한 수트느낌에 디스플레이 탑제된 수냉 쿨러까지 완벽# QHD 게이밍 프레임방어까지 신경쓰면서 깔끔한 블랙을 원하는 분들께",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "게이밍에 초점이 맞춰져있고, 블랙수트를 입었다고 착각을 할법한 깔끔한 블랙의 게이밍 PC 구성입니다.7800X3D, RTX 4080 Super, 고클럭 메모리(6000CL30) 조합으로 QHD까지는 확실한 정복이 가능한 구성입니다.프레임 방어를 중요시 생각하고 디스플레이가 탑제된 수냉쿨러와 깔끔한 블랙수트 느낌을 원하시는 분들께 적극 추천드립니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650E PG Riptide WiFi 대원씨티에스상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 SUPER AMP EXTREME AIRO D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]마이크로닉스 ML-420 BTF 블랙 (빅타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]발키리 V360 ARGB (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 Intel 13700K 가격에 성능은 13900KS를 뛰어넘는다..!\n더 이상 무슨 설명이 필요?.............메인보드는 튼튼한 전원부와 B650E 칩셋으로 강력한 스토리지 대역폭 지원메모리는 깔끔한 블랙에 하이닉스A다이 그리고 스팩 대비 좋은 가격그래픽카드는 유려한 4080 Super, 블랙과 화이트를 아우르는 아름다움SSD는 990 Pro 와 경쟁모델이면서도 가격은 너무 착한 제품케이스는 상단 420 사이즈 수냉까지도 설치가 가능한 깔끔한 가성비 빅타워파워서플라이는 슈퍼플라워와 동일한 AS 정책을 가진 가성비 파워CPU쿨러는 현존 360 사이즈 제품중에서는 최고라 불러도 될 제품조립PC관련는 -조립PC관련는 -",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650E PG Riptide WiFi 대원씨티에스",
+            "가격": "360,290원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "335,580원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 SUPER AMP EXTREME AIRO D6X 16GB",
+            "가격": "1,665,630원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,770원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 블랙",
+            "가격": "131,970원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "134,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 V360 ARGB",
+            "가격": "308,700원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3685620원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650E PG Riptide WiFi 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 SUPER AMP EXTREME AIRO D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "발키리 V360 ARGB (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 34625
+}

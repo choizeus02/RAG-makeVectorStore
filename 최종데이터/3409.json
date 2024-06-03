@@ -1,0 +1,71 @@
+{
+    "quote_number": "3409",
+    "quote_title": "인텔 코어i5-13세대 13600KF + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.2.24",
+    "cpu_gpu_combinations": "코어i5-13600KF + RTX 4070 SUPER 조합",
+    "quotation_summary": " 인텔 코어i5-13세대 13600KF + 지포스 RTX 4070 SUPER# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 13세대 i5에서 상급으로 간다면 14세대 i7으로 갈텐데 13세대 i7에 비해서 4개의 E코어가 추가되면서 유의미한 작업 성능 향상이 있었습니다. CPU 자체의 성능 향상이 제법 크게 있었는데 GPU 위주의 랜더링이라면 체감이 안될 수도 있습니다.2. 메인보드는 720A급 출력의 드라이버 모스펫이 적용되어 있는 월등한 가성비의 GIGABYTE B760M AORUS ELITE 피씨디렉트로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 구성보통 메인보드 메모리 슬롯 당 최대 48GB를 지원해서 192GB까지는 확장할 수 있습니다. 64기가는 걱정을 할 필요가 없습니다.4. 그래픽카드는 1티어 AS에 가격적인 메리트가 높은 갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB로 구성5. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 구성6. 케이스는 식스팬 기본 장착에 메인보드 CPU 장착 후면부에 120mm 팬을 추가 장착하여 CPU의 온도를 효과적으로 낮출 수 있도록 설계되어 최고 수준의 쿨링 효율을 보여주는 세븐 팬 제품인 잘만 N7 PLUS Black (미들타워)로 구성LED OFF도 가능하고 동시에 팬 속도 조절도 되는 장점이 아주 많은 제품입니다.7. 파워는 4000번대 16핀 전용 커넥터가 적용된 그래픽카드의 경우는 12VHPWR 케이블을 지원하는 제품으로 구성하는 것이 보다 안정적으로 사용할 수가 있습니다. 실버 인증에 12VHPWR 케이블이 적용된 마이크로닉스 COOLMAX FOCUS II 900W ETA SILVER PCIE5로 구성8. CPU쿨러는 대장급 성능의 듀얼 타워 공랭쿨러인 Thermalright Peerless Assassin 120 SE 서린으로 구성9. 윈도우를 포함하게 되면 200만원을 살짝 넘어가네요.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600KF (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE B760M AORUS ELITE 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]잘만 N7 PLUS Black (미들타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 900W ETA SILVER PCIE5상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600KF",
+            "가격": "1,588,590원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B760M AORUS ELITE 피씨디렉트",
+            "가격": "191,120원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "994,900원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,890원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "잘만 N7 PLUS Black",
+            "가격": "39,990원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 900W ETA SILVER PCIE5",
+            "가격": "94,300원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,400원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "168,990원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3344070원",
+    "CPU": "인텔 코어i5-13세대 13600KF (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE B760M AORUS ELITE 피씨디렉트",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 900W ETA SILVER PCIE5",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 194,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 31768
+}

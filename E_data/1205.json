@@ -1,0 +1,63 @@
+{
+  "quote_number": "1205",
+  "quote_title": "보편적 최상급 게이밍 PC(7800X3D x RTX4090)",
+  "date_create": "2024.3.1",
+  "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+  "quotation_summary": " 1. 검증된 성능으로 구성된 조합2. 7800X3D x RTX 4090 쓰고있다하면 호구소리 들을일 없음# 한방에 끝내고 싶은분들께...",
+  "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+  "quote_feedback": "성능으로는 두말할 것 없는 검증된 조합",
+  "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650E 스틸레전드 WiFi 대원씨티에스상세보기[메모리]OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]MSI 지포스 RTX 4090 슈프림X D6X 24GB 트라이프로져3S상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)상세보기[CPU쿨러]PentaWave Z06D (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+  "quote_description": "CPU는 한단어로 표현하면 '게임킹'메인보드는 PCI-E GEN5 초고속 NVMe M.2를 지원하는 메인보드메모리는 이 성능에 이 가격이 가능한가? 넵, OLOy 구매하세요.그래픽카드는 RTX 4090 재고가 급속도로 사라지고있어서 재고 있는 제품들로 그때그때 수정중입니다.SSD는 990 Pro 와 경쟁모델이면서도 가격은 너무 착한 제품케이스는 상단 3열 수냉 설치가 가능하고, 전면 C타입 포트가 있는 제품중\n가성비 1등의 제품, 이제는 너무나 유명한 다크플래시죠.파워서플라이는 믿고 쓰는 국내 AS 1티어 슈퍼플라워CPU쿨러는 생소하지만 성능만큼은 확실한 제품, 가성비도 검증 완료!조립PC관련는 -",
+  "parts_price": {
+    "CPU": {
+      "제품명": "AMD 라이젠7-5세대 7800X3D",
+      "가격": "526,990원",
+      "수량": "1"
+    },
+    "메인보드": {
+      "제품명": "ASRock B650E 스틸레전드 WiFi 대원씨티에스",
+      "가격": "355,920원",
+      "수량": "1"
+    },
+    "메모리": {
+      "제품명": "OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지)하이닉스 A다이 언락 제품! 32GB",
+      "가격": "194,120원",
+      "수량": "1"
+    },
+    "그래픽카드": {
+      "제품명": "MSI 지포스 RTX 4090 슈프림X D6X 24GB 트라이프로져3S",
+      "가격": "3,039,880원",
+      "수량": "1"
+    },
+    "SSD": {
+      "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+      "가격": "229,490원",
+      "수량": "1"
+    },
+    "케이스": {
+      "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+      "가격": "93,500원",
+      "수량": "1"
+    },
+    "파워서플라이": {
+      "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK",
+      "가격": "205,402원",
+      "수량": "1"
+    },
+    "CPU쿨러": {
+      "제품명": "PentaWave Z06D",
+      "가격": "56,910원",
+      "수량": "1"
+    }
+  },
+  "total_price": "4702212원",
+  "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+  "Motherboard": "ASRock B650E 스틸레전드 WiFi 대원씨티에스",
+  "Graphic_Card": "MSI 지포스 RTX 4090 슈프림X D6X 24GB 트라이프로져3S",
+  "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+  "Memory": "OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+  "Power_Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)",
+  "CPU_Cooler": "PentaWave Z06D (BLACK)",
+  "games": "배틀그라운드, 오버워치, 레인보우식스 시즈, 포트나이트, 워존, 신작 게임",
+  "purpose": "게임, 영상편집, 3D작업, 프로그래밍, 머신러닝, 딥러닝, 인공지능, 블록체인, 가상화폐 채굴, 렌더링"
+}

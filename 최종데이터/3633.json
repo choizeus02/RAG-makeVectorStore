@@ -1,0 +1,71 @@
+{
+    "quote_number": "3633",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + RTX 4070 Ti SUPER",
+    "date_create": "2024.3.1",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + RTX 4070 Ti SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신ASRock B650M PG Riptide 대원씨티에스는 와이파이용 M.2 소켓을 지원하지 않습니다. ASRock AMD Wi-Fi 6E Kit 무선랜카드는 M.2 전용 소켓에 장착하는 제품인데 해당 메인보드는 소켓이 없습니다.1120A급 출력의 최상위 전원부에 ATX 규격으로 확장성도 높은 MSI MAG B650 토마호크 WIFI로 변경2. 메모리의 경우 삼성과 마이크론 램은 대형 불량 이슈가 터졌던 제품들이라 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경3. 케이스는 140mm 저소음팬이 6개 기본장착되어 있어서 팬을 추가할 필요없고 공랭 CPU쿨러와 조합시 최고의 쿨링 효율을 보여주는 아이구주 PRAY 30 PLUS (미들타워)로 변경4. 구성하신 파워는 현재 유통하는 업체가 얼마 없어서 견적왕의 최대 메리트인 견적 비교가 되지 않습니다.파워는 세계 최대의 글로벌 제조사인 CWT에서 OEM 생산 압도적인 전압변동률로 전압출렁임이 없는 안정적인 시스템을 만들어 줄 MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)로 변경5. CPU쿨러는 케이스와 잘 어울리는 대장급 성능의 듀얼타워 공랭쿨러로 소음도 낮은 편인 Thermalright Peerless Assassin 120 SE 서린으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]MSI MAG B650 토마호크 WIFI상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]아이구주 PRAY 30 PLUS (미들타워)상세보기[파워서플라이]MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD케이스는 140mm 식스팬이 기본장착되어 있어서 공랭 CPU쿨러와 조합시 최고의 쿨링 효율을 보여주는 미들타워 케이스",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,290원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B650 토마호크 WIFI",
+            "가격": "327,960원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,239,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "아이구주 PRAY 30 PLUS",
+            "가격": "54,090원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0",
+            "가격": "144,200원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,500원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "168,990원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2745920원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "MSI MAG B650 토마호크 WIFI",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

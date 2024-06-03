@@ -1,0 +1,66 @@
+{
+    "quote_number": "4424",
+    "quote_title": "인텔 코어i7-14세대 14700KF + 지포스 RTX 4060",
+    "date_create": "2024.3.18",
+    "cpu_gpu_combinations": "코어i7-14700KF + RTX 4060 조합",
+    "quotation_summary": " 인텔 코어i7-14세대 14700KF + 지포스 RTX 4060# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 20코어 28스레드로 금액대 내에서 사용목적상 성능이 가장 좋은 14700KF로 구성2. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 GIGABYTE Z790 AORUS ELITE X 피씨디렉트로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 구성4. 그래픽카드는 고사양 게임용이 아니라서 1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4060으로 구성5. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 구성6. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 구성7. 4060은 최대 전력 소모량이 115W 수준으로 정격 500W면 충분한 파워 용량이 됩니다.파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 600W로 구성8. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]topower Guardian TOP-600DG 80PLUS BRONZE상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "파워서플라이는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 파워CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-14세대 14700KF",
+            "가격": "538,220원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "336,940원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB",
+            "가격": "445,780원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-600DG 80PLUS BRONZE",
+            "가격": "57,100원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,340원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1751790원",
+    "CPU": "인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-600DG 80PLUS BRONZE",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 98,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 22891
+}

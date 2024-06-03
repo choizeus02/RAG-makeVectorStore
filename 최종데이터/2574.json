@@ -1,0 +1,71 @@
+{
+    "quote_number": "2574",
+    "quote_title": "인텔 코어i5-14세대 14500 + 지포스 RTX 3050",
+    "date_create": "2024.2.5",
+    "cpu_gpu_combinations": "코어i5-14500 + RTX 3050 조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14500 + 지포스 RTX 3050# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 14코어 20쓰레드로 금액대 내에서 구성할 수 있는 작업 성능이 가장 좋은 14500 벌크로 구성2. 메인보드는 전원부 히트싱크와 드라이버 모스펫 그리고 램슬롯 4개가 적용되어 있는 ASRock B760M PG LIGHTNING/D4 대원씨티에스로 구성3. 메모리는 라이프타임 워런티로 삼성램 대비 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 사용해서 안정성도 높고 가격도 저렴한 ESSENCORE KLEVV DDR4-3200 CL22 (16GB) 2개 32기가로 구성4. 그래픽카드는 1660 SUPER는 출시가 된 지도 오래되었고 이도디스플레이, FORSA, AFOX, ARKTEK와 같은 마이너 중에서도 마이너 제조사들은 양심상으로 추천을 하기가 어려운 제품들입니다. 컴퓨터에 대해 조금이라도 알면 절대 비추한다는 것을 아실거구요.비슷한 성능에 1660 SUPER 대비 최근에 출시된 화이트 컨셉의 갤럭시 갤라즈 GALAX 지포스 RTX 3050 EX WHITE OC D6 8GB로 구성5. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M.2 NVMe 병행수입 (512GB)으로 변경했고, 저렴한 방열판도 하나 추가했습니다.6. 케이스는 보급형 끝판왕이라고 할 수 있는 3RSYS J540 (미들타워)로 구성7. 파워는 정격 600W 브론즈 인증 제품인 쿨러마스터 MWE 600 BRONZE V2 230V로 구성8. CPU쿨러는 케이스와도 잘 어울리고 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 3RSYS Socoool RC350 ARGB (BLACK)으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)상세보기[메인보드]ASRock B760M PG LIGHTNING/D4 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개상세보기[그래픽카드]ZOTAC 지포스 RTX 3050 TWIN Edge OC D6 8GB상세보기[SSD]삼성전자 PM9A1 M.2 NVMe 병행수입 (512GB)상세보기[케이스]3RSYS J540 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]3RSYS Socoool RC350 ARGB (BLACK)상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14500",
+            "가격": "334,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+            "가격": "137,970원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  16GB",
+            "가격": "31,990원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 3050 TWIN Edge OC D6 8GB",
+            "가격": "390,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M.2 NVMe 병행수입 512GB",
+            "가격": "68,550원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS J540",
+            "가격": "31,800원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 ARGB",
+            "가격": "22,800원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1122690원",
+    "CPU": "인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)",
+    "Motherboard": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+    "Graphic Card": "ZOTAC 지포스 RTX 3050 TWIN Edge OC D6 8GB",
+    "SSD": "삼성전자 PM9A1 M.2 NVMe 병행수입 (512GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "3RSYS Socoool RC350 ARGB (BLACK)",
+    "cpu_score": 247,
+    "gpu_score": 153,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32733,
+    "gpu_benchmarkscore": 12885
+}

@@ -1,0 +1,60 @@
+{
+    "quote_number": "5090",
+    "quote_title": "14900K 반본체(RTX 4090 장착 가능)",
+    "date_create": "2024.4.5",
+    "cpu_gpu_combinations": "코어i9-14900K +  조합",
+    "quotation_summary": " 14900K 반본체(RTX 4090 장착 가능)# 14900K 반본체(RTX 4090 장착 가능)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14900K 반본체(RTX 4090 장착 가능)",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 4 개상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (2TB)상세보기[케이스]마이크로닉스 ML-420 View BTF 화이트 (빅타워)상세보기[파워서플라이]SuperFlower SF-1300F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)상세보기[CPU쿨러]발키리 C420 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메인보드는 전원부 16+1+2페이즈 1440A(90A)로 업그레이드되어 14세대도 문제 없고, WIFI와 블루투스 무선 연결을 지원하는 보드입니다.SSD는 176단 낸드로 뛰어난 전성비를 자랑하는 이천 특산품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "781,100원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX 피씨디렉트",
+            "가격": "385,940원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE x 4 개 32GB",
+            "가격": "121,560원",
+            "수량": "4"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 2TB",
+            "가격": "289,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 View BTF 화이트",
+            "가격": "136,940원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1300F14XG LEADEX VII GOLD ATX 3.0",
+            "가격": "285,120원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 C420 ARGB",
+            "가격": "190,110원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2554450원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX 피씨디렉트",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 4 개",
+    "Power Supply": "SuperFlower SF-1300F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)",
+    "CPU Cooler": "발키리 C420 ARGB (WHITE)",
+    "cpu_score": 56,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": null
+}

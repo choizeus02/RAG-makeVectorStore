@@ -1,0 +1,66 @@
+{
+    "quote_number": "2309",
+    "quote_title": "라이젠7 7800X3D + nVIDIA RTX 4070 SUPER 조합",
+    "date_create": "2024.1.30",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " 라이젠7 7800X3D + nVIDIA RTX 4070 SUPER 조합# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 게임 끝판왕인 7800X3D로 구성2. 메인보드는 600A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 ASRock B650M PG Riptide 대원씨티에스로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 구성4. 그래픽카드는 현 시점 가성비가 가장 좋은 4070 SUPER로 구성을 했습니다.UWQHD 해상도 모니터에서 로아는 풀옵으로 즐겨도 아주 쾌적한 수준의 프레임을 뽑아 줄 겁니다.1티어 AS에 가격적인 메리트가 가장 높은 편인 갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB로 구성5. SSD는 5년 무상AS의 갓성비 젠4 제품인 MSI SPATIUM M480 PRO M.2 NVMe (1TB)로 변경읽기속도 : 7,400(MB/s) / 쓰기속도 : 6,800(MB/s)로 가격 대비 최고 수준의 성능이면서 DDR4 1GB 용량의 디램 버퍼 메모리가 적용되어 있습니다.6. 케이스는 식스팬 기본 장착에 메인보드 CPU 장착 후면부에 120mm 팬을 추가 장착하여 CPU의 온도를 효과적으로 낮출 수 있도록 설계되어 최고 수준의 쿨링 효율을 보여주는 세븐 팬 제품인 잘만 N7 PLUS Black (미들타워)로 구성LED OFF도 가능하고 동시에 팬 속도 조절도 되는 장점이 아주 많은 제품입니다.7. 파워는 ATX3.0과  PCIE5 규격을 동시에 지원하는  NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로 구성8. CPU쿨러는 대장급 성능의 듀얼 타워 공랭쿨러인 Thermalright Peerless Assassin 120 SE ARGB 서린으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]MSI SPATIUM M480 PRO M.2 NVMe (1TB)상세보기[케이스]잘만 N7 PLUS Black (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE ARGB 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "520,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "207,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "124,800원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "989,600원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "MSI SPATIUM M480 PRO M.2 NVMe 1TB",
+            "가격": "135,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "잘만 N7 PLUS Black",
+            "가격": "39,950원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE ARGB 서린",
+            "가격": "43,243원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2184923원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "MSI SPATIUM M480 PRO M.2 NVMe (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE ARGB 서린",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

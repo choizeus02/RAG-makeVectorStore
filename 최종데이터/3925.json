@@ -1,0 +1,66 @@
+{
+    "quote_number": "3925",
+    "quote_title": "코어i7-14세대 14700KF + 지포스 RTX 4060",
+    "date_create": "2024.3.7",
+    "cpu_gpu_combinations": "코어i7-14700KF + RTX 4060 조합",
+    "quotation_summary": " 코어i7-14세대 14700KF + 지포스 RTX 4060# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 2022 오토캐드 기준으로 VGA는 4GB 이상의 VRAM이 적용된 제품이면 충분합니다. 연산자체를 CPU에서 하는지라 둘 중에서 하나를 높여야 한다면 CPU가 우선 순위라 14700KF로 추천을 드립니다.2. 메모리는 32기가 1개를 더 추가해서 64기가로 용량을 높였구요.3. 그래픽카드는 게임을 아에 하지않고 작업만 한다면 이엠텍 지포스 RTX 4060 MIRACLE BLACK D6 8GB로도 충분합니다.4. 파워는 정격 800W 골드인증 제품인 쿨러마스터 G800 GOLD로 변경해서 안정성과 가성비를 모두 챙겼습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700KF (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4060 MIRACLE BLACK D6 8GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]몬스타 가츠 X620A 리버스 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]발키리 A360 ARGB (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기파워서플라이는 안정성과 가성비를 겸비한 골드인증 800W 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700KF",
+            "가격": "538,220원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "336,940원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  32GB",
+            "가격": "119,450원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 MIRACLE BLACK D6 8GB",
+            "가격": "441,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X620A 리버스 블랙",
+            "가격": "59,510원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "90,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 A360 ARGB",
+            "가격": "91,085원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2022875원",
+    "CPU": "코어i7-14세대 14700KF (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 MIRACLE BLACK D6 8GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (32GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "발키리 A360 ARGB (BLACK)",
+    "cpu_score": 98,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 22891
+}

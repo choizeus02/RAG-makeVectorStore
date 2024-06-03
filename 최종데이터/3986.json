@@ -1,0 +1,70 @@
+{
+    "quote_number": "3986",
+    "quote_title": "AMD 라이젠5-4세대 5600G",
+    "date_create": "2024.3.8",
+    "cpu_gpu_combinations": "라이젠5 5600G +  조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600G# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 라이프타임 워런티로 삼성램 대비 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 사용해서 안정성도 높고 가격도 저렴한 ESSENCORE KLEVV DDR4-3200 CL22 (16GB) 2개 32기가로 변경2. 케이스는 최근에 출시한 보급형 끝판왕급 가성비 제품이면서 공간활용성도 높은 몬스타 가츠 X320M 블랙 (미니타워)로 변경3. 파워는 80PLUS 인증보다 까다로운 테스트 환경으로 차세대 인증으로 평가받는 ETA 브론즈 인증 제품인 마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE로 변경4. CPU쿨러는 싱글타워 끝판왕급 성능에 케이스와도 잘 어울리고 성능도 좋고 AM4 무뽑 방지 키트를 제공하고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 PentaWave Z04E SRB ARGB로 변경5. 구성하신 무선랜카드는 현재 유통하는 업체가 많이 없어서 현금가 카드가가 모두 품절로 뜹니다. 동일한 PCIe 슬롯 장착방식으로 최신 버전인 WIFI6와 블루투스 5.2를 지원하는 티피링크 Archer TX50E 무선랜카드로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600G (세잔) (멀티팩)상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]몬스타 가츠 X320M 블랙 (미니타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[키보드+마우스 세트]로지텍코리아 MK235 Wireless Combo (정품)상세보기[공유기/허브/랜카드/PoE]티피링크 Archer TX50E 무선랜카드상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 6코어 12쓰레드 디자인에 내장그래픽 성능이 월등히 좋은 CPUSSD는 젠3 제품 중에서는 5년 무상AS에 성능도 좋고 가격적인 메리트도 있는 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600G",
+            "가격": "152,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "84,000원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  16GB",
+            "가격": "31,990원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X320M 블랙",
+            "가격": "29,890원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE",
+            "가격": "43,070원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        },
+        "키보드+마우스 세트": {
+            "제품명": "로지텍코리아 MK235 Wireless Combo",
+            "가격": "29,900원",
+            "수량": "1"
+        },
+        "공유기/허브/랜카드/PoE": {
+            "제품명": "티피링크 Archer TX50E 무선랜카드",
+            "가격": "39,590원",
+            "수량": "1"
+        }
+    },
+    "total_price": "541660원",
+    "CPU": "AMD 라이젠5-4세대 5600G (세잔) (멀티팩)",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 504,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": null
+}

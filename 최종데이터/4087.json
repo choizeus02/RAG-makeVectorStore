@@ -1,0 +1,71 @@
+{
+    "quote_number": "4087",
+    "quote_title": "7600 + RTX 4070 SUPER(QHD 게이밍)",
+    "date_create": "2024.3.10",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 SUPER 조합",
+    "quotation_summary": " 7600 + RTX 4070 SUPER(QHD 게이밍)# 7600 + RTX 4070 SUPER(QHD 게이밍)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7600 + RTX 4070 SUPER(QHD 게이밍)",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 SUPER WINDFORCE OC D6X 12GB 제이씨현상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]DARKFLASH DLM21 RGB MESH 강화유리 화이트 (미니타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[쿨러.튜닝.조명.액세서리]케이엘시스템 KLcom M.2 2280 방열판 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 NON X 버전으로 발열을 잡고 나와 2~3만원대 공랭쿨러로 커버 가능해 가성비가 좋아졌습니다. \n게임성능도 인텔 13세대 i5 13500보다 뛰어납니다.메인보드는 Dr.MOS 전원부가 탑재된 가성비 좋은 B650보드입니다.SSD는 삼성 980 프로 OEM 제품으로 가성비가 좋습니다.파워서플라이는 브론즈 효율에 PCIE5 규격으로 가격대도 저렴한 가성비 좋은 마이크로닉스 파워입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "234,070원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,010원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 SUPER WINDFORCE OC D6X 12GB 제이씨현",
+            "가격": "927,620원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLM21 RGB MESH 강화유리 화이트",
+            "가격": "56,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5",
+            "가격": "66,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "케이엘시스템 KLcom M.2 2280 방열판",
+            "가격": "1,260원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1696490원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 SUPER WINDFORCE OC D6X 12GB 제이씨현",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

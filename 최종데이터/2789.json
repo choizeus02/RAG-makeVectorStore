@@ -1,0 +1,48 @@
+{
+    "quote_number": "2789",
+    "quote_title": "5600 + RX 6600",
+    "date_create": "2024.2.11",
+    "cpu_gpu_combinations": "#NAME?",
+    "quotation_summary": " 5600 + RX 6600# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 사용해서 안정성도 높고 가격도 저렴한 ESSENCORE KLEVV DDR4-3200 CL22 (16GB) 2개 32기가로 변경2. 케이스는 식스팬 기본 장착되어 있고 압도적인 디자인과 가성비를 자랑하는 화이트 컨셉 제품인 앱코 G20 에픽 강화유리 화이트 (미들타워)로 변경3. 파워는 화이트 색상인 정격 600W 브론즈 인증 제품인 마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트로 변경4. CPU쿨러는 케이스와도 잘 어울리는 화이트 색상에 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 3RSYS Socoool RC350 ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개상세보기[SSD]삼성전자 PM9A1 M.2 NVMe 벌크 (1TB)상세보기[케이스]앱코 G20 에픽 강화유리 화이트 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트상세보기[CPU쿨러]3RSYS Socoool RC350 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  16GB",
+            "가격": "31,990원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M.2 NVMe 벌크 1TB",
+            "가격": "103,630원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "앱코 G20 에픽 강화유리 화이트",
+            "가격": "39,900원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+            "가격": "61,600원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 ARGB",
+            "가격": "22,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "291910원",
+    "SSD": "삼성전자 PM9A1 M.2 NVMe 벌크 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+    "CPU Cooler": "3RSYS Socoool RC350 ARGB (WHITE)",
+    "cpu_score": null,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": null,
+    "gpu_benchmarkscore": null
+}

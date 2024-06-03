@@ -1,0 +1,66 @@
+{
+    "quote_number": "2572",
+    "quote_title": "코어i7-14세대 14700K + 지포스 RTX 3050",
+    "date_create": "2024.2.5",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 3050 조합",
+    "quotation_summary": " 코어i7-14세대 14700K + 지포스 RTX 3050# 사무",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 14세대가 모두 출시가 된 상황에서 13세대로 구성하는 것은 추천을 하기가 어렵습니다.4개의 E코어가 추가되어서 유의미한 작업 성능 향상이 있는 14700K 벌크로 변경인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다.2. 메인보드는 1440A급 출력의 드라비어 모스펫 전원부가 적용되어 있는 GIGABYTE Z790 AORUS ELITE X 피씨디렉트로 변경3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경4. 그래픽카드는 1660 SUPER는 출시가 된 지도 오래되었고 이도디스플레이, FORSA, AFOX, ARKTEK와 같은 마이너 중에서도 마이너 제조사들은 양심상으로 추천을 하기가 어려운 제품들입니다. 컴퓨터에 대해 조금이라도 알면 절대 비추한다는 것을 아실거구요.비슷한 성능에 1660 SUPER 대비 최근에 출시된 화이트 컨셉의 갤럭시 갤라즈 GALAX 지포스 RTX 3050 EX WHITE OC D6 8GB로 변경5.  파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 700W 화이트로 변경6. CPU쿨러는 대장급 성능의 화이트 3열 수냉쿨러 중에서 가성비가 가장 좋은 편에 속하는 앱코 T360 테티스 풀체인지 ARGB (화이트)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700K (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]갤럭시 갤라즈 GALAX 지포스 RTX 3050 EX WHITE OC D6 8GB상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DF2100 MESH RGB 강화유리 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]앱코 T360 테티스 풀체인지 ARGB (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700K",
+            "가격": "579,030원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 갤라즈 GALAX 지포스 RTX 3050 EX WHITE OC D6 8GB",
+            "가격": "313,020",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DF2100 MESH RGB 강화유리 화이트",
+            "가격": "66,170원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "72,590원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "앱코 T360 테티스 풀체인지 ARGB",
+            "가격": "77,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1706030원",
+    "CPU": "코어i7-14세대 14700K (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "갤럭시 갤라즈 GALAX 지포스 RTX 3050 EX WHITE OC D6 8GB",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "앱코 T360 테티스 풀체인지 ARGB (화이트)",
+    "cpu_score": 98,
+    "gpu_score": 153,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 12885
+}

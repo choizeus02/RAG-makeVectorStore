@@ -1,0 +1,66 @@
+{
+    "quote_number": "4791",
+    "quote_title": "7800X3D + RTX 4090",
+    "date_create": "2024.3.28",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+    "quotation_summary": " 7800X3D + RTX 4090# 7800X3D + RTX 4090",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7800X3D + RTX 4090",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현상세보기[SSD]장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자상세보기[케이스]DARKFLASH DS900 ARGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 1000XM ATX 3.0 80PLUS GOLD PCIE5상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7000번대 3D 모델 주인공인 7800X3D입니다. 순정 상태에서 13900KS를 넘어서는 뛰어난 게임 성능과 뛰어난 전성비가 장점입니다.메인보드는 14+2+1페이즈최대 840A(60A)의 전원부에 뛰어난 가성비와 ATX 사이즈로 호환성까지 뛰어난 보드입니다.메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 RTX 4000번대 최상위 제품인 RTX 4090입니다. GIGABYTE 그래픽카드는 구입 후 30일 이내 홈페이지 등록 시 3년무상보증에 1년을 더 연장하여 총 4년의 무상 서비스를 제공합니다.케이스는 측면 리버스 블레이드(역방향) 팬으로 감성도 뛰어나고, 그래픽카드 425mm까지  지원해 호환성은 물론 전면 TYPE-C 포트 지원과 그래픽카드 지지대 기본 구성 등 편의성까지 좋은 다크플래쉬의 가성비 좋은 어항형 케이스입니다.파워서플라이는 퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책도 동일하고 가격대도 합라적이라 가성비 좋게 구성하시기 좋습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "529,200원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "153,020원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,860원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현",
+            "가격": "2,929,470원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 삼성전자 1TB",
+            "가격": "111,790원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DS900 ARGB 강화유리 블랙",
+            "가격": "52,730원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 1000XM ATX 3.0 80PLUS GOLD PCIE5",
+            "가격": "194,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "36,900원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4138830원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현",
+    "SSD": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 1000XM ATX 3.0 80PLUS GOLD PCIE5",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 225,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 38694
+}

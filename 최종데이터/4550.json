@@ -1,0 +1,71 @@
+{
+    "quote_number": "4550",
+    "quote_title": "AMD 라이젠9-5세대 7900 + RTX 4070 SUPER",
+    "date_create": "2024.3.21",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7900 + RTX 4070 SUPER# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 12코어 24스레드가 적용되어 있어서 건축설계3D툴을 사용할 목적으로는 아주 쾌적한 환경을 제공해 줄 라이젠9 7900으로 구성2. 메인보드는 600A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 ASRock B650M PG Riptide 대원씨티에스로 구성3. 메모리는 삼성과 마이크론은 대규모 불량 이슈가 있었던 터라 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용해서 안정적으로 사용할 수 있는 ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2개 64기가로 구성4. 그래픽카드의 경우 고사양게임용도가 아니라서 4070 Ti 이상급으로 구성할 필요는 없습니다. 4070 Ti와 7% 정도의 성능 차이지만 가격차이가 상당히 커서 가성비는 월등히 더 좋은 inno3D 지포스 RTX 4070 SUPER OC D6X 12GB X3로 구성보통 그래픽카드는 10% 이상의 성능 차이가 나야 레벨이 다르다고 할 수 있는데 7% 정도면 동급 제품군이라고 봐도 무방한 수준으로 4070 SUPER가 가격도 그렇고 성능도 아주 잘 나왔습니다.5. 케이스는 C타입 포트가 적용되어 있는 제품 중에서는 가성비가 가장 좋은 편에 속하는 1stPlayer T7 블랙 (미들타워)로 구성6. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로 구성7. 7900은 압도적인 전성비를 가지는 CPU로 싱글타워 공랭쿨러로도 온도가 잡히는 말도 안되는 제품입니다. 수냉이 필요하지 않구요. 대장급 성능의 듀얼타워 공랭쿨러 중에서는 가성비가 가장 좋고 케이스와도 아주 잘 어울리는 PentaWave S06D LE ARGB로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]inno3D 지포스 RTX 4070 SUPER OC D6X 12GB X3상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]1stPlayer T7 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 압도적인 전성비로 인한 말도 안되는 낮은 온도의  12코어 24쓰레드 CPU\n온도 제어가 힘든 고성능 CPU에 있어서 가성비 공랭 CPU쿨러로 온도 제어가 가능한 별종인 제품메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!CPU쿨러는 케이스와도 잘 어울리는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "538,780원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "214,920원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,510원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "inno3D 지포스 RTX 4070 SUPER OC D6X 12GB X3",
+            "가격": "937,590원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7 블랙",
+            "가격": "37,920원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "133,260원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,060원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,480원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2303030원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "inno3D 지포스 RTX 4070 SUPER OC D6X 12GB X3",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 107,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 31768
+}

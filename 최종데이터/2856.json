@@ -1,0 +1,75 @@
+{
+    "quote_number": "2856",
+    "quote_title": "7900 + 4060 TI 언리얼엔진",
+    "date_create": "2024.2.13",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 4060 Ti 조합",
+    "quotation_summary": " 7900 + 4060 TI 언리얼엔진# 7900 + 4060 TI 언리얼엔진",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7900 + 4060 TI 언리얼엔진",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (정품)상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (32GB)상세보기[그래픽카드]이엠텍 지포스 RTX 4060 Ti STORM X Dual OC D6 8GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]DAVEN D6 MESH 강화유리 블랙 (미들타워)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[소프트웨어]한글과컴퓨터 한컴오피스 2024 가정 및 학생용 (처음사용자용 1PC Only)상세보기[게이밍헤드셋.스피커.마이크]SANWA MM-MCF02BK 회의용 마이크상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 12코어 24스레드에 발열도 적어 작업이나 원컴방송도 문제 없는 CPU입니다.메인보드는 기가바이트의 화이트 감성을 위한 B650 보드메모리는 믿고 사는 갓 서린의 메모리입니다.그래픽카드는 AS 1티어 이엠텍의SSD는 PCIe4.0 최상급 성능의 SSD입니다.데스크탑 HDD는 안정성이 좋은 CMR(PMR) 방식 하드입니다.케이스는 기본 쿨링팬 6개 탑재로 준수한 쿨링성능과 가성비를 자랑하는 케이스입니다.CPU쿨러는 대장급 공랭 중 뛰어난 정숙성과 성능을 겸비한 쿨러입니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "523,320원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린 32GB",
+            "가격": "115,810원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 Ti STORM X Dual OC D6 8GB",
+            "가격": "554,020원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "97,170원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D6 MESH 강화유리 블랙",
+            "가격": "36,890원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "한글과컴퓨터 한컴오피스 2024 가정 및 학생용",
+            "가격": "96,508원",
+            "수량": "1"
+        },
+        "게이밍헤드셋.스피커.마이크": {
+            "제품명": "SANWA MM-MCF02BK 회의용 마이크",
+            "가격": "29,146원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1925714원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 Ti STORM X Dual OC D6 8GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (32GB)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 107,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 22891
+}

@@ -1,0 +1,66 @@
+{
+    "quote_number": "5155",
+    "quote_title": "AMD 라이젠5-4세대 5600 + 지포스 GTX 1650",
+    "date_create": "2024.4.8",
+    "cpu_gpu_combinations": "라이젠5 5600 + GTX 1650 조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600 + 지포스 GTX 1650# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 라이프타임 워런티로 삼성램 대비 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 사용해서 안정성도 높고 가격도 저렴한 ESSENCORE KLEVV DDR4-3200 CL22 (8GB) 2개 16기가로 변경2. 그래픽카드는 가격차이가 얼마 안나는 상위 제품인 inno3D 지포스 GTX 1650 D6 4GB TWIN X2 OC V3로 변경3. SSD는 5년 무상AS의 젠3 제품 중 디램과 전용 히트싱크가 적용되어 있으면서 가격적인 메리트도 높은 ADATA XPG SX8200 Pro M.2 2280 (512GB)로 변경4. 케이스는 식스팬이 장착되어 있고 그래픽카드 지지대도 제공하는 화이트 색상의 가성비 끝판왕 제품인 1stPlayer T7-P 화이트 (미들타워)로 변경5. CPU쿨러는 싱글타워 끝판왕급 성능에 케이스와도 잘 어울리고 성능도 좋고 AM4 소켓 무뽑 방지 키트도 제공하고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 PentaWave Z04E SRB ARGB로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[그래픽카드]inno3D 지포스 GTX 1650 D6 4GB TWIN X2 OC V3상세보기[SSD]ADATA XPG SX8200 Pro M.2 2280 (512GB)상세보기[케이스]1stPlayer T7-P 화이트 (미들타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX600 80PLUS STANDARD상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현재 게임 가성비가 가장 좋은 CPU",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "144,380원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "83,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "20,920원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "inno3D 지포스 GTX 1650 D6 4GB TWIN X2 OC V3",
+            "가격": "199,930원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "ADATA XPG SX8200 Pro M.2 2280 512GB",
+            "가격": "61,620원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7-P 화이트",
+            "가격": "41,130원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX600 80PLUS STANDARD",
+            "가격": "39,650원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        }
+    },
+    "total_price": "632760원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "Graphic Card": "inno3D 지포스 GTX 1650 D6 4GB TWIN X2 OC V3",
+    "SSD": "ADATA XPG SX8200 Pro M.2 2280 (512GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX600 80PLUS STANDARD",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 504,
+    "gpu_score": 207,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 10149
+}

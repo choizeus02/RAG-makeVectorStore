@@ -1,0 +1,71 @@
+{
+    "quote_number": "4425",
+    "quote_title": "AMD 라이젠5-5세대 7600 + 지포스 RTX 4060 Ti",
+    "date_create": "2024.3.18",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4060 Ti 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7600 + 지포스 RTX 4060 Ti# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 메인보드는 현재 유통하는 업체가 몇 없어서 전체 부품 구매가 불가능하게 됩니다.많은 업체에서 유통하고 있고 드라이버 모스펫 전원부와 히트싱크가 적용되어 있는 ASRock B650M PG Lightning 에즈윈으로 변경2. 메모리에 RGB 방열판을 달게 되면 추가되는 케이블 때문에 시스템이 지저분해지게 됩니다. 웬만한 스킬이 있지 않고서야 업체라고 해도 깔끔한 선정리를 기대하기는 어려워서 튜닝램으로 나온 제품으로 구성하는 것이 아니라면 방열판을 추가하는 것은 개인적으로도 비추하구요. 규격램이라 온도가 높지 않아서 온도를 낮추기 위한 용도로 방열판을 장착하는 것도 추천하기가 어렵습니다.3. 그래픽카드는 1티어 AS에 가격적인 메리트도 있는 갤럭시 BOY 지포스 RTX 4060 Ti OC D6 8GB로 변경4. 구성한 CPU쿨러도 유통하는 업체가 몇 없습니다.싱글타워 끝판왕급 성능에 케이스와도 잘 어울리고 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 PentaWave Z04E SRB ARGB로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4060 Ti OC D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]1stPlayer T7 블랙 (미들타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX800 80PLUS STANDARD상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[쿨러.튜닝.조명.액세서리]케이엘시스템 KLcom M.2 2280 방열판 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라파엘 논X 제품의 막내로 높은 전성비와 게임 성능으로 DDR5 시스템 가성비 게이밍 라인의 최강자 CPU메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!쿨러.튜닝.조명.액세서리는 높은 NVMe SSD의 온도를 제어해 줄 가성비 좋은 SSD 방열판",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "234,070원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,010원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,520원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4060 Ti OC D6 8GB",
+            "가격": "601,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7 블랙",
+            "가격": "37,920원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX800 80PLUS STANDARD",
+            "가격": "49,600원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "케이엘시스템 KLcom M.2 2280 방열판",
+            "가격": "1,260원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1332650원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4060 Ti OC D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX800 80PLUS STANDARD",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 312,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 22891
+}

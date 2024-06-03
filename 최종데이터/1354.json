@@ -1,0 +1,71 @@
+{
+    "quote_number": "1354",
+    "quote_title": "7600 + RX 6900 XT + QHD 고사양 게임",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠5 7600 + RX 7900 XT 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "https://quasarzone.com/bbs/qf_hwjoin/views/1772769일단 MSI B650이나 A620등 계열에서 m-atx 사이즈 메인보드 제품이그래픽카드 슬롯 위치가 약간 아랫쪽으로 치우쳐져 있습니다두깨가 좀 나가는 그래픽카드의 경우에는 간섭이 생길 수 있습니다 ㅠㅠ구성하신 제품다른 제품군 들4k 모니터를 쓰면서 게임에서 2k로 변경을 하시려면인게임에서 설정을 전체화면 기준으로 QHD 사이즈로 변경을 해주셔야 합니다.2560x1440으로 변경해서 하시면 됩니다만해상도에 따른 픽셀 변화로 좀 민감하시다면 화면이 뿌옇게 느껴지실 수도 있기는 합니다.메인보드 같은경우 지금 기반에서 CPU를 차후에 업글 하실 예정이 있다면B650 PG 라이트닝 정도로 구성하시는게 좋을 듯 하고업글 예정이 없다면A620에서 가장 저렴한 제품군 기준으로 M.2+나 게이밍 X 구성을 하시면 좋을 듯 합니다 ^^HDD는 SMR 방식 보다는 PMR 혹은 CMR 작동 방식이 안정적일텐데4TB급 용량에서는 토시바 N300, WD Red Plus, 씨게이트 아이언울프 중에서 구성하시면 좋을 듯 하고~지금 구성하신 그래픽카드가 324mm짜리 제품인데M60은 글카 장착이 325mm라 솔찍히 호환은 가능하나...이정도 범위차이라면 정말 간당간당합니다.케이스는 조금 더 투자해서 사이즈가 큰 DK360으로 하시거나아니면 m60 대비 팬 갯수는 너프 되었지만 VGA 장착 길이가 더 긴 GL1-motar 같은걸 추천드립니다 ^^쿨러는 7600 기준이니 2-3만원대 극 가성비 셋팅만해줘도 발열은 충분히 잡을 수 있습니다~",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock A620M-HDV/M.2+ 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ASRock 라데온 RX 7900 XT D6 20GB 에즈윈상세보기[SSD]삼성전자 PM9A1 M.2 NVMe 병행수입 (2TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)상세보기[케이스]DARKFLASH DF2100 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]잘만 CNPS9X PERFORMA RGB (SILVER)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 새로나온 가성비 CPU!\n동급 인텔대비 월등한 게이밍 성능!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!케이스는 DLX21과 똑같은 확장성!\n하지만 조금더 가성비!파워서플라이는 AS 10년! 고주파 AS 대응!\nATX 3.0 정식 지원!CPU쿨러는 가성비 좋고 성능 좋고!\n3만원 미만에서의 갓성비 모델!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "239,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock A620M-HDV/M.2+ 에즈윈",
+            "가격": "109,680원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ASRock 라데온 RX 7900 XT D6 20GB 에즈윈",
+            "가격": "1,339,200원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M.2 NVMe 병행수입 2TB",
+            "가격": "243,130원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/256M",
+            "가격": "158,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DF2100 MESH RGB 강화유리 블랙",
+            "가격": "81,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 CNPS9X PERFORMA RGB",
+            "가격": "33,740원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2459520원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock A620M-HDV/M.2+ 에즈윈",
+    "Graphic Card": "ASRock 라데온 RX 7900 XT D6 20GB 에즈윈",
+    "SSD": "삼성전자 PM9A1 M.2 NVMe 병행수입 (2TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "잘만 CNPS9X PERFORMA RGB (SILVER)",
+    "cpu_score": 312,
+    "gpu_score": 6,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 30951
+}

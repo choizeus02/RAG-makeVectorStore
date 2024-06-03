@@ -1,0 +1,66 @@
+{
+    "quote_number": "5025",
+    "quote_title": "인텔 코어i5-14세대 14600KF + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.4.3",
+    "cpu_gpu_combinations": "코어i5-14600KF + RTX 4070 SUPER 조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14600KF + 지포스 RTX 4070 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 인텔은 7500F보다 성능이 좋으려면 14600KF로 구성을 해야 합니다.2. 메인보드는 900A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 MSI MAG B760M 박격포 II로 구성3. 메모리의 경우 삼성과 마이크론 램은 불량 이슈가 크게 터졌던 터라 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경4. 그래픽카드는 트리플 팬 제품 중 가격적인 메리트가 가장 높은 편인 GIGABYTE 지포스 RTX 4070 SUPER WINDFORCE OC D6X 12GB 피씨디렉트로 변경5.  CPU쿨러는 케이스와 잘 어울리면서 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공하는 PentaWave S06D LE ARGB로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14600KF (랩터레이크 리프레시) (정품)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 SUPER WINDFORCE OC D6X 12GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)상세보기[케이스]DAVEN SIX FLOW 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU쿨러는 케이스와도 잘 어울리는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14600KF",
+            "가격": "399,320원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "212,880원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,030원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 SUPER WINDFORCE OC D6X 12GB 피씨디렉트",
+            "가격": "918,890원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 1TB",
+            "가격": "126,800원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN SIX FLOW 블랙",
+            "가격": "46,430원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,710원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1992920원",
+    "CPU": "인텔 코어i5-14세대 14600KF (랩터레이크 리프레시) (정품)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 SUPER WINDFORCE OC D6X 12GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 181,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 31768
+}

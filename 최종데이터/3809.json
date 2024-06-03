@@ -1,0 +1,76 @@
+{
+    "quote_number": "3809",
+    "quote_title": "인텔 코어i9-14세대 14900K + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.3.5",
+    "cpu_gpu_combinations": "코어i9-14900K + RTX 4070 SUPER 조합",
+    "quotation_summary": " 인텔 코어i9-14세대 14900K + 지포스 RTX 4070 SUPER# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 현재 인텔과 AMD에서 구성할 수 있는 최상위 CPU는 14900K와 7950X3D입니다. 7950X3D는 게임에 특화된 L3 캐시 메모리가 적용되어 있어서 7950X 대비 가격이 높은 편이고 작업 성능은 떨어집니다. 현재 7950X가 품절로 유통이 안되는 상황이라 추가 비용을 지불하면서 3D 캐시 메모리가 적용되어 있는 7950X3D는 작업용으로 메리트는 떨어진다고 볼 수 있습니다.14900K는 인텔에서는 가장 좋은 제품이고 작업에 있어서는 블랜더를 제외하고는 모든 부분에서 7950X보다도 성능이 더 좋습니다. 사용목적으로 본다면 14900K가 보다 합리적인 선택이 됩니다.2. 4070 SUPER의 경우 정격 700W를 권장파워로 요구하는 제품입니다. 현재 구성하신 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)의 경우 유통하는 업체가 많지 않아서 동일 제품 750W로 변경을 했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (32GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB) x 2 개상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]발키리 GL360 ARGB (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]LG전자 32QN650상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "783,030원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "336,940원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  32GB",
+            "가격": "124,800원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "999,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 x 2 개 1TB",
+            "가격": "227,220원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,430원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,530원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "LG전자 32QN650",
+            "가격": "328,460원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3707153원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB) x 2 개",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "발키리 GL360 ARGB (BLACK)",
+    "cpu_score": 56,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 31768
+}

@@ -1,0 +1,60 @@
+{
+    "quote_number": "2117",
+    "quote_title": "리눅스 라이젠 7950X3D 내장그래픽 서버용 컴퓨터 견적",
+    "date_create": "2024.2.22",
+    "cpu_gpu_combinations": "라이젠9 7950X3D +  조합",
+    "quotation_summary": " 라이젠 7950X3D / 내장 그래픽 / RAM 32GB / SSD 1TB# 서버용# 리눅스# 내장그래픽",
+    "quote_person_introduction": "안녕하세요. 로카프입니다.우리 주변에는 아직 컴퓨터 견적구성을 어떻게 할 지 몰라 고민에 빠지는 분들이 많이 계십니다.성능은 괜찮을까? 고장은 나지 않을까? 가격은 괜찮은건가? 이런 고민들을 한 번쯤은 해보셨을 겁니다.용도에 알맞는 성능과 합리적인 가격, 최우선으로 안정성과 신뢰도 높은 부품들로 구성된 견적을 추천해드리겠습니다.컴퓨터를 처음 알아보시는 분들의 입장에서 생각하고 견적을 구성해드리는 견적맨이 되겠습니다.",
+    "quote_feedback": "24시간 사용환경을 고려해본다면 3열수랭쿨러 사용이 필요한 7950X보다상급 듀얼타워공랭쿨러로 사용가능한 라이젠 7950X3D 조합을 생각해보셔도 좋을 것 같습니다.메모리는 16GB 2장 총 32GB 구성해드렸으며SSD는 PCIe4.0 규격 제품 중 브랜드인지도 높고 스펙 좋은 제품으로 선택했습니다.CPU쿨러는 듀얼타워공랭쿨러 중 쿨링성능 상위권 제품으로 마무리했습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]DAVEN APEX Black (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 3D V캐시 구성으로 압도적인 게이밍 성능을 자랑하며 16코어 32쓰레드 구조로 작업성능 또한 뛰어난 7950X3D입니다.메인보드는 840A급 드라이버모스펫 채용으로 전원부 성능이 매우 뛰어나 라이젠 7000시리즈 어떤 CPU와도 구성 할 수 있는 제품입니다. 또한, ATX 사이즈 메인보드로 확장성 역시 매우 좋습니다.메모리는 라이프워런티정책으로 A/S정책 좋은 ADATA 5600클럭 JEDEC 표준 일반램입니다.SSD는 최대읽기속도 7,300MB/s 최대쓰기속도 6,300MB/s를 자랑하는 최상위권 PCIe 4.0 SSD인 SN850X입니다. WD BLACK SSD 대시보드를 통해 게임모드 이용 시 SSD의 저전력모드를 비활성화시켜 최고의 퍼포먼스를 발휘할 수 있습니다.케이스는 기본팬 4개를 제공하고 CPU쿨러최대호환가능높이 185mm, 그래픽카드최대호환가능길이 350mm 제원의 DAVEN APEX입니다. 좌측면 스윙도어 형태이며 LED ON/OFF 스위치가 있어 사용자 취향에 따라 켜고 끌 수 있습니다.파워서플라이는 800W 골드등급의 제품으로 시스템에 안정적으로 전원 공급가능한 용량이며, 쿨러마스터 제품 역시 A/S 정책이 좋습니다.CPU쿨러는 듀얼타워공랭쿨러 가운데 탁월한 쿨링성능과 정숙성을 보여주는 Peerless Assassin 120 SE 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "892,960원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "147,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  16GB",
+            "가격": "64,700원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN APEX Black",
+            "가격": "46,650원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "89,990원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1475420원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 63,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": null
+}

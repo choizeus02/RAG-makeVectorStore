@@ -1,0 +1,66 @@
+{
+    "quote_number": "2261",
+    "quote_title": "[라이젠] QHD 고사양 게이밍PC 7500F+RTX 4070 SUPER",
+    "date_create": "2024.3.12",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4070 SUPER 조합",
+    "quotation_summary": " QHD 고사양 라이젠 게이밍PC 7500F+RTX 4070 SUPER# QHD# 게이밍PC# 7500F# RTX 4070 SUPER",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 Mr.홍금보 입니다.퀘이사존 다년간 좋은 인지도로 굳게 자리 잡았으며,저렴하다고 제품이 다 좋거나 가성비가 좋은건 아닙니다!합리적인 구매를 하실 수 있게 검증된 제품으로만 판매를 하고 구성을 하고 있으며,기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.믿고 맡겨주신다면, 그에 부응하도록 최선을 다할것을 굳게 약속 드리겠습니다!",
+    "quote_feedback": "FHD는 물론 QHD 까지 가능한 라이젠 게이밍PC4070TI에 가까운 성능에 전력효율은 좋은 4070 SUPER 그래픽카드로 구성된 고사양 게이밍PC",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650M K 피씨디렉트상세보기[메모리]ADATA DDR5-5600 CL46 (16GB)하이닉스 A다이 언락 제품! x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DAVEN D6 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]DARKFLASH Ellsworth S21 ARGB (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 7600과 동급 수준의 가성비 CPU!메인보드는 B650M 저렴한 가격 + 준수한 성능 가성비 보드!메모리는 믿고 쓰는 하이닉스 A다이 언락 제품!그래픽카드는 훌륭한 A/S 준수한 성능!SSD는 가성비 PCIe 4.0 SSD!케이스는 이 가격에 이정도 호환성?! 가성비PC의 필수!파워서플라이는 ATX 3.0 규격의 저렴한 가격! 가성비 으뜸 파워!CPU쿨러는 가성비? 뭘 또 다른걸 보시나요! 이걸로 하세요!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M K 피씨디렉트",
+            "가격": "153,620원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46하이닉스 A다이 언락 제품!  16GB",
+            "가격": "143,930원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+            "가격": "874,950원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D6 MESH 강화유리 블랙",
+            "가격": "36,890원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21 ARGB",
+            "가격": "27,090원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1838130원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650M K 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46 (16GB)하이닉스 A다이 언락 제품! x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 ARGB (블랙)",
+    "cpu_score": 355,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 31768
+}

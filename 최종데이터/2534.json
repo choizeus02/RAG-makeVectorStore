@@ -1,0 +1,70 @@
+{
+    "quote_number": "2534",
+    "quote_title": "7900 미니 반본체",
+    "date_create": "2024.2.5",
+    "cpu_gpu_combinations": "라이젠9 7900 +  조합",
+    "quotation_summary": " 7900 미니 반본체# 7900 미니 반본체",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7900 미니 반본체",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning + WiFi6E 모듈 패키지 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]아이구주 M-CUBE 블랙 (미니타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]ARCTIC P12 SILENT BLACK/BLACK x 2 개상세보기[쿨러.튜닝.조명.액세서리]엠스톤 M.2 SSD 히트파이프 방열판 (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 X 버전에 비해 발열과 전성비를 잡고 나와 저렴한 메인보드와 공랭쿨러와 사용 가능하고 12코어 24스레드로 뛰어난 작업 성능을 자랑하는 라이젠9 CPU입니다.메인보드는 Dr.MOS 전원부에 저렴한 가격과 WIFI와 블루투스를 지원하는 제품입니다.메모리는 갓서린에서 유통하는 팀그룹 DDR5 5600 클럭 메모리입니다.SSD는 PCIe4.0 최상급 성능의 SSD입니다.케이스는 M-ATX 보드 호환과 ATX 사이즈 호환 가능한 작은 미니타워 케이스입니다.파워서플라이는 가성비 좋은 쿨러마스터의 브론즈 등급 제품으로 대양에서 유통해서 AS도 좋습니다.CPU쿨러는 대장급 공랭 중 뛰어난 정숙성과 성능을 겸비한 쿨러입니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "523,320원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning + WiFi6E 모듈 패키지 에즈윈",
+            "가격": "180,770원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "아이구주 M-CUBE 블랙",
+            "가격": "77,330원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,690원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "엠스톤 M.2 SSD 히트파이프 방열판",
+            "가격": "4,900원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1325280원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning + WiFi6E 모듈 패키지 에즈윈",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 107,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": null
+}

@@ -1,0 +1,76 @@
+{
+    "quote_number": "3900",
+    "quote_title": "인텔 코어i9-14세대 14900K + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.3.6",
+    "cpu_gpu_combinations": "코어i9-14900K + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 인텔 코어i9-14세대 14900K + 지포스 RTX 4070 Ti SUPER# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 상위 제품군으로 구성하길 원하시면 1995A급 출력의 드라이버 모스펫 전원부가 적용되어 있으면서 최근 가격을 대폭 인하해서 구성하신 노바보다도 저렴해진 끝판왕 퀄리티의 MSI MPG Z790 카본 WIFI로 변경2. 메모리는 SK하이닉스 모듈을 사용하여 안정적인 패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) 2개 64기가로 변경가격은 동일한 수준인데 모듈 차이가 있어서 패트리어트로 추천을 드립니다. ADATA제품은 하이닉스 A다이라고 표기가 안된 제품들은 다른 모듈을 사용한다고 하네요.3. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 변경DLX21 대비 디자인이나 성능 그리고 편의성 등 모든 부분에서 완벽하게 대체가 가능한 케이스라고 보면 됩니다.4. 4080 SUPER보다 전력 소모량이 낮은 제품이 4070 ti SUPER인데 이전 견적글보다 파워용량을 높이셨네요. 1000W까지 필요하지 않습니다.파워는 세계 최대의 글로벌 제조사인 CWT에서 OEM 생산 압도적인 전압변동률을 제공하여 전압 출렁임 없이 안정적인 시스템을 만들어 줄 MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)로 변경5. 구성하신 발키리 수냉쿨러는 현재 유통하는 업체가 몇 없어서 견적왕의 최대 메리트인 견적비교가 되지 않습니다. 카드가1곳 현금가1곳만 판매 중이라 1티어 성능군에 있으면서 많은 업체에서 유통을 하고 있고 가성비도 월등히 더 좋은 잘만 Alpha II A36 (BLACK)으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)상세보기[메인보드]MSI MPG Z790 카본 WIFI상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB) x 2 개상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)상세보기[CPU쿨러]잘만 Alpha II A36 (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[키보드+마우스 세트]로지텍코리아 MK235 Wireless Combo (정품)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "782,110원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MPG Z790 카본 WIFI",
+            "가격": "506,000원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,239,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 x 2 개 1TB",
+            "가격": "227,220원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0",
+            "가격": "144,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,550원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,510원",
+            "수량": "1"
+        },
+        "키보드+마우스 세트": {
+            "제품명": "로지텍코리아 MK235 Wireless Combo",
+            "가격": "29,900원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3739260원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "MSI MPG Z790 카본 WIFI",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB) x 2 개",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)",
+    "CPU Cooler": "잘만 Alpha II A36 (BLACK)",
+    "cpu_score": 56,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 31768
+}

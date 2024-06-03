@@ -1,0 +1,60 @@
+{
+    "quote_number": "3291",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D",
+    "date_create": "2024.2.21",
+    "cpu_gpu_combinations": "라이젠7 7800X3D +  조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 게임 끝판왕인 7800X3D로 구성2. 메인보드는 드라이버 모스펫 전원부에 화이트 계열의 히트싱크가 적용되어 있는 ASRock B650M Pro RS 대원씨티에스로 구성3. 메모리는 화이트 컨셉의 1티어 제품인 TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))로 구성4. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 구성5. 케이스는 원하시는 잘만 P30 White (미니타워)로 구성6. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 구성7. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중 압도적인 가성비를 제공하는 앱코 T360 테티스 풀체인지 ARGB (화이트)로 변경8. 하단부 시스템 팬 장착은 미니타워라 그래픽카드 사이의 공간이 적은 편이라 오히려 역효과가 날 수 있어서 추천을 드리지는 않습니다. 미들타워로 구성하고 싶다면 메인보드도 내부를 꽉 채울 수 있는 ATX 보드로 구성해야 멋진 세팅이 되구요.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]잘만 P30 White (미니타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]앱코 T360 테티스 풀체인지 ARGB (화이트)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 B650칩셋 제품이라서 PBO와 커브옵티마이저 기능을 지원하는 제품입니다. 400A급 드라이버모스펫 구성의 전원부 성능을 가지고 있으며 기판일부와 방열판색상이 화이트라 화이트조합에 알맞습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,380원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "172,490원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린) 32GB",
+            "가격": "164,400원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,110원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "잘만 P30 White",
+            "가격": "91,190원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "앱코 T360 테티스 풀체인지 ARGB",
+            "가격": "77,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1250400원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "앱코 T360 테티스 풀체인지 ARGB (화이트)",
+    "cpu_score": 225,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": null
+}

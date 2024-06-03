@@ -1,0 +1,65 @@
+{
+    "quote_number": "5162",
+    "quote_title": "5600G 사무용 + 롤",
+    "date_create": "2024.4.8",
+    "cpu_gpu_combinations": "라이젠5 5600G +  조합",
+    "quotation_summary": " 5600G 사무용 + 롤# 5600G 사무용 + 롤",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "5600G 사무용 + 롤",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600G (세잔) (멀티팩)상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]몬스타 가츠 X320M 블랙 (미니타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX500 80PLUS STANDARD상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[모니터]크로스오버 오버파워 277GK4 리얼165 게이밍 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 6코어 12스레드에 뛰어난 내장 그래픽 성능으로 가벼운 포토샵 작업까지 문제 없는 사무용 PC입니다.메인보드는 DP와 HDMI 포트를 모두 지원해 듀얼 모니터 사용도 문제 없고 모니터 호환성도 좋은 가성비 보드입니다.SSD는 발열도 적어 게임용으로도 많이 추천되는 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600G",
+            "가격": "152,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "83,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "20,920원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X320M 블랙",
+            "가격": "29,890원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX500 80PLUS STANDARD",
+            "가격": "34,460원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 오버파워 277GK4 리얼165 게이밍 무결점",
+            "가격": "164,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "664400원",
+    "CPU": "AMD 라이젠5-4세대 5600G (세잔) (멀티팩)",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX500 80PLUS STANDARD",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 504,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": null
+}

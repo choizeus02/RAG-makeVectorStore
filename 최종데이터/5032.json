@@ -1,0 +1,65 @@
+{
+    "quote_number": "5032",
+    "quote_title": "7600 반본체 (4070 SUPER 장착 가능)",
+    "date_create": "2024.4.3",
+    "cpu_gpu_combinations": "라이젠5 7600 +  조합",
+    "quotation_summary": " 7600 반본체 (4070 SUPER 장착 가능)# 7600 반본체 (4070 SUPER 장착 가능)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7600 반본체 (4070 SUPER 장착 가능)",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (정품)상세보기[메인보드]ASUS TUF Gaming B650-E WIFI 대원씨티에스상세보기[메모리]PATRIOT DDR5-5200 CL42 SIGNATURE (16GB) x 2 개상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[쿨러.튜닝.조명.액세서리]darkFlash C6MS RGB (블랙 3PACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 하이닉스 다이가 탑재된 JEDEC 표준 메모리입니다. \n현재 가격대도 좋고, 라이젠의 경우 5600 클럭 이슈가 있어 해당 메모리로 구성하시기 바랍니다.SSD는 삼성 980 프로 OEM 제품으로 가성비가 좋습니다.케이스는 10만원 이하에서 쿨링 성능이나 호환성도 뛰어난 케이스입니다. 쿨링팬 개선 작업을 통해 정숙성도 올라갔고 상단 3열 장착 가능해 일체형 3열 수냉 장착하시려는 분들께 추천드립니다.파워서플라이는 10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책에 뛰어난 가성비까지 겸비한 파워입니다.CPU쿨러는 대장급 공랭 중 뛰어난 정숙성과 성능을 겸비한 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600",
+            "가격": "234,060원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS TUF Gaming B650-E WIFI 대원씨티에스",
+            "가격": "277,870원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "PATRIOT DDR5-5200 CL42 SIGNATURE  16GB",
+            "가격": "64,120원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,900원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,360원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "darkFlash C6MS RGB",
+            "가격": "21,580원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1021790원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (정품)",
+    "Motherboard": "ASUS TUF Gaming B650-E WIFI 대원씨티에스",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "PATRIOT DDR5-5200 CL42 SIGNATURE (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 312,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": null
+}

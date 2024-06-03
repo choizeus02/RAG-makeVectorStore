@@ -1,0 +1,71 @@
+{
+    "quote_number": "4857",
+    "quote_title": "코어i7-14세대 14700KF + 지포스 RTX 4060 Ti",
+    "date_create": "2024.3.30",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 4060 Ti 조합",
+    "quotation_summary": " 코어i7-14세대 14700KF + 지포스 RTX 4060 Ti# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 현재 구성은 현 시점에서는 추천을 하기가 어렵습니다. 인텔은 14세대 출시가 끝난 상황이고 i9에 B칩셋은 절대 비추죠.또한 DDR4 메모리 메인보드에 DDR5 메모리는 호환조차 되지 않습니다. 전체적인 수정이 필요한 구성입니다.2. CPU는 E코어 4개가 더 추가되면서 20코어 28스레드로 12세대 i9과 성능 차이가 크지 않은 14700K로 변경3. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부 적용으로 안정적으로 사용 가능한 GIGABYTE Z790 AORUS ELITE X 피씨디렉트로 변경4. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2개 64기가로 변경5. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경6. 구성하신 씨게이트 HDD는 SMR방식이라 추천을 하지 않습니다. PMR방식의 원천기술을 가지고 있는 도시바의 P300으로 변경7. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 변경8. 파워는 정격 800W 골드인증 제품인 쿨러마스터 G800 GOLD로 변경해서 안정성과 가성비를 모두 챙겼습니다.9. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 성능도 최상위면서 압도적인 가성비까지 제공하는 잘만 Alpha II A36 (BLACK)으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700K (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]잘만 Alpha II A36 (BLACK)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "데스크탑 HDD는 안정성 높은 PMR 방식의 HDD파워서플라이는 안정성과 가성비를 겸비한 골드인증 800W 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700K",
+            "가격": "573,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,750원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,790원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB",
+            "가격": "610,840원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,900원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "100,880원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "90,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,430원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2228610원",
+    "CPU": "코어i7-14세대 14700K (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "잘만 Alpha II A36 (BLACK)",
+    "cpu_score": 98,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 22891
+}

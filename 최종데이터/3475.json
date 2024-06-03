@@ -1,0 +1,76 @@
+{
+    "quote_number": "3475",
+    "quote_title": "AMD 라이젠7-5세대 7700 + 지포스 RTX 4060 Ti",
+    "date_create": "2024.2.25",
+    "cpu_gpu_combinations": "라이젠7 7700 + RTX 4060 Ti 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7700 + 지포스 RTX 4060 Ti# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 7700의 경우 온도가 낮은 편이라 메인보드 선택이 아주 자유로운 편입니다. 주로 추천하는 ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴은 현재 유통하는 업체가 몇 없어서 견적왕의 최대 메리트인 견적비교가 되지 않습니다.동일하게 세팅이 가능한 단품 + 단품 조합인 ASRock B650M Pro RS 대원씨티에스 + ASRock AMD Wi-Fi 6E Kit 무선랜카드로 변경2. 듀얼타워 공랭쿨러로 조립을 하게되면 메모리 슬롯을 다 덮어버려서 메모리가 보이지 않습니다. 튜닝 메모리로 구성해도 메모리가 보이지 않으니 메리트가 많이 떨어지죠. 규격램으로 구성하는 것을 추천드리구요.메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경3. 그래픽카드는 성능이 더 좋으면서 1티어 AS에 화이트 색상인 이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB로 변경4. 케이스는 구성하신 DAVEN AQUARIUM 화이트 (미들타워)의 경우 C타입 포트 미적용에 USB 포트도 2개만 적용되어 있고 강판도 얇은 편이라 원가 절감한 티가 많이 나는 제품입니다. 최근에 출시한 파노라마 뷰 어항케이스 중에서는 압도적인 비주얼과 가성비를 가지고 C타입 포트와 하단 타공망 처리로 쿨링 효율까지 높은 몬스타 가츠 X520LA 화이트 (미니타워)로 변경5. 파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 700W 화이트로 변경주로 추천하는 마이크로닉스 클래식2와 탑파워 가디언 모두 직접 사용해 봤고 리뷰도 진행했지만 탑파워 가디언이 더 좋더군요.6. CPU쿨러는 대장급 성능의 화이트 듀얼타워 공랭쿨러 중 가성비가 가장 좋은 3RSYS Socoool RC1200 ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7700 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]3RSYS Socoool RC1200 ARGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[공유기/허브/랜카드/PoE]ASRock AMD Wi-Fi 6E Kit 무선랜카드상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 B650칩셋 제품이라서 PBO와 커브옵티마이저 기능을 지원하는 제품입니다. 400A급 드라이버모스펫 구성의 전원부 성능을 가지고 있으며 기판일부와 방열판색상이 화이트라 화이트조합에 알맞습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7700",
+            "가격": "402,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "170,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+            "가격": "580,280원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "62,440원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "75,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1200 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "168,990원",
+            "수량": "1"
+        },
+        "공유기/허브/랜카드/PoE": {
+            "제품명": "ASRock AMD Wi-Fi 6E Kit 무선랜카드",
+            "가격": "33,700원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1755700원",
+    "CPU": "AMD 라이젠7-5세대 7700 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "3RSYS Socoool RC1200 ARGB (WHITE)",
+    "cpu_score": 209,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 35970,
+    "gpu_benchmarkscore": 22891
+}

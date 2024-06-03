@@ -1,0 +1,70 @@
+{
+    "quote_number": "4004",
+    "quote_title": "AMD 라이젠9-5세대 7900",
+    "date_create": "2024.3.8",
+    "cpu_gpu_combinations": "라이젠9 7900 +  조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7900# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "듀얼타워 공랭쿨러로 조립하면 메인보드 메모리 슬롯을 모두 덮어버려서 메모리가 보이지 않습니다. 여기에 방열판을 다는 것은 메리트가 떨어집니다. 방열판을 제외했구요.CPU쿨러는 Z06D는 풀로드시 소음이 좀 있는 편입니다.성능 차이는 거의 없는 대장급 제품으로 ARGB가 적용되어 있어서 색상과 모드 선택도 가능한 Thermalright Peerless Assassin 120 SE WHITE ARGB 서린으로 추천드립니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB) x 2 개상세보기[데스크탑 HDD]Western Digital WD BLUE 5640/128M (WD80EAZZ, 8TB)상세보기[케이스]NZXT H6 Flow Matte White (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE WHITE ARGB 서린상세보기[쿨러.튜닝.조명.액세서리]Thermalright TL-C12CW 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 압도적인 전성비로 인한 말도 안되는 낮은 온도의  12코어 24쓰레드 CPU\n온도 제어가 힘든 고성능 CPU에 있어서 가성비 공랭 CPU쿨러로 온도 제어가 가능한 별종인 제품",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "538,780원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "256,640원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 x 2 개 2TB",
+            "가격": "227,220원",
+            "수량": "2"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5640/128M",
+            "가격": "168,790원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "NZXT H6 Flow Matte White",
+            "가격": "163,390원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+            "가격": "43,243원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "Thermalright TL-C12CW 서린",
+            "가격": "6,900원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1900133원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB) x 2 개",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+    "cpu_score": 107,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": null
+}

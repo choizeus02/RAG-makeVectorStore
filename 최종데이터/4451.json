@@ -1,0 +1,66 @@
+{
+    "quote_number": "4451",
+    "quote_title": "AMD 라이젠 스레드리퍼 7970X + 지포스 RTX 4090",
+    "date_create": "2024.3.18",
+    "cpu_gpu_combinations": "라이젠 스레드리퍼 7970X (스톰 픽) + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠 스레드리퍼 7970X + 지포스 RTX 4090# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "7970X는 온도가 아주 높은 편입니다. 대장급 성능의 3열 수냉쿨러로도 90도가 넘어갑니다.공랭쿨러로는 스로틀링이 걸릴 가능성이 아주 높죠.장시간 구동한다고 꼭 공랭으로 해야한다는 법은 없습니다. 시스템에 맞게 구성하는 것이 가장 좋죠.https://img2.quasarzone.com/editor/2023/11/20/f7b7b1867a479ede27ec1c5f61120696.pngCPU 온도 벤치 자료입니다.크라켄 Z73은 대장급 성능의 3열 수냉쿨러고 녹투아 공랭쿨러가 비빌 수준이 아닌 다른 레벨의 제품이죠. 스로틀링으로 클럭이 저하되면서 제 성능을 발휘하지 못할 것 같아 염려가 되네요.선택은 본인의 몫이지만 초고가의 시스템에서 장시간 사용한다는 이유로 공랭으로 구성해서 성능을 제대로 발휘하지 못한다면 많이 아쉬울 것 같습니다.참고해서 합리적인 구매하시기 바라겠습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠 스레드리퍼 7970X (스톰 픽) (정품)상세보기[메인보드]ASUS PRO WS TRX50-SAGE WiFi 대원씨티에스상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (32GB) x 4 개상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB상세보기[SSD]마이크론 Crucial T700 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]Antec PERFORMANCE 1 FT MESH 강화유리 Black (빅타워)상세보기[파워서플라이]SuperFlower SF-1300F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)상세보기[CPU쿨러]NOCTUA NH-U14S TR5-SP6상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠 스레드리퍼 7970X",
+            "가격": "3,695,950원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRO WS TRX50-SAGE WiFi 대원씨티에스",
+            "가격": "1,295,480원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45 x 4 개 32GB",
+            "가격": "64,970원",
+            "수량": "4"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+            "가격": "2,874,550원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T700 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "157,940원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec PERFORMANCE 1 FT MESH 강화유리 Black",
+            "가격": "206,600원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1300F14XG LEADEX VII GOLD WHITE ATX 3.0",
+            "가격": "285,120원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NOCTUA NH-U14S TR5-SP6",
+            "가격": "203,290원",
+            "수량": "1"
+        }
+    },
+    "total_price": "8978810원",
+    "CPU": "AMD 라이젠 스레드리퍼 7970X (스톰 픽) (정품)",
+    "Motherboard": "ASUS PRO WS TRX50-SAGE WiFi 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+    "SSD": "마이크론 Crucial T700 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (32GB) x 4 개",
+    "Power Supply": "SuperFlower SF-1300F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)",
+    "CPU Cooler": "NOCTUA NH-U14S TR5-SP6",
+    "cpu_score": 11,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 97273,
+    "gpu_benchmarkscore": 38694
+}

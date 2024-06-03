@@ -1,0 +1,48 @@
+{
+    "quote_number": "4688",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 라데온 RX 7900 GRE",
+    "date_create": "2024.3.25",
+    "cpu_gpu_combinations": "#NAME?",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 라데온 RX 7900 GRE# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리의 경우 하이닉스 A다이 언락 제품은 수동으로 램 오버를 할 때 메리트가 있는 제품이고 오버클럭을 하지 않는다면 추천을 하기가 어렵습니다.라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2개 32기가로 변경2. 구성하신 SSD인 P31은 NVMe 규격 중에서는 속도가 가장 느린 젠3 제품입니다.젠3 보다 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경3. 케이스는 최근까지도 5만원 중후반대에 판매중이다가 3만원 중반대로 대폭 가격을 인하하여 가성비가 월등히 좋아진 3RSYS J700 RGB BLACK (미들타워)로 구성4. 파워는 정격 800W 골드인증 제품인 쿨러마스터 G800 GOLD로 변경해서 안정성과 가성비를 모두 챙겼습니다.5. CPU쿨러는 싱글타워 끝판왕급 성능에 케이스와도 잘 어울리고 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 PentaWave Z04E SRB ARGB로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS J700 RGB BLACK (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!파워서플라이는 안정성과 가성비를 겸비한 골드인증 800W 파워",
+    "parts_price": {
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,500원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,990원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS J700 RGB BLACK",
+            "가격": "39,100원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "93,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        }
+    },
+    "total_price": "384320원",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": null,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": null,
+    "gpu_benchmarkscore": null
+}

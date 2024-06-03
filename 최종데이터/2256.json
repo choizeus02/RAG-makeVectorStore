@@ -1,0 +1,66 @@
+{
+    "quote_number": "2256",
+    "quote_title": "[라이젠] QHD 고사양 게이밍PC 7800X3D+RTX 4070Ti",
+    "date_create": "2024.3.12",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " QHD 환경도 문제없는 고성능 게이밍 PC하자 없는 제품으로 구성된 믿을 수 있는 견적# 게이밍PC# QHD# 고사양# 7800X3D# RTX 4070 Ti",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 Mr.홍금보 입니다.퀘이사존 다년간 좋은 인지도로 굳게 자리 잡았으며,저렴하다고 제품이 다 좋거나 가성비가 좋은건 아닙니다!합리적인 구매를 하실 수 있게 검증된 제품으로만 판매를 하고 구성을 하고 있으며,기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.믿고 맡겨주신다면, 그에 부응하도록 최선을 다할것을 굳게 약속 드리겠습니다!",
+    "quote_feedback": "QHD 환경도 문제없는 고성능 게이밍 PC하자 없는 제품으로 구성된 믿을 수 있는 견적",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]ADATA DDR5-5600 CL46 (16GB)하이닉스 A다이 언락 제품! x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DAVEN D6 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]PentaWave Z06D (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 최강의 게이밍 CPU!메인보드는 가격대비 높은 전원부! 고성능 CPU까지 문제없다!메모리는 믿고 쓰는 하이닉스 A다이 언락 제품!SSD는 가성비 PCIe 4.0 SSD!케이스는 이 가격에 이정도 호환성?! 가성비PC의 필수!파워서플라이는 ATX 3.0 규격의 저렴한 가격! 가성비 으뜸 파워!CPU쿨러는 뛰어난 성능과 158mm 의 높이로 케이스와 호환성도 좋은 대장급 공랭쿨러!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "520,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "207,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46하이닉스 A다이 언락 제품!  16GB",
+            "가격": "143,930원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB",
+            "가격": "1,155,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D6 MESH 강화유리 블랙",
+            "가격": "36,890원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z06D",
+            "가격": "56,880원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2516960원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46 (16GB)하이닉스 A다이 언락 제품! x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "PentaWave Z06D (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

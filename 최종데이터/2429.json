@@ -1,0 +1,66 @@
+{
+    "quote_number": "2429",
+    "quote_title": "인텔 코어i5-14세대 14500 + 지포스 RTX 4060",
+    "date_create": "2024.2.3",
+    "cpu_gpu_combinations": "코어i5-14500 + RTX 4060 조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14500 + 지포스 RTX 4060# 작업",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성을 잘 하셔서 그대로 진행하셔도 됩니다. 메모리만 패키지 제품의 가격이 올라서 단품 2개로 변경을 했습니다.2. CPU는 최신 세대로 구성하는 것이 좋죠. 13세대 보다는 14세대로 구성하는 것을 강추합니다.3. 갤럭시는 1티어 AS업체입니다. 이엠텍 / 조택 / 갤럭시 이렇게 3사가 1티어 AS 유통사입니다. 세 곳 중에서 가격적으로 메리트가 있는 제품으로 구성하면 되고 현 시점에서는갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB가 가장 좋죠.4. 14500은 온도가 아주 낮은 편이라 싱글타워로도 충분합니다. 걱정 안해도 되구요.5. 4060의 최대 전력 소모량은 115W로 아주 낮은 수준입니다. 정격 600W면 남아도는 수준이죠.6. 제가 추천드렸던 이유는 모두 설명을 드렸는데 그대로 진행하시면 되겠습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)상세보기[메인보드]ASRock B760M PG LIGHTNING 디앤디컴상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB상세보기[SSD]MSI SPATIUM M480 PRO 히트싱크 M.2 NVMe (1TB)상세보기[케이스]잘만 N7 PLUS Black (미들타워)상세보기[파워서플라이](마이크로닉스) New Performance 600W 80Plus Bronze Change-up /파워상세보기[CPU쿨러]3RSYS Socoool RC350 ARGB (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14500",
+            "가격": "334,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING 디앤디컴",
+            "가격": "139,170원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
+            "가격": "447,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "MSI SPATIUM M480 PRO 히트싱크 M.2 NVMe 1TB",
+            "가격": "135,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "잘만 N7 PLUS Black",
+            "가격": "39,950원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "New Performance 600W 80Plus Bronze Change-up /파워",
+            "가격": "70,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 ARGB",
+            "가격": "22,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1317830원",
+    "CPU": "인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)",
+    "Motherboard": "ASRock B760M PG LIGHTNING 디앤디컴",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
+    "SSD": "MSI SPATIUM M480 PRO 히트싱크 M.2 NVMe (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "(마이크로닉스) New Performance 600W 80Plus Bronze Change-up /파워",
+    "CPU Cooler": "3RSYS Socoool RC350 ARGB (BLACK)",
+    "cpu_score": 247,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32733,
+    "gpu_benchmarkscore": 22891
+}

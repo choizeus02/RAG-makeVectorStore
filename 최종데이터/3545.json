@@ -1,0 +1,71 @@
+{
+    "quote_number": "3545",
+    "quote_title": "AMD 라이젠5-5세대 7600 + 지포스 RTX 4060 Ti",
+    "date_create": "2024.2.27",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4060 Ti 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7600 + 지포스 RTX 4060 Ti# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 동일 제품이면서 2개 패키지로 구성된 TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))가 조금 더 저렴해서 변경했습니다.2.  SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB) 강추합니다.가성비로는 가장 먼저 추천되는 제품입니다. 그 어떤 문제도 없구요.일선 판매점에서 조차 1순위로 추천하는 가성비 제품인데 문제가 있었다면 여기서부터 커팅이 되었겠죠. 걱정없이 사용하면 됩니다.3. 케이스는 최근에 출시된 보급형 끝판왕급 가성비 제품이라고 할 수 있는 몬스타 가츠 X320M 화이트 (미니타워)로 변경4. CPU쿨러는 싱글타워 끝판왕급 성능에 최근 3만원 대에서 만원 중후반대로 가격을 대폭인하해서 갓성비 중에서도 갓성비라고 할 수 있는 3RSYS TEAMMOST TM40으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4060 Ti STORM X Dual OC D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X320M 화이트 (미니타워)상세보기[파워서플라이]쿨러마스터 MWE 650 BRONZE V2 230V상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라파엘 논X 제품의 막내로 높은 전성비와 게임 성능으로 DDR5 시스템 가성비 게이밍 라인의 최강자 CPU",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "234,070원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,010원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 Ti STORM X Dual OC D6 8GB",
+            "가격": "562,710원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,370원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X320M 화이트",
+            "가격": "37,260원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 650 BRONZE V2 230V",
+            "가격": "75,970원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1313280원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 Ti STORM X Dual OC D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "쿨러마스터 MWE 650 BRONZE V2 230V",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 312,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 22891
+}

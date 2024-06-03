@@ -1,0 +1,60 @@
+{
+    "quote_number": "4924",
+    "quote_title": "5600 + RX 580",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠5 5600 + RX 580 조합",
+    "quotation_summary": " 5600 + RX 580# 5600 + RX 580",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "5600 + RX 580",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]Biostar A520MS 제이씨현상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[그래픽카드]AFOX 라데온 RX 580 2048SP D5 8GB 대원씨티에스상세보기[SSD]ADATA XPG SX8100 M.2 2280 (256GB)상세보기[케이스]몬스타 가츠 X120M 블랙 (미니타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX500 80PLUS STANDARD상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 여전히 가성비 게이밍 CPU로 명성이 자자한 CPU입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "144,380원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "Biostar A520MS 제이씨현",
+            "가격": "64,380원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "20,920원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "AFOX 라데온 RX 580 2048SP D5 8GB 대원씨티에스",
+            "가격": "186,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "ADATA XPG SX8100 M.2 2280 256GB",
+            "가격": "46,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X120M 블랙",
+            "가격": "29,890원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX500 80PLUS STANDARD",
+            "가격": "34,460원",
+            "수량": "1"
+        }
+    },
+    "total_price": "546950원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "Biostar A520MS 제이씨현",
+    "Graphic Card": "AFOX 라데온 RX 580 2048SP D5 8GB 대원씨티에스",
+    "SSD": "ADATA XPG SX8100 M.2 2280 (256GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX500 80PLUS STANDARD",
+    "cpu_score": 504,
+    "gpu_score": 184,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 11533
+}

@@ -1,0 +1,71 @@
+{
+    "quote_number": "4605",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.3.23",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4070 Ti SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 7800X3D의 경우 100MB에 육박하는 L3 캐시 메모리로 게임을 박살 내는 타입의 제품으로 다른 CPU에 비해서 메모리 클럭의 영향을 덜 받습니다. 즉 5600MHz 규격 램이든 6000MHz 튜닝 램이든 성능 체감이 되지 않는다는 말입니다.https://youtu.be/W-Sctjt2ocs<- 직접 테스트한 메모리 클럭별 성능 차이 영상입니다. 시청하시면 이해를 하실 겁니다.2. 그래픽카드의 경우 4070 Ti는 단종이 된 제품이라 유통하는 업체가 없다고 보면 됩니다. 1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4070 Ti SUPER로 변경3. SSD는 최근에 출시된 젠4 규격의 끝판왕급 성능 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경4. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 변경5. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 1050W 고용량에 골드보다 상위인 플래티넘 인증 고효율 제품인 마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)로 변경6. 7800X3D는 전성비가 아주 좋은 제품이라 공랭쿨러와 수냉쿨러 사이의 온도 차이가 거의 나지 않을 정도로 낮은 발열의 제품입니다. 수냉쿨러 사이에서는 변별력 자체가 없는 수준이죠. 즉 16만원짜리 3열 수냉쿨러나 8만원짜리 3열 수냉쿨러나 같은 온도가 표시됩니다. 대부분 구성을 공랭쿨러로 하는 이유기도 하죠.CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "214,920원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,500원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB",
+            "가격": "1,230,410원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,540원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0",
+            "가격": "211,940원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,340원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,470원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2843590원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

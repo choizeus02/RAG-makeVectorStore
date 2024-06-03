@@ -1,0 +1,66 @@
+{
+    "quote_number": "1638",
+    "quote_title": "모든 게임 풀옵션 초고사양 원컴 게임방송 + 하이엔드 작업 PC (7950X 3D, RTX 4090)",
+    "date_create": "2024.1.3",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": " 1. 끝판왕 PC로 졸업하시려는 분2. 작업과 게임을 병행하시는 분# 원컴방송# 언리얼엔진# 3D 작업# 딥러닝# AI# 수치해석# 연산작업# 디아4# 배그# 호그와트# 레데리2",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 견적맨으로 활동하고 있는 coke-bear 입니다.퀘이사존에서 주로 활동하며 그 외 커뮤니티에서도 간간히 활동하고 있습니다.하드웨어에 관심이 많아 제품을 직접 사용해보기도 하고 주변 지인들 PC 견적부터 조립도 해주다보니PC 구매를 어려워하거나 용도에 맞지 않게 구매하여 불필요한 지출을 하는 경우를 보게 되었습니다.그런 분들께 조금이라도 도움이 되고자 PC 구매자분들께 합리적인 구매를 할 수 있게 견적맨으로 활동하게 되었습니다.",
+    "quote_feedback": "이 스펙은 사실 올라운더 PC라 보시면 됩니다.16코어의 강력함으로 다중 작업에서도 최상위 성능을 가지고 있고 3D 캐시로 인해 최상위 게임 성능도 가지고 있습니다.최근 출시되는 신작 게임들이 최적화 부분에서 아쉬운 부분이 많은데 3D 캐시로 커버하여 어느정도 최적화가 덜 된 게임에서도 준수한 성능을 보여줍니다.4090 그래픽카드로 인해 딥러닝이나 3D 툴을 이용한 작업에서도 최상의 퍼포먼스를 보여주고 게이밍 성능에서는 4K 해상도까지 커버 가능한 최상위 성능을 가지고 있습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (500GB)상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DLX4000 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)상세보기[CPU쿨러]3RSYS Socoool RC1800 LITE (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7000번대 제품 중 작업과 게임 성능 모두를 아우르는 최상위 CPU입니다.메인보드는 b650 칩셋의 메인보드 중 7950x 까지 커버 가능하여 추후 am5 소켓 지원하는 신제품 사용시에도 재사용 가능한 성능의 메인보드 입니다.메모리는 패트리엇의 5600 클럭 기본 메모리 32gb 제품입니다.그래픽카드는 AS 3대장인 이엠텍의 4090 제품입니다.SSD는 PCIE4.0 제품 중 최상위의 성능을 가진 하이닉스 제품입니다. 998PRO - SN850X 다음의 성능을 가지고 있습니다.SSD는 마이크론의 pcie4.0 상위 제품인 t500 2tb 제품입니다.케이스는 다크 플래쉬의 깔끔한 블랙 색상의 빅타워 케이스 입니다. 모든 면에서 호환성이 매우 좋은 편이라 어떤 부품 구성에서도 문제가 없으며 측면 라디에이터와 상단 라디에이터를 동시에 사용 가능하다는 장점이 있는 빅타워 케이스 입니다.파워서플라이는 국내 파워 회사 중 유일하게 고주파 발생까지도 무제한 새제품 교환 정책을 가진 슈퍼플라워의 1000w 플래티넘 제품입니다.\n타사의 경우 atx 3.0 케이블 제품으로 추가 금액을 받는 것과는 달리 atx 3.0 케이블을 무상증정하고 있어 추천드립니다.CPU쿨러는 트윈타워형 공랭 쿨러 중 최상위 쿨링 성능의 RC1800 의 RGB를 뺀 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "893,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "147,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,450원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+            "가격": "2,874,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX4000 MESH 강화유리 블랙",
+            "가격": "102,330원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK",
+            "가격": "205,402원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1800 LITE",
+            "가격": "34,410원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4722282원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (500GB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)",
+    "CPU Cooler": "3RSYS Socoool RC1800 LITE (BLACK)",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

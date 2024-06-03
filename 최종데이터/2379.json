@@ -1,0 +1,60 @@
+{
+    "quote_number": "2379",
+    "quote_title": "인텔 14세대 사무용 + 작업용",
+    "date_create": "2024.2.1",
+    "cpu_gpu_combinations": "코어i5-14500 +  조합",
+    "quotation_summary": " 인텔 14세대 14500으로 구성된 사무용 + 작업용 PC입니다.롤이나 메이플 같은 캐주얼한 게임도 문제 없어서 코딩이나 개발 용도로 사용하면서 가볍게 캐주얼한 게임도 문제 없이 즐길 수 있는 견적입니다.# 인텔 14세대 사무용 + 작업용",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "인텔 14세대 14500으로 구성된 사무용 + 작업용 PC입니다.롤이나 메이플 같은 캐주얼한 게임도 문제 없어서 코딩이나 개발 용도로 사용하면서 가볍게 캐주얼한 게임도 문제 없이 즐길 수 있는 견적입니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)상세보기[메인보드]ASRock B760M PG Riptide D5 디앤디컴상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DRX70 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 팀그룹의 DDR5 5600 패키지로 호환성이나 가성비가 좋은 제품입니다.SSD는 WD의 PCIE4.0 대역폭 상급 제품케이스는 5만원 이하 케이스 중 전면 TYPE-C 포트를 지원하고, 그래픽카드 지지대 기본 구성에 그래픽카드 호환성도 준수한 케이스입니다.CPU쿨러는 대장급 공랭 중 뛰어난 정숙성과 성능을 겸비한 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14500",
+            "가격": "334,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG Riptide D5 디앤디컴",
+            "가격": "173,160원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "124,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DRX70 MESH RGB 강화유리 블랙",
+            "가격": "46,110원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE",
+            "가격": "42,970원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        }
+    },
+    "total_price": "890550원",
+    "CPU": "인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)",
+    "Motherboard": "ASRock B760M PG Riptide D5 디앤디컴",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 247,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 32733,
+    "gpu_benchmarkscore": null
+}

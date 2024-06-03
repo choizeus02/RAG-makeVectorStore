@@ -1,0 +1,60 @@
+{
+    "quote_number": "2183",
+    "quote_title": "인텔 사무용 12100 견적",
+    "date_create": "2024.1.14",
+    "cpu_gpu_combinations": "코어i3-12100 +  조합",
+    "quotation_summary": " 사무용의 컴퓨터# 사무용# 오피스# 웹서핑용",
+    "quote_person_introduction": "안녕하세요 히릿히릿입니다.열심히 배워가며 견적 올리겠습니다.",
+    "quote_feedback": "고사양이 필요치 않으신 사무용 컴퓨터를 찾는분의 용도에 맞추어서 견적 구성하였습니다",
+    "computer_estimate_data": "[CPU]인텔 코어i3-12세대 12100 (엘더레이크) 벌크상세보기[메인보드]ASRock H610M-HDV/M.2 R2.0 D4 에즈윈 벌크상세보기[메모리]마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개상세보기[SSD]마이크론 Crucial MX500 대원CTS (500GB)상세보기[케이스]앱코 O10M 오피스 라이트 블랙 (미니타워)상세보기[파워서플라이]에너지옵티머스 EXCEL II 500W 80PLUS STANDARD 230V EU상세보기[CPU쿨러]앱코 자이로스 95XF V2 1700 ONLY FRGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 인텔 12세대 내장그래픽이 있는 i3 cpu메인보드는 dp hdmi 단자를 지원하는 메인보드메모리는 마이크론 3200클럭 메모리 8기가 듀얼 16기가 구성SSD는 국밥같은 ssd케이스는 사무용 단정한 케이스파워서플라이는 80plus 인증 파워CPU쿨러는 기본쿨러 포함 모델보다 저렴하여 추가.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i3-12세대 12100 벌크",
+            "가격": "136,550원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock H610M-HDV/M.2 R2.0 D4 에즈윈 벌크",
+            "가격": "88,830원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4 8G PC4-25600 CL22",
+            "가격": "21,480원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial MX500 대원CTS 500GB",
+            "가격": "69,860원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "앱코 O10M 오피스 라이트 블랙",
+            "가격": "16,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "에너지옵티머스 EXCEL II 500W 80PLUS STANDARD 230V EU",
+            "가격": "33,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "앱코 자이로스 95XF V2 1700 ONLY FRGB",
+            "가격": "7,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "395500원",
+    "CPU": "인텔 코어i3-12세대 12100 (엘더레이크) 벌크",
+    "Motherboard": "ASRock H610M-HDV/M.2 R2.0 D4 에즈윈 벌크",
+    "SSD": "마이크론 Crucial MX500 대원CTS (500GB)",
+    "Memory": "마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개",
+    "Power Supply": "에너지옵티머스 EXCEL II 500W 80PLUS STANDARD 230V EU",
+    "CPU Cooler": "앱코 자이로스 95XF V2 1700 ONLY FRGB",
+    "cpu_score": 844,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 14250,
+    "gpu_benchmarkscore": null
+}

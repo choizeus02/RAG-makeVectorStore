@@ -1,0 +1,60 @@
+{
+    "quote_number": "5071",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + RTX 4080 SUPER",
+    "date_create": "2024.4.5",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4080 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + RTX 4080 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 메인보드는 인텔용이라 호환이 되지 않습니다. ASRock B650M Pro RS 대원씨티에스로 변경2. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 PATRIOT DDR5-5200 CL42 SIGNATURE (32GB) x 2개 64기가로 변경3. 그래픽카드는 1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4080 화이트로 변경했습니다. 고가의 그래픽카드일수록 추가되는 2년의 무상AS는 아주 큰 메리트가 됩니다.4. DARKFLASH DS900 ARGB 강화유리 화이트 (미들타워)는 현재 품절이라 구매가 불가능한 상태입니다. 지금처럼 공랭쿨러에 미니보드로 구성을 한다면 해당 조합에 특화가 되어서 튜닝을 극대화시킬 수 있는 Antec CX200M RGB ELITE 화이트 (미니타워)로 추천압도적인 비주얼과 가성비를 제공하는 어항케이스로 5개의 팬을 기본 장착했고 하단부 타공망을 적용하여 쿨링 효과도 높은 제품입니다.5. CPU쿨러는 구성하신 제품과 동일한 네이밍이면서 쿨링 팬을 업그레이드 해서 보다 높은 성능에 낮은 소음인 공랭쿨러 끝판왕급이라고 할 수 있는 3RSYS Socoool RC 1800 Quiet ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[메모리]PATRIOT DDR5-5200 CL42 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White상세보기[케이스]Antec CX200M RGB ELITE 화이트 (미니타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 B650칩셋 제품이라서 PBO와 커브옵티마이저 기능을 지원하는 제품입니다. 400A급 드라이버모스펫 구성의 전원부 성능을 가지고 있으며 기판일부와 방열판색상이 화이트라 화이트조합에 알맞습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "529,210원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "175,660원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "PATRIOT DDR5-5200 CL42 SIGNATURE  32GB",
+            "가격": "117,280원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White",
+            "가격": "1,614,030원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec CX200M RGB ELITE 화이트",
+            "가격": "53,400원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "55,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2801210원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White",
+    "Memory": "PATRIOT DDR5-5200 CL42 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 34625
+}

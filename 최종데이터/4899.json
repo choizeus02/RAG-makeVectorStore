@@ -1,0 +1,71 @@
+{
+    "quote_number": "4899",
+    "quote_title": "14900K + RTX 4080 SUPER (Antec C8 MESH White)",
+    "date_create": "2024.3.30",
+    "cpu_gpu_combinations": "코어i9-14900K + RTX 4080 SUPER 조합",
+    "quotation_summary": " 14900K + RTX 4080 SUPER (Antec C8 MESH White)# 14900K + RTX 4080 SUPER (Antec C8 MESH White)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14900K + RTX 4080 SUPER (Antec C8 MESH White)",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White상세보기[SSD]삼성전자 990 PRO M.2 NVMe (4TB)상세보기[케이스]Antec C8 MESH White (빅타워)상세보기[파워서플라이]SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)상세보기[CPU쿨러]발키리 GL360 ARGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]발키리 X12 ARGB (BLACK)상세보기[쿨러.튜닝.조명.액세서리]발키리 X12R ARGB (BLACK) x 3 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메인보드는 화이트 감성을 위한 어로스 엘리트 보드입니다.\n16+1+2페이즈 1120A(90A)의 뛰어난 전원부의 보드입니다.메모리는 ADATA의 깔끔한 화이트 고클럭 튜닝 메모리입니다.파워서플라이는 뛰어난 효율과 유니버셜 커넥터로 편의성도 좋고, 고주파 발생시 새제품 교환 등 AS 정책도 가장 뛰어난 제품입니다.CPU쿨러는 현재 360 규격 최상급 수냉입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "781,090원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "379,300원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "327,840원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White",
+            "가격": "1,614,030원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 990 PRO M.2 NVMe 4TB",
+            "가격": "507,600원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec C8 MESH White",
+            "가격": "126,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0",
+            "가격": "227,420원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "166,840원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "발키리 X12R ARGB x 3 개",
+            "가격": "27,590원",
+            "수량": "3"
+        }
+    },
+    "total_price": "4212890원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White",
+    "SSD": "삼성전자 990 PRO M.2 NVMe (4TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)",
+    "CPU Cooler": "발키리 GL360 ARGB (WHITE)",
+    "cpu_score": 56,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 34625
+}

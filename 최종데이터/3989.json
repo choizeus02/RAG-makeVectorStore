@@ -1,0 +1,71 @@
+{
+    "quote_number": "3989",
+    "quote_title": "인텔 코어i7-14세대 14700K + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.3.8",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 4070 SUPER 조합",
+    "quotation_summary": " 인텔 코어i7-14세대 14700K + 지포스 RTX 4070 SUPER# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 그래픽카드는 구성하신 GIGABYTE 지포스 RTX 4070 AERO OC D6X 12GB 피씨디렉트는 유통하는 업체가 많이 없어서 현금가 카드가 모두 품절로 뜹니다.15% 가량 성능이 더 좋은 상위 제품인 GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC ICE D6X 12GB 피씨디렉트로 변경2. SSD는 최근에 출시한 젠4 규격의 끝판왕급 제품이라고 할 수 있는  마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경3. 케이스는 가격대비 미친 퀄리티로 우리나라 제조사에서 이런 제품을 만들었다는 것 자체가 아주 놀라웠던 제품이었습니다. 정말 만족도가 높았던 제품이라 그대로 진행하시는 것을 강추합니다.https://blog.naver.com/zoro730321/223347654438<- 직접 사용해 본 리뷰 자료입니다.4. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 변경5. 구성하신 CPU쿨러를 추천해 드리고 싶다면 현재 유통사가 많이 없습니다. 14700K면 추천드리는 420mm 라디에이터가 적용되어 있는 써멀테이크 TH420 V2 ARGB Sync (SNOW)로도 충분히 온도 제어가 가능합니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]G.SKILL DDR5-6000 CL30 TRIDENT Z5 RGB J 실버 패키지 (64GB(32Gx2))상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC ICE D6X 12GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5640/128M (WD80EAZZ, 8TB)상세보기[케이스]마이크로닉스 ML-420 BTF 화이트 (빅타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]써멀테이크 TH420 V2 ARGB Sync (SNOW)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-14세대 14700K",
+            "가격": "573,850원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "379,440원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL30 TRIDENT Z5 RGB J 실버 패키지) 64GB",
+            "가격": "345,820원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC ICE D6X 12GB 피씨디렉트",
+            "가격": "993,710원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5640/128M",
+            "가격": "168,790원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 화이트",
+            "가격": "136,980원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "써멀테이크 TH420 V2 ARGB Sync",
+            "가격": "160,600원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3125760원",
+    "CPU": "인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC ICE D6X 12GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "G.SKILL DDR5-6000 CL30 TRIDENT Z5 RGB J 실버 패키지 (64GB(32Gx2))",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "써멀테이크 TH420 V2 ARGB Sync (SNOW)",
+    "cpu_score": 98,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 31768
+}

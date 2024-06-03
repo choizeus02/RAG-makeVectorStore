@@ -1,0 +1,71 @@
+{
+    "quote_number": "3745",
+    "quote_title": "7950X3D + RTX 4090 4K 게이밍",
+    "date_create": "2024.3.3",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": " 7950X3D + RTX 4090 4K 게이밍# 7950X3D + RTX 4090 4K 게이밍",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7950X3D + RTX 4090 4K 게이밍",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]ASUS ROG STRIX X670E-E GAMING WIFI STCOM상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 패키지 (32GB(16Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB상세보기[SSD]마이크론 Crucial T500 히트싱크 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DS5000 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-1300F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)상세보기[CPU쿨러]발키리 GL360 ARGB (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 뛰어난 게임성능과 전성비로 인텔 13세대를 압도해버린 라이젠 최상위 게이밍 CPU입니다.그래픽카드는 화이트 제품은 아니지만 감성과 성능, AS까지 모두 잡은 그래픽카드입니다.케이스는 뛰어난 호환성과 쿨링성능을 자랑하는 다크플래쉬의 케이스입니다CPU쿨러는 360 규격 수냉 중 최상급 수냉입니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "891,950원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ROG STRIX X670E-E GAMING WIFI STCOM",
+            "가격": "664,000원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 패키지) 32GB",
+            "가격": "164,400원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+            "가격": "2,874,550원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 히트싱크 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "263,290원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DS5000 MESH 강화유리 블랙",
+            "가격": "120,740원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1300F14XG LEADEX VII GOLD ATX 3.0",
+            "가격": "285,120원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,540원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5600493원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "ASUS ROG STRIX X670E-E GAMING WIFI STCOM",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+    "SSD": "마이크론 Crucial T500 히트싱크 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 패키지 (32GB(16Gx2))",
+    "Power Supply": "SuperFlower SF-1300F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)",
+    "CPU Cooler": "발키리 GL360 ARGB (BLACK)",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

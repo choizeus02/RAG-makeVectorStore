@@ -1,0 +1,60 @@
+{
+    "quote_number": "2613",
+    "quote_title": "인텔 코어i9-14세대 14900K",
+    "date_create": "2024.2.6",
+    "cpu_gpu_combinations": "코어i9-14900K +  조합",
+    "quotation_summary": " 인텔 코어i9-14세대 14900K# 음악 작업",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 가상 악기를 많이 불러오는 음악 작업용이라면 멀티 코어 성능이 좋을수록 유리합니다. 현재 멀티 코어 성능은 14900K가 가장 좋습니다.인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다. 14900K 벌크로 구성2. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부가 적용되어 있어서 안정적으로 사용할 수 있는 GIGABYTE Z790 AORUS ELITE X 피씨디렉트로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 구성4. SSD는 젠4 규격의 끝판왕이라고 할 수 있는 마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB)로 구성5. 케이스는 5V ARGB 140mm 고성능 저소음 시스템 팬 4개를 기본 장착하고 C타입 포트 등 각종 편의 기능을 적용하여 완성형에 가까운 3RSYS R640 Quiet 블랙 (미들타워)로 구성8개의 팬을 제어할 수 있는 5V ARGB & PWM 허브를 제공하고 무엇보다도 현재 유통 중인 케이스 중 가장 조용한 편에 속하는 제품입니다.6. 파워는 정격 800W 골드인증 제품인 쿨러마스터 G800 GOLD로 구성해서 안정성과 가성비를 모두 챙겼습니다.7. CPU쿨러는 최상위 성능군으로 GL360과 동급이면서 소음은 아주 낮은 수준으로 사실상 3열 수냉쿨러의 끝판왕이라고 할 수 있는 3RSYS Socoool 라니 XY-360 Quiet (BLACK)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite Plus 블랙 서린 (32GB) x 2 개상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB)상세보기[케이스]3RSYS R640 Quiet 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]3RSYS Socoool 라니 XY-360 Quiet (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기파워서플라이는 안정성과 가성비를 겸비한 골드인증 800W 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "789,880원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite Plus 블랙 서린  32GB",
+            "가격": "129,300원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 2TB",
+            "가격": "217,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS R640 Quiet 블랙",
+            "가격": "85,800원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "89,990원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool 라니 XY-360 Quiet",
+            "가격": "162,230원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1941230원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite Plus 블랙 서린 (32GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "3RSYS Socoool 라니 XY-360 Quiet (BLACK)",
+    "cpu_score": 56,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": null
+}

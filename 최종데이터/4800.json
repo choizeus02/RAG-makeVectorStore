@@ -1,0 +1,71 @@
+{
+    "quote_number": "4800",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.3.28",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4070 Ti SUPER# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 현재 7950X와 7950X3D의 가격차이가 크지 않아서 계속해서 켜두는 거라면 공랭쿨러로도 커버가 가능한 압도적인 전성비를 자랑하는 7950X3D로 구성하는 것이 좋겠습니다.2. 메인보드는 1120A급 출력의 드라이버 모스펫 전원부가 적용되어 있어서 아주 안정적으로 사용할 수 있는 최상위 제품군인 SI MAG B650 토마호크 WIFI로 변경3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) 2개 64기가로 변경4. 그래픽카드는 구성하시려는 제품으로 추가했습니다.5. 견적번호에 있는 부품 중에서 주변기기와 모니터를 제외하고 나머지는 그대로 구성하면 되겠습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]MSI MAG B650 토마호크 WIFI상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 Ti SUPER GAMINGPRO OC D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]몬스타 가츠 X520LA 리버스 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "890,930원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B650 토마호크 WIFI",
+            "가격": "318,360원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,790원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 Ti SUPER GAMINGPRO OC D6X 16GB",
+            "가격": "1,229,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,690원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 리버스 블랙",
+            "가격": "56,110원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "129,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "55,000원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,350원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3318700원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "MSI MAG B650 토마호크 WIFI",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 Ti SUPER GAMINGPRO OC D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (BLACK)",
+    "cpu_score": 63,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 31768
+}

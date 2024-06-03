@@ -1,0 +1,71 @@
+{
+    "quote_number": "5122",
+    "quote_title": "AMD 라이젠7-5세대 7700 + 라데온 RX 7800 XT",
+    "date_create": "2024.4.7",
+    "cpu_gpu_combinations": "라이젠7 7700 + RX 7800 XT 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7700 + 라데온 RX 7800 XT# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 메인보드는 유통하는 업체가 몇 없어서 동일 제품에 유통사만 다르고 많은 업체에서 유통중인 ASRock B650M Pro RS 디앤디컴으로 변경2. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경3. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경4. 구성하신 케이스는 현재 품절이 된 상태라 어항케이스 중에서는 압도적인 비주얼과 가성비를 제공하는 몬스타 가츠 X520LA 화이트 (미들타워)로 변경5. 7800XT는 최대 전력 소모량이 263W로 정격 700W를 권장파워로 요구합니다. 일부 제조사들이 표기해 놓은 750W는 신경쓰지 않아도 되구요.파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 700W 화이트로 변경6. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 월등한 가성비의 DARKFLASH NEBULA DN-360 ARGB (화이트)로 변경7. 구성하신 시스템 팬은 컨셉과 맞지 않는 블랙 색상이라 고성능 저소음에 현 시점 시스템 팬으로 탑티어 제품인 3RSYS Silence GI 120 ARGB WHITE (3PACK)으로 변경8. 모든 팬을 연결할 수 있는 5V ARGB & PWM 8채널 허브를 추가했고 리모컨 제공으로 손쉽게 LED를 컨트롤 할 수 있도록 했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7700 (라파엘) (정품)상세보기[메인보드]ASRock B650M Pro RS 디앤디컴상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]PowerColor 라데온 RX 7800 XT Hellhound Spectral White D6 16GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (화이트)상세보기[쿨러.튜닝.조명.액세서리]3RSYS Silence GI 120 ARGB WHITE (3PACK)상세보기[쿨러.튜닝.조명.액세서리]IHTP MH-009 ARGB 8-BIT HUB+리모컨상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기파워서플라이는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 700W 화이트",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7700",
+            "가격": "401,348원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 디앤디컴",
+            "가격": "182,860원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,030원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "PowerColor 라데온 RX 7800 XT Hellhound Spectral White D6 16GB",
+            "가격": "731,120원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,900원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "61,940원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "72,590원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,260원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "IHTP MH-009 ARGB 8-BIT HUB+리모컨",
+            "가격": "13,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1777078원",
+    "CPU": "AMD 라이젠7-5세대 7700 (라파엘) (정품)",
+    "Motherboard": "ASRock B650M Pro RS 디앤디컴",
+    "Graphic Card": "PowerColor 라데온 RX 7800 XT Hellhound Spectral White D6 16GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (화이트)",
+    "cpu_score": 209,
+    "gpu_score": 11,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 35970,
+    "gpu_benchmarkscore": 29006
+}

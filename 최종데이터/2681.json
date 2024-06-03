@@ -1,0 +1,71 @@
+{
+    "quote_number": "2681",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090",
+    "date_create": "2024.2.8",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 현재 7950X는 유통이 원활하지 않습니다. 판매점이 거의 없는 상황이라 품절이라고 보면 될 것 같고 7950X3D로 변경해서 부품의 선택을 보다 자유로울 수 있도록 했습니다.2. 메인보드는 구성하신 HERO도 2개의 거대한 그래픽카드를 장착할 수 있는 레이아웃이 아니네요. 2번 슬롯이 너무 아래에 위치해 있습니다. 애즈락 타히치도 마찬가지인지라 육안상 2개의 그래픽카드를 간섭없이 장착할 수 있는 ASUS ProArt X670E-CREATOR WIFI 대원씨티에스로 변경3. 메모리는 16기가 2개가 아니라 32기가 2개로 구성해서 딥러닝시 최대한의 성능을 뽑아 낼 수 있도록 변경4. 그래픽카드는 두께가 얇아야 간섭이 없이 두 개를 장착할 수 있습니다. MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 2개로 변경5. SSD는 젠4 규격의 끝판왕이라고 할 수 있는 마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB)로 변경6. 케이스는 구성하신 프랙탈 디자인이 빅타워긴하지만 커스텀 수냉 빌드에 더 적합한 디자인의 제품인지라 내부가 아주 넓고 장착 호환성이 높은 리얼 빅타워 제품인 앱코 SUITMASTER B4000 스토리지 마스터 강화유리 (빅타워)로 변경7. 파워는 상위 인증 제품인 플래티넘 인증의 1650W 제품인 HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)로 변경8. 7950X3D는 공랭쿨러로도 온도 제어가 될 정도로 전성비가 좋은 제품이라 케이스와 어울리는 3열 수냉쿨러인 Thermalright AQUA ELITE 360 ARGB V2 서린 (BLACK)으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS ProArt X670E-CREATOR WIFI 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개상세보기[그래픽카드]MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 x 2 개상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB)상세보기[케이스]앱코 SUITMASTER B4000 스토리지 마스터 강화유리 (빅타워)상세보기[파워서플라이]HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)상세보기[CPU쿨러]Thermalright AQUA ELITE 360 ARGB V2 서린 (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "892,880원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ProArt X670E-CREATOR WIFI 대원씨티에스",
+            "가격": "768,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  32GB",
+            "가격": "115,810원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 x 2 개",
+            "가격": "2,996,000원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 2TB",
+            "가격": "217,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "앱코 SUITMASTER B4000 스토리지 마스터 강화유리",
+            "가격": "255,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "HYDRO PTM PRO 1650W Platinum ATX3.0",
+            "가격": "555,490원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright AQUA ELITE 360 ARGB V2 서린",
+            "가격": "84,530원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,670원",
+            "수량": "1"
+        }
+    },
+    "total_price": "9171170원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS ProArt X670E-CREATOR WIFI 대원씨티에스",
+    "Graphic Card": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 x 2 개",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개",
+    "Power Supply": "HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)",
+    "CPU Cooler": "Thermalright AQUA ELITE 360 ARGB V2 서린 (BLACK)",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

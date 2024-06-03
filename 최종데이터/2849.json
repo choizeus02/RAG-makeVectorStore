@@ -1,0 +1,81 @@
+{
+    "quote_number": "2849",
+    "quote_title": "인텔 코어i7-14세대 14700KF + 지포스 RTX 4090",
+    "date_create": "2024.2.12",
+    "cpu_gpu_combinations": "코어i7-14700KF + RX 7600 조합",
+    "quotation_summary": " 인텔 코어i7-14세대 14700KF + 지포스 RTX 4090# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "i7은 온도가 높은 편이라 메인보드도 좋은 제품을 사용해야 합니다. 이 두가지 부품만 해도 100만원에 육박하구요.4090만 300만원에 육박하는데 200만원 언저리에서 고려해 본다는 말씀이 위 언급한 3가지 부품을 제외하고 인지 아니면 다른 것이 포함되는 건지 정확한 정보가 필요합니다.윈도우는 정품 기준 17만원이고 구매하지 않으면 설치가 되지 않은 상태로 배송이 됩니다.지금 구성하신 견적은 새로 고쳐야 하는데 다시 확인하시고 정확한 정보를 올려주시면 성심껏 조언해 드리겠습니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품)상세보기[메인보드]ASRock B760M 스틸레전드 WiFi D5 에즈윈상세보기[메모리]마이크론 Crucial DDR5-5600 CL46 PRO 패키지 (32GB(16Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK OC D6X 24GB상세보기[그래픽카드]ASUS DUAL 라데온 RX 7600 O8G OC D6 8GB상세보기[SSD]마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-700DG 80PLUS BRONZE상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]DARKFLASH Ellsworth D21 (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[소프트웨어]한글과컴퓨터 한컴오피스 2024 가정 및 학생용 (처음사용자용 1PC Only)상세보기[게이밍헤드셋.스피커.마이크]SANWA MM-MCF02BK 회의용 마이크상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "SSD는 5년 무상AS를 제공하는 젠4 제품 중에서는 가성비가 월등히 좋은 SSD데스크탑 HDD는 안정성 높은 PMR 방식의 HDD파워서플라이는  7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-14세대 14700KF",
+            "가격": "529,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M 스틸레전드 WiFi D5 에즈윈",
+            "가격": "220,620원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR5-5600 CL46 PRO 패키지) 32GB",
+            "가격": "264,730원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ASUS DUAL 라데온 RX 7600 O8G OC D6 8GB",
+            "가격": "336,400원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS 1TB",
+            "가격": "127,000원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "97,170원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 화이트",
+            "가격": "93,150원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth D21",
+            "가격": "47,440원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "한글과컴퓨터 한컴오피스 2024 가정 및 학생용",
+            "가격": "96,508원",
+            "수량": "1"
+        },
+        "게이밍헤드셋.스피커.마이크": {
+            "제품명": "SANWA MM-MCF02BK 회의용 마이크",
+            "가격": "29,146원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1913464원",
+    "CPU": "인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품)",
+    "Motherboard": "ASRock B760M 스틸레전드 WiFi D5 에즈윈",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK OC D6X 24GB",
+    "SSD": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)",
+    "Memory": "마이크론 Crucial DDR5-5600 CL46 PRO 패키지 (32GB(16Gx2))",
+    "Power Supply": "topower Guardian TOP-700DG 80PLUS BRONZE",
+    "CPU Cooler": "DARKFLASH Ellsworth D21 (BLACK)",
+    "cpu_score": 98,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 17905
+}

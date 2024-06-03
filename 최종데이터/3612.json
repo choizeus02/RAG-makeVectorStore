@@ -1,0 +1,66 @@
+{
+    "quote_number": "3612",
+    "quote_title": "AMD 라이젠9-5세대 7900 + 지포스 RTX 4070",
+    "date_create": "2024.2.29",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 4070 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7900 + 지포스 RTX 4070# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경언급하신 용도라면 32기가면 충분합니다.2. 구성하신 SSD인 P31은 NVMe 규격 중에서는 속도가 가장 느린 젠3 제품입니다.젠3 보다 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경3. 케이스는 파노라마 뷰 어항디자인 중에서는 압도적인 비주얼과 가성비 그리고 C타입 모트와 하단부 타공망 적용으로 쿨링 효율까지 높인 몬스타 가츠 X520LA 화이트 (미니타워)로 변경 (미니타워로 적혀있지만 미들타워입니다. 네이밍 오기로 보이네요.)DAVEN AQUARIUM 화이트 (미들타워) 같은 경우는 C타입 포트 미적용에 USB 포트도 2개만 제공하고 강판도 얇은 편이라 원가 절감한 티가 많이 나는 제품입니다. C타입 포트가 은근히 있고 없고 차이가 크죠.4. 구성에 파워가 없어서 화이트 색상의 가성비 좋은 골드인증 제품인 NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5) 추가했습니다.5. CPU쿨러는 케이스와 잘어울리는 화이트 색상의 대장급 성능의 듀얼타워 공랭쿨러 중에서는 가성비가 가장 좋은 3RSYS Socoool RC1200 ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (정품)상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 EX GAMER WHITE OC D6X 12GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC1200 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 B650칩셋 제품이라서 PBO와 커브옵티마이저 기능을 지원하는 제품입니다. 400A급 드라이버모스펫 구성의 전원부 성능을 가지고 있으며 기판일부와 방열판색상이 화이트라 화이트조합에 알맞습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "523,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "170,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 EX GAMER WHITE OC D6X 12GB",
+            "가격": "889,900원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "61,940원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1200 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2031970원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (정품)",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 EX GAMER WHITE OC D6X 12GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC1200 ARGB (WHITE)",
+    "cpu_score": 107,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 31768
+}

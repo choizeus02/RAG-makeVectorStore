@@ -1,0 +1,66 @@
+{
+    "quote_number": "4767",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 라데온 RX 7800 XT",
+    "date_create": "2024.3.27",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RX 7800 XT 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 라데온 RX 7800 XT# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2개 32기가로 변경2. 케이스와 파워가 핑크 색상이라 그래픽카드도 핑크와 잘 어울리는 화이트 색상으로 맞춰주는 것이 보다 멋진 세팅이 됩니다.화이트 색상에 트리플 팬 적용, 가격적인 메리트도 높고 AS도 좋은 ASRock 라데온 RX 7800 XT 스틸레전드 OC D6 16GB 대원씨티에스로 변경3. SSD는 젠4 규격의 끝판왕급 성능 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경4. CPU쿨러는 핑크 색상에 구성한 케이스와 한 세트인 것처럼 잘 어울리는 3열 수냉쿨러인 DARKFLASH Twister DX-360 ARGB (핑크)로 변경해서 핑크 컨셉의 시스템을 완성했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ASRock 라데온 RX 7800 XT 스틸레전드 OC D6 16GB 대원씨티에스상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 핑크 (미들타워)상세보기[파워서플라이]Classic II 750W 80PLUS Bronze 230V EU HDB PINK상세보기[CPU쿨러]DARKFLASH Twister DX-360 ARGB (핑크)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "529,830원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "214,890원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,470원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ASRock 라데온 RX 7800 XT 스틸레전드 OC D6 16GB 대원씨티에스",
+            "가격": "731,320원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,700원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 핑크",
+            "가격": "98,460원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "Classic II 750W 80PLUS Bronze 230V EU HDB PINK",
+            "가격": "72,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Twister DX-360 ARGB",
+            "가격": "85,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2089140원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "ASRock 라데온 RX 7800 XT 스틸레전드 OC D6 16GB 대원씨티에스",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "Classic II 750W 80PLUS Bronze 230V EU HDB PINK",
+    "CPU Cooler": "DARKFLASH Twister DX-360 ARGB (핑크)",
+    "cpu_score": 225,
+    "gpu_score": 11,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 29006
+}

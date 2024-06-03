@@ -1,0 +1,71 @@
+{
+    "quote_number": "5177",
+    "quote_title": "코어i7-14세대 14700KF + 지포스 RTX 4060 Ti",
+    "date_create": "2024.4.9",
+    "cpu_gpu_combinations": "코어i7-14700KF + RTX 4060 Ti 조합",
+    "quotation_summary": " 코어i7-14세대 14700KF + 지포스 RTX 4060 Ti# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 원하시는  i7 14700KF로 구성2. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 GIGABYTE Z790 AORUS ELITE X 피씨디렉트로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 ESSENCORE KLEVV DDR5-5600 CL46 (32GB) x 2개 64기가로 구성4. 그래픽카드는 1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4060 Ti로 구성5. SSD는 젠4 규격의 끝판왕급 성능 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 구성6. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 구성7. 파워는 정격 800W 골드인증 제품인 쿨러마스터 G800 GOLD로 구성해서 안정성과 가성비를 모두 챙겼습니다.8. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서도 압도적인 성능과 가성비를 제공하는 끝판왕 제품인 잘만 Alpha II A36 (BLACK)으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700KF (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (32GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]잘만 Alpha II A36 (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "파워서플라이는 안정성과 가성비를 겸비한 골드인증 800W 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700KF",
+            "가격": "536,570원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,750원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  32GB",
+            "가격": "124,680원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+            "가격": "541,950원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,690원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "90,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,430원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,350원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2334390원",
+    "CPU": "코어i7-14세대 14700KF (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (32GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "잘만 Alpha II A36 (BLACK)",
+    "cpu_score": 98,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 22891
+}

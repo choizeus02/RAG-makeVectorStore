@@ -1,0 +1,66 @@
+{
+    "quote_number": "3613",
+    "quote_title": "라라랜드 게이밍 PC",
+    "date_create": "2024.4.2",
+    "cpu_gpu_combinations": "라이젠5 7500F + RX 6800 조합",
+    "quotation_summary": " 1. 가격 대비 성능을 최우선으로 고려하여 견적 구성하였습니다2. A/S 평가가 좋고 품질 좋은 제품들로 구성하였습니다# 게임용# 라라랜드# 윈도우 미포함# 모니터 미포함# 가성비",
+    "quote_person_introduction": "저렴한 제품으로 가격 맞추기가 아닌 가격 대비 뛰어난 성능과 안정성 A/S 등을 고려하여 합리적인 구매 하실 수 있도록 도움 드리겠습니다",
+    "quote_feedback": "저렴한 제품으로 가격 맞추기가 아닌 가격 대비 뛰어난 성능과 안정성 A/S 등을 고려하여 견적 구성하였습니다",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M-HDV/M.2 대원씨티에스상세보기[메모리]PATRIOT DDR5-5200 CL42 SIGNATURE (16GB) x 2 개상세보기[그래픽카드]XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB상세보기[SSD]장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자상세보기[케이스]1stPlayer T7-P 블랙 (미들타워)상세보기[파워서플라이]FSP HYPER K PRO 700W 80PLUS Standard 230V EU상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현재 CPU 중 게이밍 가성비 1등인 AMD 라이젠5-5세대 7500F 제품 추천 드립니다메인보드는 ARGB 제품 사용하지 않으신다면 DR.MOS 400A 전원부와 히트싱크도 잘 갖춰져 있고 추후 WiFi 장착까지 가능하며 가격까지 저렴한 ASRock B650M-HDV/M.2 제품 추천 드립니다메모리는 하이닉스 모듈을 사용해 호환성과 안정성이 뛰어나고 가격도 저렴한 PATRIOT DDR5-5200 CL42 SIGNATURE 제품 추천 드립니다그래픽카드는 AFMF 기능을 지원하고 4060TI 보다 저렴한 가격에 성능은 더 좋으며 3팬 제품으로 쿨링도 뛰어난 XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB 제품 추천 드립니다SSD는 삼성 980 PRO OEM 제품으로 뛰어난 성능에 가격까지 저렴한 PM9A1 M.2 NVMe 병행수입 제품 추천 드립니다케이스는 120MM 쿨링팬 6개 기본 제공하고 디자인, 편의성, 가격까지 어느 하나 빠지는 것 없는  1stPlayer T7-P 제품 추천 드립니다파워서플라이는 브론즈급 효율과 뛰어난 안정성을 제공하는 1티어 파워인 FSP HYPER K PRO 700W 80PLUS Standard 230V EU 제품 추천 드립니다CPU쿨러는 싱글 공랭 최상위 성능에 가격까지 착한 갓성비 쿨러 3RSYS TEAMMOST TM40 제품을 선택했습니다",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,580원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M-HDV/M.2 대원씨티에스",
+            "가격": "160,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "PATRIOT DDR5-5200 CL42 SIGNATURE  16GB",
+            "가격": "63,900원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB",
+            "가격": "507,420원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 삼성전자 1TB",
+            "가격": "64,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7-P 블랙",
+            "가격": "38,230원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "FSP HYPER K PRO 700W 80PLUS Standard 230V EU",
+            "가격": "84,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1205730원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M-HDV/M.2 대원씨티에스",
+    "Graphic Card": "XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB",
+    "SSD": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자",
+    "Memory": "PATRIOT DDR5-5200 CL42 SIGNATURE (16GB) x 2 개",
+    "Power Supply": "FSP HYPER K PRO 700W 80PLUS Standard 230V EU",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 355,
+    "gpu_score": 25,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 25024
+}

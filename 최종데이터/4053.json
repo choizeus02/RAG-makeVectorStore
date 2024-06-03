@@ -1,0 +1,71 @@
+{
+    "quote_number": "4053",
+    "quote_title": "7500F + RTX 4070 SUPER (크로스오버 279Q7 IPS 패스트 165 WQHD 게이밍 무결점 모니터 포함)",
+    "date_create": "2024.3.9",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 4070 SUPER 조합",
+    "quotation_summary": " 7500F + RTX 4070 SUPER (크로스오버 279Q7 IPS 패스트 165 WQHD 게이밍 무결점 모니터 포함)# 7500F + RTX 4070 SUPER (크로스오버 279Q7 IPS 패스트 165 WQHD 게이밍 무결점 모니터 포함)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7500F + RTX 4070 SUPER (크로스오버 279Q7 IPS 패스트 165 WQHD 게이밍 무결점 모니터 포함)",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]GeIL DDR5-4800 CL40 PRISTINE V (16GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]삼성전자 PM981 M.2 NVMe 벌크 (512GB) x 2 개상세보기[케이스]DARKFLASH DK290 Air MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[모니터]크로스오버 279Q7 IPS 패스트 165 WQHD 게이밍 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 X 버전에 비해 발열과 전성비를 잡고 나와 저렴한 메인보드와 공랭쿨러와 사용 가능하고 12코어 24스레드로 뛰어난 작업 성능을 자랑하는 라이젠9 CPU입니다.메인보드는 12+2+1페이즈 최대 600A(50A)의 준수한 전원부의 라이젠 보드입니다그래픽카드는 AS 1티어 갤럭시의 RTX 4070 SUPER케이스는 버튼 하나로 RGB LED와 PWM(팬 속 조절)이 가능한 스마트한 쿨링팬에 그래픽카드 지지대 기본 구성 등 가성비가 뛰어난 케이스입니다.파워서플라이는 10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책에 뛰어난 가성비까지 겸비한 파워입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "538,780원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "213,740원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "GeIL DDR5-4800 CL40 PRISTINE V  16GB",
+            "가격": "55,200원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "993,980원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM981 M.2 NVMe 벌크 x 2 개 512GB",
+            "가격": "237,500원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK290 Air MESH RGB 강화유리 블랙",
+            "가격": "39,700원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,060원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 279Q7 IPS 패스트 165 WQHD 게이밍 무결점",
+            "가격": "249,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2780490원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "삼성전자 PM981 M.2 NVMe 벌크 (512GB) x 2 개",
+    "Memory": "GeIL DDR5-4800 CL40 PRISTINE V (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 107,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 31768
+}

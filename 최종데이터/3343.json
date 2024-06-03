@@ -1,0 +1,71 @@
+{
+    "quote_number": "3343",
+    "quote_title": "14700KF + RTX 4070 Ti SUPER(HDD 4TB 포함)",
+    "date_create": "2024.2.22",
+    "cpu_gpu_combinations": "코어i7-14700KF + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 14700KF + RTX 4070 Ti SUPER(HDD 4TB 포함)# 14700KF + RTX 4070 Ti SUPER(HDD 4TB 포함)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14700KF + RTX 4070 Ti SUPER(HDD 4TB 포함)",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700KF (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Toshiba 4TB N300 HDWQ140 (SATA3/7200/128M)상세보기[케이스]NZXT H7 Flow Matte Black (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]발키리 GL360 ARGB (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 8+12코어 16+12 쓰레드로 이전 13세대 대비 4코어 늘어난 14세대 i7입니다.메인보드는 16+1+2페이즈 1440A(90A)의 뛰어난 전원부로 14세대도 문제 없는 강력한 보드입니다.그래픽카드는 AS 1티어 업체인 갤럭시의 4070 TI SUPER입니다. 3팬에 감성도 뛰어난 제품입니다.SSD는 PCIE4.0 대역폭 상급 SSD데스크탑 HDD는 도시바의 안정성이 뛰어난 나스용 하드입니다케이스는 감성 맛집 NZXT의 쿨링성능까지 고려된 H7 케이스입니다. 상단 3열 수냉 장착 가능합니다.파워서플라이는 10년 보증에 ATX 3.0 규격 제품이면서 850W에 11만원대라 가성비는 더 뛰어나고 슈퍼플라워 유통사라 고주파 발생시 새제품 교환 정책도 동일하게 적용되어 가성비 좋게 구성하시기 좋습니다.CPU쿨러는 360 규격 수냉 중 최상급 수냉입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700KF",
+            "가격": "540,270원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,310원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB",
+            "가격": "1,297,900원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,490원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 4TB N300 HDWQ140",
+            "가격": "179,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "NZXT H7 Flow Matte Black",
+            "가격": "198,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "134,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3311913원",
+    "CPU": "코어i7-14세대 14700KF (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "발키리 GL360 ARGB (BLACK)",
+    "cpu_score": 98,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 31768
+}

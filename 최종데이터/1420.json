@@ -1,0 +1,66 @@
+{
+    "quote_number": "1420",
+    "quote_title": "7800X3D + RTX 4070 Ti + QHD 게이밍 견적",
+    "date_create": "2023.9.13",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "파워는 RTX 4천번대 전용 케이블도 주는 제품군에서는 가격대가 큰 차이는 없을테니 논외로 보고메인보드 M-atx 사이즈 중에서 B650M PG Riptide 사용하면12페이즈 급이라 7800x3D는 문제 없을 겁니다.글카슬롯도 조금 더 위에 있는 부분이라간섭에서도 자유로운 부분이구요케이스는 DNX700이나 DK360 같은 것도 있고아니면 팬속 조절되는 DK1000 같은 모델도 나쁘지는 않을 듯 합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[메모리]G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 EX GAMER WHITE OC D6X 12GB상세보기[SSD]장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자상세보기[케이스]DEEPCOOL CH560 DIGITAL White (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]DEEPCOOL AK620 (화이트) 공랭 CPU 쿨러상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 7950x3D를 제외하면\n이걸 따라올 게이밍 CPU는 없다!메인보드는 B650칩셋 제품이라서 PBO와 커브옵티마이저 기능을 지원하는 제품입니다. 400A급 드라이버모스펫 구성의 전원부 성능을 가지고 있으며 기판일부와 방열판색상이 화이트라 화이트조합에 알맞습니다.메모리는 화이트 감성 물씬!\n실버가 아닌 화이트 지숙이!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "172,490원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지) 32GB",
+            "가격": "196,990원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 EX GAMER WHITE OC D6X 12GB",
+            "가격": "879,940원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 삼성전자 1TB",
+            "가격": "111,790원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DEEPCOOL CH560 DIGITAL White",
+            "가격": "147,090원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DEEPCOOL AK620 공랭 CPU 쿨러",
+            "가격": "94,050원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2254170원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 EX GAMER WHITE OC D6X 12GB",
+    "SSD": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자",
+    "Memory": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "DEEPCOOL AK620 (화이트) 공랭 CPU 쿨러",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

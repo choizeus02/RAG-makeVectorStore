@@ -1,0 +1,66 @@
+{
+    "quote_number": "1570",
+    "quote_title": "2023년 6월 추천견적 - 상급 FHD 게이밍(AMD",
+    "date_create": "2023.11.20",
+    "cpu_gpu_combinations": "라이젠5 5600X + RX 7600 조합",
+    "quotation_summary": " 1. 배그 국옵 144, 오버워치 풀옵 144!2. 로스트아크 풀옵션!3. FHD 거의 모든 게임 풀옵션!# 배그 국민옵션# 로아 풀옵션# FHD 고주사율 플레이",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "2023년 6월 추천견적 - 상급 FHD 게이밍입니다!이번 상급 FHD 게이밍은 RX 7600 기반이며AMD 그래픽카드는 관심이 필요해요 > 벤치마크 | 퀘이사존 QUASARZONE성능 자체는 RTX 3060 보다 좋은 부분이기에 그래픽카드가 변경 되었습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 버미어 5600X (정품 멀티팩)(쿨러포함)상세보기[메인보드]ASUS PRIME B550M-A 대원CTS상세보기[메모리]마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개상세보기[그래픽카드]SAPPHIRE 라데온 RX 7600 PULSE OC D6 8GB상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]DARKFLASH DK200 RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]SF-500R12ST MEGA 80PLUS STANDARD 230V EU상세보기[CPU쿨러]잘만 CNPS9X PERFORMA RGB (SILVER)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 12400F보다 조금 더 좋은 성능!\n가성비 좋은 게이밍 CPU!메인보드는 PCie 4.0 지원!\n중저가형 메인보드중 최고의 가성비!메모리는 라이프 워런티 지원!\n수율 좋은 DDR4 메모리!그래픽카드는 쿨러 깍는 장인 사파이어!\n이엠텍 유통! 믿음의 AS!SSD는 이천 특산물! SK 하이닉스!\nPCIe 3.0의 끝판왕!케이스는 가성비 케이스 중 최고봉!\n전면3, 후면1 쿨링 시스템!파워서플라이는 GTX 1660 SUPER 라면충분한 용량의 500w!\n무한 고주파 교체 AS의 슈퍼플라워!CPU쿨러는 가성비 좋고 성능 좋고!\n3만원 미만에서의 갓성비 모델!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 버미어 5600X",
+            "가격": "183,050원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME B550M-A 대원CTS",
+            "가격": "113,890원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4 8G PC4-25600 CL22",
+            "가격": "21,480원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "SAPPHIRE 라데온 RX 7600 PULSE OC D6 8GB",
+            "가격": "364,760원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK200 RGB 강화유리 블랙",
+            "가격": "36,280원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SF-500R12ST MEGA 80PLUS STANDARD 230V EU",
+            "가격": "46,971원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 CNPS9X PERFORMA RGB",
+            "가격": "33,740원",
+            "수량": "1"
+        }
+    },
+    "total_price": "900651원",
+    "CPU": "AMD 라이젠5-4세대 버미어 5600X (정품 멀티팩)(쿨러포함)",
+    "Motherboard": "ASUS PRIME B550M-A 대원CTS",
+    "Graphic Card": "SAPPHIRE 라데온 RX 7600 PULSE OC D6 8GB",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개",
+    "Power Supply": "SF-500R12ST MEGA 80PLUS STANDARD 230V EU",
+    "CPU Cooler": "잘만 CNPS9X PERFORMA RGB (SILVER)",
+    "cpu_score": 504,
+    "gpu_score": 72,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 17905
+}

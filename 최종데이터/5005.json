@@ -1,0 +1,71 @@
+{
+    "quote_number": "5005",
+    "quote_title": "7800X3D + RTX 4070 Ti SUPER",
+    "date_create": "2024.4.3",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 7800X3D + RTX 4070 Ti SUPER# 7800X3D + RTX 4070 Ti SUPER",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7800X3D + RTX 4070 Ti SUPER",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]PATRIOT DDR5-5200 CL42 SIGNATURE (16GB) x 2 개상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]1stPlayer T7-P 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7000번대 3D 모델 주인공인 7800X3D입니다. 순정 상태에서 13900KS를 넘어서는 뛰어난 게임 성능과 뛰어난 전성비가 장점입니다.메인보드는 12+2+1페이즈 최대 600A(50A)의 준수한 전원부의 라이젠 보드입니다메모리는 하이닉스 다이가 탑재된 JEDEC 표준 메모리입니다. \n현재 가격대도 좋고, 라이젠의 경우 5600 클럭 이슈가 있어 해당 메모리로 구성하시기 바랍니다.그래픽카드는 AS 3대장 조텍의 RTX 4070 Ti SUPER Trinity 입니다.SSD는 PCIE4.0 대역폭 상급 SSD케이스는 케이스는 시소닉 유통사 맥스엘리트에서 나온 1stPlayer T7-P 블랙 제품이 가격대비 호환성도 좋고, 정숙성이 뛰어난 하이드로 베어링이 탑재된 쿨링팬이 기본 6개에 가성비가 뛰어납니다.파워서플라이는 10년 보증에 ATX 3.0 규격 제품이면서 850W에 11만원대라 가성비는 더 뛰어나고 슈퍼플라워 유통사라 고주파 발생시 새제품 교환 정책도 동일하게 적용되어 가성비 좋게 구성하시기 좋습니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "529,200원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "214,870원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "PATRIOT DDR5-5200 CL42 SIGNATURE  16GB",
+            "가격": "64,120원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,239,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,690원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7-P 블랙",
+            "가격": "38,230원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "129,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,710원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,350원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2718970원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "PATRIOT DDR5-5200 CL42 SIGNATURE (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

@@ -1,0 +1,81 @@
+{
+    "quote_number": "4509",
+    "quote_title": "AMD 라이젠5-5세대 7600 + 지포스 RTX 4060",
+    "date_create": "2024.3.20",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4060 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7600 + 지포스 RTX 4060# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 현재 유통사가 많이 없어서 견적왕의 최대 메리트인 견적비교가 원활하지 않습니다.기판까지 화이트 색상인 메인보드로 구성하지 않는다면 메인보드에 의해서 화이트 감성을 해치지는 않습니다. 블랙&화이트가 되넌거라 드라이버 모스펫 전원부와 히트싱크가 적용되어 있는 ASRock B650M PG Lightning 에즈윈으로 변경2. 그래픽카드는 구성한 제품이 마찬가지로 유통사가 얼마 없습니다.1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4060 화이트로 변경3. 구성하신 DARKFLASH DS900 ARGB 강화유리 화이트 (미들타워)는 상단에 3열 수냉쿨러를 장착할 공간이 제법 크게 있는 편이고 어항케이스는 수냉쿨러를 장착할 때 가장 멋진 세팅이 됩니다.공랭쿨러로 구성하고 싶다면 공랭쿨러용으로 나온 어항케이스로 압도적인 비주얼과 가성비 그리고 C타입 포트와 하단부 타공망까지 적용되어 있어서 쿨링 효율도 챙긴 몬스타 가츠 X520LA 화이트 (미들타워)로 변경4. CPU쿨러는 싱글타워 끝판왕급 성능에 케이스와 잘 어울리는 화이트 색상 제품인 3RSYS TEAMMOST TM41 ARGB (WHITE)로 구성5. 메인보드에서 M.2 방열판을 제공하지 않아서 가성비 좋은 방열판 하나 추가했습니다.6. 화이트 모니터는 선택지가 많이 없습니다. 지금 구성에서는 FHD 해상도 모니터여야 하는데 고주사율 제품은 모두 품절이고 100MHz 주사율에 가장 선호되는 IPS패널 제품인 MSI MP273AW IPS 100 아이에르고 화이트 무결점으로 추천드립니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB White상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트상세보기[CPU쿨러]3RSYS TEAMMOST TM41 ARGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]MSI MP273AW IPS 100 아이에르고 화이트 무결점상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTKM01 화이트 데스크탑용 메모리 램카드 방열판 x 2 개상세보기[쿨러.튜닝.조명.액세서리]케이엘시스템 KLcom M.2 2280 방열판 (SILVER)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라파엘 논X 제품의 막내로 높은 전성비와 게임 성능으로 DDR5 시스템 가성비 게이밍 라인의 최강자 CPU메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 작고 귀엽고 이쁜 정품등록 시 AS 3+2년의 조탁 제품",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "234,070원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,090원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,510원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB White",
+            "가격": "445,780원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "61,940원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+            "가격": "61,590원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM41 ARGB",
+            "가격": "25,050원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,480원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "MSI MP273AW IPS 100 아이에르고 화이트 무결점",
+            "가격": "139,670원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "케이엘시스템 KLcom M.2 2280 방열판",
+            "가격": "1,260원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1531470원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB White",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+    "CPU Cooler": "3RSYS TEAMMOST TM41 ARGB (WHITE)",
+    "cpu_score": 312,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 22891
+}

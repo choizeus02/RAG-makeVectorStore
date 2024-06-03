@@ -1,0 +1,71 @@
+{
+    "quote_number": "4417",
+    "quote_title": "AMD 라이젠 스레드리퍼 7970X + 지포스 RTX 4090",
+    "date_create": "2024.3.18",
+    "cpu_gpu_combinations": "라이젠 스레드리퍼 7970X (스톰 픽) + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠 스레드리퍼 7970X + 지포스 RTX 4090# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 32코어 64스레드로 금액대 내에서 구성할 수 있는 최고의 성능 제품인 7970X로 구성2. 메인보드는 TRX50 소켓 제품 중에서는 가격적인 메리트가 높은 GIGABYTE TRX50 AERO D 피씨디렉트로 구성3. 메모리는 해당 시스템에서 4채널을 지원해서 32기가 4개로 구성해야 성능을 최대치로 뽑을 수 있습니다.SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 4개 128GB로 구성4. 그래픽카드는 구성하신 제품의 경우 판매 중인 업체가 몇 없어서 많은 업체에서 판매 중이고 상위 네이밍인 GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 피씨디렉트로 변경5. SSD는 현존 최고 속도 규격 젠5 제품인 마이크론 Crucial T700 M.2 NVMe 대원씨티에스 (1TB)로 구성읽기속도 : 11,700(MB/s) / 쓰기속도 : 9,500(MB/s)로 압도적인 속도를 제공합니다.6. 케이스는 가격대비 미친 퀄리티로 국내 제조사에서 이정도 제품을 만들 수도 있구나라고 생각할 정도로 놀라웠던 리얼 빅타워 제품인 마이크로닉스 ML-420 BTF 블랙 (빅타워)로 구성7. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 1050W 고용량에 플래티넘 인증 고효율 제품인 마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)로 구성8. CPU쿨러는 현존하는 최상위 성능인 420mm 라디에이터 3열 수냉쿨러인 Phanteks GLACIER ONE 420 D30 (BLACK)으로 구성9. 모니터는 가장 선호되는 IPS패널 32인치 4K 제품인 LG전자 32UN650로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠 스레드리퍼 7970X (스톰 픽) (정품)상세보기[메인보드]GIGABYTE TRX50 AERO D 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 4 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 피씨디렉트상세보기[SSD]마이크론 Crucial T700 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]마이크로닉스 ML-420 BTF 블랙 (빅타워)상세보기[파워서플라이]마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)상세보기[CPU쿨러]Phanteks GLACIER ONE 420 D30 (BLACK)상세보기[모니터]LG전자 32UN650상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠 스레드리퍼 7970X",
+            "가격": "3,695,950원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE TRX50 AERO D 피씨디렉트",
+            "가격": "1,033,450원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE x 4 개 32GB",
+            "가격": "123,900원",
+            "수량": "4"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 피씨디렉트",
+            "가격": "2,913,810원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T700 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "92,620원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 블랙",
+            "가격": "131,970원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0",
+            "가격": "211,940원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Phanteks GLACIER ONE 420 D30",
+            "가격": "283,540원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "LG전자 32UN650",
+            "가격": "529,730원",
+            "수량": "1"
+        }
+    },
+    "total_price": "9388610원",
+    "CPU": "AMD 라이젠 스레드리퍼 7970X (스톰 픽) (정품)",
+    "Motherboard": "GIGABYTE TRX50 AERO D 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T700 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 4 개",
+    "Power Supply": "마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)",
+    "CPU Cooler": "Phanteks GLACIER ONE 420 D30 (BLACK)",
+    "cpu_score": 11,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 97273,
+    "gpu_benchmarkscore": 38694
+}

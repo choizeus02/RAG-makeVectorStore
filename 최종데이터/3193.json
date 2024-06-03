@@ -1,0 +1,71 @@
+{
+    "quote_number": "3193",
+    "quote_title": "7950X3D + RX 7800 XT (라라랜드)",
+    "date_create": "2024.2.20",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RX 7800 XT 조합",
+    "quotation_summary": " 7950X3D + RX 7800 XT (라라랜드)# 7950X3D + RX 7800 XT (라라랜드)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7950X3D + RX 7800 XT (라라랜드)",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]SAPPHIRE 라데온 RX 7800 XT NITRO+ OC D6 16GB상세보기[SSD]마이크론 Crucial T700 M.2 NVMe 아스크텍 (1TB)상세보기[데스크탑 HDD]Toshiba 3TB P300 HDWD130 (SATA3/7200/64M)상세보기[케이스]Antec PERFORMANCE 1 FT MESH 강화유리 White (빅타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC-1800 Quiet 솔더링 (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 뛰어난 게임성능과 전성비로 인텔 13세대를 압도해버린 라이젠 최상위 게이밍 CPU입니다.파워서플라이는 10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "892,110원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,890원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,490원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "SAPPHIRE 라데온 RX 7800 XT NITRO+ OC D6 16GB",
+            "가격": "768,240원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T700 M.2 NVMe 아스크텍 1TB",
+            "가격": "91,950원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 3TB P300 HDWD130",
+            "가격": "127,500원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec PERFORMANCE 1 FT MESH 강화유리 White",
+            "가격": "209,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC-1800 Quiet 솔더링",
+            "가격": "64,500원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2729520원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "SAPPHIRE 라데온 RX 7800 XT NITRO+ OC D6 16GB",
+    "SSD": "마이크론 Crucial T700 M.2 NVMe 아스크텍 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC-1800 Quiet 솔더링 (WHITE)",
+    "cpu_score": 63,
+    "gpu_score": 11,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 29006
+}

@@ -1,0 +1,76 @@
+{
+    "quote_number": "3437",
+    "quote_title": "7800X3D + 4070 SUPER QHD 게이밍",
+    "date_create": "2024.2.25",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 조합",
+    "quotation_summary": " 7800X3D + 4070 SUPER QHD 게이밍# 7800X3D + 4070 SUPER QHD 게이밍",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7800X3D + 4070 SUPER QHD 게이밍",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))상세보기[그래픽카드]ASUS DUAL 지포스 RTX 4070 O12G OC D6X 12GB White상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DRX70 MESH RGB 강화유리 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC350 ARGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[게이밍헤드셋.스피커.마이크]Creative PEBBLE PRO (정품)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7000번대 3D 모델 주인공인 7800X3D입니다. 순정 상태에서 13900KS를 넘어서는 뛰어난 게임 성능과 뛰어난 전성비가 장점입니다.메인보드는 12+2+2페이즈 720A(60A) 기가바이트의 화이트 감성을 위한 B650 보드메모리는 화이트 감성에 화이트 튜닝 메모리가 빠질 수 없겠죠 ^^SSD는 PCIE4.0 대역폭 상급 SSD케이스는 전면 TYPE-C 포트를 지원하고, 그래픽카드 지지대 기본 구성에 금액대도 합리적인 다크플래쉬의 갓성비 케이스입니다.파워서플라이는  10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책도 동일하고 가격대도 좋은 파워입니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,290원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,800원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린) 32GB",
+            "가격": "164,400원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ASUS DUAL 지포스 RTX 4070 O12G OC D6X 12GB White",
+            "가격": "990,090원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DRX70 MESH RGB 강화유리 화이트",
+            "가격": "49,720원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 ARGB",
+            "가격": "22,800원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "168,990원",
+            "수량": "1"
+        },
+        "게이밍헤드셋.스피커.마이크": {
+            "제품명": "Creative PEBBLE PRO",
+            "가격": "71,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2646610원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "ASUS DUAL 지포스 RTX 4070 O12G OC D6X 12GB White",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC350 ARGB (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

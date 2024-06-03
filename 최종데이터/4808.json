@@ -1,0 +1,71 @@
+{
+    "quote_number": "4808",
+    "quote_title": "5600 + RX 7600",
+    "date_create": "2024.3.28",
+    "cpu_gpu_combinations": "라이젠5 5600 + RX 7600 조합",
+    "quotation_summary": " 5600 + RX 7600# 5600 + RX 7600",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "5600 + RX 7600",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME B550M-A 대원CTS상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개상세보기[그래픽카드]PowerColor 라데온 RX 7600 Fighter D6 8GB 대원씨티에스상세보기[SSD]삼성전자 PM9A1 M.2 NVMe 병행수입 (512GB)상세보기[케이스]1stPlayer T7-P 화이트 (미들타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX600 80PLUS STANDARD상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[쿨러.튜닝.조명.액세서리]케이엘시스템 KLcom M.2 2280 방열판 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 여전히 가성비 게이밍 CPU로 명성이 자자한 CPU입니다.메인보드는 5600과 가성비 좋게 구성하기 좋은 메인보드입니다.파워서플라이는 스탠다드 인증에 6년 무상 AS를 지원하고 보급형에선 보기 힘든 9종에 보호회로가 적용된 가성비 좋은 파워입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "144,380원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME B550M-A 대원CTS",
+            "가격": "115,770원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  16GB",
+            "가격": "31,990원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "PowerColor 라데온 RX 7600 Fighter D6 8GB 대원씨티에스",
+            "가격": "340,380원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M.2 NVMe 병행수입 512GB",
+            "가격": "68,280원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7-P 화이트",
+            "가격": "41,130원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX600 80PLUS STANDARD",
+            "가격": "39,650원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "케이엘시스템 KLcom M.2 2280 방열판",
+            "가격": "1,260원",
+            "수량": "1"
+        }
+    },
+    "total_price": "835060원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME B550M-A 대원CTS",
+    "Graphic Card": "PowerColor 라데온 RX 7600 Fighter D6 8GB 대원씨티에스",
+    "SSD": "삼성전자 PM9A1 M.2 NVMe 병행수입 (512GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX600 80PLUS STANDARD",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 504,
+    "gpu_score": 72,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 17905
+}

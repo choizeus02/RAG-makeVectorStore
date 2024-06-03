@@ -1,0 +1,66 @@
+{
+    "quote_number": "1411",
+    "quote_title": "7600 + RTX 4070 Ti + QHD 게이밍 + 디아블로4 게이밍 + 몬헌 게이밍 + 종합 게이밍",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 Ti 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "완전 가성비 셋팅이라면 딱히 문제는 없어 보입니다~SSD의 경우 동급 PCie 3.0 기반에서는 지금은 970 EVO PLUS가 더 가성비가 좋은 부분이고아니면 비슷한 가격에서 PCie 4.0을 지원하는p5 plus 같은걸 구성하시는게 오히려 성능은 더 좋을 듯 합니다 ^^",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS WiFi 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 Ti Trinity OC D6X 12GB White상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]DARKFLASH Ellsworth S21 (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 새로나온 가성비 CPU!\n동급 인텔대비 월등한 게이밍 성능!메인보드는 가성비의 애즈락!\n믿음의 대원 AS!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 조텍 트리니티 제품의 화이트!\n조텍 만의 특별한 3+2년 AS!SSD는 이천 특산물! SK 하이닉스!\nPCIe 3.0의 끝판왕!파워서플라이는 RX 6800은 750w 이상!\n가성비로 본다면 쿨러마스터 G800",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "239,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS WiFi 대원씨티에스",
+            "가격": "233,790원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 Ti Trinity OC D6X 12GB White",
+            "가격": "1,445,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 화이트",
+            "가격": "95,460원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "89,990원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21",
+            "가격": "27,120원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2399300원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS WiFi 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 Ti Trinity OC D6X 12GB White",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 (화이트)",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

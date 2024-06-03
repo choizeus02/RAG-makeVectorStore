@@ -1,0 +1,71 @@
+{
+    "quote_number": "3076",
+    "quote_title": "코어i5-14세대 14600KF + 지포스 RTX 4060 Ti",
+    "date_create": "2024.2.17",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 4060 Ti 조합",
+    "quotation_summary": " 코어i5-14세대 14600KF + 지포스 RTX 4060 Ti# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 14세대까지 모두 출시가 된 상황이고 가격차이도 크지 않아서 14600K 벌크로 변경인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다.2. 메모리는 구성하신 서린 제품이 현재 품절 직전이라 유통사가 많이 없습니다. 동일한 제품인 TeamGroup DDR5-5600 CL46 Elite (32GB) 2개 64기가로 변경3. 그래픽카드는 성능이 압도적으로 좋은 ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB로 변경4. 작업에 있어서 체감이 가장 크게 되는 부품 중에 하나가 SSD입니다. 구성하신 P31 SSD는 NVMe 규격 중에서는 속도가 가장 느린 젠3 제품입니다.젠3 보다 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경5. 케이스는 강화유리처럼 파손 위험없는 풀아크릴 스윙도어 패널에 6개의 기본 팬을 장착하고 LED OFF 기능까지 적용된 보급형 끝판왕급인 3RSYS R240 블랙 (미들타워)로 변경6. 4060 Ti는 최대 전력 소모량이 3060 보다도 낮은 160W 수준이라 정격 550W면 충분한 파워 용량이 됩니다.브론즈 인증 정격 600W 제품인 쿨러마스터 MWE 600 BRONZE V2 230V로 변경7. CPU쿨러는 대장급 성능의 듀얼 타워 공랭쿨러로 소음까지 낮은 극가성비 제품인 Thermalright Peerless Assassin 120 SE 서린으로 변경8. 모니터는 가장 선호되는 IPS 패널에 27인치 FHD 165Hz 고주사율 게이밍 제품인 크로스오버 27GFA5 IPS 165 아이세이브 게이밍 무결점으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600K (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 맥스 WIFI상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB상세보기[SSD]삼성전자 PM9A1 M.2 NVMe 벌크 (1TB)상세보기[케이스]3RSYS R240 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[모니터]크로스오버 27GFA5 IPS 165 아이세이브 게이밍 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600K",
+            "가격": "436,800원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 맥스 WIFI",
+            "가격": "199,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  32GB",
+            "가격": "115,810원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+            "가격": "539,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M.2 NVMe 벌크 1TB",
+            "가격": "103,630원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS R240 블랙",
+            "가격": "37,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,600원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 27GFA5 IPS 165 아이세이브 게이밍 무결점",
+            "가격": "169,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1827530원",
+    "CPU": "코어i5-14세대 14600K (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 맥스 WIFI",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+    "SSD": "삼성전자 PM9A1 M.2 NVMe 벌크 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 181,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 22891
+}

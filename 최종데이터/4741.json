@@ -1,0 +1,66 @@
+{
+    "quote_number": "4741",
+    "quote_title": "코어i5-14세대 14600K + 지포스 RTX 4070",
+    "date_create": "2024.3.26",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 4070 조합",
+    "quotation_summary": " 코어i5-14세대 14600K + 지포스 RTX 4070# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "구성 잘하셨구요.메모리만 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2개 32기가로 변경했습니다.SSD는 일선 판매점에서도 가성비로 가장 먼저 추천하는 제품이 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)입니다. 펌웨어 이슈는 벌써 몇 년전에 해결이 되었죠. 980 PRO OEM 제품이라 980 PRO에서도 나타났던 이슈라 빠르게 해결을 했습니다.아무런 문제없이 사용 가능한 제품이니 걱정마시고 구성하시면 되겠습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600K (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 2X D6X 12GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]DARKFLASH DS900 ARGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!파워서플라이는 안정성과 가성비를 겸비한 골드인증 800W 파워CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600K",
+            "가격": "432,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "220,000원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,490원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 2X D6X 12GB",
+            "가격": "1,000,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,990원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DS900 ARGB 강화유리 블랙",
+            "가격": "52,750원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "93,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,330원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2111940원",
+    "CPU": "코어i5-14세대 14600K (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 2X D6X 12GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 181,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 31768
+}

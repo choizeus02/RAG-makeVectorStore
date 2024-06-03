@@ -1,0 +1,65 @@
+{
+    "quote_number": "4231",
+    "quote_title": "인텔 코어i5-12세대 12500",
+    "date_create": "2024.3.13",
+    "cpu_gpu_combinations": "코어i5-12500 +  조합",
+    "quotation_summary": " 인텔 코어i5-12세대 12500# 사무",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. i5 CPU의 경우 H610 칩셋이 아닌 B760 칩셋으로 구성해야 성능 저하없이 사용할 수 있습니다. H610 칩셋 메인보드는 i3까지가 맥시멈으로 보면 됩니다.메인보드는 드라이버 모스펫 전원부와 풀 히트싱크가 적용되어 있는 ASRock B760M PG LIGHTNING/D4 대원씨티에스로 변경2. 메모리는 16기가 1개가 아니라 8기가 2개로 구성해야 제대로 된 성능이 나옵니다.라이프타임 워런티로 삼성램 대비 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 사용해서 안정성도 높고 가격도 저렴한 ESSENCORE KLEVV DDR4-3200 CL22 (8GB) 2개 16기가로 변경3. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M.2 NVMe 벌크 (512GB)로 변경4. 파워는 80PLUS 인증보다 까다로운 테스트 환경으로 차세대 인증으로 평가받는 ETA 브론즈 인증 제품인 마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE로 변경5. 구성하신 케이스의 쿨러 장착 높이는 150mm입니다. 잘만 CNPS9X PERFORMA (BLACK)는 157mm 높이를 가진 제품이라 조립 호환이 되지 않습니다. 측면 패널이 닫히지 않죠.CPU쿨러는 케이스와 잘 어울리면서 높이호환도 되고 TDP 220W의 가격대비 끝판왕급 성능에 최고수준의 마감퀄리티와 저소음 그리고 가격도 착하면서 디자인도 좋은 JIUSHARK JF100RS Crystal (BLACK)으로 구성6. 윈도우는 10의 경우 단종 수준이라 가격이 비 정상적으로 높아진 상황입니다. 윈도우 10과 윈도우 11은 시작 버튼의 위치가 좌측이나 중앙이냐 차이일 뿐 눈에 보이는 차이는 찾기가 어렵습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-12세대 12500 (엘더레이크) 벌크상세보기[메인보드]ASRock B760M PG LIGHTNING/D4 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[SSD]삼성전자 PM9A1 M.2 NVMe 벌크 (512GB)상세보기[케이스]EDDY M0 미니 블랙 (미니타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE상세보기[CPU쿨러]JIUSHARK JF100RS Crystal (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-12세대 12500 벌크",
+            "가격": "253,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+            "가격": "179,580원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "21,040원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M.2 NVMe 벌크 512GB",
+            "가격": "67,700원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "EDDY M0 미니 블랙",
+            "가격": "17,330원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE",
+            "가격": "43,070원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "JIUSHARK JF100RS Crystal",
+            "가격": "20,330원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        }
+    },
+    "total_price": "797520원",
+    "CPU": "인텔 코어i5-12세대 12500 (엘더레이크) 벌크",
+    "Motherboard": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+    "SSD": "삼성전자 PM9A1 M.2 NVMe 벌크 (512GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE",
+    "CPU Cooler": "JIUSHARK JF100RS Crystal (BLACK)",
+    "cpu_score": 530,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": null,
+    "gpu_benchmarkscore": null
+}

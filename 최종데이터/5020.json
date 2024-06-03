@@ -1,0 +1,66 @@
+{
+    "quote_number": "5020",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 라데온 RX 7800 XT",
+    "date_create": "2024.4.3",
+    "cpu_gpu_combinations": "라이젠5 7500F + RX 7800 XT 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 라데온 RX 7800 XT# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 700W로 변경구성하신 쿨러마스터 파워는 5년 무상이라 AS 기간 하나만으로도 충분한 메리트가 있죠.2. CPU쿨러는 케이스가 내부가 보이지 않는 구조라 ARGB가 크게 메리트가 없어서 동일한 성능군에 사이즈를 많이 줄인 듀얼타워 공랭쿨러 끝판왕 가성비를 제공하는 JIUSHARK JF200MINI Crystal (BLACK)로 변경케이스가 생각보다 많이 작은 편이라 쿨러도 사이즈를 줄여주는 것이 내부 공간을 확보하는데 도움이 됩니다. 케이스에는 시스템 팬도 없는 제품이라 더더욱 공간이 필요하구요.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock A620M-HDV/M.2 + WiFi6E 모듈 패키지 디앤디컴상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]SAPPHIRE 라데온 RX 7800 XT PULSE D6 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)상세보기[케이스]아이구주 M-CUBE 블랙 (미니타워)상세보기[파워서플라이]topower Guardian TOP-700DG 80PLUS BRONZE상세보기[CPU쿨러]JIUSHARK JF200MINI Crystal (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "파워서플라이는  7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "203,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock A620M-HDV/M.2 + WiFi6E 모듈 패키지 디앤디컴",
+            "가격": "140,310원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,030원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "SAPPHIRE 라데온 RX 7800 XT PULSE D6 16GB",
+            "가격": "702,920원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 1TB",
+            "가격": "126,800원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "아이구주 M-CUBE 블랙",
+            "가격": "78,790원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-700DG 80PLUS BRONZE",
+            "가격": "66,780원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "JIUSHARK JF200MINI Crystal",
+            "가격": "28,070원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1475620원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock A620M-HDV/M.2 + WiFi6E 모듈 패키지 디앤디컴",
+    "Graphic Card": "SAPPHIRE 라데온 RX 7800 XT PULSE D6 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-700DG 80PLUS BRONZE",
+    "CPU Cooler": "JIUSHARK JF200MINI Crystal (BLACK)",
+    "cpu_score": 355,
+    "gpu_score": 11,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 29006
+}

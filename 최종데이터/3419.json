@@ -1,0 +1,71 @@
+{
+    "quote_number": "3419",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090",
+    "date_create": "2024.2.25",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "우선은 4090 그래픽카드 1개만 구성을 했는데 추후 1개를 더 추가해도 부족함이 없을 부품들로 조합을 했습니다.24시간 쭉 사용한다면 온도 제어도 중요한 부분이라 대장급 성능의 3열 수냉쿨러로 구성해드렸구요.여기서 그래픽카드 금액만큼 더 추가하면 2WAY 구성이 가능해 집니다.현재 금액으로 따지면 820만원이 조금 넘어가는 금액대겠네요.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]MSI MAG X670E 토마호크 WIFI상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개상세보기[그래픽카드]MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]마이크로닉스 ML-420 BTF 블랙 (빅타워)상세보기[파워서플라이]HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSDCPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "892,020원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG X670E 토마호크 WIFI",
+            "가격": "417,950원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  32GB",
+            "가격": "115,410원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3",
+            "가격": "2,993,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 블랙",
+            "가격": "132,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "HYDRO PTM PRO 1650W Platinum ATX3.0",
+            "가격": "555,490원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,400원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "168,990원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5600520원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "MSI MAG X670E 토마호크 WIFI",
+    "Graphic Card": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개",
+    "Power Supply": "HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

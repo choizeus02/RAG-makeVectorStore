@@ -1,0 +1,81 @@
+{
+    "quote_number": "2426",
+    "quote_title": "O11D 겜성 라라랜드",
+    "date_create": "2024.2.2",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RX 7800 XT 조합",
+    "quotation_summary": " 7800X3D + RX 7800 XT QHD 게이밍# 7800X3D + RX 7800 XT QHD 게이밍",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7800X3D + RX 7800 XT QHD 게이밍",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]XFX 라데온 RX 7800 XT MERC 319 BLACK D6 16GB상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]리안리 PC-O11D EVO RGB Black (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]리안리 GALAHAD II LCD SL-INF 360 (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]크로스오버 279QA9 IPS165 QHD 패스트 게이밍 무결점상세보기[쿨러.튜닝.조명.액세서리]리안리 UNI FAN SL-INF 120 RGB 리버스 BLACK (1PACK)상세보기[쿨러.튜닝.조명.액세서리]리안리 UNI FAN TL LCD 120 리버스 (컨트롤러/3팩, BLACK)상세보기[쿨러.튜닝.조명.액세서리]3RSYS 빙하 G5 메모리방열판 (BLACK) x 2 개상세보기[쿨러.튜닝.조명.액세서리]Antec GPU HOLDER RTX40 (Black)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 라이젠 7000번대 3D 모델 주인공인 7800X3D입니다. 순정 상태에서 13900KS를 넘어서는 뛰어난 게임 성능과 뛰어난 전성비가 장점입니다.메인보드는 12+2+1페이즈 최대 600A(50A)의 준수한 전원부의 라이젠 보드입니다메모리는 팀그룹의 DDR5 5600 패키지로 호환성이나 가성비가 좋은 제품입니다.SSD는 WD의 PCIE4.0 대역폭 상급 제품파워서플라이는 10년 보증에 ATX 3.0 규격 제품이면서 850W에 11만원대라 가성비는 더 뛰어나고 슈퍼플라워 유통사라 고주파 발생시 새제품 교환 정책도 동일하게 적용되어 가성비 좋게 구성하시기 좋습니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "207,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "124,800원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "XFX 라데온 RX 7800 XT MERC 319 BLACK D6 16GB",
+            "가격": "810,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "리안리 PC-O11D EVO RGB Black",
+            "가격": "259,190원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "134,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "리안리 GALAHAD II LCD SL-INF 360",
+            "가격": "454,320원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,690원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 279QA9 IPS165 QHD 패스트 게이밍 무결점",
+            "가격": "239,000원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "Antec GPU HOLDER RTX40",
+            "가격": "10,360원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3064420원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "XFX 라데온 RX 7800 XT MERC 319 BLACK D6 16GB",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "리안리 GALAHAD II LCD SL-INF 360 (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 11,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 29006
+}

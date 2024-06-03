@@ -1,0 +1,81 @@
+{
+    "quote_number": "4038",
+    "quote_title": "14600KF + RTX 4080 SUPER (몬스타 가츠 X520LA 화이트)",
+    "date_create": "2024.3.9",
+    "cpu_gpu_combinations": "코어i5-14600KF + RTX 4080 SUPER 조합",
+    "quotation_summary": " 14600KF + RTX 4080 SUPER (몬스타 가츠 X520LA 화이트)# 14600KF + RTX 4080 SUPER (몬스타 가츠 X520LA 화이트)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14600KF + RTX 4080 SUPER (몬스타 가츠 X520LA 화이트)",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600KF (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[데스크탑 HDD]Toshiba 4TB N300 HDWQ140 (SATA3/7200/128M)상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTKM01 연핑크 데스크탑용 메모리 램카드 방열판 x 2 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "그래픽카드는 AS 1티어 이엠텍의 RTX 4080 SUPER 화이트 제품입니다.SSD는 삼성 980 프로 OEM 제품으로 가성비가 좋습니다.데스크탑 HDD는 도시바의 안정성이 뛰어난 나스용 하드입니다파워서플라이는 10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600KF",
+            "가격": "400,150원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "212,810원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+            "가격": "1,585,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 4TB N300 HDWQ140",
+            "가격": "169,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "61,940원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "61,500원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTKM01 연핑크 데스크탑용 메모리 램카드 방열판 x 2 개",
+            "가격": "6,290원",
+            "수량": "2"
+        }
+    },
+    "total_price": "3050790원",
+    "CPU": "코어i5-14세대 14600KF (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (WHITE)",
+    "cpu_score": 181,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 34625
+}

@@ -1,0 +1,66 @@
+{
+    "quote_number": "1821",
+    "quote_title": "[상급/210만] 7500F + 4070 Ti_Pure White Mesh",
+    "date_create": "2023.12.26",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4070 Ti 조합",
+    "quotation_summary": " 1. 7500F + RTX 4070 Ti 화이트 단정한 조합입니다.2. 게임을 위해 어떤 제품을 사야 할 지 고민 된다면, 그 고민의 시간까지 SAVE 시켜줄 수 있는 구성입니다.# 200만원 극초반# 게이머의 워너비# 단정한 시스템",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "사실상 게이머들에게 최고의 조합이라 생각합니다.새하얀 부품으로 구성되어 만들어진 PC는 받는 순간부터 고객에게 기쁨을 선사할 것이라 생각합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock A620M PRO RS + WiFi6E 모듈 패키지 디앤디컴상세보기[메모리]G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))상세보기[그래픽카드]PNY 지포스 RTX 4070 Ti VERTO D6X 12GB Triple White Edition 마이크로닉스상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DLM200 MESH PERFORMANCE 강화유리 화이트 (미니타워)상세보기[파워서플라이]DARKFLASH UPMOST 750W 80PLUS GOLD FULL MODULAR 화이트상세보기[CPU쿨러]DARKFLASH Ellsworth S21 (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 AM5 7500F는 현재 게이머들에게 가장 큰 사랑을 받고 있습니다. 인텔이 야심차게 준비한 13400 13500울 모두 꺾은 제품입니다.메인보드는 화이트 히트싱크를 통해 단정한 화이트 시스템을 완성 시켜줄 겁니다. 여기에 3개의 M.2 슬롯, Dr.Mos 가 적용된 6+2페이즈의 넉넉한 구성, 무선 장비에 대응가능한 Wifi 모듈까지 기본 탑재입니다.메모리는 튜닝 메모리 명가 GSKILL 제품입니다. 블랙&화이트 방열판과 위로 빛나는 하얀 RGB가 일품입니다.그래픽카드는 4070 ti 퓨어 화이트 모델입니다. 보는 순간 하얀 설원이 떠오르는 제품입니다.SSD는 PCIe 4.0 하이앤드 제품입니다. 명불 허전이죠.케이스는 깔끔한 화이트 제품입니다. 볼수록 깊이가 느껴지는 화이트 톤은 실증나지 않는 케이스의 정석입니다.파워서플라이는 출시부터 화제가 되었던 파워입니다. 화이트 750w 제품 중 가장 낮은 가격을 형성하고 있으면서도 골드 등급에 풀모듈러 입니다.CPU쿨러는 대형 쿨러는 시스템 내부의 공기 흐름마저도 효율적으로 바꿔줍니다.조립PC관련는 믿고 맡길 수 있는 서비스",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock A620M PRO RS + WiFi6E 모듈 패키지 디앤디컴",
+            "가격": "243,000원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지) 32GB",
+            "가격": "196,990원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "PNY 지포스 RTX 4070 Ti VERTO D6X 12GB Triple White Edition 마이크로닉스",
+            "가격": "1,190,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLM200 MESH PERFORMANCE 강화유리 화이트",
+            "가격": "66,060원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH UPMOST 750W 80PLUS GOLD FULL MODULAR 화이트",
+            "가격": "118,920원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21",
+            "가격": "27,120원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2212980원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock A620M PRO RS + WiFi6E 모듈 패키지 디앤디컴",
+    "Graphic Card": "PNY 지포스 RTX 4070 Ti VERTO D6X 12GB Triple White Edition 마이크로닉스",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))",
+    "Power Supply": "DARKFLASH UPMOST 750W 80PLUS GOLD FULL MODULAR 화이트",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 (화이트)",
+    "cpu_score": 355,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 31768
+}

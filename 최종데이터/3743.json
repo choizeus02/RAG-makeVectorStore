@@ -1,0 +1,71 @@
+{
+    "quote_number": "3743",
+    "quote_title": "7950X3D + RTX 4070 Ti Super",
+    "date_create": "2024.3.3",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 7950X3D + RTX 4070 Ti Super# 7950X3D + RTX 4070 Ti Super",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7950X3D + RTX 4070 Ti Super",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB상세보기[SSD]마이크론 Crucial T500 히트싱크 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Toshiba 4TB N300 HDWQ140 (SATA3/7200/128M)상세보기[케이스]DAVEN APEX Black (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE ARGB 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 뛰어난 게임성능과 전성비로 인텔 13세대를 압도해버린 라이젠 최상위 게이밍 CPU입니다.메인보드는 12+2+2페이즈 720A(60A) 기가바이트의 화이트 감성을 위한 B650 보드그래픽카드는 AS 1티어 업체인 갤럭시의 4070 TI SUPER입니다. 3팬에 감성도 뛰어난 제품입니다.데스크탑 HDD는 도시바의 안정성이 뛰어난 나스용 하드입니다케이스는 그래픽카드 호환성 350mm로 준수한 호환성과 쿨링성능을 자랑하는 케이스입니다.파워서플라이는 슈퍼플라워의 PCIE 5 파워입니다. 4천번대를 위한 12VHPWR 젠더도 기본 제공되고, 10년 보증에 고주파 발생시 새제품 교환 등 AS정책도 가장 좋습니다.CPU쿨러는 많이 필요없는 Thermalright의 대장급 공랭입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "891,950원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "256,650원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE  32GB",
+            "가격": "121,170원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB",
+            "가격": "1,300,980원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 히트싱크 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "263,290원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 4TB N300 HDWQ140",
+            "가격": "169,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN APEX Black",
+            "가격": "46,650원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK",
+            "가격": "154,407원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE ARGB 서린",
+            "가격": "43,243원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3368510원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB",
+    "SSD": "마이크론 Crucial T500 히트싱크 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE ARGB 서린",
+    "cpu_score": 63,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 31768
+}

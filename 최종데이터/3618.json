@@ -1,0 +1,71 @@
+{
+    "quote_number": "3618",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + RTX 4070 Ti SUPER",
+    "date_create": "2024.2.29",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + RTX 4070 Ti SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 동일 제품이면서 2개 패키지로 구성된 TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))가 더 저렴해서 변경2. 그래픽카드는 케이스가 화이트 색상이라 1티어 AS 중에서도 최상위면서 화이트 색상인 이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB으로 변경해서 화이트 감성을 더 했습니다.3. SSD는 최근에 출시된 젠4 규격의 끝판왕급 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경4. 구성하신 미니보드와 공랭쿨러로 조립하기에는 DLX21 케이스가 너무 커서 내부에 빈 공간이 너무 많이 생기게 됩니다. 내부가 휑해 보여서 좋을 건 없죠.이런 경우는 케이스 사이즈를 조금 줄여주는 것이 좋습니다.화이트 색상에 가성비도 좋은 DARKFLASH DRX70 MESH RGB 강화유리 화이트 (미들타워)로 변경5. 파워와 CPU쿨러도 화이트로 맞춰주면 보다 멋진 세팅이 됩니다.파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 변경6. CPU쿨러는 케이스와도 잘 어울리는 화이트 색상에 최상위 대장급 성능이면서 소음은 가장 낮은 수준으로 최근 가격까지 대폭 인하하면서 갓성비가 된 3RSYS Socoool RC 1800 Quiet ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DRX70 MESH RGB 강화유리 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (WHITE)상세보기[모니터]LG전자 울트라기어 27GP850상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,290원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,800원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB",
+            "가격": "1,178,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DRX70 MESH RGB 강화유리 화이트",
+            "가격": "49,720원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "47,000원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "LG전자 울트라기어 27GP850",
+            "가격": "459,810원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3054350원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

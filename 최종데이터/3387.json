@@ -1,0 +1,71 @@
+{
+    "quote_number": "3387",
+    "quote_title": "7975WX + RTX 4090 x2 (워크스테이션)",
+    "date_create": "2024.2.23",
+    "cpu_gpu_combinations": "라이젠 스레드리퍼 PRO 7975WX (스톰 픽) + RTX 4090 조합",
+    "quotation_summary": " 7975WX + RTX 4090 x2 (워크스테이션)# 7975WX + RTX 4090 x2 (워크스테이션)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7975WX + RTX 4090 x2 (워크스테이션)",
+    "computer_estimate_data": "[CPU]AMD 라이젠 스레드리퍼 PRO 7975WX (스톰 픽) (멀티팩(정품))상세보기[메인보드]GIGABYTE TRX50 AERO D 피씨디렉트상세보기[메모리]삼성전자 DDR5-4800 ECC/REG (64GB) x 2 개상세보기[그래픽카드]MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 x 2 개상세보기[SSD]삼성전자 990 PRO M.2 NVMe (4TB)상세보기[데스크탑 HDD]Western Digital WD Ultrastar DC HC550 패키지 7200/512M (WUH721816ALE6L4, 16TB)상세보기[케이스]Antec PERFORMANCE 1 MESH SILENT (빅타워)상세보기[파워서플라이]HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)상세보기[CPU쿨러]Phanteks GLACIER ONE 420 D30 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기파워서플라이는 파워는 3대장 브랜드인 FSP의 고용량 ATX 3.0 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠 스레드리퍼 PRO 7975WX)",
+            "가격": "5,582,780원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE TRX50 AERO D 피씨디렉트",
+            "가격": "1,033,560원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "삼성전자 DDR5-4800 ECC/REG  64GB",
+            "가격": "352,940원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 x 2 개",
+            "가격": "2,993,850원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 990 PRO M.2 NVMe 4TB",
+            "가격": "536,070원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD Ultrastar DC HC550 패키지 7200/512M",
+            "가격": "4,954,990원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec PERFORMANCE 1 MESH SILENT",
+            "가격": "181,900원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "HYDRO PTM PRO 1650W Platinum ATX3.0",
+            "가격": "555,490원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Phanteks GLACIER ONE 420 D30",
+            "가격": "283,540원",
+            "수량": "1"
+        }
+    },
+    "total_price": "19821910원",
+    "CPU": "AMD 라이젠 스레드리퍼 PRO 7975WX (스톰 픽) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE TRX50 AERO D 피씨디렉트",
+    "Graphic Card": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 x 2 개",
+    "SSD": "삼성전자 990 PRO M.2 NVMe (4TB)",
+    "Memory": "삼성전자 DDR5-4800 ECC/REG (64GB) x 2 개",
+    "Power Supply": "HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)",
+    "CPU Cooler": "Phanteks GLACIER ONE 420 D30 (BLACK)",
+    "cpu_score": 13,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 94351,
+    "gpu_benchmarkscore": 38694
+}

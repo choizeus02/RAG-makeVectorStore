@@ -1,0 +1,71 @@
+{
+    "quote_number": "4849",
+    "quote_title": "AMD 라이젠7-5세대 7500F + RTX 4070 Ti SUPER",
+    "date_create": "2024.3.30",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7500F + RTX 4070 Ti SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 7600과 성능 차이는 크지 않지만 가격 차이가 있어서 가성비가 더 좋은 7500F로 변경2. 메인보드는 드라이버 모스펫 전원부와 히트싱크가 적용되어 있는 ASRock B650M PG Lightning 에즈윈으로 변경3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2개 32기가로 변경4. 그래픽카드는 1티어 AS 중에서도 최상위면서 화이트 색상에 가격적인 메리트도 높은 이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB로 변경5. 케이스는 식스팬이 기본 적용되어 있는 화이트 색상에 풀 메쉬 디자인의 전면 패널에 하노킬4까지 적용되어 있으면서 최근 가격을 대폭 인하하여 갓성비가 된 3RSYS J710 WHITE (미들타워)로 변경6. 그래픽카드와 케이스가 화이트 색상이라 파워와 CPU쿨러도 화이트로 맞춰주는 것이 좋습니다.파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 변경7. CPU쿨러는 싱글타워 끝판왕급 성능에  최근 가격을 대폭인하해서 갓성비 중에서도 갓성비라고 할 수 있는 3RSYS TEAMMOST TM41 ARGB (WHITE)로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS J710 WHITE (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS TEAMMOST TM41 ARGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "203,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,090원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,830원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB",
+            "가격": "1,252,740원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,900원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS J710 WHITE",
+            "가격": "49,300원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM41 ARGB",
+            "가격": "25,030원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,350원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2221790원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS TEAMMOST TM41 ARGB (WHITE)",
+    "cpu_score": 355,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 31768
+}

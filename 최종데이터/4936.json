@@ -1,0 +1,71 @@
+{
+    "quote_number": "4936",
+    "quote_title": "AMD 라이젠5-4세대 5600 + 지포스 RTX 4060",
+    "date_create": "2024.4.1",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 4060 조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600 + 지포스 RTX 4060# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 배그의 경우 라이젠의 성능이 더 잘 나오기도 하고 가성비도 더 좋아서 5600으로 변경2. 메인보드는 전원부 히트싱크에 램슬롯 4개가 적용되어 있는 ASUS PRIME B550M-A 대원CTS로 변경3. 메모리는 라이프타임 워런티로 삼성램 대비 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 사용해서 안정성도 높고 가격도 저렴한 ESSENCORE KLEVV DDR4-3200 CL22 (8GB) 2개 16기가로 변경4. 그래픽카드는 1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4060으로 변경5. 케이스는 식스팬 기본 장착에 그래픽카드 지지대까지 기본제공하고 디자인도 준수하며 극강의 가성비를 제공하는 화이트 색상의 1stPlayer T7-P 화이트 (미들타워)로 변경6. 파워는 6년 무상AS에 무려 9종에 달하는 보호회로를 적용하여 안정성에 몰빵을 하고서도 가격은 아주 착한 수준으로 출시가 되었고 현재 출시 이벤트로 가격을 더 인하해서 판매 중이라 갓성비 중에서도 갓성비라고 할 수 있는 몬스타 가츠 ExtremeX FX600 80PLUS STANDARD로 변경대부분의 보급형 파워는 3-5년 무상AS에 4-6종 보호회로가 적용되어 있으며 구성하신 Hyper K는 5년 무상에 4종 보호회로가 적용되어 있어서 추천드리는 파워와 차이가 아주 큰 편입니다.7. CPU쿨러는 싱글타워 끝판왕급 성능에 케이스와도 잘 어울리고 성능도 좋고 AM4 무뽑 방지키트 적용에 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 PentaWave Z04E SRB ARGB로 변경8. 메인보드에 M.2 방열판이 없어서 저렴한 방열판 하나 추가했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품)) x 2 개상세보기[메인보드]ASUS PRIME B550M-A 대원CTS x 2 개상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 4 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB x 2 개상세보기[SSD]장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자 x 2 개상세보기[케이스]1stPlayer T7-P 화이트 (미들타워) x 2 개상세보기[파워서플라이]몬스타 가츠 ExtremeX FX600 80PLUS STANDARD x 2 개상세보기[CPU쿨러]PentaWave Z04E SRB ARGB x 2 개상세보기[쿨러.튜닝.조명.액세서리]케이엘시스템 KLcom M.2 2280 방열판 (BLACK) x 2 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S x 2 개상세보기",
+    "quote_description": "CPU는 현재 게임 가성비가 가장 좋은 CPU메인보드는 전원부 방열판이 적용된 B550 칩셋 중 가성비가 좋은 메인보드쿨러.튜닝.조명.액세서리는 높은 NVMe SSD의 온도를 제어해 줄 가성비 좋은 SSD 방열판",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600 x 2 개",
+            "가격": "1,590,000원",
+            "수량": "2"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME B550M-A 대원CTS x 2 개",
+            "가격": "115,770원",
+            "수량": "2"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22 x 4 개 8GB",
+            "가격": "20,700원",
+            "수량": "4"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB x 2 개",
+            "가격": "434,500원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 삼성전자 x 2 개 1TB",
+            "가격": "118,000원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7-P 화이트 x 2 개",
+            "가격": "41,130원",
+            "수량": "2"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX600 80PLUS STANDARD x 2 개",
+            "가격": "39,650원",
+            "수량": "2"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB x 2 개",
+            "가격": "20,220원",
+            "수량": "2"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "케이엘시스템 KLcom M.2 2280 방열판 x 2 개",
+            "가격": "1,260원",
+            "수량": "2"
+        }
+    },
+    "total_price": "4803860원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품)) x 2 개",
+    "Motherboard": "ASUS PRIME B550M-A 대원CTS x 2 개",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB x 2 개",
+    "SSD": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자 x 2 개",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 4 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX600 80PLUS STANDARD x 2 개",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB x 2 개",
+    "cpu_score": null,
+    "gpu_score": 32,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": null,
+    "gpu_benchmarkscore": 22891
+}

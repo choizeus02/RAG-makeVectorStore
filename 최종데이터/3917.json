@@ -1,0 +1,76 @@
+{
+    "quote_number": "3917",
+    "quote_title": "14900K + RTX 4070 TI SUPER",
+    "date_create": "2024.3.6",
+    "cpu_gpu_combinations": "코어i9-14900K + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 14900K + RTX 4070 TI SUPER# 14900K + RTX 4070 TI SUPER",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14900K + RTX 4070 TI SUPER",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB) x 2 개상세보기[케이스]마이크로닉스 ML-420 BTF 블랙 (빅타워)상세보기[파워서플라이]맥스엘리트 MAXWELL COUNT 850W 80PLUS GOLD 풀모듈러 ATX 3.1 (PCIE5)상세보기[CPU쿨러]Phanteks GLACIER ONE 420 D30 (BLACK)상세보기[모니터]LG전자 32QN650상세보기[키보드+마우스 세트]로지텍코리아 MK235 Wireless Combo (정품)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메인보드는 16+1+2페이즈 1440A(90A)의 뛰어난 전원부로 14세대도 문제 없는 강력한 보드입니다.그래픽카드는 AS 3대장 조텍의 RTX 4070 Ti SUPER Trinity 입니다.SSD는 PCIe4.0 최상급 성능의 SSD입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "782,110원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "336,940원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,239,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 x 2 개 1TB",
+            "가격": "227,220원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 블랙",
+            "가격": "131,980원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "맥스엘리트 MAXWELL COUNT 850W 80PLUS GOLD 풀모듈러 ATX 3.1",
+            "가격": "159,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Phanteks GLACIER ONE 420 D30",
+            "가격": "283,540원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "LG전자 32QN650",
+            "가격": "328,440원",
+            "수량": "1"
+        },
+        "키보드+마우스 세트": {
+            "제품명": "로지텍코리아 MK235 Wireless Combo",
+            "가격": "29,900원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3980810원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB) x 2 개",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "맥스엘리트 MAXWELL COUNT 850W 80PLUS GOLD 풀모듈러 ATX 3.1 (PCIE5)",
+    "CPU Cooler": "Phanteks GLACIER ONE 420 D30 (BLACK)",
+    "cpu_score": 56,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 31768
+}

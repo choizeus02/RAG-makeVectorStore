@@ -1,0 +1,76 @@
+{
+    "quote_number": "2980",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4080 SUPER",
+    "date_create": "2024.2.15",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4080 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4080 SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 서린 유통 제품이 현재 품절 직전이라 유통사가 많이 없습니다. 동일한 제품이면서 유통사가 많은 TeamGroup DDR5-5600 CL46 Elite (32GB) 2개 64기가로 변경2. SSD는 젠4 규격의 끝판왕급 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경3. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로  변경DLX21 케이스를 디자인과 성능에서 완벽하게 대체할 수 있는 제품이라고 보면 되겠습니다.4. 7800X3D는 공랭쿨러로도 커버가 가능해서 저소음 대장급 성능의 제품 중에서는 끝판왕 가성비라고 할 수 있는 3RSYS Socoool RC 1800 Quiet ARGB (BLACK)로 변경5. 시스템 쿨러는 케이스 상단에 장착할 3RSYS TF-L7 120 SUB (BLACK) 3개 추가했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]MSI MAG B650 토마호크 WIFI상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 SUPER AMP EXTREME AIRO D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]3RSYS TF-L7 120 SUB (BLACK) x 3 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B650 토마호크 WIFI",
+            "가격": "318,230원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  32GB",
+            "가격": "115,810원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 SUPER AMP EXTREME AIRO D6X 16GB",
+            "가격": "1,595,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0",
+            "가격": "205,500원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "30,650원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,670원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "3RSYS TF-L7 120 SUB x 3 개",
+            "가격": "5,500원",
+            "수량": "3"
+        }
+    },
+    "total_price": "3379740원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "MSI MAG B650 토마호크 WIFI",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 SUPER AMP EXTREME AIRO D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 34625
+}

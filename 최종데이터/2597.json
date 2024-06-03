@@ -1,0 +1,70 @@
+{
+    "quote_number": "2597",
+    "quote_title": "AMD 라이젠5-5세대 7500F",
+    "date_create": "2024.2.6",
+    "cpu_gpu_combinations": "라이젠5 7500F +  조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. AMD CPU의 종특이 코어수에 따른 작업 성능에 있어서는 차이가 나지만 게임 성능은 체감이 될 정도의 차이가 나지 않습니다. 따라서 게임만 한다면 8코어인 R7과 6코어인 R5의 성능 차이가 크지 않습니다.CPU는 게임 가성비가 가장 좋은 7500F로 변경2. 메모리는 QVL리스트를 지원하고 램타이밍도 제법 많이 조여져 있는 ESSENCORE KLEVV DDR5-6000 CL30 BOLT V 패키지 서린 (32GB(16Gx2))으로 변경3. 구성한 SSD인 P31은 NVMe 규격 중에서는 속도가 가장 느린 젠3 제품입니다.젠3 보다 2배 더 빠른 5년 무상AS의 갓성비 젠4 제품인 MSI SPATIUM M480 PRO M.2 NVMe (1TB)로 변경읽기속도 : 7,400(MB/s) / 쓰기속도 : 6,800(MB/s)로 가격대비 최고 수준의 성능이면서 DDR4 1GB 용량의 디램 버퍼 메모리가 적용되어 있습니다. 저렴한 방열판도 하나 추가했습니다.4. 케이스는 140mm 저소음팬이 6개 기본장착되어 있어서 팬을 추가할 필요없고 공랭 CPU쿨러와 조합시 최고의 쿨링 효율을 보여주는 아이구주 PRAY 30 PLUS (미들타워)로 변경5. 파워는 정격 800W 골드인증 제품인 쿨러마스터 G800 GOLD로 변경해서 안정성과 가성비를 모두 챙겼습니다.6. 7500F는 온도가 낮은 편이라 수냉쿨러가 필요하지 않으며 싱글 타워 공랭쿨러로도 온도 제어가 가능합니다.CPU쿨러는 싱글타워 끝판왕급 성능에 최근 3만원 대에서 만원 중후반대로 가격을 대폭인하해서 갓성비 중에서도 갓성비라고 할 수 있는 3RSYS TEAMMOST TM40으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning + WiFi6E 모듈 패키지 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-6000 CL30 BOLT V 패키지 서린 (32GB(16Gx2))상세보기[SSD]MSI SPATIUM M480 PRO M.2 NVMe (2TB)상세보기[케이스]아이구주 PRAY 30 PLUS (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "케이스는 140mm 식스팬이 기본장착되어 있어서 공랭 CPU쿨러와 조합시 최고의 쿨링 효율을 보여주는 미들타워 케이스파워서플라이는 안정성과 가성비를 겸비한 골드인증 800W 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning + WiFi6E 모듈 패키지 에즈윈",
+            "가격": "180,760원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-6000 CL30 BOLT V 패키지 서린) 32GB",
+            "가격": "167,980원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "MSI SPATIUM M480 PRO M.2 NVMe 2TB",
+            "가격": "233,190원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "아이구주 PRAY 30 PLUS",
+            "가격": "54,090원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "89,990원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,670원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1124570원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning + WiFi6E 모듈 패키지 에즈윈",
+    "SSD": "MSI SPATIUM M480 PRO M.2 NVMe (2TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-6000 CL30 BOLT V 패키지 서린 (32GB(16Gx2))",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 355,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": null
+}

@@ -1,0 +1,66 @@
+{
+    "quote_number": "1209",
+    "quote_title": "FHD 끝판왕, QHD도 가능한 게이밍 PC(인텔)",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "코어i5-13500 + RX 7800 XT 조합",
+    "quotation_summary": " 1. FHD에서 풀옵션 고주사율을 하기 위한 최적의 포지션!2. 가격대비 나쁘지 않은 구성!3. 한번 사서 FHD 해상도로 오래오래 쓰고 싶으신 분!# FHD 끝판왕# FHD 최상급# 오래쓰는 PC# QHD 가성비# 200만원 미만",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "1. CPUhttps://quasarzone.com/bbs/qc_bench/views/83654#p317600보다 성능은 떨어지는 부분이지만조금이라도 가성비를 더 챙기고 싶은 분들을 위한 선택지!DDR4와 DDR5를 자유롭게 구성 할 수 있는 메리트!2. GPUhttps://quasarzone.com/bbs/qc_bench/views/81479?page=23060 ti에서 10만원 만 투자하면, 20%의 성능 향상을 노릴 수 있는가성비 좋은 GPU!3. SSD최신 패키지 게임들의 용량이 60GB를 넘는 경우가 많은 부분이고게임 설치 후 삭제를 잘 안하는 경우에는 1TB급 SSD 구성이 가장 적합하다 보여집니다!",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13500 (랩터레이크) (정품)상세보기[메인보드]ASRock B760M PG Riptide D5 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ASRock 라데온 RX 7800 XT CHALLENGER OC D6 16GB 대원씨티에스상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]DARKFLASH DF2100 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]잘만 CNPS9X PERFORMA RGB (SILVER)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 인텔에서 나온 가성비 게이밍 CPU!\n13600K를 가기엔 너무 비싼 분들을 위한 최적의 CPU!메인보드는 ASRock의 실수!\nB660 같은 가격보다 더 좋은 전원부!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 RTX 4070와 다이다이 가능한 RX 7800 XT!\nAFMF 적용 가능!SSD는 이천 특산물! SK 하이닉스!\nPCIe 3.0의 끝판왕!케이스는 DLX21과 똑같은 확장성!\n하지만 조금더 가성비!파워서플라이는 RX 6800은 750w 이상!\n가성비로 본다면 쿨러마스터 G800CPU쿨러는 가성비 좋고 성능 좋고!\n3만원 미만에서의 갓성비 모델!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13500",
+            "가격": "333,410원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG Riptide D5 에즈윈",
+            "가격": "167,350원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ASRock 라데온 RX 7800 XT CHALLENGER OC D6 16GB 대원씨티에스",
+            "가격": "865,230원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DF2100 MESH RGB 강화유리 블랙",
+            "가격": "81,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "89,990원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 CNPS9X PERFORMA RGB",
+            "가격": "33,740원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1838720원",
+    "CPU": "인텔 코어i5-13세대 13500 (랩터레이크) (정품)",
+    "Motherboard": "ASRock B760M PG Riptide D5 에즈윈",
+    "Graphic Card": "ASRock 라데온 RX 7800 XT CHALLENGER OC D6 16GB 대원씨티에스",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "잘만 CNPS9X PERFORMA RGB (SILVER)",
+    "cpu_score": 257,
+    "gpu_score": 11,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32035,
+    "gpu_benchmarkscore": 29006
+}

@@ -1,0 +1,66 @@
+{
+    "quote_number": "4580",
+    "quote_title": "AMD 라이젠5-5세대 7500F +지포스 RTX 4060 Ti",
+    "date_create": "2024.3.22",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4060 Ti 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F +지포스 RTX 4060 Ti# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. SSD 방열판은 메인보드에 포함되어 있어서 따로 필요하지는 않습니다.2. 구성한 몬스타 가츠 X620A 리버스 화이트 (미들타워)와 같이 상단에 3열 수냉쿨러 장착이 가능한 어항케이스는 공랭쿨러보다는 수냉쿨러로 조립할 때 튜닝효과가 극대화됩니다. 상단 공간이 제법 큰 편이라 공랭쿨러로 조립하게 되면 빈 공간이 되어 버려서 내부가 휑해 보여서 미관상으로 좋지 못합니다. 미관상 좋으라고 구성한 케이스인데 반대결과가 나오는 거죠.수냉쿨러로 장착하는 것이 아니라면 공랭쿨러용으로 나온 어항케이스로 변경하는 것이 좋습니다. 높이가 낮은 편이라 공간이 줄어들어 내부가 차보이는 효과가 나옵니다.어항케이스 중에서는 압도적인 비주얼과 가성비 그리고 C타입 포트와 하단부 타공망 적용으로 쿨링 효율도 챙긴 몬스타 가츠 X520LA 화이트 (미들타워)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]3RSYS Socoool RC1200 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 B650칩셋 제품이라서 PBO와 커브옵티마이저 기능을 지원하는 제품입니다. 400A급 드라이버모스펫 구성의 전원부 성능을 가지고 있으며 기판일부와 방열판색상이 화이트라 화이트조합에 알맞습니다.메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD파워서플라이는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 700W 화이트",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "203,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "170,400원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,500원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+            "가격": "577,530원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "62,440원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "75,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1200 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1379760원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "3RSYS Socoool RC1200 ARGB (WHITE)",
+    "cpu_score": 355,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 22891
+}

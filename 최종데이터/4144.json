@@ -1,0 +1,71 @@
+{
+    "quote_number": "4144",
+    "quote_title": "코어i7-14세대 14700K + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.3.11",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 4070 SUPER 조합",
+    "quotation_summary": " 코어i7-14세대 14700K + 지포스 RTX 4070 SUPER# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다. 14700K 벌크로 변경2. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 GIGABYTE Z790 AORUS ELITE X WIFI7 피씨디렉트로 구성구성하신 MSI MAG B650M 박격포 WIFI는 AMD용이라 호환되지 않습니다.3. SSD는 5년 무상AS의 갓성비 젠4 제품인 ADATA LEGEND 960 M.2 NVMe (2TB)로 변경읽기속도 : 7,400(MB/s) / 쓰기속도 : 6,800(MB/s)로 최고 수준의 성능이면서 디램 버퍼 메모리와 전용 히트싱크가 적용되어 있습니다.4. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 변경5. 파워는 세계 최대의 글로벌 제조사인 CWT에서 OEM 생산 압도적인 전압변동률을 제공하여 전압 출렁임 없이 안정적인 시스템을 만들어 줄 MSI MAG A750GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)로 변경6. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비 제품인 DARKFLASH NEBULA DN-360 ARGB (블랙)으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700K (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X WIFI7 피씨디렉트상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]ADATA LEGEND 960 M.2 NVMe (2TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]MSI MAG A750GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[모니터]필립스 345E2LE 울트라와이드 WQHD 100 시력보호 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700K",
+            "가격": "573,850원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X WIFI7 피씨디렉트",
+            "가격": "423,890원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "335,580원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "993,980원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "ADATA LEGEND 960 M.2 NVMe 2TB",
+            "가격": "203,030원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "MSI MAG A750GL 80PLUS 골드 풀 모듈러 ATX 3.0",
+            "가격": "117,500원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,340원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "필립스 345E2LE 울트라와이드 WQHD 100 시력보호 무결점",
+            "가격": "328,400원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3115860원",
+    "CPU": "코어i7-14세대 14700K (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X WIFI7 피씨디렉트",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "ADATA LEGEND 960 M.2 NVMe (2TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "MSI MAG A750GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 98,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 31768
+}

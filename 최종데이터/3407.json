@@ -1,0 +1,66 @@
+{
+    "quote_number": "3407",
+    "quote_title": "인텔 코어i5-12세대 12400F + 라데온 RX 7600",
+    "date_create": "2024.2.24",
+    "cpu_gpu_combinations": "코어i5-12400F + RX 7600 조합",
+    "quotation_summary": " 인텔 코어i5-12세대 12400F + 라데온 RX 7600# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 12세대 구성인데 CPU를 10세대로 변경하면 메인보드도 함께 변경을 해줘야 합니다. 게임 성능은 12세대가 더 좋은데 10세대로 바꿀 이유는 없어 보이구요.2. 메모리는 라이프타임 워런티로 삼성램 대비 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 사용해서 안정성도 높고 가격도 저렴한 ESSENCORE KLEVV DDR4-3200 CL22 (16GB) 2개 32기가로 변경3. 그래픽카드는 100만원 언더에서 구성을 하고 싶으시면 3060 Ti 이상급으로는 어렵습니다. 금액대 내에서 구성할 수 있는 가장 성능이 좋은 RX 7600으로 변경AFMF를 켜게되면 4060 Ti를 넘어서는 프레임을 기대할 수 있을 정도로 메리트가 높은 제품입니다.4. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경5. 케이스는 보급형 끝판왕급 가성비 제품인 몬스타 가츠 X420A 블랙 (미들타워)로 변경6. 파워는 정격 600W 브론즈 인증 제품인 쿨러마스터 MWE 600 BRONZE V2 230V로 변경7. CPU쿨러는 싱글타워 끝판왕급 성능에 최근 3만원 대에서 만원 중후반대로 가격을 대폭인하해서 갓성비 중에서도 갓성비라고 할 수 있는 3RSYS TEAMMOST TM40으로  변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-12세대 12400F (엘더레이크)(벌크)상세보기[메인보드]ASRock B760M PG LIGHTNING/D4 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개상세보기[그래픽카드]PowerColor 라데온 RX 7600 Fighter D6 8GB 대원씨티에스상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X420A 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 정품과 동일한 3년 AS를 제공하는 12세대 인텔 i5 12400F (벌크) CPU",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-12세대 12400F",
+            "가격": "160,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+            "가격": "137,970원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  16GB",
+            "가격": "31,990원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "PowerColor 라데온 RX 7600 Fighter D6 8GB 대원씨티에스",
+            "가격": "335,450원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,890원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X420A 블랙",
+            "가격": "31,310원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "921790원",
+    "CPU": "인텔 코어i5-12세대 12400F (엘더레이크)(벌크)",
+    "Motherboard": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+    "Graphic Card": "PowerColor 라데온 RX 7600 Fighter D6 8GB 대원씨티에스",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 595,
+    "gpu_score": 72,
+    "performance_grade": "저성능",
+    "cpu_benchmarkscore": 19566,
+    "gpu_benchmarkscore": 17905
+}

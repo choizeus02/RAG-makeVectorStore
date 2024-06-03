@@ -1,0 +1,69 @@
+{
+    "quote_number": "3648",
+    "quote_title": "13600KF + 4060 ti(워크스테이션, 디자인 작업용, FHD 게이밍)",
+    "date_create": "2024.3.1",
+    "cpu_gpu_combinations": "코어i5-13600KF + RTX 4060 Ti 조합",
+    "quotation_summary": " 13600KF + 4060 ti(워크스테이션, 디자인 작업용, FHD 게이밍)# 13600KF + 4060 ti(워크스테이션# 디자인 작업용# FHD 게이밍)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "13600KF + 4060 ti(워크스테이션, 디자인 작업용, FHD 게이밍)",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600KF (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포상세보기[그래픽카드]GIGABYTE 지포스 RTX 4060 Ti WINDFORCE OC D6 8GB 피씨디렉트상세보기[케이스]DARKFLASH DS200 강화유리 화이트 (미니타워)상세보기[파워서플라이]마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트상세보기[CPU쿨러]DARKFLASH Ellsworth D21 (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[이벤트특가][SSD + RAM] 마이크론 Crucial T500 1TB + Crucial DDR5-5600 (32GB(16Gx2)) 패키지 대원씨티에스상세보기[모니터]크로스오버 27GQ7 IPS QHD 크로스기어 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 벌크도 공식적으로 3년 보증을 지원해 14600KF급으로 구성하신다면 벌크로는 14600KF보다 금액적 메리트가 높아 13600KF 쪽이 나으실 거 같습니다.메인보드는 14페이즈 900A(75A) 급 뛰어난 전원부로 14600K까지 문제 없이 사용 가능합니다.파워서플라이는 케이블은 물론 커넥터까지 화이트라 화이트 감성 내기도 좋고, 블랙에 비해 통풍구도 개선되서 쿨링면에서도 좀 더 괜찮습니다. 마닉 풀체인지 파워가 불량률도 적고 내구성을 위한 에프터 쿨링이나 정숙성을 위한 제로펜 기능 등으로 뛰어난 기능까지 있어 스테디 셀러인 파워입니다.CPU쿨러는 이쁘고 조용한 다크플래시의 D21소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600KF",
+            "가격": "1,588,590원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포",
+            "가격": "212,910원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4060 Ti WINDFORCE OC D6 8GB 피씨디렉트",
+            "가격": "517,200원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DS200 강화유리 화이트",
+            "가격": "127,510원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+            "가격": "61,590원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth D21",
+            "가격": "47,360원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "168,990원",
+            "수량": "1"
+        },
+        "SSD + RAM": {
+            "제품명": "마이크론 Crucial T500 1TB + Crucial DDR5-5600 패키지 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 27GQ7 IPS QHD 크로스기어 무결점",
+            "가격": "154,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3006150원",
+    "CPU": "인텔 코어i5-13세대 13600KF (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4060 Ti WINDFORCE OC D6 8GB 피씨디렉트",
+    "Power Supply": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+    "CPU Cooler": "DARKFLASH Ellsworth D21 (WHITE)",
+    "cpu_score": 194,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 22891
+}

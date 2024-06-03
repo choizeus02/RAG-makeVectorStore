@@ -1,0 +1,71 @@
+{
+    "quote_number": "4991",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + RTX 4070 SUPER",
+    "date_create": "2024.4.2",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + RTX 4070 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경2. 케이스는 최근 새롭게 출시한 가성비 끝판왕급 제품인 몬스타 가츠 X420A 블랙 (미들타워)로 변경3. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로 변경4. CPU쿨러는 케이스와 아주 잘 어울리면서 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공하는 PentaWave S06D LE ARGB으로 변경https://coolenjoy.net/bbs/system/12787297800X3D CPU 시스템을 추천드리는 케이스와 CPU쿨러에 조립한 자료입니다. 직접 조립을 했었고 아주 만족스러운 시스템이 되더군요.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]몬스타 가츠 X420A 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "그래픽카드는 RTX 4070과 RTX 4070 Ti 제품 사이에 위치한 라인업이며 길이 234.1mm, 두께 40.2mm의 제원을 가지고 있습니다. 보조전원 커넥터는 12VHPWR 규격이며 구매 후 14일 이내 제품 등록 시 무상 3년 보증에 추가로 2년 확대보증 서비스를 제공하여 오래도록 사용할 수 있습니다.CPU쿨러는 케이스와도 잘 어울리는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "529,200원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "214,870원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,030원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+            "가격": "912,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,690원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X420A 블랙",
+            "가격": "31,310원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,710원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,350원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2380820원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

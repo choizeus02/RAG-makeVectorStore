@@ -1,0 +1,76 @@
+{
+    "quote_number": "5022",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4080 SUPER",
+    "date_create": "2024.4.3",
+    "cpu_gpu_combinations": "라이젠9 7950X + RTX 4080 SUPER 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4080 SUPER# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 더 투자가 가능하고 3열 수냉쿨러를 생각하고 있다면 CPU는 작업 성능이 가장 좋은 7950X로 변경하는 것이 좋습니다.2. 메인보드는 840A급 출력의 드라이버 모스펫 전원부가 적용된 ATX 규격의 ASRock B650 PG Lightning 대원씨티에스로 변경3. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 강추하구요.많이 추천하는 DLX21에 성능과 디자인 그리고 편의성 등 모든 면에서 완벽하게 대체가 되는 케이스입니다.4. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 최상위 1티어 제품으로 압도적인 가성비까지 제공하는 잘만 Alpha II A36 (BLACK)으로 변경7950X는 온도가 아주 높은 편이라 수냉쿨러는 성능에 더 집중을 해야 합니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (32GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity D6X 16GB Black상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB) x 2 개상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]잘만 Alpha II A36 (BLACK)상세보기[모니터]쓰리윈즈 인터픽셀 IPU3212 UHD IPS 4K 화이트 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기그래픽카드는 조텍만의 특별한 3+2 AS!\n4080 SUPER 기준 가성비 갓갓!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X)",
+            "가격": "890,930원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "153,020원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  32GB",
+            "가격": "124,690원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity D6X 16GB Black",
+            "가격": "1,626,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 x 2 개 1TB",
+            "가격": "243,130원",
+            "수량": "2"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/256M",
+            "가격": "158,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "129,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,430원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "쓰리윈즈 인터픽셀 IPU3212 UHD IPS 4K 화이트 무결점",
+            "가격": "309,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4177840원",
+    "CPU": "AMD 라이젠9-5세대 7950X (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity D6X 16GB Black",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB) x 2 개",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "잘만 Alpha II A36 (BLACK)",
+    "cpu_score": 60,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62909,
+    "gpu_benchmarkscore": 34625
+}

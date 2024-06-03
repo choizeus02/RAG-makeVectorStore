@@ -1,0 +1,71 @@
+{
+    "quote_number": "1856",
+    "quote_title": "[상급/230만] 7600 + 4070ti_RGB White 어항 Edition",
+    "date_create": "2024.1.15",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 Ti 조합",
+    "quotation_summary": " 1. 7600 + 4070ti 조합입니다.2. RGB를 사랑하는 유저에게 적합한 견적입니다.3. 화이트 바디는 8개의 쿨러를 장착해 냉각에 뛰어나며 우수한 성능의 제품으로 구성했습니다.# #230만 #RGB #어항",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "어느 정도 AAA 게이밍에도 대응 가능한 견적입니다.당연히 AAA 아래 게임에서는 최강의 성능을 발휘합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴상세보기[메모리]G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB J 실버 패키지 (32GB(16Gx2))상세보기[그래픽카드]PNY 지포스 RTX 4070 Ti VERTO D6X 12GB Triple White Edition 마이크로닉스상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DLM4000 GLASS 화이트 (미니타워)상세보기[파워서플라이]DARKFLASH UPMOST 850W 80PLUS GOLD FULL MODULAR ATX3.0 화이트상세보기[CPU쿨러]DARKFLASH Ellsworth S21 (화이트)상세보기[쿨러.튜닝.조명.액세서리]darkFlash C6MS RGB (화이트 3PACK) x 2 개상세보기[쿨러.튜닝.조명.액세서리]darkFlash C6S RGB (화이트 1PACK)상세보기[쿨러.튜닝.조명.액세서리]DARKFLASH MH-30 ARGB 5V 컨트롤러상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현재 게이머들에게 가장 큰 사랑을 받고 있습니다. 인텔이 야심차게 준비한 13400 13500울 모두 꺾은 제품입니다.메인보드는 화이트 히트싱크를 통해 단정한 화이트 시스템을 완성 시켜줄 겁니다. 여기에 3개의 M.2 슬롯, Dr.Mos 가 적용된 8+2+1페이즈의 넉넉한 구성, 무선 장비에 대응가능한 Wifi 모듈까지 기본 탑재입니다.메모리는 화이트 RGB 패키지 상품입니다. 높은 6000Mhz 클럭, 화이트 방열판과 상단 영롱한 RGB가 일품입니다.그래픽카드는 4070 ti 퓨어 화이트 모델입니다. 보는 순간 하얀 설원이 떠오르는 제품입니다.SSD는 PCIe 4.0 하이앤드 제품입니다. 명불 허전이죠.케이스는 2면이 오픈된 갤러리형 본체입니다. 내부 장비를 사방에서 비춰주는 RGB가 일품입니다.파워서플라이는 ATX3.0 규격의 850w 제품입니다. 골드 등급, 풀 모듈러 옵션과 좋은 AS가 함께 합니다.CPU쿨러는 대형 날개를 통해 시스템 내부의 공기 흐름마저도 효율적으로 바꿔줍니다.쿨러.튜닝.조명.액세서리는 시스템 냉각을 더 효율적으로 만들어 줍니다. 그에 따라는 조명 효과 역시 뛰어납니다.쿨러.튜닝.조명.액세서리는 시스템 냉각을 더 효율적으로 만들어 줍니다. 그에 따라는 조명 효과 역시 뛰어납니다.쿨러.튜닝.조명.액세서리는 다크플래시의 RGB 컨트롤러 입니다. 여러개의 팬을 효율적으로 관리할 수 있습니다.조립PC관련는 믿고 맡길 수 있는 서비스",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "239,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴",
+            "가격": "209,680원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB J 실버 패키지) 32GB",
+            "가격": "174,404원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "PNY 지포스 RTX 4070 Ti VERTO D6X 12GB Triple White Edition 마이크로닉스",
+            "가격": "1,190,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLM4000 GLASS 화이트",
+            "가격": "59,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH UPMOST 850W 80PLUS GOLD FULL MODULAR ATX3.0 화이트",
+            "가격": "161,870원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21",
+            "가격": "27,120원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "DARKFLASH MH-30 ARGB 5V 컨트롤러",
+            "가격": "9,320원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2237334원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴",
+    "Graphic Card": "PNY 지포스 RTX 4070 Ti VERTO D6X 12GB Triple White Edition 마이크로닉스",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB J 실버 패키지 (32GB(16Gx2))",
+    "Power Supply": "DARKFLASH UPMOST 850W 80PLUS GOLD FULL MODULAR ATX3.0 화이트",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 (화이트)",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

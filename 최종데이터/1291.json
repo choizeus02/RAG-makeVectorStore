@@ -1,0 +1,66 @@
+{
+    "quote_number": "1291",
+    "quote_title": "7600 + RTX 4070 Ti",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 Ti 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "7600 기준으로 구성자체는 문제 없어 보입니다.TUF 보드가 가성비가 많이 안좋아진 상태라동급 14페이즈 기준에서는 ASRock B650 PG 모델이 조금더 가성비는 좋을 듯 하고 ^^파워 같은 경우 wizmax 모델이 AS 7년으로 짧은 부분이고 있고RTX 4천번대 전용 케이블도 없기는 합니다.SF Leadex 시리즈나 안텍 네오에코 정도를 구성하시는게 오히려 좋을 듯 하고https://quasarzone.com/bbs/qn_partner/views/1296760이런식으로 전용 케이블도 주는 부분이니 활용하기에도 문제는 없을 듯 합니다 ^^쿨러 같은 경우 7600 자체의 발열이 높지 않은 편이라2-3만원대 가성비 공냉 쿨러만 장착하더라도 CPU 발열은 충분히 제어 할 수 있으리라 보여집니다~",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]MSI 지포스 RTX 4070 Ti 벤투스 3X E OC D6X 12GB상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)상세보기[CPU쿨러]잘만 CNPS9X PERFORMA RGB (SILVER)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 새로나온 가성비 CPU!\n동급 인텔대비 월등한 게이밍 성능!메인보드는 14+2+1 전원부!\n가격은 25만원! 가성비 of 가성비!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 가성비 RTX 4070 Ti!\nMSI만의 강력한 쿨링 솔루션!SSD는 이천 특산물! SK 하이닉스!\nPCIe 3.0의 끝판왕!케이스는 구관이 명관!\n베스트셀러 케이스!파워서플라이는 PCie 5.0 기반 구성!\n리뉴얼된 리덱스! 믿음의 슈퍼플라워!CPU쿨러는 가성비 좋고 성능 좋고!\n3만원 미만에서의 갓성비 모델!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "239,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "147,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4070 Ti 벤투스 3X E OC D6X 12GB",
+            "가격": "1,149,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE",
+            "가격": "159,408원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 CNPS9X PERFORMA RGB",
+            "가격": "33,740원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2091488원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "MSI 지포스 RTX 4070 Ti 벤투스 3X E OC D6X 12GB",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)",
+    "CPU Cooler": "잘만 CNPS9X PERFORMA RGB (SILVER)",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

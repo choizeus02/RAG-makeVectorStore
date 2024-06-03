@@ -1,0 +1,66 @@
+{
+    "quote_number": "2037",
+    "quote_title": "화이트맛 4070 Ti Super견적(7500f, SSD 2TB)",
+    "date_create": "2024.2.22",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 1. 7500f x 4070 Ti Super 화이트 맛2. 게임 성능 확실하게 QHD까지 대응 가능3. SSD M.2 GEN4 2TB로 넉넉한 용량# 넉넉한 용량과 성능을 가진 가성비 화이트 구성을 원하는 분들게",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "가성비 많이 챙긴 4070 Ti Super 화이트 구성입니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite Plus 실버 서린 (16GB) x 2 개상세보기[그래픽카드]Colorful iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DK1000 MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]DARKFLASH Ellsworth S21 (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 13600KF 밑으로 원탑메인보드는 재고 없는 B650 보드중 지금 당장 선택할 수 있는 1등 제품메모리는 표준규격에 실버맛그래픽카드는 4070 Ti Super 화이트중 제일 저렴한 금액SSD는 990 Pro 와 경쟁모델이면서도 가격은 너무 착한 제품케이스는 가성비 참 좋으면서 깔끔한 darkFlash의 DK1000 화이트파워서플라이는 가성비도 좋지만 뉴젠(슈퍼플라워) AS까지 장착CPU쿨러는 무난한 화이트 쿨러조립PC관련는 -",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "172,490원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite Plus 실버 서린  16GB",
+            "가격": "66,240원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "Colorful iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White",
+            "가격": "1,311,920원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK1000 MESH 강화유리 화이트",
+            "가격": "66,200원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21",
+            "가격": "27,120원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2269420원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "Graphic Card": "Colorful iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite Plus 실버 서린 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 (화이트)",
+    "cpu_score": 355,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 31768
+}

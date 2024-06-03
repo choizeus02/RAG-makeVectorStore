@@ -1,0 +1,66 @@
+{
+    "quote_number": "4667",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090",
+    "date_create": "2024.3.25",
+    "cpu_gpu_combinations": "라이젠9 7950X + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. AVX512 명령어는 짧은 명령어로 많은 일을 처리할 수 있도록 하는 컴퓨터 언어입니다. 즉 AVX512 명령어를 지원하지 않는 인텔의 경우 10개의 일을 처리하려면 10개의 명령어가 필요한데 AVX를 지원하는 라이젠의 경우는 짧은 명령어 하나로 10개의 일을 처리해서 아주 효율적이고 빠르게 일을 처리할 수 있도록 도와주는 역할을 하죠. AI 딥러닝에서는 그 효과가 더 커서 라이젠으로 추천을 합니다.2. CPU는 현재 유통되고 있는 라이젠 제품 중 성능이 가장 좋은 7950X로 구성3. 화이트 톤을 원하셔서 기판까지 화이트로 제대로 된 화이트 감성을 느낄 수 있는 GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트로 구성4. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2개 64기가로 구성5. 그래픽카드는 1티어 AS 중에서도 최상위면서 가격적인 메리트도 높은 이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB로 구성6. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 구성7. 그래픽카드는 고성능 저소음 140mm 5V ARGB 팬 4개가 기본장착되어 있는 화이트 색상에 가격대비 퀄리티가 아주 높은 앱코 SUITMASTER M2000 NOVA ARGB 강화유리 화이트 (미들타워)로 구성8. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 1000W 고용량에 플래티넘 인증 고효율 제품인 SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE5)로 구성9. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 화이트 색상의 잘만 Alpha II A36 (WHITE)로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]앱코 SUITMASTER M2000 NOVA ARGB 강화유리 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]잘만 Alpha II A36 (WHITE)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X)",
+            "가격": "891,920원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "256,640원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+            "가격": "2,874,550원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,990원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "앱코 SUITMASTER M2000 NOVA ARGB 강화유리 화이트",
+            "가격": "89,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "218,256원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,530원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4787346원",
+    "CPU": "AMD 라이젠9-5세대 7950X (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "잘만 Alpha II A36 (WHITE)",
+    "cpu_score": 60,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62909,
+    "gpu_benchmarkscore": 38694
+}

@@ -1,0 +1,71 @@
+{
+    "quote_number": "4056",
+    "quote_title": "5600 + RTX 4060 TI FHD 게이밍 화이트",
+    "date_create": "2024.3.9",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 4060 Ti 조합",
+    "quotation_summary": " 5600 + RTX 4060 TI FHD 게이밍 화이트# 5600 + RTX 4060 TI FHD 게이밍 화이트",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "5600 + RTX 4060 TI FHD 게이밍 화이트",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]TeamGroup T-Force DDR4-3600 CL18 Delta RGB 화이트 패키지 (16GB(8Gx2)상세보기[그래픽카드]이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]1stPlayer T7-P 화이트 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트상세보기[CPU쿨러]3RSYS Socoool RC350 ARGB (WHITE)상세보기[모니터]크로스오버 27GFA5 IPS 165 아이세이브 게이밍 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 여전히 가성비 게이밍 CPU로 명성이 자자한 CPU입니다.메인보드는 DP와 HDMI 포트를 모두 지원해 듀얼 모니터 사용도 문제 없고 모니터 호환성도 좋은 가성비 보드입니다.그래픽카드는 AS 1티어 업체, 믿고 쓰는 이엠텍의 RTX 4060 Ti  화이트 제품입니다.SSD는 발열도 적어 게임용으로도 많이 추천되는 제품입니다.파워서플라이는 케이블은 물론 커넥터까지 화이트라 화이트 감성 내기도 좋고, 블랙에 비해 통풍구도 개선되서 쿨링면에서도 좀 더 괜찮습니다. 마닉 풀체인지 파워가 불량률도 적고 내구성을 위한 에프터 쿨링이나 정숙성을 위한 제로펜 기능 등으로 뛰어난 기능까지 있어 스테디 셀러인 파워입니다.모니터는 165Hz 고주사율에 IPS 패널에 350cd 밝기로 색감도 좋고 가격대도 좋아 가성비가 뛰어나 해당 제품으로 구성 추천드립니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "83,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR4-3600 CL18 Delta RGB 화이트 패키지 16GB",
+            "가격": "69,000원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+            "가격": "577,530원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7-P 화이트",
+            "가격": "41,130원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+            "가격": "61,580원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 ARGB",
+            "가격": "22,800원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 27GFA5 IPS 165 아이세이브 게이밍 무결점",
+            "가격": "169,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1306680원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "TeamGroup T-Force DDR4-3600 CL18 Delta RGB 화이트 패키지 (16GB(8Gx2)",
+    "Power Supply": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+    "CPU Cooler": "3RSYS Socoool RC350 ARGB (WHITE)",
+    "cpu_score": 504,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 22891
+}

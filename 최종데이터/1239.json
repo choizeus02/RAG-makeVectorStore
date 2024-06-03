@@ -1,0 +1,66 @@
+{
+    "quote_number": "1239",
+    "quote_title": "라이젠 7600 x RTX 4070 가성비 조합",
+    "date_create": "2024.4.1",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 조합",
+    "quotation_summary": " 1. Ryzen 7600 x A620 x RTX 40702. 위 조합의 PC를 찾는 분들께 희망이 될 PC# RTX 3080급의 성능을 원하시는 게임용 PC를 찾는 분",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "최신 제품들을 사용하면서도 가격의 거품을 확 빼서 부담을 줄인 구성입니다.Ryzen 7600과 RTX 4070으로 고사양 AAA급 게임들 또한 FHD 고주사율로 즐길 수 있으면서도소위 말하는 싸구려 부품 없이 마지노선을 지킨 가성비 게이밍 PC 구성입니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS TUF Gaming A620M-PLUS 대원씨티에스상세보기[메모리]GeIL DDR5-4800 CL40 PRISTINE V (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 TWIN EDGE OC D6X 12GB상세보기[SSD]마이크론 Crucial P3 Plus 대원씨티에스 (500GB)상세보기[케이스]DARKFLASH DK200 RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]DARKFLASH SAVEMOST 600W 80PLUS STANDARD상세보기[CPU쿨러]DARKFLASH Ellsworth S21 (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 저발열, 고성능 가성비 1등 최신 CPU메인보드는 현재 A620 최고의 가성비메모리는 DDR5 8GB 재고가 없어서 16GB로 대체합니다.그래픽카드는 RTX 3080을 대체하는 RTX 4070 입니다.\n큰 차이점이라면 정격 600W 파워로 사용이 가능하다는거죠.SSD는 DRAMLESS SSD지만 게임용도로는 충분하죠케이스는 가성비 공랭 구성에서는 이녀석을 제외하기 어렵죠.파워서플라이는 떠오르는 가성비 파워CPU쿨러는 돈 값은 확실히 하는 제품",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "239,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS TUF Gaming A620M-PLUS 대원씨티에스",
+            "가격": "164,770원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "GeIL DDR5-4800 CL40 PRISTINE V  16GB",
+            "가격": "55,800원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 TWIN EDGE OC D6X 12GB",
+            "가격": "874,950원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P3 Plus 대원씨티에스 500GB",
+            "가격": "59,740원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK200 RGB 강화유리 블랙",
+            "가격": "36,280원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH SAVEMOST 600W 80PLUS STANDARD",
+            "가격": "52,870원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21",
+            "가격": "27,120원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1567270원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS TUF Gaming A620M-PLUS 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 TWIN EDGE OC D6X 12GB",
+    "SSD": "마이크론 Crucial P3 Plus 대원씨티에스 (500GB)",
+    "Memory": "GeIL DDR5-4800 CL40 PRISTINE V (16GB) x 2 개",
+    "Power Supply": "DARKFLASH SAVEMOST 600W 80PLUS STANDARD",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 (블랙)",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

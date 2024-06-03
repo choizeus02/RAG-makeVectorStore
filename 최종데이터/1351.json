@@ -1,0 +1,65 @@
+{
+    "quote_number": "1351",
+    "quote_title": "7800x3d + 반본체(4080) + QHD 끝판왕 게이밍",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠7 7800X3D +  조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "https://quasarzone.com/bbs/qf_hwjoin/views/17727217800x3D 기반이라면 메인보드는 못해도 B650M PG Riptide 정도가GPU 간섭도 없고 전원부 구성도 무난할 겁니다만약 WIFI 무선랜을 무조건 적으로 사용해야 한다!하고 한다면 B650M aorus Elite AX가 WIFI 있는 제품군 중에서는 가장 무난 합니다 ^^지금 저 케이스라면 시스템팬을 따로 추가할 필요는 없을 듯 하고그저 깔맞춤 때문에 구성을 하시는거라면후면 C6M이 아닌 C6S 140mm상단 3장, 측면 2장 C6S 120mm 팬 구성하신 다음에5V argb & PWM HUB 케이블 달면 팬속도 조절과 ARGB 메인보드 조절 및 연동이 가능하게 됩니다 ^^파워의 경우 ATX 3.0 파워를 사용하는 이유가RTX 4천번대 전용 케이블 때문인데가격대 비싼 것도 있고Antec NeoECO 850이나 SF 850 Leadex 시리즈라면 동급 기준에AS 기간도 동일한데RTX 4천번대 전용케이블도 주는부분으로 활용성 자체도 동일 합니다 ^^CPU쿨러의 경우검증된 제품군 기준으로여기 나와져 있는 제품으로 구성하면 될 듯 한데어쌔신은 가격도 매리트가 그닥 있는편은 아니고소음도 좀 심한 편입니다.RGB 있는게 좋다면 RC1800을RGB 없는게 좋다면 Z06D가 가장 무난한 선택입니다~",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)상세보기[CPU쿨러]3RSYS Socoool RC1800 ARGB (BLACK)상세보기[쿨러.튜닝.조명.액세서리]DARKFLASH C6S 140 RGB (블랙)상세보기[쿨러.튜닝.조명.액세서리]darkFlash C6S RGB (블랙 1PACK) x 5 개상세보기[쿨러.튜닝.조명.액세서리]DARKFLASH C6S 5V SYNC & FAN CONTROL 통합케이블상세보기[쿨러.튜닝.조명.액세서리]DARKFLASH MH-30 ARGB 5V 컨트롤러상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 7950x3D를 제외하면\n이걸 따라올 게이밍 CPU는 없다!메인보드는 12페이즈 / 720a 스펙의 전원부 모델!\n7950x까지 커버 가능!\n그리고 화이트 감성!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!케이스는 구관이 명관!\n베스트셀러 케이스!파워서플라이는 PCie 5.0 기반 구성!\n리뉴얼된 리덱스! 믿음의 슈퍼플라워!CPU쿨러는 현존 공냉 끝판왕!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,960원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE",
+            "가격": "159,408원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1800 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "DARKFLASH MH-30 ARGB 5V 컨트롤러",
+            "가격": "9,320원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1427598원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)",
+    "CPU Cooler": "3RSYS Socoool RC1800 ARGB (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": null
+}

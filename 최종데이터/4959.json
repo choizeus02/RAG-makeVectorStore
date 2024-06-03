@@ -1,0 +1,66 @@
+{
+    "quote_number": "4959",
+    "quote_title": "2024 버전 로비오트 PC!",
+    "date_create": "2024.4.1",
+    "cpu_gpu_combinations": "코어i5-14600KF + RX 7800 XT 조합",
+    "quotation_summary": " 1. 로비오트와 똑같은 PC를 만들고 싶다2. QHD 해상도로 게임도 하고 어느정도 작업도 돌아갔으면 한다3. 넉넉한 SSD 용량을 원한다# 멀티 사용# 다중 사용 목적# QHD 게이밍# QHD 풀옵션",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "2024년 04월 현재 로비오트가 사용중인 PC를 기반으로 만들어진 PC입니다.QHD 게임용어도비 인코딩과 각종 멀티 사용목적으로 구성하였습니다.SSD 용량 역시 매우 넉넉하여게임 설치 및 인코딩 영상 저장 등 활용 용도가 매우 좋은 부분입니다 ^^",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14600KF (랩터레이크 리프레시) (정품)상세보기[메인보드]MSI MAG B760M 박격포 맥스 WIFI상세보기[메모리]OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]PowerColor 라데온 RX 7800 XT Hellhound D6 16GB 대원씨티에스상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (2TB)상세보기[케이스]마이크로닉스 ML-420 BTF 블랙 (빅타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]ARCTIC Liquid Freezer III 420 피씨디렉트상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 인텔 14세대의 I5 CPU\n기존 대비 3% 성능향상!메인보드는 가성비 좋은 B760 박격포!\n국민 메인보드!메모리는 고수율 하이닉스 A다이 언락!\n블레이드 감성의 메모리!그래픽카드는 RX 7800 XT 중 가장 갓성비\n3팬 제품으로 발열 제어도 완벽!SSD는 최신형 PCIE 4.0 SSD!\n전성비 최고! 안정성 좋은 파이슨 E25 컨트롤러!SSD는 PCIe 4.0 SSD중 가장 안정성이 좋은 제품!\n가성비가 좋은 건 덤!케이스는 420mm 수냉을 지원하는 가성비 케이스!\n기본팬 구성도 단단!파워서플라이는 AS 10년! 고주파 AS 지원!\nATX 3.0 정식 모델의 가성비 파워!CPU쿨러는 아틱의 신형 수냉 쿨러!\n아세텍 8세대 + 420mm 수냉!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14600KF",
+            "가격": "399,320원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 맥스 WIFI",
+            "가격": "212,880원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "198,490원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "PowerColor 라데온 RX 7800 XT Hellhound D6 16GB 대원씨티에스",
+            "가격": "731,120원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 2TB",
+            "가격": "226,230원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 블랙",
+            "가격": "131,940원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "129,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "ARCTIC Liquid Freezer III 420 피씨디렉트",
+            "가격": "128,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2157660원",
+    "CPU": "인텔 코어i5-14세대 14600KF (랩터레이크 리프레시) (정품)",
+    "Motherboard": "MSI MAG B760M 박격포 맥스 WIFI",
+    "Graphic Card": "PowerColor 라데온 RX 7800 XT Hellhound D6 16GB 대원씨티에스",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "ARCTIC Liquid Freezer III 420 피씨디렉트",
+    "cpu_score": 181,
+    "gpu_score": 11,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 29006
+}

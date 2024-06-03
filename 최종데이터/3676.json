@@ -1,0 +1,71 @@
+{
+    "quote_number": "3676",
+    "quote_title": "7800X3D + 4070 TI SUPER",
+    "date_create": "2024.3.1",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 7800X3D + 4070 TI SUPER# 7800X3D + 4070 TI SUPER",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7800X3D + 4070 TI SUPER",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]BRAVOTEC GUARDIAN 3100M V2 타이탄 글래스 (빅타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (BLACK)상세보기[쿨러.튜닝.조명.액세서리]BRAVOTEC G140 ARGB PWM (BLACK) x 2 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 7000번대 3D 제품으로 7950X3D와 달리 별도의 설정없이도 뛰어난 게임 성능을 자랑합니다.  \n전성비는 물론 온도도 뛰어나 공랭으로 가성비 좋게 게이밍 환경 구성이 가능합니다.메인보드는 12+2+1페이즈 최대 600A(50A)의 준수한 전원부의 라이젠 보드입니다메모리는 ADATA의 6000클럭 튜닝 메모리입니다.그래픽카드는 AS 1티어 업체인 갤럭시의 4070 TI SUPER입니다. 3팬에 감성도 뛰어난 제품입니다.SSD는 PCIE4.0 대역폭 상급 SSD케이스는 빅타워 규격에 뛰어난 쿨링성능을 자랑하는 브라보텍 케이스입니다.파워서플라이는 슈퍼플라워의 PCIE 5 파워입니다. 4천번대를 위한 12VHPWR 젠더도 기본 제공되고, 10년 보증에 고주파 발생시 새제품 교환 등 AS정책도 가장 좋습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,290원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "213,420원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "317,720원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB",
+            "가격": "1,301,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "BRAVOTEC GUARDIAN 3100M V2 타이탄 글래스",
+            "가격": "86,120원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK",
+            "가격": "154,407원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "61,500원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "BRAVOTEC G140 ARGB PWM x 2 개",
+            "가격": "7,590원",
+            "수량": "2"
+        }
+    },
+    "total_price": "2896127원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

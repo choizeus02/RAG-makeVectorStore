@@ -1,0 +1,76 @@
+{
+    "quote_number": "3008",
+    "quote_title": "7500F + 4060 Ti 16GB FHD 게임",
+    "date_create": "2024.2.15",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4060 Ti 조합",
+    "quotation_summary": " 7500F + 4060 Ti 16GB FHD 게임# 7500F + 4060 Ti 16GB FHD 게임",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7500F + 4060 Ti 16GB FHD 게임",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 디앤디컴상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB TUF 패키지 서린 (32GB(16Gx2))상세보기[그래픽카드]MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]DARKFLASH DRX70 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]쿨러마스터 HYPER 420S ARGB상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 최고의 게이밍 가성비 CPU입니다그래픽카드는 VRAM이 16GB로 높아 그래픽카드 VRAM을 많이 사용하는 앱플레이어나 게임, 작업용도로도 좋습니다.SSD는 PCIe4.0 최상급 성능의 SSD입니다.데스크탑 HDD는 안정성이 좋은 CMR(PMR) 방식 하드입니다.케이스는 5만원 이하 케이스 중 전면 TYPE-C 포트를 지원하고, 그래픽카드 지지대 기본 구성에 그래픽카드 호환성도 준수한 케이스입니다.파워서플라이는 가성비 좋은 쿨러마스터의 브론즈 등급 제품으로 대양에서 유통해서 AS도 좋습니다.CPU쿨러는 2만원 이하에 준수한 성능과 ARGB를 지원하는 가성비 좋은 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 디앤디컴",
+            "가격": "161,370원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB TUF 패키지 서린) 32GB",
+            "가격": "171,800원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB",
+            "가격": "590,610원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "97,170원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DRX70 MESH RGB 강화유리 블랙",
+            "가격": "46,110원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "쿨러마스터 HYPER 420S ARGB",
+            "가격": "17,750원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1490300원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 디앤디컴",
+    "Graphic Card": "MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB TUF 패키지 서린 (32GB(16Gx2))",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "쿨러마스터 HYPER 420S ARGB",
+    "cpu_score": 355,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 22891
+}

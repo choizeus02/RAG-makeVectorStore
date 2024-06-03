@@ -1,0 +1,66 @@
+{
+    "quote_number": "1926",
+    "quote_title": "고성능게이밍 no.05 14900k & 4090",
+    "date_create": "2023.12.23",
+    "cpu_gpu_combinations": "코어i9-14900K + RTX 4090 조합",
+    "quotation_summary": " 1. 본 견적은 제가 정말 가성비 만큼은 최고로 만들겠다는 생각으로 뽑아낸 견적 입니다.2. CPU는 준수 하지만 튼튼한 놈으로 설정했습니다.3. 무엇보다 그래픽카드에 신경을 많이 썼습니다.# 500만원대 게임 가성비 pc를 원하시는 분# 영상편집# 게임 개발# 게임하며서 유튜브를 보시는분",
+    "quote_person_introduction": "가성비와 성능을 동시에 구현하고 노력 하였습니다.제품 구성은 인기상품들로 구성되었으며 믿고 사용해도 하나도 부족하지 않는 제품들 입니다.",
+    "quote_feedback": "팀그룹 메모리는 메모리 클럭이 높아서 성능도 좋고 라이프타임 워런티로 압도적인 팀그룹 5600MHz 고클럭 규격램 32기가 4개 128기가를 사용 하였습니다.국내 브랜드 넘버원 이엠텍 그래픽카드는 1티어 중에서 AS가 탑이고 고객만족도 1위 제품을 사용하였고 가격적인 메리트도 높은 이엠텍 지포스 RTX 4090 GAMEROCK OC D6X 24GB 사용 하였습니다",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)상세보기[메인보드]ASUS ROG STRIX Z790-A GAMING WIFI 코잇상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK OC D6X 24GB상세보기[SSD]PNY XLR8 CS3140 Gen4 M.2 NVMe (2TB)상세보기[케이스]마이크로닉스 GH4-LETO MESH 스페이스 그레이 (미들타워)상세보기[파워서플라이]마이크로닉스 Performance II HV 1000W 80PLUS Bronze FDB상세보기[CPU쿨러]3RSYS Socoool 라니 SE 360 ARGB (BLACK)상세보기",
+    "quote_description": "CPU는 인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)는 인텔의 최신 14세대 프로세서로, 8+16코어와 16+16쓰레드를 가지고 있습니다. 최대 클럭은 6.0GHz이고, L2 캐시는 32MB, L3 캐시는 36MB입니다. PCIe 5.0과 4.0을 지원하고, DDR5와 DDR4 메모리를 모두 사용할 수 있습니다. 내장그래픽은 인텔 UHD 770이며, 쿨러는 미포함입니다. 시네벤치R23에서 싱글 점수는 2289, 멀티 점수는 38134를 기록했습니다메인보드는 세계최강 ASUS보드 이면 가성비가 제일높은 제품으로 출시된 제품입니다.메모리는 팀그룹 메모리는 메모리 클럭이 높아서 성능도 좋고 라이프타임 워런티로 압도적인 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가를 사용 하였습니다.그래픽카드는 국내 브랜드 넘버원 이엠텍 그래픽카드는 1티어 중에서 AS가 탑이고 고객만족도 1위 제품을 사용하였고 가격적인 메리트도 높은  이엠텍 지포스 RTX 4090 GAMEROCK OC D6X 24GB를 사용 하였습니다SSD는 PHISON의 최상의 성능을 제공하는 PS5018-E18 컨트롤러를 탑재하고 디램캐시를 장착한 제품으로 최상의 성능을 내 주는 제품입니다.\n읽기속도 : 7,500(MB/s) / 쓰기속도 : 5,650(MB/s)로 가격대비 최고 수준의 속도입니다. \n1티어급 AS인 마이크로닉스에서 유통하는 것도 큰 장점이구요.케이스는 전면과 상단에 메쉬 디자인을 적용하여 통풍성을 높였고, ARGB LED 스트립을 장착하여 다양한 조명 효과를 연출할 수 있습니다. 전면에 3개의 120mm ARGB 팬이 기본으로 장착되어 있으며, 상단에는 240mm 수랭 쿨러를 장착할 수 있습니다파워서플라이는 마이크로닉스 Performance II HV 1000W 80PLUS Bronze FDB로 국내 유일 무일 넘버1원 파워 입니다. \n따로 설명이 필요없는 매우 뛰어나고 안정적인 회사의 제품 입니다.CPU쿨러는 3RSYS의 일체형 수랭 쿨러로, TDP 330W의 성능을 자랑합니다. 3열 라디에이터와 120mm ARGB 팬 3개로 구성되어 있으며, 데이지체인 방식으로 팬과 LED를 연결할 수 있습니다. 워터블록에는 수온을 표시하는 LCD 디스플레이가 있으며, LED 시스템은 AURA SYNC, MYSTIC LIGHT, RGB LED, POLYCHROME 등을 지원합니다. 쿨링팬은 최대 풍량이 77 CFM이고, 최대 팬소음은 32dBA입니다",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "789,880원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ROG STRIX Z790-A GAMING WIFI 코잇",
+            "가격": "673,480원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  32GB",
+            "가격": "116,190원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK OC D6X 24GB",
+            "가격": "3,505,500원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "PNY XLR8 CS3140 Gen4 M.2 NVMe 2TB",
+            "가격": "185,390원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 GH4-LETO MESH 스페이스 그레이",
+            "가격": "84,990원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Performance II HV 1000W 80PLUS Bronze FDB",
+            "가격": "177,380원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool 라니 SE 360 ARGB",
+            "가격": "124,510원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5773510원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "ASUS ROG STRIX Z790-A GAMING WIFI 코잇",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK OC D6X 24GB",
+    "SSD": "PNY XLR8 CS3140 Gen4 M.2 NVMe (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개",
+    "Power Supply": "마이크로닉스 Performance II HV 1000W 80PLUS Bronze FDB",
+    "CPU Cooler": "3RSYS Socoool 라니 SE 360 ARGB (BLACK)",
+    "cpu_score": 56,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 38694
+}

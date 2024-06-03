@@ -1,0 +1,65 @@
+{
+    "quote_number": "1315",
+    "quote_title": "7900 + RTX 4070 Ti + 음악작업용",
+    "date_create": "2024.1.8",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 4070 Ti 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "https://quasarzone.com/bbs/qf_hwjoin/views/1771717먼지 같은 경우에는 주기적으로 청소해 주시는게 좋을 듯 합니다.아무리 쿨링 좋고 먼지필터 장착 된 제품이라도 ㅠㅠ주기적으로 청소는 해주시는게 좋을 듯 합니다.지금 가지고 계신 SSD나 HDD가 전부다 SATA 방식인지 확인이 필요해 보이기도 합니다.인텔 쪽 구성시에는 논 K CPU 성능이 K CPU 대비해서 크게 떨어지는 부분이기에가능하면 K버전 CPU로 구성해 주시는게 좋을 듯 합니다.음악 작업시에는 인텔 기준 P코어가 많은게 좋을 텐데(즉 리얼코어) 동 가격대라면 그냥 라이젠 7900 쪽이 리얼코어는 많은 지라 활용하기에는 더 좋지 않나 봅니다.팬 소음 억제하려면 어느정도 저소음에서도 발열 잘 잡아주는 걸로 케이스 팬 구성해 주시는 것도 나쁘지는 않을 듯 합니다.케이스 이런 제품 사용하면차후에 하드 증설하기에도 좋을 듯 합니다~",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 Ti AMP EXTREME AIRO D6X 12GB상세보기[케이스]마이크로닉스 GX2-뉴런 메쉬 (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)상세보기[CPU쿨러]PentaWave Z06D (BLACK)상세보기[쿨러.튜닝.조명.액세서리]ARCTIC P12 PWM PST VALUE PACK 서린상세보기[쿨러.튜닝.조명.액세서리]ARCTIC P12 PWM PST 서린 (black/black) x 4 개상세보기[쿨러.튜닝.조명.액세서리]EVERCOOL COOLMARKER PWM HUB-10X (PWM 10Port)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 12페이즈 / 720a 스펙의 전원부 모델!\n7950x까지 커버 가능!\n그리고 화이트 감성!메모리는 하이닉스 A다이 언락 모델!\n인식률 / 수율 최상! 안정성도 최상!CPU쿨러는 새로운 공냉 끝판왕!\n블랙감성!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "523,320원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,960원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,450원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 Ti AMP EXTREME AIRO D6X 12GB",
+            "가격": "1,079,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 GX2-뉴런 메쉬",
+            "가격": "180,960원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK",
+            "가격": "154,407원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z06D",
+            "가격": "56,910원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "EVERCOOL COOLMARKER PWM HUB-10X",
+            "가격": "3,400원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2540857원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 Ti AMP EXTREME AIRO D6X 12GB",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)",
+    "CPU Cooler": "PentaWave Z06D (BLACK)",
+    "cpu_score": 107,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 31768
+}

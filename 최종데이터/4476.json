@@ -1,0 +1,66 @@
+{
+    "quote_number": "4476",
+    "quote_title": "7900 + 4080 SUPER 워크스테이션",
+    "date_create": "2024.3.19",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 4080 SUPER 조합",
+    "quotation_summary": " 7900 + 4080 SUPER 워크스테이션# 7900 + 4080 SUPER 워크스테이션",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7900 + 4080 SUPER 워크스테이션",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]inno3D 지포스 RTX 4080 SUPER D6X 16GB X3상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 X 버전에 비해 발열과 전성비를 잡고 나와 저렴한 메인보드와 공랭쿨러와 사용 가능하고 12코어 24스레드로 뛰어난 작업 성능을 자랑하는 라이젠9 CPU입니다.SSD는 삼성 980 프로 OEM 제품으로 가성비가 좋습니다.케이스는 상단 3열 수냉 장착 가능한 가성비 좋은 케이스입니다.파워서플라이는 10년 보증에 ATX 3.0 규격 제품이면서 850W에 11만원대라 가성비는 더 뛰어나고 슈퍼플라워 유통사라 고주파 발생시 새제품 교환 정책도 동일하게 적용되어 가성비 좋게 구성하시기 좋습니다.CPU쿨러는 대장급 공랭 중 뛰어난 정숙성과 성능을 겸비한 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "538,780원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 에즈윈",
+            "가격": "215,930원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "65,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "inno3D 지포스 RTX 4080 SUPER D6X 16GB X3",
+            "가격": "1,590,460원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "129,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,480원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2807740원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 에즈윈",
+    "Graphic Card": "inno3D 지포스 RTX 4080 SUPER D6X 16GB X3",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 107,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 34625
+}

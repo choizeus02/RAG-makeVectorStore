@@ -1,0 +1,71 @@
+{
+    "quote_number": "2746",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4060 Ti",
+    "date_create": "2024.2.10",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4060 Ti 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4060 Ti# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 600A급 출력의 드라이버 모스펫 전원부가 적용되어 있어서 7950X3D와 잘 어울리는 ASRock B650M PG Riptide 대원씨티에스로 변경2. 구성하신 그래픽카드는 현재 유통사가 많이 없어서 견적왕의 최대 메리트인 견적비교가 원활하지 않습니다. 많은 업체에서 유통 중인 MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB로 변경3. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경4. 케이스는 전면 먼지필터가 부착되어 있는 가성비가 월등히 좋은 3RSYS J500 블랙 (미들타워)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개상세보기[그래픽카드]MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS J500 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "파워서플라이는 안정성과 가성비를 겸비한 골드인증 800W 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "892,880원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "207,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  32GB",
+            "가격": "115,810원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB",
+            "가격": "590,610원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,500원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS J500 블랙",
+            "가격": "39,040원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "89,990원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,670원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2366760원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 63,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 22891
+}

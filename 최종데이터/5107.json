@@ -1,0 +1,71 @@
+{
+    "quote_number": "5107",
+    "quote_title": "7950X3D + RTX 4090 AERO OC (저소음)",
+    "date_create": "2024.4.6",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": " 7950X3D + RTX 4090 AERO OC (저소음)# 7950X3D + RTX 4090 AERO OC (저소음)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7950X3D + RTX 4090 AERO OC (저소음)",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 4 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Western Digital 4TB Ultrastar DC HC310 패키지 (SATA3/7200/256M)상세보기[케이스]Fractal Design Pop Silent Clear 강화유리 White (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE WHITE ARGB 서린상세보기[케이스]Fractal Design USB-C 10Gbps Cable Model D상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 뛰어난 게임성능과 전성비로 인텔 13세대를 압도해버린 라이젠 최상위 게이밍 CPU입니다.그래픽카드는 3팬 장인 기가바이트의 화이트 감성 RTX 4090입니다. \n온도나 소음 평도 상당히 좋은 제품입니다.SSD는 PCIE4.0 대역폭 상급 SSD파워서플라이는 뛰어난 효율과 유니버셜 커넥터로 편의성도 좋고, 고주파 발생시 새제품 교환 등 AS 정책도 가장 뛰어난 제품입니다.CPU쿨러는 써멀리아트의 대장급 공랭입니다. 화이트 감성과 정숙성을 원하시는 분들에게 추천드립니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "890,930원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "257,530원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE x 4 개 32GB",
+            "가격": "121,560원",
+            "수량": "4"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+            "가격": "2,933,870원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,690원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital 4TB Ultrastar DC HC310 패키지",
+            "가격": "1,320,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Fractal Design USB-C 10Gbps Cable Model D",
+            "가격": "13,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0",
+            "가격": "227,420원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+            "가격": "45,110원",
+            "수량": "1"
+        }
+    },
+    "total_price": "6404790원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 4 개",
+    "Power Supply": "SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

@@ -1,0 +1,65 @@
+{
+    "quote_number": "1317",
+    "quote_title": "13900K + 반본체 + 딥러닝용",
+    "date_create": "2023.9.19",
+    "cpu_gpu_combinations": "코어i9-13900KF +  조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "https://quasarzone.com/bbs/qf_hwjoin/views/1771671작업성능 차이가 나는 부분이라D4말고 D5 기준으로 구성해 주시는게 좋을 듯 하고케이스 쿨러 많아봐야 크게 의미는 없고그냥 DLX21 정도만 해도 충분 할 겁니다이름만 미들타워지 사이즈는 빅사이즈 급 제품입니다.13900K(F급이라면 3열 수냉중에서도 상위 수냉이 필요한 발열이고라니는 이슈가 최근에 크게 있었고호라이즌, LS, LT 시리즈는 13900K 발열이면 소음이 상당 할 겁니다.DX-360 V2.6이나 크라켄 신형으로 구성하는걸 추천드리며HDD의 경우에는 지금 구성하신 제품이 SMR 작동 방식일텐데PMR 혹은 CMR로 작동하는 제품이 안정성은 더 좋습니다.4TB급에서는 토시바 N300, WD Red Plus, 씨게이트 아이언울프 중에서 구성하시는걸 추천드립니다.보드도 지금 저 구성이면 13900K 작업용 성능 유지가 어려울 듯 하고못해도 Z790 Elite 정도까지는 필요해 보입니다;;",
+    "computer_estimate_data": "[CPU]인텔 코어i9-13세대 13900KF (랩터레이크) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[SSD]삼성전자 970 EVO Plus M.2 2280 (2TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 1050W 80PLUS GOLD 230V EU 풀모듈러12VHPWR 케이블 제공상세보기[CPU쿨러]NZXT KRAKEN 360상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 인텔 CPU 기준 게이밍 킹!\n누구도 넘볼 수 없는 깡클럭의 제왕!메인보드는 기가바이트가 실수한 제품! 완벽한 갓성비!\n500w까지는 충분히 버티는 전원부!메모리는 하이닉스 A다이 언락 모델!\n인식률 / 수율 최상! 안정성도 최상!데스크탑 HDD는 가성비 CMR 모델!케이스는 구관이 명관!\n베스트셀러 케이스!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-13세대 13900KF",
+            "가격": "780,610원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE 피씨디렉트",
+            "가격": "337,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,450원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 970 EVO Plus M.2 2280 2TB",
+            "가격": "252,140원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/256M",
+            "가격": "158,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 1050W 80PLUS GOLD 230V EU 풀모듈러12VHPWR 케이블 제공",
+            "가격": "199,940원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NZXT KRAKEN 360",
+            "가격": "303,050원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2359870원",
+    "CPU": "인텔 코어i9-13세대 13900KF (랩터레이크) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE 피씨디렉트",
+    "SSD": "삼성전자 970 EVO Plus M.2 2280 (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "마이크로닉스 Classic II 1050W 80PLUS GOLD 230V EU 풀모듈러12VHPWR 케이블 제공",
+    "CPU Cooler": "NZXT KRAKEN 360",
+    "cpu_score": 67,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 61879,
+    "gpu_benchmarkscore": null
+}

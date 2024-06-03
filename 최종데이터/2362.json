@@ -1,0 +1,81 @@
+{
+    "quote_number": "2362",
+    "quote_title": "7500F + RX 7800 XT 라라랜드",
+    "date_create": "2024.2.1",
+    "cpu_gpu_combinations": "라이젠5 7500F + RX 7800 XT 조합",
+    "quotation_summary": " 7500F + RX 7800 XT 라라랜드# 7500F + RX 7800 XT 라라랜드",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7500F + RX 7800 XT 라라랜드",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]MSI PRO B650M-A WIFI상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]XFX 라데온 RX 7800 XT MERC 319 BLACK D6 16GB상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DLM4000 GLASS 블랙 (미니타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]크로스오버 27GV5Q 패스트165 WQHD 아이세이브 게이밍 무결점상세보기[쿨러.튜닝.조명.액세서리]3RSYS 빙하 G5 메모리방열판 (BLACK) x 2 개상세보기[쿨러.튜닝.조명.액세서리]ALSEYE 헤라클레스 ARGB (BLACK)상세보기[쿨러.튜닝.조명.액세서리]LEADCOOL AH-6 ARGB AND PWM HUB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 최고의 게이밍 가성비 CPU입니다메인보드는 11페이즈의 준수한 전원부로 가격도 저렴하고 WIFI와 블루투스 무선 연결을 지원하는 보드입니다.메모리는 팀그룹의 DDR5 5600 패키지로 호환성이나 가성비가 좋은 제품입니다.SSD는 WD의 PCIE4.0 대역폭 상급 제품파워서플라이는 가성비 좋은 쿨러마스터의 800W 골드등급 파워입니다. 국내에선 대양에서 유통해서 AS도 좋습니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI PRO B650M-A WIFI",
+            "가격": "180,880원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "124,800원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "XFX 라데온 RX 7800 XT MERC 319 BLACK D6 16GB",
+            "가격": "810,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLM4000 GLASS 블랙",
+            "가격": "51,860원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "89,990원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,500원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,700원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 27GV5Q 패스트165 WQHD 아이세이브 게이밍 무결점",
+            "가격": "205,000원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "LEADCOOL AH-6 ARGB AND PWM HUB",
+            "가격": "12,500원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2066690원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "MSI PRO B650M-A WIFI",
+    "Graphic Card": "XFX 라데온 RX 7800 XT MERC 319 BLACK D6 16GB",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 355,
+    "gpu_score": 11,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 29006
+}

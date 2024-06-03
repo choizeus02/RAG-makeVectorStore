@@ -1,0 +1,66 @@
+{
+    "quote_number": "4958",
+    "quote_title": "라라랜드 최상위 조합! 게이밍 특화 7800x3d + 7900 XTX",
+    "date_create": "2024.4.1",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RX 7900 XTX 조합",
+    "quotation_summary": " 1. 300만원 정도로 최상위 구성을 하고 싶다!2. QHD에서 초 고주사율 , 4K에서 고주사율 유지를 하고 싶다!# 4K 게이밍# 라라랜드# 4K 최상위 구성",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "라이젠 7800x3d 라는 최고의 게이밍 조합과 함께RTX 4080 SUPER를 상회하는 게이밍 성능을 가진 RX 7900 XTX 조합!AFMF 까지 사용하면RTX 4090 제외하면 따라올 성능이 없는 그래픽카드!",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]PowerColor 라데온 RX 7900 XTX Hellhound D6 24GB 대원씨티에스상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DF5000-BS MESH ARGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 게이밍의 신흥 강자\n7800x3D!메인보드는 14+2+1 전원부!\n가성비 of 가성비!메모리는 AMD EXPO 공식 인증!\n하이닉스 A다이 칩셋!그래픽카드는 RTX 4080 SUPER 보다 조금 더 좋은 게이밍 성능!\nAFMF 기능까지 활용한다면 1.5배 성능 향상까지!SSD는 최신형 PCIE 4.0 SSD!\n전성비 최고! 안정성 좋은 파이슨 E25 컨트롤러!케이스는 다크플래쉬 신형 케이스로\nBTF 기능도 지원!파워서플라이는 ATX 3.0 지원 슈퍼플라워 파워!\n믿고 쓰는 AS! 골드지만 플레티넘 효율! 저 RPM 팬!CPU쿨러는 가성비 좋아진\n공냉 준 끝판왕!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "529,200원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "153,020원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "335,580원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "PowerColor 라데온 RX 7900 XTX Hellhound D6 24GB 대원씨티에스",
+            "가격": "1,394,890원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,690원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DF5000-BS MESH ARGB 강화유리 블랙",
+            "가격": "84,670원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0",
+            "가격": "227,420원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2992420원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "PowerColor 라데온 RX 7900 XTX Hellhound D6 24GB 대원씨티에스",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 225,
+    "gpu_score": 6,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 30951
+}

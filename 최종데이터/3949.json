@@ -1,0 +1,65 @@
+{
+    "quote_number": "3949",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D",
+    "date_create": "2024.3.7",
+    "cpu_gpu_combinations": "라이젠7 7800X3D +  조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 ASRock B650M Pro RS 대원씨티에스는 현재 유통하는 업체가 많이 없어서 견적왕의 최대 메리트인 견적비교가 원활하지 않습니다.기판까지 화이트로 제대로 된 화이트 감성을 느낄 수 있고 전원부도 튼튼한 상위 제품인 GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트로 변경2. 케이스는 잘만 P30과 비슷한 디자인에 고성능 저소음 팬 3개를 기본 장착하고 가성비는 월등히 좋은 3RSYS S315 Quiet 리버스 화이트 (미니타워)로 변경했습니다.디자인을 보시면 상당히 유사한 것을 확인할 수 있을 겁니다. AS는 3RSYS가 천상계라고 불릴 정도로 탑이죠.3. CPU쿨러는 성능이 더 좋은 대장급 3열 수냉쿨러로 압도적인 가성비를 제공하는 앱코 T360 테티스 풀체인지 ARGB (화이트)로 변경4. 그래픽카드 지지대는 자체적으로 제공을 합니다. 자체 제공하는 지지대가 마음에 들지 않거나 처진다고 느껴지면 자석방식의 일반 지지대 저렴한 제품으로 하나 구매하는 것도 좋구요.5. 시스템 팬은 추가하지 않아도 되고 대부분의 그래픽카드는 메인보드 연동이 안되고 자체 소프트웨어로 제어를 하는 방식입니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]3RSYS S315 Quiet 리버스 화이트 (미니타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]앱코 T360 테티스 풀체인지 ARGB (화이트)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "256,640원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스) 32GB",
+            "가격": "340,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS S315 Quiet 리버스 화이트",
+            "가격": "78,400원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "앱코 T360 테티스 풀체인지 ARGB",
+            "가격": "77,000원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,510원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1712650원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "앱코 T360 테티스 풀체인지 ARGB (화이트)",
+    "cpu_score": 225,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": null
+}

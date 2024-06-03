@@ -1,0 +1,66 @@
+{
+    "quote_number": "4730",
+    "quote_title": "[인텔] 화이트 PC 14700KF+RTX 4070 Ti SUPER",
+    "date_create": "2024.3.26",
+    "cpu_gpu_combinations": "코어i7-14700KF + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " QHD,게이밍PC,AAA,14700KF,RTX 4070 Ti SUPER# QHD# 게이밍PC# AAA# 14700KF# RTX 4070 Ti SUPER",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 Mr.홍금보 입니다.퀘이사존 다년간 좋은 인지도로 굳게 자리 잡았으며,저렴하다고 제품이 다 좋거나 가성비가 좋은건 아닙니다!합리적인 구매를 하실 수 있게 검증된 제품으로만 판매를 하고 구성을 하고 있으며,기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.믿고 맡겨주신다면, 그에 부응하도록 최선을 다할것을 굳게 약속 드리겠습니다!",
+    "quote_feedback": "QHD,게이밍PC,AAA,14700KF,RTX 4070 Ti SUPER",
+    "computer_estimate_data": "[CPU]인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]발키리 GL360 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 P8+E12코어 16+12쓰레드 i7 고성능 인텔 CPU메모리는 6000클럭 튜닝램 제품 가운데 CL타이밍 값이 30으로 낮은편인 ADATA사의 LANCER RGB 화이트 튜닝램입니다. 라이프워런티정책으로 A/S정책이 좋으며 16GB 2장 총 32GB 패키지입니다.SSD는 가성비 PCIe 4.0 SSD!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-14세대 14700KF",
+            "가격": "536,600원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "379,400원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "327,920원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB",
+            "가격": "1,322,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 화이트",
+            "가격": "95,360원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "166,840원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3096540원",
+    "CPU": "인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "발키리 GL360 ARGB (WHITE)",
+    "cpu_score": 98,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 31768
+}

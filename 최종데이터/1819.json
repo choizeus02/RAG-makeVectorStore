@@ -1,0 +1,66 @@
+{
+    "quote_number": "1819",
+    "quote_title": "[중상급/120만] 5600 + 3070_RGB Point Black Steam Ready",
+    "date_create": "2024.1.15",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 3070 조합",
+    "quotation_summary": " 1. 5600 + RTX 3070 블랙 단정한 조합입니다.2. RTX3060, RTX3060Ti를 고민하시는 분들께 좋은 답이 될겁니다.3. 이 모든 것이 120만원에 해결됩니다.# 120만원 게이밍# 단정한 블랙+RGB 포인트 시스템",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "5600 + 3070조합입니다.4060Ti 가격을 보면 곧 왕좌를 내주어야 할 제품은 맞지만 50만원 중반대 3070은 너무 매력 있는 제품입니다.3060 / 3060 Ti 갈등하시는 분은 이 기회에 3070으로 점프하시면 좋을 듯 합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASRock B550M PRO4 에즈윈상세보기[메모리]ADATA XPG DDR4-3200 CL16 SPECTRIX D35G RGB 블랙 패키지 (32GB(16Gx2))상세보기[그래픽카드]액슬 지포스 RTX 3070 D6 8GB 에즈윈상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]DarkFlash DLM22 RGB 강화유리 블랙 (미니타워)상세보기[파워서플라이]DARKFLASH SAVEMOST 700W 80PLUS STANDARD상세보기[CPU쿨러]PCCOOLER PALADIN 400상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 저렴하게 세팅된 메인보드와 결합하여 최고의 가성비 CPU로 거듭났습니다.\n4060 Ti까지는 너끈히 감당합니다.메인보드는 화이트 방열판에 풍부한 확장성을 가지고 있습니다.메모리는 다크한 방열판에 상단 RGB 라인이 영롱한 제품입니다.그래픽카드는 3070을 50만원 중반에 만날 수 있습니다. 차차 4000번 대에 자리를 내주겠지만 현 시점 가성비 최고의 제품입니다.SSD는 PCIe 4.0 하이앤드 제품입니다. 명불 허전이죠.케이스는 소비자의 의견에 귀 기울이는 다크플래시의 DLM22 제품입니다. 작은 크기에 단정한 블랙, 그리고 뛰어난 확장성을 가지고 있씁니다.파워서플라이는 다크플래시에서 새롭게 출시한 스탠다드 등급의 파워입니다. 고출력 파워도 다크플래시가 만들면 좋습니다. 문제가 발생하면 3년 간 새상품 AS를 보장합니다.CPU쿨러는 몇 년 동안 부동의 1위 자리를 차지하고 있습니다. 공랭 가성비 1위 쿨러 입니다.조립PC관련는 믿고 맡길 수 있는 서비스",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B550M PRO4 에즈윈",
+            "가격": "122,612원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR4-3200 CL16 SPECTRIX D35G RGB 블랙 패키지) 32GB",
+            "가격": "114,000원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "액슬 지포스 RTX 3070 D6 8GB 에즈윈",
+            "가격": "571,780원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DarkFlash DLM22 RGB 강화유리 블랙",
+            "가격": "45,240원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH SAVEMOST 700W 80PLUS STANDARD",
+            "가격": "61,700원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PCCOOLER PALADIN 400",
+            "가격": "28,990원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1253982원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASRock B550M PRO4 에즈윈",
+    "Graphic Card": "액슬 지포스 RTX 3070 D6 8GB 에즈윈",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "ADATA XPG DDR4-3200 CL16 SPECTRIX D35G RGB 블랙 패키지 (32GB(16Gx2))",
+    "Power Supply": "DARKFLASH SAVEMOST 700W 80PLUS STANDARD",
+    "CPU Cooler": "PCCOOLER PALADIN 400",
+    "cpu_score": 504,
+    "gpu_score": 28,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 23661
+}

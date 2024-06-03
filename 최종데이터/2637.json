@@ -1,0 +1,66 @@
+{
+    "quote_number": "2637",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.2.7",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4070 Ti SUPER# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 메모리는 현재 유통하는 업체가 많지 않아서 견적왕의 최대 메리트라고 할 수 있는 견적비교가 원활하지 않습니다.동일한 규격램이면서 유통하는 업체가 많은 ADATA DDR5-5600 CL46-45-45 (32GB) 2개 64기가로 변경2. 그래픽카드는 1티어 AS면서 가격적인 메리트가 높은 화이트 색상의 갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB로 변경3. 케이스는 요즘 가장 핫하다고 할 수 있는 어항케이스로 아주 멋진 세팅이 가능한 3RSYS S406 Quiet 리버스 화이트 (미들타워)로 변경일부 저가형 어항케이스에는 적용되지 않는 C타입 포트와 고성능 저소음 리버스 팬 3개와 후면 팬 1개를 기본 장착한 최고 수준의 가성비 제품이라고 할 수 있습니다.4. 7950X3D는 월등한 전성비의 제품이라 공랭쿨러와 수냉쿨러 사이의 온도 차이가 크지 않습니다. 그래서 대부분 공랭쿨러로 추천을 하는 편인데 수냉쿨러 사이에서도 성능을 변별할 수 있을 정도의 온도가 아니라서 저가형이나 고급형 수냉쿨러 사이의 레벨 차이를 체감할 수가 없습니다. 케이스와 잘 어울리는 쿨러마스터 MasterLiquid 360L Core ARGB (White)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS PRIME X670-P-CSM 대원씨티에스상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (32GB) x 2 개상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB)상세보기[케이스]3RSYS S406 Quiet 리버스 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)상세보기[CPU쿨러]쿨러마스터 MasterLiquid 360L Core ARGB (White)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "892,880원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME X670-P-CSM 대원씨티에스",
+            "가격": "403,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  32GB",
+            "가격": "118,400원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB",
+            "가격": "1,321,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 2TB",
+            "가격": "217,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS S406 Quiet 리버스 화이트",
+            "가격": "81,490원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0",
+            "가격": "225,408원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "쿨러마스터 MasterLiquid 360L Core ARGB",
+            "가격": "95,810원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3475108원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME X670-P-CSM 대원씨티에스",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)",
+    "CPU Cooler": "쿨러마스터 MasterLiquid 360L Core ARGB (White)",
+    "cpu_score": 63,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 31768
+}

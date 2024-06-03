@@ -1,0 +1,71 @@
+{
+    "quote_number": "4691",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D  + RTX 4090",
+    "date_create": "2024.3.25",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D  + RTX 4090# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. ASUS TUF GAMING B650-PLUS WIFI 대원씨티에스는 USB3.0 헤더가 하늘을 향해있어서 장착이 가능할 겁니다. 측면으로 향해있는 헤더는 팬과의 간섭때문에 장착이 불가능하구요.케이스 레이아웃이 메인보드와 딱 붙어있게 측면 시스템 팬을 장착해 놓아서 생기는 문제입니다. 헤더가 하늘을 향해있어서 간섭과는 무관할텐데 한번 더 확인하시기 바랍니다. 장착 가능할 겁니다.2. SSD는 최근 출시된 젠4 규격의 끝판왕급 성능 제품이라고 할 수 있는 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경3. 7800X3D의 경우 전성비가 높아서 공랭쿨러와 수냉쿨러 사이의 온도차이가 크지 않습니다. 수냉쿨러 사이에서는 변별력이 없는 CPU로 8만원짜리든 16만원짜리든 동일한 온도를 보여주죠.CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASUS TUF GAMING B650-PLUS WIFI 대원씨티에스상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]3RSYS S406 Quiet 리버스 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-1200F14XP LEADEX VII PRO PLATINUM BLACK ATX 3.1 (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메인보드는 와이파이&블루투스 모듈이 적용된 최고 수준의 가성비 메인보드CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS TUF GAMING B650-PLUS WIFI 대원씨티에스",
+            "가격": "322,680원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "335,580원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+            "가격": "2,874,550원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,770원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS S406 Quiet 리버스 블랙",
+            "가격": "82,090원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1200F14XP LEADEX VII PRO PLATINUM BLACK ATX 3.1",
+            "가격": "319,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,340원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,470원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4938160원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASUS TUF GAMING B650-PLUS WIFI 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 블랙 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "SuperFlower SF-1200F14XP LEADEX VII PRO PLATINUM BLACK ATX 3.1 (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 225,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 38694
+}

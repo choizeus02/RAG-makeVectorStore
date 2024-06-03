@@ -1,0 +1,54 @@
+{
+    "quote_number": "4690",
+    "quote_title": "INTEL 사무 및 가정용 PC",
+    "date_create": "2024.3.25",
+    "cpu_gpu_combinations": "코어i3-13100 +  조합",
+    "quotation_summary": " 4코어 8쓰레드의 CPU의 성능으로 다양한 프로그램 사용!내장 VGA가 장착되어 별도의  VGA 카드를 장착하지 않아도 4K 영상도 시청 가능!가성비 LGA1700 지원 보드! HDMI, DVI,  DP포트 지원으로 듀열 모니터 까지 구성 가능!DDR4 메모리에서 안정적인 성능!가성비가 뛰어난 TLC SSD!RGB 팬 탑재로 사무실, 가정에서도 사용하기 편한 미들타워 케이스!안정적이면서도 조용한 500W 파워!!주문 후 사후 처리까지 해드립니다.# 영상 시청# 인강# 가정용# 사무용",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 활동하고 있는 라인이80 입니다.컴퓨터를 구매 하시는 분들에게 가장 알맞고 적합한 제품으로 a/s 및 제품 호환성을 가장 먼저 생각하고 구성해 드립니다.",
+    "quote_feedback": "",
+    "computer_estimate_data": "[CPU]인텔 코어i3-13세대 13100 (랩터레이크) (정품)상세보기[메인보드]MSI PRO H610M-G DDR4상세보기[메모리]삼성전자 DDR4-3200 (8GB) PC4-25600 x 2 개상세보기[SSD]MSI SPATIUM M450 M.2 NVMe (500GB)상세보기[케이스]MSI MAG 포지 120A 에어플로우 (미들타워)상세보기[파워서플라이]MSI MAG A500DN 80PLUS 스탠다드상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 4코어 8쓰레드의 CPU의 성능으로 다양한 프로그램 사용!\n내장 VGA가 장착되어 별도의  VGA 카드를 장착하지 않아도 4K 영상도 시청 가능!메인보드는 가성비 LGA1700 지원 보드! HDMI, DVI,  DP포트 지원으로 듀열 모니터 까지 구성 가능!메모리는 DDR4 메모리에서 안정적인 성능!SSD는 가성비가 뛰어난 TLC SSD!케이스는 RGB 팬 탑재로 사무실, 가정에서도 사용하기 편한 미들타워 케이스!파워서플라이는 안정적이면서도 조용한 500W 파워!!조립PC관련는 주문 후 사후 처리까지 해드립니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i3-13세대 13100",
+            "가격": "639,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI PRO H610M-G DDR4",
+            "가격": "103,950원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "삼성전자 DDR4-3200 PC4-25600  8GB",
+            "가격": "21,240원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "MSI SPATIUM M450 M.2 NVMe 500GB",
+            "가격": "63,350원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "MSI MAG 포지 120A 에어플로우",
+            "가격": "39,900원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "MSI MAG A500DN 80PLUS 스탠다드",
+            "가격": "38,820원",
+            "수량": "1"
+        }
+    },
+    "total_price": "927500원",
+    "CPU": "인텔 코어i3-13세대 13100 (랩터레이크) (정품)",
+    "Motherboard": "MSI PRO H610M-G DDR4",
+    "SSD": "MSI SPATIUM M450 M.2 NVMe (500GB)",
+    "Memory": "삼성전자 DDR4-3200 (8GB) PC4-25600 x 2 개",
+    "Power Supply": "MSI MAG A500DN 80PLUS 스탠다드",
+    "cpu_score": 815,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": null,
+    "gpu_benchmarkscore": null
+}

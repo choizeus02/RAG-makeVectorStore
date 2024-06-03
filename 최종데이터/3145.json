@@ -1,0 +1,36 @@
+{
+    "quote_number": "3145",
+    "quote_title": "AMD 라이젠5-4세대 5600",
+    "date_create": "2024.2.18",
+    "cpu_gpu_combinations": "라이젠5 5600 +  조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 가성비가 가장 좋은 5600으로 업그레이드하면 되겠습니다.업그레이드 전에 미리 메인보드 바이오스는 최선 버전으로 업데이트를 해 놓아야 합니다.2. 케이스의 쿨러 높이 지원이 최대 75mm까지 인지라 일반적인 타워형 쿨러로는 장착이 불가능합니다. 플라워형 쿨러 중에서 가격대비 성능이 높은 편에 속하는 ID-COOLING IS-50X V3 Ver2.0로 변경3. 크게 본다면 이렇게 업그레이드하면 되겠습니다. 메모리나 SSD는 선택사항으로 두면 되구요.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[케이스]JONSBO C6 Black (미니타워)상세보기[CPU쿨러]ID-COOLING IS-50X V3 Ver2.0상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현재 게임 가성비가 가장 좋은 CPU",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "JONSBO C6 Black",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "ID-COOLING IS-50X V3 Ver2.0",
+            "가격": "45,190원",
+            "수량": "1"
+        }
+    },
+    "total_price": "253850원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "CPU Cooler": "ID-COOLING IS-50X V3 Ver2.0",
+    "cpu_score": 504,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": null
+}

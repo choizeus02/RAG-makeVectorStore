@@ -1,0 +1,65 @@
+{
+    "quote_number": "1347",
+    "quote_title": "13600K + RTX 4070 Ti + 영상편집 + QHD 게이밍 + 화이트 감성",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "코어i7-13600K + RTX 4070 Ti 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "https://quasarzone.com/bbs/qf_hwjoin/views/1772513영상 편집도 하는 구성이라면 KF가 아닌 일반 K즉 내장그래픽이 있는 모델로 구성해 주시는게 좋을 듯 합니다 ^^또한 작업용도이니 XMP가 없는 일반 렘으로 구성하여 주시는게 안정적으로 보여지며일반렘 5600mhz 기준에 화이트 방열판을 장착해 주시는걸 추천드립니다~메인보드의 경우 ASRock B760M 스틸레전드 WIFI D5 에즈윈 모델이 AS 정책도 더 좋을 듯 하고MSI 보드에서 사용 가능한 CPU Load Lite 기능처럼https://quasarzone.com/bbs/qc_qsz/views/1478175?page=9#p3BFB 기능을 통해 CPU 전력을 제한 할 수 있으며스틸레전드라면 180w 까지도 할 수 있으니 활용성은 문제 없을 겁니다 ^^(보통 CPU Load Lite로 언더볼팅해면 180w 정도 전력소비를 하게 됩니다~)CPU 쿨러의 경우 그래도 검증된 RC1800을 쓰거나아니면 좀 가성비로 하겠다면 AG620이나 Peerless 120 se white argb 쪽을 추천드립니다~(쿨러마스터 신제품은 아직 검증이 필요 합니다 ^^)파워의 경우 저 가격이라면 SF Leadex 나 Antec NeoECO 시리즈가 동급에동일 AS 기간이면서 훨씬 더 저렴한 선택지입니다 ^^AS 정책이 모난것도 아니고 SF 시리즈는 오히려 낫다고 보여지며~특히 화이트 제품 구성하면 케이블도 화이트이고 RTX 4천번대 전용 케이블도 화이트입니다 ^^",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600K (랩터레이크) (정품)상세보기[메인보드]ASRock B760M 스틸레전드 WiFi D5 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 Ti AERO OC V2 D6X 12GB 피씨디렉트상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-750F14HG LEADEX III GOLD WHITE상세보기[CPU쿨러]3RSYS Socoool RC1800 ARGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]LEADCOOL RH-1 EVO ARGB 메모리 방열판 화이트 (2PACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 AS 좋고! 13600K 활용하기도 좋고!\n믿음의 스틸레전드!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 화이트중 가장 이쁜 모델!\n가성비도 좋고! 피씨디렉트라 As도 괜찮고!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600K",
+            "가격": "429,380원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M 스틸레전드 WiFi D5 에즈윈",
+            "가격": "220,620원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 Ti AERO OC V2 D6X 12GB 피씨디렉트",
+            "가격": "1,547,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 화이트",
+            "가격": "95,460원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-750F14HG LEADEX III GOLD WHITE",
+            "가격": "139,402원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1800 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "LEADCOOL RH-1 EVO ARGB 메모리 방열판 화이트",
+            "가격": "13,660원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2609942원",
+    "CPU": "인텔 코어i5-13세대 13600K (랩터레이크) (정품)",
+    "Motherboard": "ASRock B760M 스틸레전드 WiFi D5 에즈윈",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 Ti AERO OC V2 D6X 12GB 피씨디렉트",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-750F14HG LEADEX III GOLD WHITE",
+    "CPU Cooler": "3RSYS Socoool RC1800 ARGB (WHITE)",
+    "cpu_score": 194,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 31768
+}

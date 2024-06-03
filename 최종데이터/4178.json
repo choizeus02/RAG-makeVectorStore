@@ -1,0 +1,66 @@
+{
+    "quote_number": "4178",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + RTX 4080 SUPER",
+    "date_create": "2024.3.12",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4080 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + RTX 4080 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 OLOy 제품의 경우 대부분의 메인보드 QVL리스트에서 지원을 하지 않습니다. 지금 구성한 화이트 LED 컨셉에도 RGB가 젹용된 제품 대비 메리트가 떨어지구요.QVL 리스트 지원을 하고 동일한 클럭과 램타이밍에 화이트 색상의 방열판에 상단부 LED까지 적용되어 있어서 컨셉에 가장 잘 어울리는 ESSENCORE KLEVV DDR5-6000 CL32 CRAS XR5 RGB 패키지 서린 (32GB(16Gx2))으로 변경2. SSD는 젠4 규격의 끝판왕급 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경3. 케이스는 최근 새롭게 출시한 파노라마 뷰 어항디자인의 제품 중에서는 압도적인 비주얼과 가성비 그리고 C타입 포트 등이 적용되어 있는 몬스타 가츠 X620A 리버스 (미들타워)로 변경많이 추천하는 DAVEN AQUARIUM 화이트 (미들타워)는 C타입 포트 미적용에 USB 포트도 2개만 적용되어 있고 강판도 얇은 편이라 원가 절감한 티가 많이 나는 케이스입니다.4. 7800X3D는 전성비가 높은 제품으로 공랭쿨러와 수냉쿩러 사이의 온도 차이기 미미한 수준이고 수냉쿨러 사이에서는 별변력 자체가 없는지라 넘사벽 수준의 가성비를 제공하는 대장급 성능의 3열 수냉쿨러인 앱코 T360 테티스 풀체인지 ARGB (화이트)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]ESSENCORE KLEVV DDR5-6000 CL32 CRAS XR5 RGB 패키지 서린 (32GB(16Gx2))상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]몬스타 가츠 X620A 리버스 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]앱코 T360 테티스 풀체인지 ARGB (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기케이스는 흔히 어항케이스라고 불리우는 디자인이 적용된 X620A 리버스입니다. CPU쿨러 최대호환가능높이 165mm, 그래픽카드 최대호환가능길이 430mm 제원을 가졌으며 ATX 사이즈 메인보드까지 호환가능한 미들타워 제품입니다. 측면 120mm 기본팬 3개, 후면 120mm 기본팬 1개 총 4개를 제공하며 ARGB를 지원하여 메인보드 제조사 프로그램을 통해 색상 조정이 가능합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "256,640원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-6000 CL32 CRAS XR5 RGB 패키지 서린) 32GB",
+            "가격": "178,000원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White",
+            "가격": "1,544,400원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X620A 리버스 화이트",
+            "가격": "64,840원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "앱코 T360 테티스 풀체인지 ARGB",
+            "가격": "77,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3006130원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-6000 CL32 CRAS XR5 RGB 패키지 서린 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "앱코 T360 테티스 풀체인지 ARGB (화이트)",
+    "cpu_score": 225,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 34625
+}

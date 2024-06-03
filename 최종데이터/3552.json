@@ -1,0 +1,76 @@
+{
+    "quote_number": "3552",
+    "quote_title": "7800X3D + GIGABYTE 지포스 RTX 4090 AERO OC D6X (DAVEN AQUARIUM 화이트)",
+    "date_create": "2024.2.27",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+    "quotation_summary": " 7800X3D + GIGABYTE 지포스 RTX 4090 AERO OC D6X (DAVEN AQUARIUM 화이트)# 7800X3D + GIGABYTE 지포스 RTX 4090 AERO OC D6X (DAVEN AQUARIUM 화이트)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7800X3D + GIGABYTE 지포스 RTX 4090 AERO OC D6X (DAVEN AQUARIUM 화이트)",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 제이씨현상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]DAVEN AQUARIUM 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE WHITE ARGB 서린상세보기[쿨러.튜닝.조명.액세서리]DAVEN A120 RGB (화이트) x 3 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 7000번대 3D 제품으로 7950X3D와 달리 별도의 설정없이도 뛰어난 게임 성능을 자랑합니다.  \n전성비는 물론 온도도 뛰어나 공랭으로 가성비 좋게 게이밍 환경 구성이 가능합니다.메인보드는 12+2+2페이즈 720A(60A) 기가바이트의 화이트 감성을 위한 B650 보드메모리는 ADATA의 깔끔한 화이트 고클럭 튜닝 메모리입니다.SSD는 PCIE4.0 대역폭 상급 SSD데스크탑 HDD는 안정성이 좋은 CMR(PMR) 방식 하드입니다.케이스는 어항형 케이스중 파워가 옆면에 있는 투챔버형태로 높이도 컴팩트해서 감성이 뛰어난 케이스입니다.CPU쿨러는 써멀리아트의 대장급 공랭입니다. 화이트 감성과 정숙성을 원하시는 분들에게 추천드립니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,290원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,800원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "328,040원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 제이씨현",
+            "가격": "2,969,600원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,490원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "97,460원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN AQUARIUM 화이트",
+            "가격": "63,510원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "215,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+            "가격": "43,243원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "DAVEN A120 RGB x 3 개",
+            "가격": "5,800원",
+            "수량": "3"
+        }
+    },
+    "total_price": "4789238원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 제이씨현",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+    "cpu_score": 225,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 38694
+}

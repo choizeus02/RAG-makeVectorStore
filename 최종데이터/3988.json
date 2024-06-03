@@ -1,0 +1,66 @@
+{
+    "quote_number": "3988",
+    "quote_title": "AMD 라이젠 스레드리퍼 PRO 7965WX + NVIDIA RTX A6000",
+    "date_create": "2024.3.8",
+    "cpu_gpu_combinations": "라이젠 스레드리퍼 PRO 7965WX (스톰 픽) + RTX A6000 조합",
+    "quotation_summary": " AMD 라이젠 스레드리퍼 PRO 7965WX + NVIDIA RTX A6000# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "원하시는 부품은 유지하면서 견적 구성을 했습니다.메모리는 해당 시스템에서는 서버용만 호환이 됩니다. ECC/REG라고 적혀있는 제품만 호환이 되는지라 부득이하게 이 부분은 삼성전자 DDR5 32G DDR5-4800 ECC/REG 서버용메모리 PC5-38400 x 4 개로 변경했습니다.케이스와 CPU쿨러는 420mm 라디에이터 장착이 가능하고 가격대비 미친 퀄리티 케이스와 최상위 성능군 수냉쿨러로 조합을 했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠 스레드리퍼 PRO 7965WX (스톰 픽) (멀티팩(정품))상세보기[메인보드]ASRock TRX50WS 대원씨티에스상세보기[메모리]삼성전자 DDR5 32G DDR5-4800 ECC/REG 서버용메모리 PC5-38400 x 4 개상세보기[그래픽카드]NVIDIA RTX A6000 D6 48GB 엔비디아코리아 정품상세보기[SSD]삼성전자 980 PRO M.2 NVMe (1TB)상세보기[케이스]마이크로닉스 ML-420 BTF 블랙 (빅타워)상세보기[파워서플라이](SuperFlower) SF-2000F14HP LEADEX PLATINUM /파워상세보기[CPU쿨러]Phanteks GLACIER ONE 420 D30 (BLACK)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 64GB 제품 품절로 32GB로 대체합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠 스레드리퍼 PRO 7965WX)",
+            "가격": "3,773,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock TRX50WS 대원씨티에스",
+            "가격": "1,119,590원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "삼성전자 DDR5 32G DDR5-4800 ECC/REG 서버용메모리 PC5-38400 x 4 개",
+            "가격": "183,820원",
+            "수량": "4"
+        },
+        "그래픽카드": {
+            "제품명": "NVIDIA RTX A6000 D6 48GB 엔비디아코리아 정품",
+            "가격": "6,980,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 980 PRO M.2 NVMe 1TB",
+            "가격": "155,820원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 블랙",
+            "가격": "131,980원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SF-2000F14HP LEADEX PLATINUM /파워",
+            "가격": "631,070원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Phanteks GLACIER ONE 420 D30",
+            "가격": "283,540원",
+            "수량": "1"
+        }
+    },
+    "total_price": "13810280원",
+    "CPU": "AMD 라이젠 스레드리퍼 PRO 7965WX (스톰 픽) (멀티팩(정품))",
+    "Motherboard": "ASRock TRX50WS 대원씨티에스",
+    "Graphic Card": "NVIDIA RTX A6000 D6 48GB 엔비디아코리아 정품",
+    "SSD": "삼성전자 980 PRO M.2 NVMe (1TB)",
+    "Memory": "삼성전자 DDR5 32G DDR5-4800 ECC/REG 서버용메모리 PC5-38400 x 4 개",
+    "Power Supply": "(SuperFlower) SF-2000F14HP LEADEX PLATINUM /파워",
+    "CPU Cooler": "Phanteks GLACIER ONE 420 D30 (BLACK)",
+    "cpu_score": 23,
+    "gpu_score": 14,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 83328,
+    "gpu_benchmarkscore": 28212
+}

@@ -1,0 +1,66 @@
+{
+    "quote_number": "4687",
+    "quote_title": "인텔 코어i5-12세대 12400F + 지포스 GTX 1650",
+    "date_create": "2024.3.25",
+    "cpu_gpu_combinations": "코어i5-12400F + GTX 1650 조합",
+    "quotation_summary": " 인텔 코어i5-12세대 12400F + 지포스 GTX 1650# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 4K 영상 시청이 끊기지 않도록 외장 그래픽카드를 추가한 구성입니다.2. 인텔 12400F와 1650 그래픽카드 그리고 젠4 규격의 NVMe SSD 조합이구요.3. 화이트 컨셉도 고려를 해서 추천드렸습니다. LED는 없는 제품들이구요.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-12세대 12400F (엘더레이크)(벌크)상세보기[메인보드]ASRock B760M PG LIGHTNING/D4 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[그래픽카드]inno3D 지포스 GTX 1650 D6 4GB TWIN X2 OC V3상세보기[SSD]삼성전자 PM9A1 M.2 NVMe 벌크 (512GB)상세보기[케이스]대양케이스 FREEZER X MINI 강화유리 화이트 (미니타워)상세보기[파워서플라이]topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]마이크로닉스 ICEROCK MA-410 (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 정품과 동일한 3년 AS를 제공하는 12세대 인텔 i5 12400F (벌크) CPU파워서플라이는 topower사의 600W 브론즈등급 화이트색상 제품입니다. A/S보증기간 7년을 제공하고 화이트 색상 제품이라 화이트감성 PC에 알맞는 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-12세대 12400F",
+            "가격": "164,500원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+            "가격": "179,580원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "21,010원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "inno3D 지포스 GTX 1650 D6 4GB TWIN X2 OC V3",
+            "가격": "195,290원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M.2 NVMe 벌크 512GB",
+            "가격": "68,900원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "대양케이스 FREEZER X MINI 강화유리 화이트",
+            "가격": "70,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "마이크로닉스 ICEROCK MA-410",
+            "가격": "20,020원",
+            "수량": "1"
+        }
+    },
+    "total_price": "805310원",
+    "CPU": "인텔 코어i5-12세대 12400F (엘더레이크)(벌크)",
+    "Motherboard": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+    "Graphic Card": "inno3D 지포스 GTX 1650 D6 4GB TWIN X2 OC V3",
+    "SSD": "삼성전자 PM9A1 M.2 NVMe 벌크 (512GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "마이크로닉스 ICEROCK MA-410 (WHITE)",
+    "cpu_score": 595,
+    "gpu_score": 207,
+    "performance_grade": "저성능",
+    "cpu_benchmarkscore": 19566,
+    "gpu_benchmarkscore": 10149
+}

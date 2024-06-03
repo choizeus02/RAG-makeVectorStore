@@ -1,0 +1,76 @@
+{
+    "quote_number": "3127",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.2.18",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 게임이 주라면 7900X보다는 7800X3D로 구성하는 것이 좋습니다. 14900K급 게임 성능에 준수한 작업 성능까지 제공하죠. 7900X는 작업용 성격이 강하고 온도가 아주 높은 편이라 3열 대장급 수냉쿨러를 강제합니다.2. 메인보드는 600A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 ASRock B650M PG Riptide 대원씨티에스로 변경3. 메모리는 5600MHz 규격램으로 변경했습니다. 라이젠은 최대 지원클럭이 5200MHz라 5600MHz를 장착하더라도 디폴트 상태에서는 5200MHz로 안정적으로 동작을 합니다. 또한 바이오스에서 EXPO 설정을 하게되면 5600MHz로도 동작이 가능해서 선택지가 하나 더 생기게 되는지라 메리트가 높죠.4. 그래픽카드는 1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4070 Ti SUPER로 변경했습니다. 고가의 그래픽카드일수록 추가되는 2년의 무상AS는 아주 큰 메리트가 됩니다.5. SSD는 5년 무상AS의 갓성비 젠4 제품인 MSI SPATIUM M480 PRO M.2 NVMe (2TB)로 변경읽기속도 : 7,400(MB/s) / 쓰기속도 : 7,000(MB/s)로 최고 수준의 성능이면서 DDR4 2GB 용량의 디램 버퍼 메모리가 적용되어 있습니다.6. 구성하신 씨게이트 HDD는 SMR방식이라 추천을 하지 않습니다. PMR방식의 원천기술을 가지고 있는 도시바의 P300으로 변경7. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[SSD]MSI SPATIUM M480 PRO M.2 NVMe (2TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]DARKFLASH DK1000 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "데스크탑 HDD는 안정성 높은 PMR 방식의 HDD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "207,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  32GB",
+            "가격": "115,800원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,189,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "MSI SPATIUM M480 PRO M.2 NVMe 2TB",
+            "가격": "233,190원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "97,170원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK1000 MESH 강화유리 블랙",
+            "가격": "64,970원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "132,530원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,500원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "160,650원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2875900원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "SSD": "MSI SPATIUM M480 PRO M.2 NVMe (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

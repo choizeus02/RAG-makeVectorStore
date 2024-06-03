@@ -1,0 +1,60 @@
+{
+    "quote_number": "5198",
+    "quote_title": "AMD 라이젠5-4세대 5600G",
+    "date_create": "2024.4.9",
+    "cpu_gpu_combinations": "라이젠5 5600G +  조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600G# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 사용해서 안정성도 높고 가격도 저렴한 ESSENCORE KLEVV DDR4-3200 CL22 (16GB) 2개 32기가로 변경2. 케이스는 최근 가장 핫한 파노라마 뷰 어항디자인의 제품으로 기본 팬 3개를 장착하고 하단부 타공망 처리로 쿨링 효율까지 높은 압도적인 가성비를 제공하는 몬스타 가츠 X220M 화이트 (미니타워)로 변경https://dpg.danawa.com/bbs/view?boardSeq=235&listSeq=5572429추천드리는 케이스로 직접 조립해 본 시스템입니다. 아주 만족스러운 선택이 될 것입니다.3. CPU쿨러는 케이스에 잘 어울리는 화이트 논LED 쿨링 팬이 적용되어 있고 가격적인 메리트도 높은 마이크로닉스 ICEROCK MA-410 (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600G (세잔) (멀티팩)상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]몬스타 가츠 X220M 화이트 (미니타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX500 80PLUS STANDARD상세보기[CPU쿨러]마이크로닉스 ICEROCK MA-410 (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 6코어 12쓰레드 디자인에 내장그래픽 성능이 월등히 좋은 CPUSSD는 젠3 제품 중에서는 5년 무상AS에 성능도 좋고 가격적인 메리트도 있는 SSD파워서플라이는 무상 6년 AS에 무려 9종에 달하는 보호회로를 적용하여 안정성에 몰빵을 하고서도 아주 착한 금액대에 출시한 갓성비 중에 갓성비 제품이라고 할 수 있는 몬스타 가츠 ExtremeX FX500 80PLUS STANDARD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600G",
+            "가격": "152,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "83,990원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  16GB",
+            "가격": "31,990원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X220M 화이트",
+            "가격": "37,260원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX500 80PLUS STANDARD",
+            "가격": "34,460원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "마이크로닉스 ICEROCK MA-410",
+            "가격": "20,020원",
+            "수량": "1"
+        }
+    },
+    "total_price": "470710원",
+    "CPU": "AMD 라이젠5-4세대 5600G (세잔) (멀티팩)",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX500 80PLUS STANDARD",
+    "CPU Cooler": "마이크로닉스 ICEROCK MA-410 (WHITE)",
+    "cpu_score": 504,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": null
+}

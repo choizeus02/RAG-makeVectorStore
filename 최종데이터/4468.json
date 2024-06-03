@@ -1,0 +1,66 @@
+{
+    "quote_number": "4468",
+    "quote_title": "인텔 코어i9-14세대 14900K + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.3.19",
+    "cpu_gpu_combinations": "코어i9-14900K + RTX 4070 SUPER 조합",
+    "quotation_summary": " 인텔 코어i9-14세대 14900K + 지포스 RTX 4070 SUPER# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 해당 사용 목적이면 CPU에 더 투자를 하고 추후 그래픽카드 업그레이드하는 방향으로 가도 좋겠네요.2. CPU는 인텔의 최상위 제품인 14900K로 구성3. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부가 적용되어 있어서 안정적으로 사용할 수 있고 기판까지 화이트라 제대로 된 화이트 감성을 느낄 수 있는 GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트로 구성4. 메모리는 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2개 64기가로 구성5. 그래픽카드는 1티어 AS 중에서도 최상위면서 화이트 색상에 가격적인 메리트도 높은 이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB로 구성6. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 구성7. 케이스는 최근 새롭게 출시한 확장성 좋고 쿨링효율 높고 디자인도 훌륭한 화이트 감성의 몬스타 가츠 X740E 화이트 (미들타워)로 구성8. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 구성9. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 소음도 낮고 가격도 착한 끝판왕 성능 제품이라고 할 수 있는 잘만 Alpha II A36 (WHITE)로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X740E 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]잘만 Alpha II A36 (WHITE)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "그래픽카드는 RTX 4070과 RTX 4070 Ti 제품 사이에 위치한 라인업이며 A/S퀄리티 1티어인 이엠텍사 화이트색상 제품입니다. 보조전원 커넥터는 12VHPWR 규격이며 제원 상 길이 315mm, 두께 50mm입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "782,110원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "379,420원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB",
+            "가격": "923,930원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X740E 화이트",
+            "가격": "62,890원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,530원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2730690원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "잘만 Alpha II A36 (WHITE)",
+    "cpu_score": 56,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 31768
+}

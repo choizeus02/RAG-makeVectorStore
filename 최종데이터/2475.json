@@ -1,0 +1,71 @@
+{
+    "quote_number": "2475",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.2.4",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4070 SUPER# 작업",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 가격을 대폭 낮춰서 구성을 해 봤습니다.2. 메인보드는 상위 칩셋이면서 압도적인 가성비를 제공하는 ASUS PRIME X670-P-CSM 대원씨티에스로 변경3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 32기가 2개 64기가로 변경4. 그래픽카드의 경우 4070 Ti는 가성비가 너무 떨어집니다. 새롭게 출시된 4070 SUPER와의 성능 차이는 고작 7% 내외인데 가격 차이는 20만원 가까이 나서 현 시점 최고의 가성비 제품은 4070 SUPER라고 할 수 있습니다.1티어 AS에 가격적인 메리트도 높은 갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB로 변경5. 작업에 있어서 체감이 가장 크게 되는 부품이 SSD입니다. 구성한 P31의 경우 NVMe 규격 중에서는 속도가 가장 느린 젠3 제품입니다. 젠3 보다 2배 더 빠른 젠4 규격 제품 중 끝판왕이라고 할 수 있는 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경6. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 변경7. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로 변경8. 7950X3D는 압도적인 전성비로 공랭 쿨러와 수냉 쿨러 사이의 온도 차이도 크지 않습니다. 수냉 쿨러 사이에서는 온도에 따른 변별력이 없는 수준이라고 보면 됩니다. 즉 10만원 짜리든 30만원 짜리든 동일한 온도로 제어한다고 보면 됩니다.3열 수냉쿨러 중에서 가성비가 월등히 좋은 DARKFLASH NEBULA DN-360 ARGB (블랙)으로 변경9. 모니터는 포인트프로덕트 32PM02 Calibration로 변경했습니다. 4K 해상도에 모니터암 일체형으로 LG IPS패널을 적용하고 하드웨어 캘리브레이션 작업 후 출고가 되며 대부분 제품의 명암비가 1000:1인데 비해서 최상위라고 할 수 있는 1300:1을 제공합니다. 또한 sRGB 100%의 색재현 영역을 지원해서 작업 전문가용 제품이고 32인치의 사이즈라 27인치 대비 시인성도 월등히 더 좋습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS PRIME X670-P-CSM 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[모니터]포인트프로덕트 32PM02 Calibration상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "892,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME X670-P-CSM 대원씨티에스",
+            "가격": "403,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  32GB",
+            "가격": "115,830원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "989,600원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,500원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "포인트프로덕트 32PM02 Calibration",
+            "가격": "398,990원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3410990원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME X670-P-CSM 대원씨티에스",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 63,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 31768
+}

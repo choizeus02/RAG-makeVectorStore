@@ -1,0 +1,71 @@
+{
+    "quote_number": "2053",
+    "quote_title": "(모니터포함)  라이젠x지포스 조합(7500f x 4070 Ti)",
+    "date_create": "2024.3.22",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 1. 모니터 포함 250만원으로 QHD 게이밍을 해보자2. 라이젠x지포스 검증된 성능으로 최강의 구성# 250만원 미만 QHD 게이밍 PC를 찾는분들께",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "무난한 조합의 4070 Ti를 사용할 수 있는 구성입니다.250만원 미만 모니터 포함 최고의 구성입니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]DAVEN APEX Black (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]DARKFLASH Ellsworth D21 ARGB (BLACK)상세보기[모니터]삼성전자 오디세이 G5 S27AG520상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 저발열, 고성능 가성비 1등 최신 CPU메인보드는 재고 없는 B650 보드중 지금 당장 선택할 수 있는 1등 제품메모리는 검증된 가성비 DDR5 5600클럭 제품그래픽카드는 4070 Ti 단종수순으로 Ti SUPER 제품으로 변경됩니다.SSD는 성능, 가격 현재로써는 최선입니다.케이스는 사이즈도 적당하면서 가성비 좋은 미들타워파워서플라이는 800W 제품중 골드 등급이면서 믿을만한 제품CPU쿨러는 저소음 공랭의 대장모니터는 -조립PC관련는 -",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "239,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "172,490원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  16GB",
+            "가격": "64,700원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,189,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN APEX Black",
+            "가격": "46,650원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "89,990원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth D21 ARGB",
+            "가격": "47,480원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "삼성전자 오디세이 G5 S27AG520",
+            "가격": "361,620원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2408940원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "DARKFLASH Ellsworth D21 ARGB (BLACK)",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

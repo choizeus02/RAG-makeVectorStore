@@ -1,0 +1,76 @@
+{
+    "quote_number": "3560",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4090",
+    "date_create": "2024.2.28",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4090# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 4090은 두께가 무려 75mm로 4슬롯에 육박하는 초거대 사이즈의 그래픽카드입니다. 이런 그래픽카드를 미니보드에 장착하면 하단부 케이블과 간섭이 생길 가능성이 높죠. ATX 규격으로 변경하는 것을 강추하구요.동일 제품 ATX 규격인 GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트로 변경2. 7800X3D의 경우 100MB에 육박하는 L3 캐시 메모리로 게임을 박살 내버리는 타입의 제품으로 다른 CPU에 비해서 메모리 클럭의 영향을 덜 받습니다. 또한 지금처럼 듀얼타워 공랭쿨러로 조립하게 되면 메인보드 메모리 슬롯을 다 덮어버려서 메모리가 보이지 않게 되죠. 튜닝 메모리로 구성하는 메리트가 많이 떨어지게 됩니다. QVL 리스트 지원 여부와 쿨링 팬과의 간섭까지도 고려를 해야 해서 규격램으로 추천을 드리구요. 5600MHz와 6000MHz는 7800X3D에는 체감이 되지 않습니다.메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경3. SSD는 최근에 새롭게 출시된 젠4 규격의 끝판왕급 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경4. 구성하신DAVEN AQUARIUM 화이트 (미들타워)는 C타입 포트 미적용에 USB 포트도 2개만 있고 강판도 얇아서 원가를 절감한 티가 많이 나는 제품입니다. 압도적인 디자인과 가성비 그리고 C타입 포트와 하단부 타공망 적용으로 쿨링 효율까지 높은 몬스타 가츠 X520LA 화이트 (미니타워)로 변경(미니타워로 표기되어 있지만 미들타워입니다. 오기가 된 네이밍이구요.)5. CPU쿨러는 동일한 제품군이면서 베이스 접합 방식만 다르고 동일한 성능이라 최고의 가성비 제품인 3RSYS Socoool RC 1800 Quiet ARGB (WHITE)로 변경6. 시스템 팬은 깔끔한 선정리가 가능한 데이지 체인 방식으로 상단에 장착할 3RSYS Silence GI 120 데이지체인 3PACK (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 제이씨현상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]3RSYS Silence GI 120 데이지체인 3PACK (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "데스크탑 HDD는 안정성 높은 PMR 방식의 HDD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,290원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,800원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 제이씨현",
+            "가격": "2,969,600원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,490원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "97,460원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "62,440원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "215,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "47,000원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "3RSYS Silence GI 120 데이지체인 3PACK",
+            "가격": "39,050원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4611425원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 제이씨현",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 38694
+}

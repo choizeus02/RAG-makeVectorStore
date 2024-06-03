@@ -1,0 +1,71 @@
+{
+    "quote_number": "2867",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.2.13",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 지포스 RTX 4070 SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 화이트 컨셉의 튜닝 메모리 중에서는 1티어 제품이라고 할 수 있는 가성비까지도 좋은 TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))로 변경2. 구성하신 DLX21 케이스는 준빅타워급으로 사이즈가 상당히 큰 편으로 미니보드와 싱글타워 공랭쿨러로 조립하게 되면 내부에 공간이 많이 비게되면서 휑해 보이게 됩니다. 이쁘게 구성하려고 핑크 색상을 선택하셨을텐데 공간이 많이 생기면 이쁘지가 않죠.사이즈를 줄여놓은 미니타워 핑크 컨셉 제품인 DARKFLASH DLM21 RGB MESH 강화유리 핑크 (미니타워)로 변경3. 핑크 색상의 파워커버는 케이스에 맞는  DARKFLASH LP30 ARGB PSU 커버 (핑크)로 변경해서 튜닝성은 그대로 유지를 했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DARKFLASH DLM21 RGB MESH 강화유리 핑크 (미니타워)상세보기[파워서플라이]Classic II 750W 80PLUS Bronze 230V EU HDB PINK상세보기[CPU쿨러]DARKFLASH Ellsworth S11 PRO ARGB (핑크)상세보기[쿨러.튜닝.조명.액세서리]DARKFLASH LP30 ARGB PSU 커버 (핑크)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 B650칩셋 제품이라서 PBO와 커브옵티마이저 기능을 지원하는 제품입니다. 400A급 드라이버모스펫 구성의 전원부 성능을 가지고 있으며 기판일부와 방열판색상이 화이트라 화이트조합에 알맞습니다.SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "172,490원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스) 32GB",
+            "가격": "335,600원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB",
+            "가격": "905,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLM21 RGB MESH 강화유리 핑크",
+            "가격": "59,030원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "Classic II 750W 80PLUS Bronze 230V EU HDB PINK",
+            "가격": "72,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S11 PRO ARGB",
+            "가격": "28,710원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "DARKFLASH LP30 ARGB PSU 커버",
+            "가격": "13,530원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1919250원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))",
+    "Power Supply": "Classic II 750W 80PLUS Bronze 230V EU HDB PINK",
+    "CPU Cooler": "DARKFLASH Ellsworth S11 PRO ARGB (핑크)",
+    "cpu_score": 355,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 31768
+}

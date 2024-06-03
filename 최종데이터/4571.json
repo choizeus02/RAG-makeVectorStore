@@ -1,0 +1,71 @@
+{
+    "quote_number": "4571",
+    "quote_title": "인텔 코어i9-14세대 14900KF + 지포스 RTX 4090",
+    "date_create": "2024.3.22",
+    "cpu_gpu_combinations": "코어i9-14900K + RTX 4090 조합",
+    "quotation_summary": " 인텔 코어i9-14세대 14900KF + 지포스 RTX 4090# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부가 적용되어 있고 케이스가 화이트 색상이라 기판까지 화이트 색상인 GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트로 변경해서 화이트 감성을 더 해봤습니다.2. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있으면서 가격도 저렴한 편인 패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2개 64기가로 변경3. 그래픽카드는 화이트 컨셉에 있어서는 1티어 제품으로 시스템과 찰떡 궁합을 자랑하는 GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 제이씨현으로 변경4. SSD는 최근에 출시된 젠4 규격의 끝판왕급 성능 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경5. 케이스는 가격대비 미친 성능의 리얼 빅타워로 최고 수준의 통풍에 쿨링효율을 제공하는 마이크로닉스 ML-420 BTF 화이트 (빅타워)로 변경개인적으로 케이스 리뷰를 150개 이상 해봤지만 우리나라 제조사에서 이렇게 만드는 것이 가능했어? 라는 놀라움을 준 제품이었습니다. 정말 퀄리티 미쳤고 디테일함도 끝장 수준이더군요.https://blog.naver.com/zoro730321/223347654438<- 케이스 리뷰 주소입니다. 한번 살펴보시기 바랍니다.6. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 1000W 고용량에 플래티넘 인증 고효율 화이트 제품인 SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)로 구성7. CPU쿨러는 현존 최고 성능인 420mm 라디에이터가 적용되어 있는 Phanteks GLACIER ONE 420 D30 (WHITE)로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 제이씨현상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]마이크로닉스 ML-420 BTF 화이트 (빅타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]Phanteks GLACIER ONE 420 D30 (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "782,110원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "379,420원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 제이씨현",
+            "가격": "2,969,830원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,540원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 화이트",
+            "가격": "136,970원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "218,256원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Phanteks GLACIER ONE 420 D30",
+            "가격": "283,540원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,480원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5406606원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 제이씨현",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "Phanteks GLACIER ONE 420 D30 (WHITE)",
+    "cpu_score": 56,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 38694
+}

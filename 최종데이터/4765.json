@@ -1,0 +1,71 @@
+{
+    "quote_number": "4765",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.3.27",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 지포스 RTX 4070 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 기판까지 화이트도 제대로 된 화이트 감성을 느낄 수 있는 GIGABYTE B650M AORUS ELITE AX ICE 제이씨현으로 변경2. CPU쿨러는 온도 및 GIF 파일 등을 설정할 수 있는 LCD가 적용되어 있는 마이크로닉스 ICEROCK MLD-360 (WHITE)로 변경생각보다 자유로운 디스플레이 설정이 가능해서 상당히 흥미가 있었던 쿨러였습니다.https://blog.naver.com/zoro730321/223362839323동일 제품군 420mm 라디에이터 제품 리뷰했던 자료입니다. 사이즈만 다르고 나머지는 동일하니 천천히 살펴보시기 바랍니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 제이씨현상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER EX GAMER WHITE OC D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)상세보기[케이스]NZXT H6 Flow RGB Matte White (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]마이크로닉스 ICEROCK MLD-360 (WHITE)상세보기[쿨러.튜닝.조명.액세서리]NZXT F140 RGB CORE White (2PACK/Controller)상세보기[쿨러.튜닝.조명.액세서리]NZXT F120 RGB CORE White (1PACK) x 4 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "208,080원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 제이씨현",
+            "가격": "269,000원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스) 32GB",
+            "가격": "340,000원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER EX GAMER WHITE OC D6X 12GB",
+            "가격": "1,000,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 1TB",
+            "가격": "129,700원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "NZXT H6 Flow RGB Matte White",
+            "가격": "202,190원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "마이크로닉스 ICEROCK MLD-360",
+            "가격": "187,640원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "NZXT F120 RGB CORE White x 4 개",
+            "가격": "30,460원",
+            "수량": "4"
+        }
+    },
+    "total_price": "2597800원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 제이씨현",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER EX GAMER WHITE OC D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "마이크로닉스 ICEROCK MLD-360 (WHITE)",
+    "cpu_score": 355,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 31768
+}

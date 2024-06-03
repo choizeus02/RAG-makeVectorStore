@@ -1,0 +1,71 @@
+{
+    "quote_number": "2338",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D +  지포스 RTX 4070 SUPER",
+    "date_create": "2024.1.31",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D +  지포스 RTX 4070 SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 현재 그래픽카드 상황은 가격대비 성능이 가장 좋은 제품이 새로 나온 4070 SUPER입니다.보통 그래픽카드 1% 성능을 높이는데 들어가는 기회비용을 만원 정도로 봅니다. 4070 SUPER와 4070 Ti의 성능 차이는 7% 정도  그리고 4070 Ti와 4070 Ti SUPER는 5% 정도 차이가 납니다.4070 Ti가 4070 SUPER보다 가성비가 좋기 위해서는 7만원 이내의 금액 차이를 보여야 하는데 지금처럼 20만원이 넘어가 버리면 비교하는 것이 의미가 없죠. 7% 높이는데 20만원 그리고 4070 Ti와 4070 Ti SUPER는 5% 높이는 15만원이 들어가는 셈입니다.새로 나온 그래픽카드에서 진정한 승자는 4070 SUPER라는 말이 괜히 나오는 것이 아니죠.1티어 AS면서 가격적인 메리트도 아주 높은 갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB로 변경2. SSD는 5년 무상AS의 갓성비 젠4 제품인 MSI SPATIUM M480 PRO M.2 NVMe (1TB)로 변경읽기속도 : 7,400(MB/s) / 쓰기속도 : 6,800(MB/s)로 최고 수준의 성능이면서 DDR4 1GB 용량의 디램 버퍼 메모리가 적용되어 있습니다.3. 케이스와 파워는 화이트 색상인데 CPU쿨러는 블랙이라 색상을 맞춰주는 것이 좋습니다. 대장급 성능에 소음도 낮고 가격도 착한 DARKFLASH Ellsworth D21 (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]MSI MAG B650 토마호크 WIFI상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]MSI SPATIUM M480 PRO M.2 NVMe (1TB)상세보기[케이스]아이구주 PRAY 30 PLUS 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]DARKFLASH Ellsworth D21 (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU쿨러는 이쁘고 조용한 다크플래시의 D21",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B650 토마호크 WIFI",
+            "가격": "318,250원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "124,800원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "989,600원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "MSI SPATIUM M480 PRO M.2 NVMe 1TB",
+            "가격": "135,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "아이구주 PRAY 30 PLUS 화이트",
+            "가격": "56,100원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth D21",
+            "가격": "47,450원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,700원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2504240원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "MSI MAG B650 토마호크 WIFI",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "MSI SPATIUM M480 PRO M.2 NVMe (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "DARKFLASH Ellsworth D21 (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

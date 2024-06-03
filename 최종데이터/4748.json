@@ -1,0 +1,71 @@
+{
+    "quote_number": "4748",
+    "quote_title": "14600K + RTX 4070 TI Super",
+    "date_create": "2024.3.26",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 14600K + RTX 4070 TI Super# 14600K + RTX 4070 TI Super",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14600K + RTX 4070 TI Super",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600K (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]DARKFLASH DS900 ARGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[모니터]크로스오버 279QA9 IPS165 QHD 패스트 게이밍 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기그래픽카드는 AS 3대장 조텍의 RTX 4070 Ti SUPER Trinity 입니다.SSD는 삼성 980 프로 OEM 제품으로 가성비가 좋습니다.케이스는 측면 리버스 블레이드(역방향) 팬으로 감성도 뛰어나고, 그래픽카드 425mm까지  지원해 호환성은 물론 전면 TYPE-C 포트 지원과 그래픽카드 지지대 기본 구성 등 편의성까지 좋은 다크플래쉬의 가성비 좋은 어항형 케이스입니다.파워서플라이는 10년 보증에 ATX 3.0 규격 제품이면서 850W에 11만원대라 가성비는 더 뛰어나고 슈퍼플라워 유통사라 고주파 발생시 새제품 교환 정책도 동일하게 적용되어 가성비 좋게 구성하시기 좋습니다.CPU쿨러는 10이하에서 상급 성능에 소음도 검증된 갓성비 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600K",
+            "가격": "432,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "220,000원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,740원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,239,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,990원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DS900 ARGB 강화유리 블랙",
+            "가격": "52,750원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "134,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,330원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 279QA9 IPS165 QHD 패스트 게이밍 무결점",
+            "가격": "239,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2739440원",
+    "CPU": "코어i5-14세대 14600K (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 181,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 31768
+}

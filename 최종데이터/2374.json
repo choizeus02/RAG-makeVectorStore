@@ -1,0 +1,71 @@
+{
+    "quote_number": "2374",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 지포스 RTX 4060",
+    "date_create": "2024.2.1",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4060 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 지포스 RTX 4060# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 규격램의 경우 온도가 높지 않아서 방열판이 필요하지 않습니다. 2개 패키지로 구성된 일반 규격램인 TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))로 변경2. 시스템 전체적인 색상이 블랙인데 그래픽카드만 화이트면 많이 언밸런스한 구성이 됩니다.1티어 AS에 가격적인 메리트도 높은 편인 갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB로 변경3. SSD는 젠4 규격 제품 중 최상위 성능이면서 가성비도 좋은  Western Digital WD BLACK SN850X M.2 NVMe (1TB)로 변경했고 저렴한 방열판도 하나 추가했습니다.4. 케이스는 강화유리처럼 파손 위험도 없고 경량이라 이동하기도 편한 풀아크릴 스윙도어 패널에 6개의 기본 팬을 장착하고 LED OFF 기능까지 적용된 보급형 끝판왕급인 3RSYS R240 블랙 (미들타워)로 변경5. 파워는 삼대장 중에 하나면서 프리볼트 제품으로 해외 어디서든 사용할 수 있는 Antec CSK 650W 80PLUS BRONZE로 변경6. CPU쿨러는 싱글타워 끝판왕급 성능에 최근 3만원 대에서 만원 중후반대로 가격을 대폭인하해서 갓성비 중에서도 갓성비라고 할 수 있는 3RSYS TEAMMOST TM40으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]3RSYS R240 블랙 (미들타워)상세보기[파워서플라이]Antec CSK 650W 80PLUS BRONZE상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "파워서플라이는 프리볼트 브론즈 인증,  3대장 중 하나인 안텍 650W 파워서플라이",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,010원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "124,800원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
+            "가격": "447,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS R240 블랙",
+            "가격": "37,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "Antec CSK 650W 80PLUS BRONZE",
+            "가격": "72,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1193770원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "Antec CSK 650W 80PLUS BRONZE",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 355,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 22891
+}

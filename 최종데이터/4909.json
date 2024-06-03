@@ -1,0 +1,71 @@
+{
+    "quote_number": "4909",
+    "quote_title": "인텔 코어i9-14세대 14900K + 지포스 RTX 4080 SUPER",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "코어i9-14900K + RTX 4080 SUPER 조합",
+    "quotation_summary": " 인텔 코어i9-14세대 14900K + 지포스 RTX 4080 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다. 14900K 벌크로 변경2. CPU쿨러는 3열 수냉쿨러 상위 성능군인 탑티어 제품 중에서 압도적인 가성비를 제공하는 잘만 Alpha II A36 (WHITE)로 변경3. Antec C8 MESH White (빅타워)에는 시스템 팬을 제공하지 않습니다. 상단에는 수냉쿨러 장착하면 되고 측면 3개 하단 3개 그리고 후면 1개 총 7개의 팬을 추가해야 하는데 수냉쿨러와 동일한 디자인으로 깔맞춤할 수 있도록 잘만 ZM-AF120 PWM ARGB (WHITE) x 7개로 변경4. 구성하신 케이스의 경우 그래픽카드를 수직장착할 경우 튜닝이 극대화됩니다. DB에서도 해당 이미지를 등록해 놨으니 확인하시면 될 것 같습니다.그래픽카드 수직 장착을 할 수 있는 라이저카드인 Antec PCI-E 4.0 라이저 케이블 KIT (White, 200mm)를 추가했습니다.5. 시스템 내부에 팬이 많아서 8채널 5V ARGB & PWM 허브를 추가해서 모든 팬을 손쉽게 연결할 수 있도록 했습니다. 리모컨도 제공해서 별도의 소프트웨어를 거치지 않고서도 LED 제어를 할 수 있도록 했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White상세보기[SSD]삼성전자 990 PRO M.2 NVMe (4TB)상세보기[케이스]Antec C8 MESH White (빅타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]잘만 Alpha II A36 (WHITE)상세보기[쿨러.튜닝.조명.액세서리]잘만 ZM-AF120 PWM ARGB (WHITE) x 7 개상세보기[쿨러.튜닝.조명.액세서리]Antec PCI-E 4.0 라이저 케이블 KIT (White, 200mm)상세보기[쿨러.튜닝.조명.액세서리]IHTP MH-009 ARGB 8-BIT HUB+리모컨상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메모리는 6000클럭 튜닝램 제품 가운데 CL타이밍 값이 30으로 낮은편인 ADATA사의 LANCER RGB 화이트 튜닝램입니다. 라이프워런티정책으로 A/S정책이 좋으며 16GB 2장 총 32GB 패키지입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "781,090원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "379,300원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "327,840원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White",
+            "가격": "1,614,030원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 990 PRO M.2 NVMe 4TB",
+            "가격": "507,600원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec C8 MESH White",
+            "가격": "126,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "217,750원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,430원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "IHTP MH-009 ARGB 8-BIT HUB+리모컨",
+            "가격": "13,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4083040원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White",
+    "SSD": "삼성전자 990 PRO M.2 NVMe (4TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "잘만 Alpha II A36 (WHITE)",
+    "cpu_score": 56,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 34625
+}

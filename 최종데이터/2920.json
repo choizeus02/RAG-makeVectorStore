@@ -1,0 +1,76 @@
+{
+    "quote_number": "2920",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.2.14",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 메모리는 메인보드 QVL 리스트에 없는 제품이라 화이트 컨셉의 1티어 제품이라고 할 수 있는 TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))로 변경2. SSD는 히트싱크가 있는 제품과 없는 제품의 가격차이가 너무 크게 납니다. 또한 메인보드 화이트 방열판에 장착을 해야하는데 히트싱크 제품은 방열판을 제거해야 해서 화이트 컨셉을 해치게 됩니다.방열판이 없는 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]NZXT H6 Flow Matte White (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)상세보기[CPU쿨러]NZXT KRAKEN 360 RGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]NZXT F140 RGB DUO Matte White (2PACK/Controller)상세보기[쿨러.튜닝.조명.액세서리]NZXT F120 RGB CORE White (1PACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스) 32GB",
+            "가격": "335,600원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 피씨디렉트",
+            "가격": "1,363,470원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "NZXT H6 Flow Matte White",
+            "가격": "202,210원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE",
+            "가격": "159,408원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NZXT KRAKEN 360 RGB",
+            "가격": "308,710원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,670원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "NZXT F120 RGB CORE White",
+            "가격": "30,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3630448원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)",
+    "CPU Cooler": "NZXT KRAKEN 360 RGB (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

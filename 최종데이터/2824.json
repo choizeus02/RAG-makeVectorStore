@@ -1,0 +1,71 @@
+{
+    "quote_number": "2824",
+    "quote_title": "12400F + 4060(DAVEN AQUARIUM 블랙)",
+    "date_create": "2024.2.12",
+    "cpu_gpu_combinations": "코어i5-12400F + RTX 4060 조합",
+    "quotation_summary": " 12400F + 4060(DAVEN AQUARIUM 블랙)# 12400F + 4060(DAVEN AQUARIUM 블랙)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "12400F + 4060(DAVEN AQUARIUM 블랙)",
+    "computer_estimate_data": "[CPU]인텔 코어i5-12세대 12400F (엘더레이크)(벌크)상세보기[메인보드]ASRock B660M Phantom Gaming 4 D4 에즈윈상세보기[메모리]ADATA XPG DDR4-3200 CL16 SPECTRIX D35G RGB 블랙 패키지 (16GB(8Gx2))상세보기[그래픽카드]GIGABYTE AORUS 지포스 RTX 4060 Elite D6 8GB 제이씨현상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]DAVEN AQUARIUM 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]JONSBO CR-1000 EVO AUTO RGB (BLACK)상세보기[쿨러.튜닝.조명.액세서리]DAVEN AR120 ARGB 리버스 (블랙) x 3 개상세보기[쿨러.튜닝.조명.액세서리]DAVEN A120 RGB (블랙) x 3 개상세보기[쿨러.튜닝.조명.액세서리]JONSBO JELLY M.2 SSD HEATSINK AUTO RGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 인텔 12세대 CPU로 현재 시점에선 13400F보단 가성비가 좋습니다.SSD는 이천 특산물로 불리며 낮은 발열과 뛰어난 성능으로 게임용이나 사무용도로도 훌륭한 제품입니다. \n안정성이 이미 검증된 제품이죠케이스는 어항형 케이스 중 투챔버 형태로 파워가 옆면에 장착되어 온도면이나 감성면에서도 훌륭한 케이스입니다.파워서플라이는 가성비 좋은 쿨러마스터의 브론즈 등급 제품으로 대양에서 유통해서 AS도 좋습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-12세대 12400F",
+            "가격": "164,970원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B660M Phantom Gaming 4 D4 에즈윈",
+            "가격": "138,910원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR4-3200 CL16 SPECTRIX D35G RGB 블랙 패키지) 16GB",
+            "가격": "62,500원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE AORUS 지포스 RTX 4060 Elite D6 8GB 제이씨현",
+            "가격": "780,230원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN AQUARIUM 블랙",
+            "가격": "56,960원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "JONSBO CR-1000 EVO AUTO RGB",
+            "가격": "23,060원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "JONSBO JELLY M.2 SSD HEATSINK AUTO RGB",
+            "가격": "6,580원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1383610원",
+    "CPU": "인텔 코어i5-12세대 12400F (엘더레이크)(벌크)",
+    "Motherboard": "ASRock B660M Phantom Gaming 4 D4 에즈윈",
+    "Graphic Card": "GIGABYTE AORUS 지포스 RTX 4060 Elite D6 8GB 제이씨현",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "ADATA XPG DDR4-3200 CL16 SPECTRIX D35G RGB 블랙 패키지 (16GB(8Gx2))",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "JONSBO CR-1000 EVO AUTO RGB (BLACK)",
+    "cpu_score": 595,
+    "gpu_score": 32,
+    "performance_grade": "저성능",
+    "cpu_benchmarkscore": 19566,
+    "gpu_benchmarkscore": 22891
+}

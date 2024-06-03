@@ -1,0 +1,60 @@
+{
+    "quote_number": "1879",
+    "quote_title": "2023년 10월 월간견적 - 가성비 QHD 게이밍 (인텔 + RX 7800XT)",
+    "date_create": "2024.3.8",
+    "cpu_gpu_combinations": "코어i5-13600KF + RTX 4070 Ti 조합",
+    "quotation_summary": " # QHD 게이밍# 가성비 QHD 게이밍# 로아 풀옵# 롤 풀옵# 디아4 풀옵",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "2023년 10월 월간견적 - 가성비 QHD 게이밍 (인텔 + RX 7800XT)",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600KF (랩터레이크) (정품)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4070 Ti SG OC D6X 12GB상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)상세보기[CPU쿨러]PentaWave Z06D (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 인텔 하이앤드 게이밍 CPU의 시작!\n4070 ti 이상은 13600K부터!메인보드는 박격포 리뉴얼 모델!메모리는 하이닉스 선별 IC 제품!\n인식률 좋고 제품 안정성도 좋고!케이스는 구관이 명관!\n베스트셀러 케이스!파워서플라이는 PCie 5.0 케이블 동봉!\n믿음 AS! 슈퍼플라워!CPU쿨러는 새로운 공냉 끝판왕!\n블랙감성!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600KF",
+            "가격": "1,588,590원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "199,970원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  16GB",
+            "가격": "64,700원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4070 Ti SG OC D6X 12GB",
+            "가격": "1,321,990원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK",
+            "가격": "154,407원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z06D",
+            "가격": "56,910원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3544767원",
+    "CPU": "인텔 코어i5-13세대 13600KF (랩터레이크) (정품)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4070 Ti SG OC D6X 12GB",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)",
+    "CPU Cooler": "PentaWave Z06D (BLACK)",
+    "cpu_score": 194,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 31768
+}

@@ -1,0 +1,66 @@
+{
+    "quote_number": "1430",
+    "quote_title": "인텔 i5, RTX 3060 배그, 디아블로 가성비 PC 견적",
+    "date_create": "2023.11.2",
+    "cpu_gpu_combinations": "코어i5-12400F + RTX 3060 조합",
+    "quotation_summary": " 1. 110만원 가량의 예산에서 최적의 게이밍 견적2. CPU, GPU, SSD 등 가성비 부품들로 만들어진 견적3. 성능도 성능이지만 AS 및 가성비를 중점적으로 만들어진 견적4. 인텔을 원하시는 분들을 위한 견적# 120만원에 인텔 가성비 게이밍 PC를 원하시는 분",
+    "quote_person_introduction": "견적을 작성할 때AS 및 가성비 위주로 견적을 중점적으로 작성하고 있습니다.조립 업체에서 일한 경력을 바탕으로실질적으로 오랜 기간 잘 쓸 수 있는 견적을 작성하고 있으며또한, SFF 및 남들이 주로 생각지 못한 견적을 만드는 것도 가능합니다.",
+    "quote_feedback": "배틀그라운드 및 디아블로 게임시 6코어에 최적의 성능을 내는 CPU가 필요함-> 12400의 경우 6코어 12쓰레드 구성-> 성능 및 발열도 괜찮은 편이고, 비교적 게임 성능이 괜찮아 판매량이 높은 가성비 CPU그래픽 카드의 경우 AS가 좋아야 하고, 성능 및 기타 방면에서 문제가 없어야 함-> AS가 매우 좋은 ZOTAC / FHD 환경에서 준수한 성능을 낼 수 있는 3060 12GB-> ZOTAC 3060 12GB로 선택12400과 3060 등 안정적인 파워 공급이 이루어져야 함->AS도 괜찮으며 가성비도 괜찮은 SuperFlower 社의 700W 파워, SF-700R12ST를 선택",
+    "computer_estimate_data": "[CPU]인텔 코어i5-12세대 12400F (엘더레이크)(벌크)상세보기[메인보드]ASUS PRIME B660M-K D4 인텍앤컴퍼니상세보기[메모리]삼성전자 DDR4-3200 (8GB) PC4-25600 x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 3060 TWIN Edge OC D6 12GB LHR상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DK360 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]DARKFLASH SAVEMOST 700W 80PLUS STANDARD상세보기[CPU쿨러]DEEPCOOL AG400상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "SSD는 PCI-E 4.0에서 최상급 성능을 내는 SSD케이스는 확장성 및 가성비가 괜찮은 제품CPU쿨러는 군더더기 없는 깔끔한 보급형 쿨러조립PC관련는 견적왕 PC 기본 조립",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-12세대 12400F",
+            "가격": "164,970원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME B660M-K D4 인텍앤컴퍼니",
+            "가격": "136,950원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "삼성전자 DDR4-3200 PC4-25600  8GB",
+            "가격": "20,750원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 3060 TWIN Edge OC D6 12GB LHR",
+            "가격": "477,110원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK360 MESH RGB 강화유리 블랙",
+            "가격": "44,610원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH SAVEMOST 700W 80PLUS STANDARD",
+            "가격": "61,700원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DEEPCOOL AG400",
+            "가격": "21,740원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1080150원",
+    "CPU": "인텔 코어i5-12세대 12400F (엘더레이크)(벌크)",
+    "Motherboard": "ASUS PRIME B660M-K D4 인텍앤컴퍼니",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 3060 TWIN Edge OC D6 12GB LHR",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "삼성전자 DDR4-3200 (8GB) PC4-25600 x 2 개",
+    "Power Supply": "DARKFLASH SAVEMOST 700W 80PLUS STANDARD",
+    "CPU Cooler": "DEEPCOOL AG400",
+    "cpu_score": 595,
+    "gpu_score": 81,
+    "performance_grade": "저성능",
+    "cpu_benchmarkscore": 19566,
+    "gpu_benchmarkscore": 17063
+}

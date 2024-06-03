@@ -1,0 +1,60 @@
+{
+    "quote_number": "2562",
+    "quote_title": "코어i5-14세대 14600K + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.2.5",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 4070 SUPER 조합",
+    "quotation_summary": " 코어i5-14세대 14600K + 지포스 RTX 4070 SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 900A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 MSI MAG B760M 박격포ㄹ로 변경저가 보급형의 Z칩셋 제품보다도 퀄리티가 더 높습니다. i5까지는 B760 칩셋으로 충분하구요.2. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경3. 그래픽카드의 경우 현재 절대 가성비 제품은 4070 SUPER라고 할 수 있습니다.보통 그래픽카드 1% 성능을 높이는데 들어가는 기회비용을 만원 정도로 봅니다. 4070 SUPER와 4070 Ti의 성능 차이는 7% 내외라 7만원 이내의 가격 차이일 때 4070 Ti의 가성비가 높아지게 됩니다. 지금처럼 20만원 넘게 차이가 나버리면 비교하는 것 자체가 말도 안되는 수준이 되어 버리죠. 1티어  AS에 가격적인 메리트가 높은 갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB로 변경4. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로 변경5. CPU쿨러는 대장급 성능의 듀얼타워 공랭쿨러로 소음까지도 낮은 가성비 끝판왕인 Thermalright Peerless Assassin 120 SE 서린으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600K (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[케이스]리안리 PC-O11 AIR Mini Black (미니타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600K",
+            "가격": "436,800원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포",
+            "가격": "199,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "989,600원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "리안리 PC-O11 AIR Mini Black",
+            "가격": "143,405원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "129,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2065335원",
+    "CPU": "코어i5-14세대 14600K (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 181,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 31768
+}

@@ -1,0 +1,54 @@
+{
+    "quote_number": "3050",
+    "quote_title": "[라이젠] 사무용,가정용 8500G+내장그래픽",
+    "date_create": "2024.2.16",
+    "cpu_gpu_combinations": "라이젠5 8500G +  조합",
+    "quotation_summary": " [라이젠] 사무용,가정용 8500G+내장그래픽# 사무용# 가정용# 웹서핑# 문서작업# 영상시청# 8500G",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 Mr.홍금보 입니다.퀘이사존 다년간 좋은 인지도로 굳게 자리 잡았으며,저렴하다고 제품이 다 좋거나 가성비가 좋은건 아닙니다!합리적인 구매를 하실 수 있게 검증된 제품으로만 판매를 하고 구성을 하고 있으며,기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.믿고 맡겨주신다면, 그에 부응하도록 최선을 다할것을 굳게 약속 드리겠습니다!",
+    "quote_feedback": "라이젠 시스템의 고성능 사무용,가정용 PC",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 8500G (피닉스) (정품)상세보기[메인보드]ASRock A620M-HDV/M.2+ 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB)상세보기[SSD]마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (500GB)상세보기[케이스]DARKFLASH DK110 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 500 BRONZE V2 230V상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 고성능 사무용,가정용 CPU로 캐쥬얼게임도 가능!메인보드는 가성비 좋은 A620 라인업 보드!메모리는 무난 무난한 DDR5 메모리!SSD는 PCIe 4.0 가성비 SSD!케이스는 사무용에 적합한 케이스!파워서플라이는 가격도 성능도 준수한 파워!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 8500G",
+            "가격": "207,790원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock A620M-HDV/M.2+ 대원씨티에스",
+            "가격": "104,460원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 16GB",
+            "가격": "64,460원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS 500GB",
+            "가격": "69,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK110",
+            "가격": "18,550원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 500 BRONZE V2 230V",
+            "가격": "44,870원",
+            "수량": "1"
+        }
+    },
+    "total_price": "509650원",
+    "CPU": "AMD 라이젠5-5세대 8500G (피닉스) (정품)",
+    "Motherboard": "ASRock A620M-HDV/M.2+ 대원씨티에스",
+    "SSD": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (500GB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB)",
+    "Power Supply": "쿨러마스터 MWE 500 BRONZE V2 230V",
+    "cpu_score": 495,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": null,
+    "gpu_benchmarkscore": null
+}

@@ -1,0 +1,54 @@
+{
+    "quote_number": "1886",
+    "quote_title": "[중급] 가정사무용 (윈도우, 모니터 미포함)_Pure Black with RGB Line",
+    "date_create": "2023.12.11",
+    "cpu_gpu_combinations": "라이젠5 PRO 4650G +  조합",
+    "quotation_summary": " 1. OFFICE 가성비 중급 견적입니다.2. 기대하지 않았던 30만원 대 PC의 성능을 직접 체험하실 수 있습니다.3. 사무에 어떤 어려움도 없는 뛰어난 구성입니다.# 40만원이하# 가정사무용# 케주얼게임 가능",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "20만원 대 사무용 PC는 불만만 만들어 냅니다.기능을 확보하는 선에서 최선을 다해 깎은 견적입니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5 PRO 르누아르 4650G (정품 멀티팩)(쿨러포함)상세보기[메인보드]ASRock A520M-HDV 대원씨티에스상세보기[메모리]마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]3RSYS R120 블랙 (미니타워)상세보기[파워서플라이]DARKFLASH SAVEMOST 500W 83+ 블랙상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 6코어의 강력한 힘과 뛰어난 Vega 내장그래픽을 통해 케주얼 게임이 가능합니다.메인보드는 해당 영역대는 제품에 큰 차이가 없어 AS가 깡패입니다.메모리는 오버클럭킹을 염두에 두지 않았다면 확실하고 저렴한 제품이 좋습니다.SSD는 P31을 이 가격대에 만날 수 있는 날이 언제일까... 오늘이네요?케이스는 슬라이딩 도어 최고 가성비 제품입니다.파워서플라이는 Darkflash에서 야심차게 거품을 걷어내고 출시했습니다.조립PC관련는 믿고 맡길 수 있는 서비스",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5 PRO 르누아르 4650G",
+            "가격": "105,101원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock A520M-HDV 대원씨티에스",
+            "가격": "72,290원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4 8G PC4-25600 CL22",
+            "가격": "21,480원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS R120 블랙",
+            "가격": "27,100원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH SAVEMOST 500W 83+ 블랙",
+            "가격": "35,500원",
+            "수량": "1"
+        }
+    },
+    "total_price": "361951원",
+    "CPU": "AMD 라이젠5 PRO 르누아르 4650G (정품 멀티팩)(쿨러포함)",
+    "Motherboard": "ASRock A520M-HDV 대원씨티에스",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개",
+    "Power Supply": "DARKFLASH SAVEMOST 500W 83+ 블랙",
+    "cpu_score": 745,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": null,
+    "gpu_benchmarkscore": null
+}

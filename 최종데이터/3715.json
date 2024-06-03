@@ -1,0 +1,71 @@
+{
+    "quote_number": "3715",
+    "quote_title": "14500 + RTX 3060 12GB(워크스테이션, 영상편집, 어도비)",
+    "date_create": "2024.3.2",
+    "cpu_gpu_combinations": "코어i5-14500 + RTX 3060 조합",
+    "quotation_summary": " 14500 + RTX 3060 12GB(워크스테이션, 영상편집, 어도비)# 14500 + RTX 3060 12GB(워크스테이션# 영상편집# 어도비)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14500 + RTX 3060 12GB(워크스테이션, 영상편집, 어도비)",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)상세보기[메인보드]ASRock B760M PG LIGHTNING 디앤디컴상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]GIGABYTE 지포스 RTX 3060 WINDFORCE OC D6 12GB 제이씨현상세보기[SSD]장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자상세보기[케이스]EDDY A1 RGB MESH 강화유리 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 코어: P6+E8 / 쓰레드 : 12+8로 뛰어난 작업성능을 지닌 14세대 i5메모리는 팀그룹의 DDR5 5600 패키지로 호환성이나 가성비가 좋은 제품입니다.케이스는 그래픽카드 호환성 350mm로 3만원대에 호환성도 가장 뛰어나고 쿨링팬도 6개로 쿨링성능도 준수한 갓성비 케이스입니다.파워서플라이는 가성비 좋은 쿨러마스터의 브론즈 등급 제품으로 대양에서 유통해서 AS도 좋습니다.CPU쿨러는 대장급 공랭 중 뛰어난 정숙성과 성능을 겸비한 쿨러입니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14500",
+            "가격": "332,300원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING 디앤디컴",
+            "가격": "143,770원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 3060 WINDFORCE OC D6 12GB 제이씨현",
+            "가격": "459,790원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 삼성전자 1TB",
+            "가격": "64,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "EDDY A1 RGB MESH 강화유리",
+            "가격": "33,380원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,480원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,570원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1442580원",
+    "CPU": "인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)",
+    "Motherboard": "ASRock B760M PG LIGHTNING 디앤디컴",
+    "Graphic Card": "GIGABYTE 지포스 RTX 3060 WINDFORCE OC D6 12GB 제이씨현",
+    "SSD": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 247,
+    "gpu_score": 81,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32733,
+    "gpu_benchmarkscore": 17063
+}

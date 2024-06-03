@@ -1,0 +1,53 @@
+{
+    "quote_number": "4103",
+    "quote_title": "14600K 반본체(4080 SUPER까지 장착 가능)",
+    "date_create": "2024.3.10",
+    "cpu_gpu_combinations": "코어i5-14600K +  조합",
+    "quotation_summary": " 14600K 반본체(4080 SUPER까지 장착 가능)# 14600K 반본체(4080 SUPER까지 장착 가능)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14600K 반본체(4080 SUPER까지 장착 가능)",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600K (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE B760M AORUS ELITE X AX 제이씨현상세보기[케이스]앱코 SUITMASTER V2000 베놈 ARGB 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]잘만 Alpha II A36 (WHITE)상세보기[이벤트특가][SSD + RAM] 마이크론 Crucial T500 1TB + Crucial DDR5-5600 (32GB(16Gx2)) 패키지 대원씨티에스상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메인보드는 14+1+1페이즈 840A(60A)급 뛰어난 전원부의 화이트 감성 보드파워서플라이는 10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책CPU쿨러는 전면 온도 표시와 상급 성능까지 겸비한 잘만의 수냉 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600K",
+            "가격": "433,190원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B760M AORUS ELITE X AX 제이씨현",
+            "가격": "222,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "앱코 SUITMASTER V2000 베놈 ARGB 화이트",
+            "가격": "55,100원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,530원",
+            "수량": "1"
+        },
+        "SSD + RAM": {
+            "제품명": "마이크론 Crucial T500 1TB + Crucial DDR5-5600 패키지 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1095240원",
+    "CPU": "코어i5-14세대 14600K (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE B760M AORUS ELITE X AX 제이씨현",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "잘만 Alpha II A36 (WHITE)",
+    "cpu_score": 181,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": null
+}

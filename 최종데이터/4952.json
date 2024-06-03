@@ -1,0 +1,66 @@
+{
+    "quote_number": "4952",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 라데온 RX 7800 XT",
+    "date_create": "2024.4.1",
+    "cpu_gpu_combinations": "라이젠5 7500F + RX 7800 XT 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 라데온 RX 7800 XT# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 성능은 유지하면서 150만원으로 낮춘 구성입니다.2. 메인보드는 드라이버 모스펫 전원부와 히트싱크가 적용되어 있는 ASRock B650M PG Lightning 에즈윈으로 변경비슷한 금액대라면 커브 옵티마이저를 지원하지 않는 하위 칩셋인 A620보다는 상위 칩셋인 B650으로 구성하는 것이 좋습니다.3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2개 32기가로 변경4. 그래픽카드는 트리플 팬이 적용되어 있는 7800 XT 중에서는 가격적인 메리트가 가장 좋은 PowerColor 라데온 RX 7800 XT Hellhound D6 16GB 대원씨티에스로 변경지포스 4060 Ti와는 레벨 자체가 다른 수준이라 성능 차이가 크게 나는 편이라 7800 XT 유지하는 것이 좋습니다.5. 케이스는 최근에 출시된 보급형 끝판왕급 가성비를 제공하는 몬스타 가츠 X420A 블랙 (미들타워)로 변경6. 파워는 정격 800W 골드인증 제품인 쿨러마스터 G800 GOLD로 변경해서 안정성과 가성비를 모두 챙겼습니다.7. CPU쿨러는 싱글타워 끝판왕급 성능에 케이스와도 잘 어울리고 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 PentaWave Z04E SRB ARGB로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]PowerColor 라데온 RX 7800 XT Hellhound D6 16GB 대원씨티에스상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X420A 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!파워서플라이는 안정성과 가성비를 겸비한 골드인증 800W 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "203,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,090원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,830원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "PowerColor 라데온 RX 7800 XT Hellhound D6 16GB 대원씨티에스",
+            "가격": "731,120원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,900원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X420A 블랙",
+            "가격": "31,310원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "90,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1469200원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "PowerColor 라데온 RX 7800 XT Hellhound D6 16GB 대원씨티에스",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 355,
+    "gpu_score": 11,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 29006
+}

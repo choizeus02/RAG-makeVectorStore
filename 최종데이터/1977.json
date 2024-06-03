@@ -1,0 +1,66 @@
+{
+    "quote_number": "1977",
+    "quote_title": "디아블로2 다클라용 가성비구성",
+    "date_create": "2024.2.23",
+    "cpu_gpu_combinations": "라이젠5 5600 + GTX 1660 SUPER 조합",
+    "quotation_summary": " 1. 70만원대에 선택 가능한 구성중 무난함 1등2. 32GB 메모리 구성으로 게임 다클라에 유리# 디아2 다클라 헝그리유저를 위한 구성",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "70만원으로 선택 가능한 지포스 구성",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]삼성전자 DDR4-3200 (16GB) PC4-25600 x 2 개상세보기[그래픽카드]FORSA 지포스 GTX 1660 SUPER X D6 6GB상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]DARKFLASH DK200 RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]DARKFLASH SAVEMOST 600W 80PLUS STANDARD상세보기[CPU쿨러]DARKFLASH Ellsworth S21 (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 설명하자면 손이 아픈 CPU입니다.\n현존 가성비 1등위 6코어 12스레드 게이밍 CPU메인보드는 Asus EX A320M Gaming의 뒤를 잇는 가성비 메인보드..!메모리는 무난한 메모리SSD는 수 많은 구매자로 증명된 게이밍 가성비 PCI-E 3.0 NVMe SSD!케이스는 가성비 공랭 구성에서는 이녀석을 제외하기 어렵죠.파워서플라이는 떠오르는 가성비 파워CPU쿨러는 돈 값은 확실히 하는 제품",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "71,450원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "삼성전자 DDR4-3200 PC4-25600  16GB",
+            "가격": "43,310원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "FORSA 지포스 GTX 1660 SUPER X D6 6GB",
+            "가격": "262,580원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK200 RGB 강화유리 블랙",
+            "가격": "36,280원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH SAVEMOST 600W 80PLUS STANDARD",
+            "가격": "52,870원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21",
+            "가격": "27,120원",
+            "수량": "1"
+        }
+    },
+    "total_price": "759580원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "Graphic Card": "FORSA 지포스 GTX 1660 SUPER X D6 6GB",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "삼성전자 DDR4-3200 (16GB) PC4-25600 x 2 개",
+    "Power Supply": "DARKFLASH SAVEMOST 600W 80PLUS STANDARD",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 (블랙)",
+    "cpu_score": 504,
+    "gpu_score": 152,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 12926
+}

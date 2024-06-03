@@ -1,0 +1,66 @@
+{
+    "quote_number": "4941",
+    "quote_title": "초 가성비 FHD 라라랜드 컴퓨터 견적",
+    "date_create": "2024.4.1",
+    "cpu_gpu_combinations": "라이젠5 5600 + RX 6600 조합",
+    "quotation_summary": " 1. 100만원대 게이밍 추천 구성2. 라라랜드 조합3. AFMF (게임 프레임 보간 기술)로 더욱 높은 게임 프레임 제공# 게이밍# 100만원대# 라라랜드",
+    "quote_person_introduction": "﻿안녕하세요! 견적맨 파란개비 입니다.다년간의 PC A/S와 퀘이사존, 인벤, 카카오톡  오픈채팅 등의 커뮤니티 활동으로 다져진 경험으로합리적인 가격과 성능, 사후 처리까지 문제없는 제품을 찾아 추천드리겠습니다!",
+    "quote_feedback": "가성비 위주 구성으로 100만원대 FHD 해상도에서 최적의 게이밍 환경 제공",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS x 3 개상세보기[메모리]마이크론 Crucial DDR4-3200 CL22 대원씨티에스 (16GB) x 2 개상세보기[그래픽카드]ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]DAVEN D6 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU상세보기[CPU쿨러]PCCOOLER PALADIN 400상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠5 5600 입니다.\n6코어 12쓰레드 구성으로 가성비 게이밍 견적에 주력으로 들어가는 CPU 입니다.메인보드는 A520 칩셋의 가성비 AM4 메인보드 입니다.메모리는 JEDEC 기준 메모리로, 제한적 라이프 워런티를 지원합니다.그래픽카드는 가성비 그래픽카드로 부를 수 있는 RX 6600 시리즈 입니다.\n최근 AFMF 지원으로 더욱 높은 프레임을 기대할 수 있습니다.SSD는 발열, 가격 무난한 PCIe 3.0 지원 SSD 입니다.케이스는 3만원대의 가성비 케이스 입니다.\n전면 메쉬에 팬이 6개 구성되어 있어 발열 제어에도 효과적입니다.파워서플라이는 마이크로닉스의 600W 파워입니다.\n무상 보증 기간 7년으로 저가형 파워에선 이례적인 보증기간을 가지고 있습니다.CPU쿨러는 싱글타워 중 좋은 성능으로 평가받는 팔라딘 400 입니다.조립PC관련는 견적왕 조립 + 1년 방문 출장 A/S 입니다.\n조립된 본체를 받으실 수 있으며 하드웨어적 문제의 경우 구매일로부터 1년간 무상으로 출장 A/S 받아보실 수 있습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "144,380원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS x 3 개",
+            "가격": "83,980원",
+            "수량": "3"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4-3200 CL22 대원씨티에스  16GB",
+            "가격": "42,600원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스",
+            "가격": "265,400원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D6 MESH 강화유리 블랙",
+            "가격": "36,780원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU",
+            "가격": "59,880원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PCCOOLER PALADIN 400",
+            "가격": "29,790원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1011370원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS x 3 개",
+    "Graphic Card": "ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "마이크론 Crucial DDR4-3200 CL22 대원씨티에스 (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU",
+    "CPU Cooler": "PCCOOLER PALADIN 400",
+    "cpu_score": 504,
+    "gpu_score": 88,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 16473
+}

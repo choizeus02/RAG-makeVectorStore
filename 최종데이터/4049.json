@@ -1,0 +1,66 @@
+{
+    "quote_number": "4049",
+    "quote_title": "미들급 가성비 최강의 라라랜드 게이밍 PC",
+    "date_create": "2024.3.9",
+    "cpu_gpu_combinations": "라이젠5 5600 + RX 7600 조합",
+    "quotation_summary": " 1. 검증된 최강의 가성비 조합2. RTX 3060 12GB 제품보다 10% 이상 높은 성능3. AFMF 적용 시 그 윗급의 제품들과 프레임 경쟁을 해봐도 좋을 구성# 한정된 예산에서 최고의 성능을 찾는분들께",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "가격 그 이상의 경험을 선사하는 라이젠 5600 x RX 7600 조합입니다.AFMF라는 마법을 제외하더라도 RTX 3060 12GB의 10% 이상 더 높은 성능과가격은 되려 더 저렴한 말도 안되는 가성비를 가진 그래픽카드의 조합입니다.한정된 예산에서 최고의 성능을 찾는다면 이만한 조합이 없습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASRock B550M-HDV 대원씨티에스상세보기[메모리]마이크론 Crucial DDR4-3200 CL22 대원씨티에스 (8GB) x 2 개상세보기[그래픽카드]PowerColor 라데온 RX 7600 Fighter D6 8GB 대원씨티에스상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]DAVEN D6 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU상세보기[CPU쿨러]DEEPCOOL AG400상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 설명하자면 손이 아픈 CPU입니다.\n현존 가성비 1등위 6코어 12스레드 게이밍 CPU메인보드는 AM4 최고 가성비메모리는 삼성과 더불어 DDR4 투톱 마이크론입니다.그래픽카드는 현재 미들급 최강의 가성비 그래픽카드,\nAFMF 활용 시 4060 압살가능SSD는 수 많은 구매자로 증명된 게이밍 가성비 PCI-E 3.0 NVMe SSD!케이스는 가격대비 상당히 괜찮은 케이스파워서플라이는 PC 파워서플라이 AS의 선두주자, 믿고 쓰는 SuperFlowerCPU쿨러는 가성비 최고의 기본쿨러!조립PC관련는 -",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B550M-HDV 대원씨티에스",
+            "가격": "91,690원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4-3200 CL22 대원씨티에스  8GB",
+            "가격": "21,500원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "PowerColor 라데온 RX 7600 Fighter D6 8GB 대원씨티에스",
+            "가격": "335,450원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D6 MESH 강화유리 블랙",
+            "가격": "36,830원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU",
+            "가격": "61,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DEEPCOOL AG400",
+            "가격": "21,580원",
+            "수량": "1"
+        }
+    },
+    "total_price": "812610원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASRock B550M-HDV 대원씨티에스",
+    "Graphic Card": "PowerColor 라데온 RX 7600 Fighter D6 8GB 대원씨티에스",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "마이크론 Crucial DDR4-3200 CL22 대원씨티에스 (8GB) x 2 개",
+    "Power Supply": "SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU",
+    "CPU Cooler": "DEEPCOOL AG400",
+    "cpu_score": 504,
+    "gpu_score": 72,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 17905
+}

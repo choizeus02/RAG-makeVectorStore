@@ -1,0 +1,66 @@
+{
+    "quote_number": "1260",
+    "quote_title": "게이밍 종결자 구성",
+    "date_create": "2024.4.9",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti 조합",
+    "quotation_summary": " 1. 250만원에 QHD 이하 게이밍 종결 가능2. Ryzen 7800X3D x RTX 4070 Ti3. 가격은 250만원대, 우왕ㅋ굳ㅋ# Ryzen 7800X3D x RTX 4070 Ti로 QHD 고주사율 정복",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "RTX 4090이 좋은건 알지만 허락된 예산이 250만원 전후라면뒤도 안돌아보고 선택해야 할 견적 구성 1호가 바로 이 견적입니다.13700KF 가격에 성능은 이미 13900KS를 뛰어 넘어버린 그 CPU와 RTX 4070 Ti로 무장했습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]GeIL DDR5-5600 CL46 PRISTINE V (16GB) x 2 개상세보기[그래픽카드]Colorful 지포스 RTX 4070 Ti 토마호크 EX D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DARKFLASH DK200 RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]맥스엘리트 MAXELITE MAXWELL BARON 800W 80PLUS BRONZE 플랫상세보기[CPU쿨러]3RSYS Socoool RC1800 LITE (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 Intel 13700K 가격에 성능은 13900KS를 뛰어넘는다..!\n더 이상 무슨 설명이 필요?.............메인보드는 Ryzen 7800X3D를 사용하면서도 성능 저하 걱정 안해도 되는 제품메모리는 이미 많은 판매로 검증된 DDR5 메모리 입니다.그래픽카드는 재고없는 4070 Ti중 유일하게 카드/현금 둘 다 구매가능한 제품SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD케이스는 가성비 공랭 구성에서는 이녀석을 제외하기 어렵죠.파워서플라이는 모듈러 정격 750W 제품들보다 가격 좋으면서도 용량은 더 높은 가성비 파워CPU쿨러는 깔끔하고 가성비 좋은 공랭 대장급 제품",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "207,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "GeIL DDR5-5600 CL46 PRISTINE V  16GB",
+            "가격": "62,490원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "Colorful 지포스 RTX 4070 Ti 토마호크 EX D6X 12GB",
+            "가격": "1,132,250원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK200 RGB 강화유리 블랙",
+            "가격": "36,280원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "맥스엘리트 MAXELITE MAXWELL BARON 800W 80PLUS BRONZE 플랫",
+            "가격": "83,990원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1800 LITE",
+            "가격": "65,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2304990원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "Colorful 지포스 RTX 4070 Ti 토마호크 EX D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "GeIL DDR5-5600 CL46 PRISTINE V (16GB) x 2 개",
+    "Power Supply": "맥스엘리트 MAXELITE MAXWELL BARON 800W 80PLUS BRONZE 플랫",
+    "CPU Cooler": "3RSYS Socoool RC1800 LITE (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

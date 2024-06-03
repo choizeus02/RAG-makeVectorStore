@@ -1,0 +1,76 @@
+{
+    "quote_number": "3430",
+    "quote_title": "코어i5-14세대 14600KF + 지포스 RTX 4060 Ti",
+    "date_create": "2024.2.25",
+    "cpu_gpu_combinations": "코어i5-14600KF + RTX 4060 Ti 조합",
+    "quotation_summary": " 코어i5-14세대 14600KF + 지포스 RTX 4060 Ti# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다. 14600KF 벌크로 변경2. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경3. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경4. 보통 D 드라이브는 저장용도로 사용하는데 SSD를 1개 더 추가하는 것보다는 용량대비 가격이 저렴한 HDD로 추가하는 것이 훨씬 효율적입니다. 2TB 용량의 HDD로 추가를 했습니다.5. 케이스의 경우 구성하신 DAVEN AQUARIUM 블랙 (미들타워)는 C타입 포트 미적용에 USB 포트도 2개만 적용되어 있고 강판도 얇은 편이라 원가를 절감한 티가 많이 나는 제품입니다.최근에 출시한 파노라마 뷰 어항케이스 중 압도적인 디자인과 가성비 그리고 하단부 타공망 처리로 쿨링 효율까지도 높인 몬스타 가츠 X520LA 리버스 블랙 (미들타워)로 변경6. 파워는 7년 무상 AS에 스탠다보다 상위인 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 700W로 변경7. 14600KF는 공랭쿨러와 수냉쿨러의 경계에 있는 CPU로 어떤 쿨러를 사용하든 온도는 제어가 가능합니다. 대부분 8:2 비율로 공랭쿨러를 많이 선호한다고 일선 판매점에서 이야기하는 영상을 본 적이 있는데 작업을 하더라도 온도가 높아서 스로틀링이 걸리는 일은 없을 겁니다. 대장급 성능의 듀얼 타워 공랭쿨러인 Thermalright Peerless Assassin 120 SE ARGB 서린으로 구성8. 윈도우는 10은 단종 수준이고 유통도 안되고 있는 상황이라 11 홈 처음사용자용으로 변경했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600KF (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB상세보기[SSD]삼성전자 PM9A1 M.2 NVMe 벌크 (1TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]몬스타 가츠 X520LA 리버스 블랙 (미들타워)상세보기[파워서플라이]topower Guardian TOP-700DG 80PLUS BRONZE상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE ARGB 서린상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "데스크탑 HDD는 안정성 높은 PMR 방식의 HDD파워서플라이는  7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600KF",
+            "가격": "400,870원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포",
+            "가격": "201,700원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB",
+            "가격": "610,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M.2 NVMe 벌크 1TB",
+            "가격": "103,180원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "97,460원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 리버스 블랙",
+            "가격": "56,110원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-700DG 80PLUS BRONZE",
+            "가격": "75,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE ARGB 서린",
+            "가격": "43,243원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "168,990원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1883293원",
+    "CPU": "코어i5-14세대 14600KF (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포",
+    "Graphic Card": "MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB",
+    "SSD": "삼성전자 PM9A1 M.2 NVMe 벌크 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "topower Guardian TOP-700DG 80PLUS BRONZE",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE ARGB 서린",
+    "cpu_score": 181,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 22891
+}

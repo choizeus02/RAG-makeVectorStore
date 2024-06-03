@@ -1,0 +1,66 @@
+{
+    "quote_number": "2125",
+    "quote_title": "3D작업 블렌더 언리얼 어도비 라이젠 7900 + RTX 3060 12GB 작업용 컴퓨터 견적",
+    "date_create": "2024.3.21",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 3060 조합",
+    "quotation_summary": " 라이젠 7900 / RTX 3060 12GB / RAM 32GB / SSD 1TB# 작업용# 3D작업# 블렌더# 언리얼# Adobe",
+    "quote_person_introduction": "안녕하세요. 로카프입니다.우리 주변에는 아직 컴퓨터 견적구성을 어떻게 할 지 몰라 고민에 빠지는 분들이 많이 계십니다.성능은 괜찮을까? 고장은 나지 않을까? 가격은 괜찮은건가? 이런 고민들을 한 번쯤은 해보셨을 겁니다.용도에 알맞는 성능과 합리적인 가격, 최우선으로 안정성과 신뢰도 높은 부품들로 구성된 견적을 추천해드리겠습니다.컴퓨터를 처음 알아보시는 분들의 입장에서 생각하고 견적을 구성해드리는 견적맨이 되겠습니다.",
+    "quote_feedback": "8코어 이상 CPU는 AMD에서 라이젠 7 이상의 제품과인텔에서 P코어 기준으로 i7 이상의 제품을 보시면 되겠습니다.150만원대로 사용하실 프로그램 고려하여 견적 구성한다면라이젠 7900 + RTX 3060 12GB 조합의 견적 추천해드릴 수 있겠습니다.CPU는 12코어 24쓰레드 라이젠 7900으로 언리얼, 블렌더 작업성능이 좋으며메모리는 16GB 2장 총 32GB 구성 도와드렸습니다.그래픽카드는 예산에 맞춰 VRAM 용량 많은 편인 RTX 3060 12GB 선택했으며CPU쿨러는 상급 듀얼타워공랭쿨러로 사용가능하겠습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개상세보기[그래픽카드]MSI 지포스 RTX 3060 벤투스 2X OC D6 12GB상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DK290 Air MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]DARKFLASH SAVEMOST 700W 80PLUS STANDARD상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 12코어 24쓰레드 구조로 많은 코어수를 활용하여 뛰어난 작업 성능을 발휘하는 라이젠 7900입니다. 또한 AVX-512 명령어를 지원해 복잡하고 많은 연산이 요구되는 금융 분석, 시뮬레이션, 모델링과 같은 고성능 컴퓨팅/딥러닝 연산 영역에서 더욱 뛰어납니다.메인보드는 600A급 드라이버모스펫 채용으로 전원부 성능이 매우 뛰어나며 이러한 구성에도 가격경쟁력까지 갖추고 있어 7600 / 7800X3D 등 다양한 AM5소켓 CPU들과 구성하기에 부족함이 없는 B650M PG Riptide입니다.메모리는 라이프워런티정책으로 A/S정책 좋은 ADATA 5600클럭 JEDEC 표준 일반램입니다.그래픽카드는 FHD 게이밍을 무리없이 즐길 수 있으며 VRAM이 12GB인 것이 특징인 RTX 3060입니다. VRAM이 많이 필요하면서 가격부담이 적은 제품을 찾을 때 제격입니다.SSD는 최대읽기속도 7,300MB/s 최대쓰기속도 6,300MB/s를 자랑하는 최상위권 PCIe 4.0 SSD인 SN850X입니다. WD BLACK SSD 대시보드를 통해 게임모드 이용 시 SSD의 저전력모드를 비활성화시켜 최고의 퍼포먼스를 발휘할 수 있습니다.케이스는 120mm팬 6개와 수직받침대형태의 그래픽카드지지대가 기본구성되어있는 DK290입니다. 제원 상 CPU쿨러 최대호환가능높이는 165mm이며 그래픽카드 최대호환가능길이는 340mm입니다. 상단의 LED 컨트롤 버튼으로 LED모드 및 기본팬 RPM 속도 조정이 가능합니다.파워서플라이는 700W 용량 제품으로 보증5년 새제품교환3년정책의 SAVEMOST 스탠다드입니다.CPU쿨러는 듀얼타워공랭쿨러 가운데 탁월한 쿨링성능과 정숙성을 보여주는 Peerless Assassin 120 SE 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "523,320원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "207,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  16GB",
+            "가격": "64,700원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 3060 벤투스 2X OC D6 12GB",
+            "가격": "371,780원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK290 Air MESH RGB 강화유리 블랙",
+            "가격": "39,780원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH SAVEMOST 700W 80PLUS STANDARD",
+            "가격": "61,700원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1502000원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "MSI 지포스 RTX 3060 벤투스 2X OC D6 12GB",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개",
+    "Power Supply": "DARKFLASH SAVEMOST 700W 80PLUS STANDARD",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 107,
+    "gpu_score": 47,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 20545
+}

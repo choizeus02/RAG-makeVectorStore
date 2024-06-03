@@ -1,0 +1,76 @@
+{
+    "quote_number": "4029",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090",
+    "date_create": "2024.3.9",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 마이크로닉스 ML-420 View BTF 화이트 (빅타워) 시리즈 제품군은 정말 우리나라에서 이런 퀄리티의 제품도 만들 수 있구나라는 감탄사가 절도 나왔던 케이스였습니다.13만원이라는 가격대가 전혀 아깝지 않을 정도로 만족도가 높을 것으로 확신합니다. 정말 좋은 케이스라 그대로 구성하는 것을 강추하구요.2. 파워는 화이트 색상에 1000W 플래티넘 인증 제품인 SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)로 변경3. 파노라마 뷰 어항케이스의 경우는 상단에 수냉쿨러를 장착해야 아주 멋진 세팅이 가능합니다. 튜닝하라고 만들어 놓은 케이스인지라 상단을 꽉 채울 수 있는 420mm 라디에이터 제품인 써멀테이크 TH420 V2 ARGB Sync (SNOW)로 변경감성에는 투자가 필요한 법입니다. 이정도 투자를 한다면 정말 이쁘고 멋진 시스템 구성이 가능합니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)상세보기[데스크탑 HDD]Toshiba 4TB N300 HDWQ140 (SATA3/7200/128M)상세보기[케이스]마이크로닉스 ML-420 View BTF 화이트 (빅타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]써멀테이크 TH420 V2 ARGB Sync (SNOW)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "891,920원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "152,670원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE  32GB",
+            "가격": "121,560원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+            "가격": "2,874,550원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 1TB",
+            "가격": "129,690원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 4TB N300 HDWQ140",
+            "가격": "169,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 View BTF 화이트",
+            "가격": "136,970원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "215,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "써멀테이크 TH420 V2 ARGB Sync",
+            "가격": "160,600원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5147415원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "써멀테이크 TH420 V2 ARGB Sync (SNOW)",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

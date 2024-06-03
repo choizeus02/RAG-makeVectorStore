@@ -1,0 +1,66 @@
+{
+    "quote_number": "4373",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4090",
+    "date_create": "2024.3.17",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4090# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 성능을 유지하면서 가격을 낮춰봤습니다.2. 메인보드는 1120A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 가격대비 최고 수준의 퀄리티인 MSI MAG B650 토마호크 WIFI로 변경3. 7800X3D는 100MB에 육박하는 L3 캐시 메모리로 게임을 박살 내는 타입의 제품으로 다른 CPU에 비해서 메모리 클럭의 영향을 덜 받습니다. 5600MHz와 6000MHz의 차이를 체감하기 어려워서 SK하이닉스 모듈이 적용되어 있어서 안정성과 가성비를 챙길 수 있는 패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2개 64기가로 변경4. SSD는 최근에 출시된 젠4 규격의 끝판왕급 성능 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경5. 7800X3D는 전성비가 좋은 제품으로 공랭쿨러와 수냉쿨러 사이에도 온도 차이가 크지 않습니다. 수냉쿨러끼리는 변별력이 없는 수준이라고 보면 됩니다. 즉 저가의 제품이나 고가의 제품이나 온도에는 차이가 거의 발생하지 않습니다.CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]MSI MAG B650 토마호크 WIFI상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]마이크로닉스 ML-420 BTF 블랙 (빅타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "그래픽카드는 RTX 4000번대 최상위 제품인 RTX 4090입니다. GIGABYTE 그래픽카드는 구입 후 30일 이내 홈페이지 등록 시 3년무상보증에 1년을 더 연장하여 총 4년의 무상 서비스를 제공합니다.CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B650 토마호크 WIFI",
+            "가격": "318,340원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현",
+            "가격": "2,929,470원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 블랙",
+            "가격": "131,970원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK",
+            "가격": "208,070원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,340원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4650550원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "MSI MAG B650 토마호크 WIFI",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 225,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 38694
+}

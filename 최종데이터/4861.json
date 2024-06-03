@@ -1,0 +1,66 @@
+{
+    "quote_number": "4861",
+    "quote_title": "14600K + RTX 4070",
+    "date_create": "2024.3.30",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 4070 조합",
+    "quotation_summary": " 14600K + RTX 4070# 14600K + RTX 4070",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14600K + RTX 4070",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600K (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]PATRIOT DDR5-5200 CL42 SIGNATURE (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 TWIN EDGE OC D6X 12GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X520LA 리버스 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기그래픽카드는 조텍의 RTX 4070 입니다.SSD는 삼성 980 프로 OEM 제품으로 가성비가 좋습니다.케이스는 측면 리버스 쿨링팬으로 감성까지 더한 몬스타 가츠의 가성비 좋은 어항형 케이스입니다.파워서플라이는 가성비 좋은 쿨러마스터의 800W 골드등급 파워입니다. 국내에선 대양에서 유통해서 AS도 좋습니다.CPU쿨러는 10이하에서 상급 성능에 소음도 검증된 갓성비 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600K",
+            "가격": "432,370원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "212,880원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "PATRIOT DDR5-5200 CL42 SIGNATURE  16GB",
+            "가격": "64,120원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 TWIN EDGE OC D6X 12GB",
+            "가격": "912,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,900원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 리버스 블랙",
+            "가격": "56,110원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "90,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,260원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2018560원",
+    "CPU": "코어i5-14세대 14600K (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 TWIN EDGE OC D6X 12GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "PATRIOT DDR5-5200 CL42 SIGNATURE (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 181,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 31768
+}

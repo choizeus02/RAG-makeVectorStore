@@ -1,0 +1,76 @@
+{
+    "quote_number": "2876",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4080 SUPER",
+    "date_create": "2024.2.13",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4080 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4080 SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 7800X3D는 전성비가 아주 좋은 CPU인지라 메인보드와 CPU쿨러 선택이 아주 자유로운 편입니다. 메인보드에 너무 많은 투자를 한 것 같아서 튼튼한 전원부에 기판까지 화이트 색상이라 구성하려는 시스템에 잘 어울리는GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트로 변경2. 그래픽카드는 현재 유통이 원활하지 않습니다. 현금몰에서는 판매조차 하고 있지 않는 제품이니 이 점은 확인을 하시고 구매하시기 바랍니다.3. SSD는 젠4 규격의 끝판왕 제품이라고 할 수 있는마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB)으로 변경4. 케이스는 파노라마 뷰 어항디자인의 제품 중에서는 리버스팬을 적용하여 튜닝을 해치지 않고 쿨링 효율을 높였으며 고성능 저소음 시스템 팬 4개를 기본으로 장착하고 C타입 포트 등을 적용한3RSYS S406 Quiet 리버스 화이트 (미들타워)로 변경5. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5) WHITE로 변경6. CPU쿨러는 공랭쿨러와 수냉쿨러 사이에서도 온도 차이가 크지 않은 전성비가 압도적으로 좋은 CPU라 수냉쿨러 사이에서는 성능 차이를 체감할 수가 없습니다. 10만원짜리든 30만원짜리든 동일한 온도를 보여줘서 변별력이 없죠. 화이트 색상이면서 대장급 성능의 3열 수냉쿨러인DARKFLASH NEBULA DN-360 ARGB (화이트)로 변경7. 하단부에 장착할 시스템 팬은 리버스 팬으로 3개 추가했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (64GB(32Gx2))상세보기[그래픽카드]GIGABYTE 지포스 RTX 4080 SUPER AERO OC D6X 16GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB)상세보기[케이스]3RSYS S406 Quiet 리버스 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (화이트)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]3RSYS Silence GI 120 리버스 (WHITE) x 3 개상세보기[쿨러.튜닝.조명.액세서리]DARKFLASH DVS305 GPU STAND (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린) 64GB",
+            "가격": "335,600원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4080 SUPER AERO OC D6X 16GB 피씨디렉트",
+            "가격": "1,908,320원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 2TB",
+            "가격": "217,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS S406 Quiet 리버스 화이트",
+            "가격": "81,490원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,500원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,670원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "DARKFLASH DVS305 GPU STAND",
+            "가격": "4,670원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3769490원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4080 SUPER AERO OC D6X 16GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (64GB(32Gx2))",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (화이트)",
+    "cpu_score": 225,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 34625
+}

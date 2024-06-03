@@ -1,0 +1,66 @@
+{
+    "quote_number": "2551",
+    "quote_title": "인텔 코어i5-14세대 14500 + 지포스 RTX 4060 ti",
+    "date_create": "2024.2.5",
+    "cpu_gpu_combinations": "코어i5-14500 + RTX 4060 Ti 조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14500 + 지포스 RTX 4060 ti# 사무",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 14세대가 모두 출시가 된 상황에서 13세대로 구성하는 것은 추천을 하기가 어렵습니다.E코어 4개가 더 추가되면서 14코어 20쓰레드로 작업 성능도 훨씬 더 좋은 14500 벌크로 변경. 인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다. 정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다.2. 메인보드는 AMD용이라 호환이 되지 않습니다. 전원부 히트싱크에 드라이버 모스펫이 적용되어 있는 가성비 좋은 ASRock B760M PG LIGHTNING 디앤디컴으로 변경3. 그래픽카드는 1티어 AS에 가격적인 메리트가 높은 갤럭시 BOY 지포스 RTX 4060 Ti OC D6 8GB로 변경4. 작업에 있어서 가장 체감이 큰 부품이  SSD입니다. 구성한 P31의 경우  NVMe 규격에서는 속도가 가장 느린 젠3 제품입니다.젠3 보다 2배더 빠른 5년 무상AS의 갓성비 젠4 제품인 MSI SPATIUM M480 PRO 히트싱크 M.2 NVMe (1TB)로 변경읽기속도 : 7,400(MB/s) / 쓰기속도 : 7,000(MB/s)로 최고 수준의 성능이면서 DDR4 1GB 용량의 디램 버퍼 메모리가 적용되어 있습니다.5. 파워는 정격 600W 브론즈 인증 제품 중에서는 가성비가 월등히 좋은 쿨러마스터 MWE 600 BRONZE V2 230V로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)상세보기[메인보드]ASRock B760M PG LIGHTNING 디앤디컴상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4060 Ti OC D6 8GB상세보기[SSD]MSI SPATIUM M480 PRO M.2 NVMe (2TB)상세보기[케이스]3RSYS J540 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14500",
+            "가격": "334,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING 디앤디컴",
+            "가격": "139,160원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4060 Ti OC D6 8GB",
+            "가격": "601,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "MSI SPATIUM M480 PRO M.2 NVMe 2TB",
+            "가격": "233,190원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS J540",
+            "가격": "31,800원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1559260원",
+    "CPU": "인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)",
+    "Motherboard": "ASRock B760M PG LIGHTNING 디앤디컴",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4060 Ti OC D6 8GB",
+    "SSD": "MSI SPATIUM M480 PRO M.2 NVMe (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 247,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32733,
+    "gpu_benchmarkscore": 22891
+}

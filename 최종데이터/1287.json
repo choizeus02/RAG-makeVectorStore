@@ -1,0 +1,66 @@
+{
+    "quote_number": "1287",
+    "quote_title": "7800X3D + RTX 4070 Ti",
+    "date_create": "2024.1.8",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "4070 ti 기준이면M사 M-atx 메인보드는 글카 슬롯이 낮은 부분에 있어서 간섭 발생합니다가능하면 다른 회사 M-atx로 구성하는걸 추천드리고그래픽카드는 이엠텍 조텍 갤럭시 이노3디 기준이 AS상 더 낫습니다~G사 제품군이 상위라인업에서도 소음이 좀 높은 편인 부분이고..4070 ti 가성비로 하실꺼라면조텍 트리니티, 갤럭시 ST, 이엠텍 GamingPro 정도 추천드립니다~파워의 경우 상기 제조사 및 제품 별 AS 정책 확인해 보시는걸 추천드립니다 ^^",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 Ti AMP EXTREME AIRO D6X 12GB상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]3RSYS Socoool RC1800 ARGB (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 7950x3D를 제외하면\n이걸 따라올 게이밍 CPU는 없다!메인보드는 12페이즈 / 720a 스펙의 전원부 모델!\n7950x까지 커버 가능!\n그리고 화이트 감성!메모리는 고수율 하이닉스 A다이 언락!\n블레이드 감성의 메모리!케이스는 구관이 명관!\n베스트셀러 케이스!파워서플라이는 RX 6800은 750w 이상!\n가성비로 본다면 쿨러마스터 G800CPU쿨러는 현존 공냉 끝판왕!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,960원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "194,120원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 Ti AMP EXTREME AIRO D6X 12GB",
+            "가격": "1,079,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "89,990원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1800 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2491980원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 Ti AMP EXTREME AIRO D6X 12GB",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "3RSYS Socoool RC1800 ARGB (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

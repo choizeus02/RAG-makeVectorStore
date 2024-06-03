@@ -1,0 +1,71 @@
+{
+    "quote_number": "1854",
+    "quote_title": "[상급/200만] 7500F + 7800_RGB White 큰어항 Edition",
+    "date_create": "2024.1.15",
+    "cpu_gpu_combinations": "라이젠5 7500F + RX 7800 XT 조합",
+    "quotation_summary": " 1. 7500F + RX 7800 RGB 블링블링 조합입니다.2. 화려한 RGB를 선호하는 유저를 위한 구성입니다.# 200만원 예산# 단아한 화이트에 블링블링 RGB",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "사실상 게이머들에게 신규 가성비 상급 조합이라 생각합니다.새하얀 부품으로 구성되어 만들어진 PC는 받는 순간부터 고객에게 기쁨을 선사할 것이라 생각합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴상세보기[메모리]G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))상세보기[그래픽카드]SAPPHIRE 라데온 RX 7800 XT PURE OC D6 16GB상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DLX4000 GLASS 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)상세보기[CPU쿨러]DARKFLASH Ellsworth S21 ARGB (화이트)상세보기[쿨러.튜닝.조명.액세서리]DARKFLASH S101 FDB ARGB 화이트 (5PACK)상세보기[쿨러.튜닝.조명.액세서리]DARKFLASH S101 FDB ARGB 화이트 (1PACK) x 2 개상세보기[쿨러.튜닝.조명.액세서리]DARKFLASH MH-30 ARGB 5V 컨트롤러상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 AM5 7500F는 현재 게이머들에게 가장 큰 사랑을 받고 있습니다. 인텔이 야심차게 준비한 13400 13500울 모두 꺾은 제품입니다.메인보드는 화이트 히트싱크를 통해 단정한 화이트 시스템을 완성 시켜줄 겁니다. 여기에 3개의 M.2 슬롯, Dr.Mos 가 적용된 8+2+1페이즈의 넉넉한 구성, 무선 장비에 대응가능한 Wifi 모듈까지 기본 탑재입니다.메모리는 튜닝 메모리 명가 GSKILL 제품입니다. 블랙&화이트 방열판과 위로 빛나는 하얀 RGB가 일품입니다.그래픽카드는 이번 출시 된 7800XT 화이트 버전입니다. 화이트 바디에 영롱한 RGB, 그리고 4070을 넘는 성능을 보여줍니다.SSD는 PCIe 4.0 하이앤드 제품입니다. 명불 허전이죠.케이스는 2 Ways 쇼윈도우 케이스 입니다. 영롱한 RGB와 함께 한 폭의 그림이 됩니다.파워서플라이는 고주파 최고 등급의 AS 정책CPU쿨러는 RGB 화이트 시스템을 완성시켜 줄 쿨러 입니다. 조화가 한폭의 그림입니다.쿨러.튜닝.조명.액세서리는 DLX4000와 혼연일체 본체 구성이 됩니다.쿨러.튜닝.조명.액세서리는 DLX4000와 혼연일체 본체 구성이 됩니다.쿨러.튜닝.조명.액세서리는 DLX4000와 혼연일체 본체 구성이 됩니다.조립PC관련는 믿고 맡길 수 있는 서비스",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴",
+            "가격": "209,680원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지) 32GB",
+            "가격": "196,990원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "SAPPHIRE 라데온 RX 7800 XT PURE OC D6 16GB",
+            "가격": "753,340원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX4000 GLASS 화이트",
+            "가격": "91,300원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE",
+            "가격": "159,408원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21 ARGB",
+            "가격": "27,120원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "DARKFLASH MH-30 ARGB 5V 컨트롤러",
+            "가격": "9,320원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1818048원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴",
+    "Graphic Card": "SAPPHIRE 라데온 RX 7800 XT PURE OC D6 16GB",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 ARGB (화이트)",
+    "cpu_score": 355,
+    "gpu_score": 11,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 29006
+}

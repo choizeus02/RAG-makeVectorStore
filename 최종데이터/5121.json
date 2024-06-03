@@ -1,0 +1,71 @@
+{
+    "quote_number": "5121",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090",
+    "date_create": "2024.4.7",
+    "cpu_gpu_combinations": "라이젠9 7950X + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 7950X3D CPU는 게임에 특화된 L3 캐시 메모리를 적층한 제품으로 작업에는 어떤 도움도 주지 않습니다. 게임을 함께 한다면 모르겠지만 그게 아니라 성능을 요구하는 워크스테이션 용도라면 가장 성능이 좋은 7950X로 구성하는 것이 맞구요.2. 화이트 컨셉이라 메인보드는 튼튼한 드라이버 모스펫 전원부에 기판까지 화이트로 제대로 된 화이트 감성을 느낄 수 있는 GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트로 변경3. AMD 시스템은 5200MHz 규격램까지 지원을 합니다.라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 PATRIOT DDR5-5200 CL42 SIGNATURE (32GB) x 4개 128기가로 변경4. 케이스는 가격대비 미친 퀄리티와 저소음 시스템 팬을 장착한 리얼 빅타워인 마이크로닉스 ML-420 BTF 화이트 (빅타워)로 변경국내 케이스 제조사에서 이런 퀄리티의 제품을 만들 수 있었나?라고 할 정도로 퀄리티가 3-40만원대 하이엔드 네이밍 제품 못지 않게 좋습니다.5. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 화이트 컨셉의 SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)로 변경6. 케이스에서 420mm 라디에이터 장착을 지원해서 수냉쿨러는 GL360보다도 성능이 더 좋으면서 가격은 더 저렴한 현재 기준 끝판왕 수냉쿨러인 발키리 C420 ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]PATRIOT DDR5-5200 CL42 SIGNATURE (32GB) x 4 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Toshiba 4TB N300 HDWQ140 (SATA3/7200/128M)상세보기[케이스]마이크로닉스 ML-420 BTF 화이트 (빅타워)상세보기[파워서플라이]SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)상세보기[CPU쿨러]발키리 C420 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X)",
+            "가격": "890,930원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "257,520원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "PATRIOT DDR5-5200 CL42 SIGNATURE x 4 개 32GB",
+            "가격": "117,280원",
+            "수량": "4"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+            "가격": "2,933,870원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,690원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 4TB N300 HDWQ140",
+            "가격": "169,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 화이트",
+            "가격": "136,940원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0",
+            "가격": "227,420원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 C420 ARGB",
+            "가격": "190,110원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5505600원",
+    "CPU": "AMD 라이젠9-5세대 7950X (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "PATRIOT DDR5-5200 CL42 SIGNATURE (32GB) x 4 개",
+    "Power Supply": "SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)",
+    "CPU Cooler": "발키리 C420 ARGB (WHITE)",
+    "cpu_score": 60,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62909,
+    "gpu_benchmarkscore": 38694
+}

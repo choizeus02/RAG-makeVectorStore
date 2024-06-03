@@ -1,0 +1,66 @@
+{
+    "quote_number": "4852",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + RTX 4070 SUPER",
+    "date_create": "2024.3.30",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + RTX 4070 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 동일한 스펙이면서 가격은 더 저렴해서 가성비가 월등히 좋은 TeamGroup T-CREATE DDR5-6000 CL30 EXPERT 패키지 서린 (32GB(16Gx2))로 변경2. 그래픽카드는 1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4070 SUPER로 변경했습니다. 고가의 그래픽카드일수록 추가되는 2년의 무상AS는 아주 큰 메리트가 됩니다.3. 구성하신 DAVEN AQUARIUM 블랙 (미들타워)은 C타입 포트 미지원, USB 포트 2개만 제공하고 강판도 얇아서 원가 절감한 티가 많이 나는 케이스입니다. 파노라마 뷰 어항케이스 중에서는 압도적인 디자인과 가성비 그리고 C타입 포트도 적용되어 있는 몬스타 가츠 X620A 리버스 블랙 (미들타워)로 변경4. 파워는 세계 최대의 글로벌 제조사인 CWT에서 OEM 생산 압도적인 전압변동률을 제공하여 전압 출렁임 없이 안정적인 시스템을 만들어 줄 MSI MAG A750GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)로 강추합니다.주로 추천하는 NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5) 파워도 CWT에서 OEM하는 제품이구요. 반모듈러라 하위 제품입니다. 풀모듈러와 반모듈려는 부품에서도 차이가 크게 나죠. 그리고 뉴젠도 파워를 제조하는 제조사가 아니죠. 만들어 진거 가져와서 판매하는 유통사입니다. 오히려 인지도는 MSI가 비교할 수 없을 정도로 더 높습니다.5. 7800X3D는 전성비가 아주 좋은 CPU인지라 공랭쿨러와 수냉쿨러 사이의 온도 차이가 크지 않습니다. 그래서 대부분 구성에서 공랭쿨러를 추천하구요. 수냉쿨러로 구성하는 경우는 어떤 제품으로 조립을 하든 변별력을 기대하기 어려울 정도로 온도가 낮습니다.CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]MSI MAG B650 토마호크 WIFI상세보기[메모리]TeamGroup T-CREATE DDR5-6000 CL30 EXPERT 패키지 서린 (32GB(16Gx2))상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X620A 리버스 블랙 (미들타워)상세보기[파워서플라이]MSI MAG A750GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "그래픽카드는 RTX 4070과 RTX 4070 Ti 제품 사이에 위치한 라인업이며 길이 234.1mm, 두께 40.2mm의 제원을 가지고 있습니다. 보조전원 커넥터는 12VHPWR 규격이며 구매 후 14일 이내 제품 등록 시 무상 3년 보증에 추가로 2년 확대보증 서비스를 제공하여 오래도록 사용할 수 있습니다.CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "529,200원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B650 토마호크 WIFI",
+            "가격": "318,360원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-CREATE DDR5-6000 CL30 EXPERT 패키지 서린) 32GB",
+            "가격": "162,310원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+            "가격": "912,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,900원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X620A 리버스 블랙",
+            "가격": "59,510원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "MSI MAG A750GL 80PLUS 골드 풀 모듈러 ATX 3.0",
+            "가격": "118,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,260원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2286340원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "MSI MAG B650 토마호크 WIFI",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup T-CREATE DDR5-6000 CL30 EXPERT 패키지 서린 (32GB(16Gx2))",
+    "Power Supply": "MSI MAG A750GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

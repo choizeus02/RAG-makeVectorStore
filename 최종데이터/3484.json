@@ -1,0 +1,69 @@
+{
+    "quote_number": "3484",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.2.26",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 와이파이와 블루투스를 내장모듈처럼 사용할 수 있는 ASRock B650M Pro RS 대원씨티에스 + ASRock AMD Wi-Fi 6E Kit 무선랜카드로 구성했습니다.보통은 ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴으로 추천을 하지만 현재 유통하는 업체가 많이 없네요. 동일한 구성입니다.2. 케이스는 화이트 색상의 저소음 컨셉이면서 인테리어 소품으로 사용하기 좋고 먼지에도 강한 3RSYS R10 아트오브제 01 WHITE (미니타워)로 구성3. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 구성4. CPU쿨러는 대장급 성능의 듀얼타워 공랭쿨러로 소음도 낮은 화이트 색상의 논LED 제품인 DARKFLASH Ellsworth D21 (WHITE)로 구성5. 케이스 상단에 장착할 고성능 저소음 시스템 팬인 3RSYS SILENCE SE 120 (WHITE) 2개 추가했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[그래픽카드]이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB상세보기[케이스]3RSYS R10 아트오브제 01 WHITE (미니타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]DARKFLASH Ellsworth D21 (WHITE)상세보기[이벤트특가][SSD + RAM] 마이크론 Crucial T500 2TB + Crucial DDR5-5600 (32GB(16Gx2)) 패키지 대원씨티에스상세보기[쿨러.튜닝.조명.액세서리]3RSYS SILENCE SE 120 (WHITE) x 2 개상세보기[공유기/허브/랜카드/PoE]ASRock AMD Wi-Fi 6E Kit 무선랜카드상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메인보드는 B650칩셋 제품이라서 PBO와 커브옵티마이저 기능을 지원하는 제품입니다. 400A급 드라이버모스펫 구성의 전원부 성능을 가지고 있으며 기판일부와 방열판색상이 화이트라 화이트조합에 알맞습니다.CPU쿨러는 이쁘고 조용한 다크플래시의 D21",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,290원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "170,500원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB",
+            "가격": "1,178,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS R10 아트오브제 01 WHITE",
+            "가격": "44,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth D21",
+            "가격": "47,360원",
+            "수량": "1"
+        },
+        "SSD + RAM": {
+            "제품명": "마이크론 Crucial T500 2TB + Crucial DDR5-5600 패키지 대원씨티에스 2TB",
+            "가격": "181,990원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "3RSYS SILENCE SE 120 x 2 개",
+            "가격": "8,890원",
+            "수량": "2"
+        },
+        "공유기/허브/랜카드/PoE": {
+            "제품명": "ASRock AMD Wi-Fi 6E Kit 무선랜카드",
+            "가격": "33,700원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2332470원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "DARKFLASH Ellsworth D21 (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

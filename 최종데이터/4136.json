@@ -1,0 +1,42 @@
+{
+    "quote_number": "4136",
+    "quote_title": "인텔 코어 i7-14700K",
+    "date_create": "2024.3.11",
+    "cpu_gpu_combinations": "#NAME?",
+    "quotation_summary": " 인텔 코어 i7-14700K# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 메인보드는 1620A급 출력의 드라이버 모스펫이 적용되어 있는 제품인데 최근 새롭게 출시한 ASRock Z790 Nova WIFI 대원씨티에스는 무려 1800A급 출력의 드라이버 모스펫 전원부를 적용하고도 가격적인 메리트도 높아서 추천드립니다.2. 메모리는 가지고 있는 램 사용하시면 되구요. 호환문제는 없습니다.3. 공랭은 불가능하구요. 14700K부터는 대장급 성능의 3열 수냉쿨러를 강제한다고 보면 됩니다.수냉쿨러는 구성하신 NZXT KRAKEN 360보다도 높은 성능에 소음도 낮은 최근 개선된 제품이 출시된 대장급 성능의 잘만 Alpha II A36 (BLACK)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[메인보드]ASRock Z790 Nova WIFI 대원씨티에스상세보기[케이스]Fractal Design Meshify 2 XL Dark 강화유리상세보기[파워서플라이]마이크로닉스 WIZMAX 1200W 80PLUS PLATINUM 풀모듈러 ATX 3.1 (PCIE5.1)상세보기[CPU쿨러]잘만 Alpha II A36 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "메인보드": {
+            "제품명": "ASRock Z790 Nova WIFI 대원씨티에스",
+            "가격": "504,400원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Fractal Design Meshify 2 XL Dark 강화유리",
+            "가격": "313,080원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 WIZMAX 1200W 80PLUS PLATINUM 풀모듈러 ATX 3.1",
+            "가격": "295,980원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,530원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1229990원",
+    "Motherboard": "ASRock Z790 Nova WIFI 대원씨티에스",
+    "Power Supply": "마이크로닉스 WIZMAX 1200W 80PLUS PLATINUM 풀모듈러 ATX 3.1 (PCIE5.1)",
+    "CPU Cooler": "잘만 Alpha II A36 (BLACK)",
+    "cpu_score": null,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": null,
+    "gpu_benchmarkscore": null
+}

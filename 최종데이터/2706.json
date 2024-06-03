@@ -1,0 +1,66 @@
+{
+    "quote_number": "2706",
+    "quote_title": "5700X + RTX 4060",
+    "date_create": "2024.2.9",
+    "cpu_gpu_combinations": "라이젠7 5700X + RTX 4060 조합",
+    "quotation_summary": " 5700X + RTX 4060# 5700X + RTX 4060",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "5700X + RTX 4060",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-4세대 5700X (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME B550M-A 대원CTS상세보기[메모리]마이크론 Crucial DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4060 2X OC D6 8GB상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]마이크로닉스 GL1-MORTAR (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]잘만 CNPS9X PERFORMA (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 5600과 가성비 좋게 구성하기 좋은 메인보드입니다.메모리는 기본 클럭 5600으로 동작하는 마이크론의 메모리입니다.SSD는 발열도 적어 게임용으로도 많이 추천되는 제품입니다.케이스는 가격대비 마감이나 쿨링 성능이 준수한 가성비 좋은 케이스입니다.파워서플라이는 가성비 좋은 쿨러마스터의 브론즈 등급 제품으로 대양에서 유통해서 AS도 좋습니다.CPU쿨러는 잘만의 보급형 쿨러로, 소음도 정숙하고 마감도 좋습니다",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-4세대 5700X)",
+            "가격": "234,730원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME B550M-A 대원CTS",
+            "가격": "113,890원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR5-5600 CL46  16GB",
+            "가격": "126,350원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4060 2X OC D6 8GB",
+            "가격": "435,560원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 GL1-MORTAR",
+            "가격": "31,743원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 CNPS9X PERFORMA",
+            "가격": "25,220원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1303243원",
+    "CPU": "AMD 라이젠7-4세대 5700X (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME B550M-A 대원CTS",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4060 2X OC D6 8GB",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "마이크론 Crucial DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "잘만 CNPS9X PERFORMA (BLACK)",
+    "cpu_score": 359,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26707,
+    "gpu_benchmarkscore": 22891
+}

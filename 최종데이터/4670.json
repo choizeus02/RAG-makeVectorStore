@@ -1,0 +1,86 @@
+{
+    "quote_number": "4670",
+    "quote_title": "AMD 라이젠5-4세대 5600 +  라데온 RX 6600",
+    "date_create": "2024.3.25",
+    "cpu_gpu_combinations": "라이젠5 5600 + RX 6600 조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600 +  라데온 RX 6600# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 사용해서 안정성도 높고 가격도 저렴한 ESSENCORE KLEVV DDR4-3200 CL22 (8GB) 2개 16기가로 변경2. 케이스는 최근에 출시된 보급형 끝판왕급 가성비 제품인 몬스타 가츠 X420A 블랙 (미들타워)로 변경3. 파워는 6년 무상AS에 무려 9종에 달하는 보호회로를 적용하여 안정성에 몰빵을 하고서도 가격은 아주 착한 수준으로 출시가 되었고 현재 출시 이벤트로 가격을 더 인하해서 판매 중이라 갓성비 중에서도 갓성비라고 할 수 있는 몬스타 가츠 ExtremeX FX500 80PLUS STANDARD로 변경보통 대부분의 보급형 파워는 3-5년 무상AS에 4-6종의 보호회로가 적용되어 있어서 추천드리는 파워와는 차이가 큰 편입니다.4. CPU쿨러는 싱글타워 끝판왕급 성능에 케이스와도 잘 어울리고 성능도 좋고 AM4 무뽑 방지 키트를 제공하고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 PentaWave Z04E SRB ARGB로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[그래픽카드]ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]몬스타 가츠 X420A 블랙 (미들타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX500 80PLUS STANDARD상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[모니터]크로스오버 오버파워 277GK4 리얼165 게이밍상세보기[키보드]마이크로닉스 MANIC EX580L 기계식 키보드 (블랙적축)상세보기[마우스]로지텍 코리아 G102 LIGHTSYNC (블랙)상세보기[게이밍헤드셋.스피커.마이크]Creative PEBBLE 2.0 (블랙) 스피커상세보기[게이밍헤드셋.스피커.마이크]ASUS TUF H3상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현재 게임 가성비가 가장 좋은 CPUSSD는 젠3 제품 중에서는 5년 무상AS에 성능도 좋고 가격적인 메리트도 있는 SSD파워서플라이는 무상 6년 AS에 무려 9종에 달하는 보호회로를 적용하여 안정성에 몰빵을 하고서도 아주 착한 금액대에 출시한 갓성비 중에 갓성비 제품이라고 할 수 있는 몬스타 가츠 ExtremeX FX500 80PLUS STANDARD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "144,380원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "83,990원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "21,010원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스",
+            "가격": "265,560원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X420A 블랙",
+            "가격": "31,310원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX500 80PLUS STANDARD",
+            "가격": "35,600원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 오버파워 277GK4 리얼165 게이밍",
+            "가격": "164,000원",
+            "수량": "1"
+        },
+        "키보드": {
+            "제품명": "마이크로닉스 MANIC EX580L 기계식 키보드",
+            "가격": "33,900원",
+            "수량": "1"
+        },
+        "마우스": {
+            "제품명": "로지텍 코리아 G102 LIGHTSYNC",
+            "가격": "22,100원",
+            "수량": "1"
+        },
+        "게이밍헤드셋.스피커.마이크": {
+            "제품명": "ASUS TUF H3",
+            "가격": "36,160원",
+            "수량": "1"
+        }
+    },
+    "total_price": "958250원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "Graphic Card": "ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX500 80PLUS STANDARD",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 504,
+    "gpu_score": 88,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 16473
+}

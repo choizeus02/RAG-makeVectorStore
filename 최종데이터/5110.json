@@ -1,0 +1,66 @@
+{
+    "quote_number": "5110",
+    "quote_title": "7800X3D + RTX 4070 SUPER",
+    "date_create": "2024.4.6",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " 7800X3D + RTX 4070 SUPER# 7800X3D + RTX 4070 SUPER",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7800X3D + RTX 4070 SUPER",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX 피씨디렉트상세보기[메모리]PATRIOT DDR5-5200 CL42 SIGNATURE (16GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC D6X 12GB 피씨디렉트상세보기[SSD]마이크론 Crucial MX500 대원CTS (2TB)상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]1stPlayer Mi8 WING Black (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]잘만 Alpha II A36 (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 7000번대 3D 제품으로 7950X3D와 달리 별도의 설정없이도 뛰어난 게임 성능을 자랑합니다.  \n전성비는 물론 온도도 뛰어나 공랭으로 가성비 좋게 게이밍 환경 구성이 가능합니다.메모리는 하이닉스 다이가 탑재된 JEDEC 표준 메모리입니다. \n현재 가격대도 좋고, 라이젠의 경우 5600 클럭 이슈가 있어 해당 메모리로 구성하시기 바랍니다.SSD는 PCIE4.0 대역폭 상급 SSD파워서플라이는 10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책에 뛰어난 가성비까지 겸비한 파워입니다.CPU쿨러는 전면 온도 표시와 상급 성능까지 겸비한 잘만의 수냉 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "529,210원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX 피씨디렉트",
+            "가격": "257,530원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "PATRIOT DDR5-5200 CL42 SIGNATURE  16GB",
+            "가격": "64,120원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC D6X 12GB 피씨디렉트",
+            "가격": "958,210원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,690원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer Mi8 WING Black",
+            "가격": "105,490원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,430원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2450630원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC D6X 12GB 피씨디렉트",
+    "SSD": "마이크론 Crucial MX500 대원CTS (2TB)",
+    "Memory": "PATRIOT DDR5-5200 CL42 SIGNATURE (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "잘만 Alpha II A36 (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

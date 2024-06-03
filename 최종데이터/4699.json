@@ -1,0 +1,71 @@
+{
+    "quote_number": "4699",
+    "quote_title": "AMD 라이젠9-5세대 7950X + 지포스 RTX 4090",
+    "date_create": "2024.3.25",
+    "cpu_gpu_combinations": "라이젠9 7950X + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X + 지포스 RTX 4090# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드에서 방열판 2개를 기본으로 제공합니다. 방열판을 따로 달 필요는 없습니다.2. HDD를 달 경우 메인보드 확장이 필요하지는 않죠. 4개의 사타포트르 지원해서 4개까지는 장착이 가능하지만 메인보드에서 대부분 2개 장착을 지원하는 경우가 많습니다.3. 쿨러 팬은 교체할 필요가 없고 오히려 색상은 블랙으로 통일해 주는 것이 좋습니다.이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 변경DLX21을 디자인이나 성능 그리고 편의성까지 완벽하게 대체가 가능한 케이스입니다.4. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로변경5. 써멀 구리스는 수냉쿨러에 최적의 성능을 내는 번들 제품으로 제공합니다. 따로 구성하지 않아도 되구요.6. 4K 해상도에서는 4090 그래픽카드가 최고의 환경을 제공합니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X (라파엘) (멀티팩(정품))상세보기[메인보드]MSI MAG B650 토마호크 WIFI상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (32GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기그래픽카드는 RTX 4000번대 최상위 제품인 RTX 4090입니다. GIGABYTE 그래픽카드는 구입 후 30일 이내 홈페이지 등록 시 3년무상보증에 1년을 더 연장하여 총 4년의 무상 서비스를 제공합니다.데스크탑 HDD는 안정성 높은 PMR 방식의 HDDCPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X)",
+            "가격": "891,920원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B650 토마호크 WIFI",
+            "가격": "329,000원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  32GB",
+            "가격": "124,750원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현",
+            "가격": "2,929,470원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,770원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "100,780원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "134,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,340원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5005070원",
+    "CPU": "AMD 라이젠9-5세대 7950X (라파엘) (멀티팩(정품))",
+    "Motherboard": "MSI MAG B650 토마호크 WIFI",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 60,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62909,
+    "gpu_benchmarkscore": 38694
+}

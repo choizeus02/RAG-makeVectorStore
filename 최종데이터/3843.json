@@ -1,0 +1,65 @@
+{
+    "quote_number": "3843",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D",
+    "date_create": "2024.3.5",
+    "cpu_gpu_combinations": "라이젠7 7800X3D +  조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리의 경우 5600MHz는 규격램이라 온도가 높지 않습니다. 방열판이 필요하지 않구요.라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경2. 케이스는 동일 제품이면서 시스템 팬만 140mm 고성능 저소음 ARGB 팬으로 적용되어 있는 3RSYS L610 Quiet (블랙)으로 변경3. 파워는 세계 최대의 글로벌 제조사인 CWT에서 OEM 생산 압도적인 전압변동률을 제공하여 전압 출렁임 없이 안정적인 시스템을 만들어 줄 MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)로 변경4. CPU쿨러는 최상위 1티어 성능군이면서 소음은 가장 낮은 수준으로 사실상 공랭쿨러 끝판왕이라고 할 수 있으면서 최근 가격도 대폭 인하한 3RSYS Socoool RC 1800 Quiet ARGB (BLACK)로 변경5. 시스템 팬은 케이스에 적용된 팬과 동일한 3RSYS SILENCE XY 120 ARGB (BLACK) 3개 추가했습니다.케이스에는 10개의 팬을 제어할 수 있는 5V ARGB & PWM 허브를 기본 제공하여 별도의 허브를 추가할 필요가 없습니다.6. 메인보드에서 M.2 방열판을 제공해서 추가한 방열판은 제외했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]MSI MAG B650 토마호크 WIFI상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]3RSYS L610 Quiet (블랙)상세보기[파워서플라이]MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (BLACK)상세보기[쿨러.튜닝.조명.액세서리]3RSYS SILENCE XY 120 ARGB (BLACK) x 3 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B650 토마호크 WIFI",
+            "가격": "318,380원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "65,400원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L610 Quiet",
+            "가격": "88,300원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0",
+            "가격": "144,180원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "61,500원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "3RSYS SILENCE XY 120 ARGB x 3 개",
+            "가격": "11,230원",
+            "수량": "3"
+        }
+    },
+    "total_price": "1424600원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "MSI MAG B650 토마호크 WIFI",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": null
+}

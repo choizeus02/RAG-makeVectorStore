@@ -1,0 +1,76 @@
+{
+    "quote_number": "2901",
+    "quote_title": "7800X3D + 4070 Ti Super 화이트 게이밍 (H6 FLOW + Kraken 360 RGB)",
+    "date_create": "2024.2.14",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 7800X3D + 4070 Ti Super 화이트 게이밍 (H6 FLOW + Kraken 360 RGB)# 7800X3D + 4070 Ti Super 화이트 게이밍 (H6 FLOW + Kraken 360 RGB)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7800X3D + 4070 Ti Super 화이트 게이밍 (H6 FLOW + Kraken 360 RGB)",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 히트싱크 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]NZXT H6 Flow Matte White (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)상세보기[CPU쿨러]NZXT KRAKEN 360 RGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]NZXT F140 RGB DUO Matte White (2PACK/Controller)상세보기[쿨러.튜닝.조명.액세서리]NZXT F120 RGB CORE White (1PACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 라이젠 7000번대 3D 모델 주인공인 7800X3D입니다. 순정 상태에서 13900KS를 넘어서는 뛰어난 게임 성능과 뛰어난 전성비가 장점입니다.메인보드는 기가바이트의 화이트 감성을 위한 B650 보드메모리는 ADATA의 깔끔한 화이트 고클럭 튜닝 메모리입니다.파워서플라이는 슈퍼플라워의 PCIE 5 파워입니다. 4천번대를 위한 12VHPWR 젠더도 기본 제공되고, 10년 보증에 고주파 발생시 새제품 교환 등 AS정책도 가장 좋습니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "325,500원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 피씨디렉트",
+            "가격": "1,363,470원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 히트싱크 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "256,010원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "NZXT H6 Flow Matte White",
+            "가격": "202,210원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE",
+            "가격": "159,408원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NZXT KRAKEN 360 RGB",
+            "가격": "308,710원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,670원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "NZXT F120 RGB CORE White",
+            "가격": "30,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3646868원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 히트싱크 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)",
+    "CPU Cooler": "NZXT KRAKEN 360 RGB (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

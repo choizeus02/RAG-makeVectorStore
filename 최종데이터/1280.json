@@ -1,0 +1,66 @@
+{
+    "quote_number": "1280",
+    "quote_title": "QHD 정복 게이밍 및 작업 병행 PC (13700K, RTX 4080)",
+    "date_create": "2023.10.10",
+    "cpu_gpu_combinations": "코어i7-13700K + RTX 4080 조합",
+    "quotation_summary": " 1. 인텔 CPU를 선호하시는 분2. 7950X 3D를 가기엔 예산이 부족하신 분3. QHD 해상도 게이밍 환경과 작업을 병행하시는 분# 배그# 호그와트# 스팀# 사이버펑크# 에이펙스# 오버워치# 몬스터헌터",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 견적맨으로 활동하고 있는 coke-bear 입니다.퀘이사존에서 주로 활동하며 그 외 커뮤니티에서도 간간히 활동하고 있습니다.하드웨어에 관심이 많아 제품을 직접 사용해보기도 하고 주변 지인들 PC 견적부터 조립도 해주다보니PC 구매를 어려워하거나 용도에 맞지 않게 구매하여 불필요한 지출을 하는 경우를 보게 되었습니다.그런 분들께 조금이라도 도움이 되고자 PC 구매자분들께 합리적인 구매를 할 수 있게 견적맨으로 활동하게 되었습니다.",
+    "quote_feedback": "라이젠의 7900 CPU 보다 작업 성능은 좀 더 상위에 있으며 게임 성능은 7800X 3D 보다는 떨어지는 포지션의 13700K 입니다.작업과 게임을 동시에 병행하는 상황이라면 고려해볼 수 있는 제품입니다.RTX 4080 그래픽카드 기반의 구성으로 QHD 해상도에서 프레임 정복 가능한 수준의 성능을 가지고 있으며 4K 해상도에서도 DLSS 옵션을 포함한 게임이라면 쾌적하게 가능한 성능을 가지고 있습니다.7950X 3D 까지 보기에 애매한 가격대라면 선택할 수 있는 선택지 중 하나이니 참고해주시면 좋을 것 같습니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i7-13세대 13700K (랩터레이크) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE 피씨디렉트상세보기[메모리]ADATA DDR5-5600 CL46 패키지 (32GB(16Gx2)) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB상세보기[SSD]마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)상세보기[CPU쿨러]DEEPCOOL LT720 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 인텔의 13 세대 I7 라인업 13700K 입니다. P코어 8개와 E코어 8개를 가진 제품입니다.메인보드는 Z790 라인업 중 준수한 전원부 성능으로 동일 가격대비 높은 전원부 성능을 가진 제품입니다. 13700K를 사용하는데에 성능과 가성비가 좋습니다.메모리는 ADATA의 5600 클럭 기본 메모리입니다. 하이닉스 A 다이 제품으로 호환성이 좋습니다.그래픽카드는 기판을 분해해도 AS 서비스를 받을 수 있는 상위급의 AS 정책을 가지고 있는 조텍의 4080 익스트림 에어로 제품입니다.SSD는 pcie4.0 제품이며 가격대는 pcie3.0 의 p31 보다 저렴한 제품입니다.케이스는 다크플래쉬의 빅타워급 케이스인 DLX21 케이스 입니다. 동일 가격대 제품들이 비슷한 호환성을 가지고 있지만 강판 두께나 기본팬 성능, 측면팬과 그래픽카드 지지대가 포함되어 있어 가성비도 좋은 편입니다.파워서플라이는 국내 파워 회사 중 유일하게 고주파 발생까지도 무제한 새제품 교환 정책을 가진 슈퍼플라워의 1000w 플래티넘 제품입니다.\n타사의 경우 atx 3.0 케이블 제품으로 추가 금액을 받는 것과는 달리 atx 3.0 케이블을 무상증정하고 있어 추천드립니다.CPU쿨러는 딥쿨의 3열 수냉 쿨러 입니다. 수냉 쿨러 쿨링 성능 중 최상위권에 위치한 쿨링 성능으로 10만원 후반대 가격 대비 쿨링 성능이 매우 좋은 편입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-13세대 13700K",
+            "가격": "569,800원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE 피씨디렉트",
+            "가격": "337,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46 패키지)  32GB",
+            "가격": "112,700원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB",
+            "가격": "1,595,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS 1TB",
+            "가격": "127,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK",
+            "가격": "205,402원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DEEPCOOL LT720",
+            "가격": "122,550원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3277182원",
+    "CPU": "인텔 코어i7-13세대 13700K (랩터레이크) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB",
+    "SSD": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46 패키지 (32GB(16Gx2)) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)",
+    "CPU Cooler": "DEEPCOOL LT720 (BLACK)",
+    "cpu_score": 136,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 46542,
+    "gpu_benchmarkscore": 34625
+}

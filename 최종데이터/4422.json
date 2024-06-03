@@ -1,0 +1,76 @@
+{
+    "quote_number": "4422",
+    "quote_title": "인텔 코어i5-14세대 14500 + 지포스 RTX 4070",
+    "date_create": "2024.3.18",
+    "cpu_gpu_combinations": "코어i5-14500 + RTX 4070 조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14500 + 지포스 RTX 4070# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. GIGABYTE 지포스 RTX 4070 WINDFORCE OC D6X 12GB 피씨디렉트는 현재 유통이 정상적으로 되고 있지 않는 제품입니다. 1티어 AS에 가격적인 메리트도 높은 갤럭시 GALAX 지포스 RTX 4070 2X D6X 12GB로 변경2. 케이스가 핑크 색상이라 파워와 CPU쿨러도 핑크로 맞춰주면 보다 멋진 세팅이 됩니다.파워는 유일한 핑크 색상 제품인 마이크로닉스 Classic II 650W 80PLUS Bronze 230V EU HDB PINK로 변경3. CPU쿨러는 구성한 제품과 동일한 라인의 핑크 색상 제품인 DARKFLASH Ellsworth S11 PRO ARGB (핑크)로 변경4. 케이스 시스템 팬이 5V ARGB를 지원하지 않고 전용 팬을 사용해서 IHTP MH-009 ARGB 8-BIT HUB가 필요하지 않습니다. 연결할 수 있는 팬이 없어서 제외를 했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (정품)상세보기[메인보드]ASRock B760M PG LIGHTNING D5 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 2X D6X 12GB상세보기[SSD]삼성전자 PM9A1 M.2 NVMe 벌크 (1TB)상세보기[케이스]DARKFLASH DLM21 RGB MESH 강화유리 핑크 (미니타워)상세보기[파워서플라이]Classic II 650W 80PLUS Bronze 230V EU HDB PINK상세보기[CPU쿨러]DARKFLASH Ellsworth S11 PRO ARGB (핑크)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]LG전자 27QN600 x 2 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S x 3 개상세보기",
+    "quote_description": "메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14500",
+            "가격": "331,670원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING D5 에즈윈",
+            "가격": "157,420원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,520원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 2X D6X 12GB",
+            "가격": "993,980원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M.2 NVMe 벌크 1TB",
+            "가격": "103,200원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLM21 RGB MESH 강화유리 핑크",
+            "가격": "58,980원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "Classic II 650W 80PLUS Bronze 230V EU HDB PINK",
+            "가격": "63,890원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S11 PRO ARGB",
+            "가격": "28,620원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "LG전자 27QN600 x 2 개",
+            "가격": "291,980원",
+            "수량": "2"
+        }
+    },
+    "total_price": "2622250원",
+    "CPU": "인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (정품)",
+    "Motherboard": "ASRock B760M PG LIGHTNING D5 에즈윈",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 2X D6X 12GB",
+    "SSD": "삼성전자 PM9A1 M.2 NVMe 벌크 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "Classic II 650W 80PLUS Bronze 230V EU HDB PINK",
+    "CPU Cooler": "DARKFLASH Ellsworth S11 PRO ARGB (핑크)",
+    "cpu_score": 247,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32733,
+    "gpu_benchmarkscore": 31768
+}

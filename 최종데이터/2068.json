@@ -1,0 +1,59 @@
+{
+    "quote_number": "2068",
+    "quote_title": "6코어 고성능 내장그래픽 가성비 구성",
+    "date_create": "2024.1.12",
+    "cpu_gpu_combinations": "라이젠5 5600G +  조합",
+    "quotation_summary": " 1. 5600G 기반으로 6코어 12스레드 내장그래픽 성능까지 출중한 구성2. 작업은 물론 리그오브레전드 FHD기준 상~풀옵션도 가능한 가성비# 저렴하면서도 기본 성능은 출중하길 바라는 분들께",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "화이트 케이스로 외형도 챙기고 성능도 가성비 좋게 챙길 수 있는 고급 사무용 구성입",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600G (세잔) (멀티팩)상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]삼성전자 DDR4-3200 (8GB) PC4-25600 x 2 개상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]DAVEN D6 MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]SF-500R12ST MEGA 80PLUS STANDARD 230V EU상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 6코어 12스레드에 내장그래픽 성능도 GT1030급으로 최강의 가성비메인보드는 Asus EX A320M Gaming의 뒤를 잇는 가성비 메인보드..!메모리는 DDR4 가성비 1등 삼성 RAMSSD는 수 많은 구매자로 증명된 게이밍 가성비 PCI-E 3.0 NVMe SSD!케이스는 화이트라 이쁘고 가격, LED OFF까지 가능한 좋은 제품파워서플라이는 이제는 타이핑 하기도 손아픈 국내 파워 서플라이 AS 정책 최강자...!소프트웨어는 -조립PC관련는 -",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600G",
+            "가격": "152,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "71,450원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "삼성전자 DDR4-3200 PC4-25600  8GB",
+            "가격": "20,750원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D6 MESH 강화유리 화이트",
+            "가격": "42,840원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SF-500R12ST MEGA 80PLUS STANDARD 230V EU",
+            "가격": "46,466원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,730원",
+            "수량": "1"
+        }
+    },
+    "total_price": "606986원",
+    "CPU": "AMD 라이젠5-4세대 5600G (세잔) (멀티팩)",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "삼성전자 DDR4-3200 (8GB) PC4-25600 x 2 개",
+    "Power Supply": "SF-500R12ST MEGA 80PLUS STANDARD 230V EU",
+    "cpu_score": 504,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": null
+}

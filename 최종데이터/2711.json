@@ -1,0 +1,81 @@
+{
+    "quote_number": "2711",
+    "quote_title": "14600KF + RTX 4070",
+    "date_create": "2024.2.9",
+    "cpu_gpu_combinations": "코어i5-13600KF + RTX 4070 조합",
+    "quotation_summary": " 14600KF + RTX 4070# 14600KF + RTX 4070",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14600KF + RTX 4070",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600KF (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 Gaming OC D6X 12GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]HYTE Y60 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]NZXT KRAKEN 360상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]LG전자 울트라와이드 34WP65C상세보기[쿨러.튜닝.조명.액세서리]NZXT F140 RGB Matte Black (2PACK/Controller)상세보기[쿨러.튜닝.조명.액세서리]NZXT F120 RGB DUO Matte Black (1PACK) x 4 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 벌크도 공식적으로 3년 보증을 지원해 14600KF급으로 구성하신다면 벌크로는 14600KF보다 금액적 메리트가 높아 13600KF 쪽이 나으실 거 같습니다.메인보드는 14페이즈 900A(75A) 급 뛰어난 전원부로 14600K까지 문제 없이 사용 가능합니다.메모리는 갓서린에서 유통하는 팀그룹 DDR5 5600 클럭 메모리입니다.SSD는 PCIe4.0 최상급 성능의 SSD입니다.파워서플라이는 10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책에 뛰어난 가성비까지 겸비한 파워입니다.CPU쿨러는 크라켄의 신형 3열 수냉입니다. 안정성이나 소음에서 가장 평이 좋고 성능도 검증된 제품입니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600KF",
+            "가격": "1,588,590원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포",
+            "가격": "199,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 Gaming OC D6X 12GB 피씨디렉트",
+            "가격": "924,900원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "HYTE Y60 화이트",
+            "가격": "279,400원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NZXT KRAKEN 360",
+            "가격": "308,710원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,670원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "LG전자 울트라와이드 34WP65C",
+            "가격": "479,980원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "NZXT F120 RGB DUO Matte Black x 4 개",
+            "가격": "51,250원",
+            "수량": "4"
+        }
+    },
+    "total_price": "4541980원",
+    "CPU": "인텔 코어i5-13세대 13600KF (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 Gaming OC D6X 12GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "NZXT KRAKEN 360",
+    "cpu_score": 194,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 31768
+}

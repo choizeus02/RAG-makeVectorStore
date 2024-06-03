@@ -1,0 +1,63 @@
+{
+  "quote_number": "1208",
+  "quote_title": "FHD 끝판왕, QHD도 가능한 게이밍 PC(AMD",
+  "date_create": "2024.3.31",
+  "cpu_gpu_combinations": "라이젠5 7600 + RTX 4060 Ti 조합",
+  "quotation_summary": " 1. 가성비로 오래오래 쓰고 싶다2. FHD 해상도에서 완벽한 걸 추구 한다!3. 최신게임들까지도 몇년간은 하고 싶다!# 150 만원대 최대 구성# FHD 끝판왕# FHD 배그 끝판왕# QHD 가성비",
+  "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+  "quote_feedback": "1. CPU 선택사유https://quasarzone.com/bbs/qc_bench/views/83654#p31동가격대 기준 인텔 CPU대비 월등히 더 좋은 게임성능입니다.RTX 4070 Ti까지는 병목을 최소화 하면서 쓸 수 있는 가성비 CPU입니다.2. 메모리라파엘 CPU에서도 마이크론 5600Mhz 메모리라면문제 없이 5600mhz를 사용 할 수 있습니다.EXPO 기능을 통해 활용 가능 합니다.3. GPUQHD도 가능하다고 했습니다만실제로 RTX 3060 Ti 기준이라면 배틀그라운드 기준으로 국민옵션까지는고주사율 플레이가 가능합니다!https://quasarzone.com/bbs/qc_bench/views/67593실제로 RTX 2070 SUPER 역시 QHD에서 국민옵션으로 고주사율 플레이가 가능 했던걸 보면충분히 가능한 GPU입니다!4. SSD1TB로 구성한 이유는최신 게임들의 용량이 거의 60~80GB까지 나오는 부분이고한번 설치하면 지우지 않고 계속해서 활용하는 경우에는 기본적으로 500GB는 용량이 적을 것 같기에1TB급으로 구성하였습니다.",
+  "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]MSI PRO B650M-A WIFI상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge OC D6 8GB White상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]마이크로닉스 GL1-MORTAR (미들타워)상세보기[파워서플라이]FSP HYPER K PRO 700W 80PLUS Standard 230V EU상세보기[CPU쿨러]잘만 CNPS9X PERFORMA RGB (SILVER)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+  "quote_description": "CPU는 새로나온 가성비 CPU!\n동급 인텔대비 월등한 게이밍 성능!메인보드는 7900까지 버티는 탄탄한 전윈부!\nWIFI까지 활용 가능한 전천후 메인보드!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 믿음의 조텍 AS!\nWHITE 감성 RTX 4060 Ti 모델!SSD는 이천 특산물! SK 하이닉스!\nPCIe 3.0의 끝판왕!케이스는 3만원대에서 볼 수 있는 유일한 갓성비 케이스!\n베스트샐러 M60의 동생 제품!파워서플라이는 FSP 가성비의 새로운 모델!\n안정성 좋고 팬소음 적고!CPU쿨러는 가성비 좋고 성능 좋고!\n3만원 미만에서의 갓성비 모델!",
+  "parts_price": {
+    "CPU": {
+      "제품명": "AMD 라이젠5-5세대 7600)",
+      "가격": "239,940원",
+      "수량": "1"
+    },
+    "메인보드": {
+      "제품명": "MSI PRO B650M-A WIFI",
+      "가격": "180,880원",
+      "수량": "1"
+    },
+    "메모리": {
+      "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+      "가격": "65,000원",
+      "수량": "2"
+    },
+    "그래픽카드": {
+      "제품명": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge OC D6 8GB White",
+      "가격": "608,270원",
+      "수량": "1"
+    },
+    "SSD": {
+      "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+      "가격": "138,000원",
+      "수량": "1"
+    },
+    "케이스": {
+      "제품명": "마이크로닉스 GL1-MORTAR",
+      "가격": "32,000원",
+      "수량": "1"
+    },
+    "파워서플라이": {
+      "제품명": "FSP HYPER K PRO 700W 80PLUS Standard 230V EU",
+      "가격": "84,000원",
+      "수량": "1"
+    },
+    "CPU쿨러": {
+      "제품명": "잘만 CNPS9X PERFORMA RGB",
+      "가격": "33,740원",
+      "수량": "1"
+    }
+  },
+  "total_price": "1446830원",
+  "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+  "Motherboard": "MSI PRO B650M-A WIFI",
+  "Graphic_Card": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge OC D6 8GB White",
+  "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+  "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+  "Power_Supply": "FSP HYPER K PRO 700W 80PLUS Standard 230V EU",
+  "CPU_Cooler": "잘만 CNPS9X PERFORMA RGB (SILVER)",
+  "games": "피파, 배그, 롤, 오버워치, 서든어택, 사이버펑크, 레드데드리뎀션, 워존, 포트나이트",
+  "purpose": "게임용"
+}

@@ -1,0 +1,71 @@
+{
+    "quote_number": "4124",
+    "quote_title": "14900K + RTX 4090 (하이엔드 게이밍 + 워크스테이션)",
+    "date_create": "2024.3.11",
+    "cpu_gpu_combinations": "코어i9-14900K + RTX 4080 SUPER 조합",
+    "quotation_summary": " 14900K + RTX 4090 (하이엔드 게이밍 + 워크스테이션)# 14900K + RTX 4090 (하이엔드 게이밍 + 워크스테이션)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14900K + RTX 4090 (하이엔드 게이밍 + 워크스테이션)",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity D6X 16GB Black상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (2TB)상세보기[데스크탑 HDD]Toshiba 4TB N300 HDWQ140 (SATA3/7200/128M)상세보기[케이스]마이크로닉스 ML-420 View BTF 화이트 (빅타워)상세보기[파워서플라이]Antec NeoECO 1000W WHITE 80PLUS GOLD 풀 모듈러 ATX 3.0 (PCIE5)상세보기[CPU쿨러]발키리 GL360 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메인보드는 화이트 감성을 위한 어로스 엘리트 보드입니다.\n16+1+2페이즈 1120A(90A)의 뛰어난 전원부의 보드입니다.그래픽카드는 조텍만의 특별한 3+2 AS!\n4080 SUPER 기준 가성비 갓갓!SSD는 176단 낸드로 뛰어난 전성비를 자랑하는 이천 특산품입니다.데스크탑 HDD는 도시바의 안정성이 뛰어난 나스용 하드입니다CPU쿨러는 현재 360 규격 최상급 수냉입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "782,110원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "379,440원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity D6X 16GB Black",
+            "가격": "1,514,700원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 2TB",
+            "가격": "289,000원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 4TB N300 HDWQ140",
+            "가격": "169,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 View BTF 화이트",
+            "가격": "136,970원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "Antec NeoECO 1000W WHITE 80PLUS GOLD 풀 모듈러 ATX 3.0",
+            "가격": "242,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3911583원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity D6X 16GB Black",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "Antec NeoECO 1000W WHITE 80PLUS GOLD 풀 모듈러 ATX 3.0 (PCIE5)",
+    "CPU Cooler": "발키리 GL360 ARGB (WHITE)",
+    "cpu_score": 56,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 34625
+}

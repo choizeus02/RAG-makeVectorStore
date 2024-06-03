@@ -1,0 +1,54 @@
+{
+    "quote_number": "1887",
+    "quote_title": "[보급] 가정사무용 (윈도우, 모니터 미포함)_Pure Black Basic",
+    "date_create": "2023.10.16",
+    "cpu_gpu_combinations": "애슬론 3000G +  조합",
+    "quotation_summary": " 1. OFFICE 가성비 보급 견적입니다.2. 기대하지 않았던 20만원 대 PC의 성능을 직접 체험하실 수 있습니다.3. 단순 사무에 적합합니다.# 20만원 대# 가정사무용",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "20만원 대 사무용 PC가 필요한 분을 위한 견적입니다.성능은 다소 아쉽지만 웹서핑, 단순한 오피스 작업은 충분히 가능합니다.",
+    "computer_estimate_data": "[CPU]AMD 애슬론 3000G (레이븐 릿지)(벌크,쿨러)상세보기[메인보드]ASUS PRIME A320M-K 대원CTS상세보기[메모리]마이크론 Crucial DDR4 8G PC4-25600 CL22상세보기[SSD]Western Digital WD Green SN350 M.2 NVMe (500GB)상세보기[케이스]DAVEN 라피네 (미니타워)상세보기[파워서플라이]DARKFLASH SAVEMOST 500W 83+ 블랙상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 단순한 사무기기로 쓰기에 충분한 CPU입니다. 오피스, 웹서핑에 적합합니다.메인보드는 가성비 A320 칩셋 메인보드 입니다. 그래도 명가 ASUS 제품입니다.메모리는 오버클럭킹을 염두에 두지 않았다면 확실하고 저렴한 제품이 좋습니다.SSD는 가성비 500G SSD의 강자 입니다. 사무에 충분한 성능을 발휘합니다.케이스는 사무용로 적합합니다.파워서플라이는 Darkflash에서 야심차게 거품을 걷어내고 출시했습니다.조립PC관련는 믿고 맡길 수 있는 서비스",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 애슬론 3000G",
+            "가격": "125,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A320M-K 대원CTS",
+            "가격": "68,630원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4 8G PC4-25600 CL22",
+            "가격": "21,480원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD Green SN350 M.2 NVMe 500GB",
+            "가격": "52,800원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN 라피네",
+            "가격": "14,910원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH SAVEMOST 500W 83+ 블랙",
+            "가격": "35,500원",
+            "수량": "1"
+        }
+    },
+    "total_price": "319220원",
+    "CPU": "AMD 애슬론 3000G (레이븐 릿지)(벌크",
+    "Motherboard": "ASUS PRIME A320M-K 대원CTS",
+    "SSD": "Western Digital WD Green SN350 M.2 NVMe (500GB)",
+    "Memory": "마이크론 Crucial DDR4 8G PC4-25600 CL22",
+    "Power Supply": "DARKFLASH SAVEMOST 500W 83+ 블랙",
+    "cpu_score": 159,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": null,
+    "gpu_benchmarkscore": null
+}

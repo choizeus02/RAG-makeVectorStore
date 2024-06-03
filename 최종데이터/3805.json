@@ -1,0 +1,65 @@
+{
+    "quote_number": "3805",
+    "quote_title": "AMD 라이젠5-5세대 7600",
+    "date_create": "2024.3.5",
+    "cpu_gpu_combinations": "라이젠5 7600 +  조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7600# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 전원부 히트싱크가 적용되어 있는 가성비 좋은 ASUS EX B650M-V7 대원씨티에스로 변경2. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 구성3. 구성하려는 P31 SSD는 NVMe 규격 중에서는 속도가 가장 느린 젠3 제품입니다.젠3 보다 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경했고, 저렴한 방열판도 하나 추가했습니다.4. 케이스는 최상위 가성비 제품이라고 할 수 있는 대양케이스 ME NO.12 레인보우 강화유리 화이트 (미들타워)로 구성5. 파워는 정격 500W 브론즈 인증 제품인 에너지옵티머스 EXCEL CLASSIC 500W 80PLUS BRONZE 230V EU로 구성6. CPU쿨러는 싱글타워 끝판왕급 성능에 최근 3만원 대에서 만원 중후반대로 가격을 대폭인하해서 갓성비 중에서도 갓성비라고 할 수 있는 3RSYS TEAMMOST TM40으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS EX B650M-V7 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]대양케이스 ME NO.12 레인보우 강화유리 화이트 (미들타워)상세보기[파워서플라이]에너지옵티머스 EXCEL CLASSIC 500W 80PLUS BRONZE 230V EU상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라파엘 논X 제품의 막내로 높은 전성비와 게임 성능으로 DDR5 시스템 가성비 게이밍 라인의 최강자 CPU",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "234,070원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS EX B650M-V7 대원씨티에스",
+            "가격": "137,680원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "65,500원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,530원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "대양케이스 ME NO.12 레인보우 강화유리 화이트",
+            "가격": "56,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "에너지옵티머스 EXCEL CLASSIC 500W 80PLUS BRONZE 230V EU",
+            "가격": "41,590원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "725870원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS EX B650M-V7 대원씨티에스",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "에너지옵티머스 EXCEL CLASSIC 500W 80PLUS BRONZE 230V EU",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 312,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": null
+}

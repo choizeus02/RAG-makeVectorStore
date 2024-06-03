@@ -1,0 +1,70 @@
+{
+    "quote_number": "4603",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D",
+    "date_create": "2024.3.23",
+    "cpu_gpu_combinations": "라이젠9 7950X3D +  조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "구성을 잘 하셨는데 메모리만 변경해서 진행하시면 될 것 같습니다.16기가 4개로 풀뱅크를 하게 되면 클럭이 저하되고 안정성도 떨어지게 됩니다. 32기가 2개로 64기가로 구성하는 것을 추천드리구요.라이프타임 워런티로 압도적인 AS기간을 제공하고  SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2개로 변경했습니다.나머지는 그대로 진행하시면 되겠습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (2TB)상세보기[데스크탑 HDD]Western Digital 4TB Ultrastar DC HC310 패키지 (SATA3/7200/256M)상세보기[케이스]3RSYS R640 Quiet 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE WHITE ARGB 서린상세보기[쿨러.튜닝.조명.액세서리]3RSYS Silence GI 120 데이지체인 3PACK (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "891,920원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "256,650원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 2TB",
+            "가격": "226,230원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital 4TB Ultrastar DC HC310 패키지",
+            "가격": "1,320,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS R640 Quiet 화이트",
+            "가격": "92,760원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+            "가격": "45,300원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "3RSYS Silence GI 120 데이지체인 3PACK",
+            "가격": "39,050원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3246720원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+    "cpu_score": 63,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": null
+}

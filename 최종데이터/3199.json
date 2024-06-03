@@ -1,0 +1,48 @@
+{
+    "quote_number": "3199",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D",
+    "date_create": "2024.2.20",
+    "cpu_gpu_combinations": "라이젠9 7950X3D +  조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D# 딥러닝",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "딥러닝을 하는데 필요한 명령어인 AVX 512를 지원하는 최상위 CPU인 7950X3D를 기반으로 추천을 드렸습니다.케이스는 고성능 저소음 시스템 팬 4개를 기본으로 장착하고 HDD는 스토리지 파츠 추가시 최대 11개 SSD는 최대 6개까지 장착이 가능한 3RSYS L610 Quiet (블랙)으로 구성했습니다.CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]ASUS PRIME X670-P-CSM 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개상세보기[케이스]3RSYS L610 Quiet (블랙)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "892,110원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME X670-P-CSM 대원씨티에스",
+            "가격": "403,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  32GB",
+            "가격": "115,490원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "3RSYS L610 Quiet",
+            "가격": "88,300원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,500원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1696620원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "ASUS PRIME X670-P-CSM 대원씨티에스",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 63,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": null
+}

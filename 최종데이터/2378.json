@@ -1,0 +1,71 @@
+{
+    "quote_number": "2378",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4080 SUPER",
+    "date_create": "2024.2.1",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4080 SUPER 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4080 SUPER# 방송# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 방송용으로는 P+E코어로 나누어져 있는 인텔보다는 모든 코어가 P코어로 이루어져 있고 게임성능은 훨씬 더 좋은 16코어 32쓰레드인 7950X3D가 더 적합합니다.2. 메인보드는 기판까지 화이트로 제대로 된 화이트 감성을 느낄 수 있는 GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트로 변경3. 메모리는 64기가면 충분합니다. 풀뱅크로 구성하게 되면 안정성도 떨어지게 되고 클럭도 낮아져서 하드하게 작업이 필요한 경우가 아니라면 보통 2개만 장착을 합니다.4. 그래픽카드는 화이트 색상에 2년 추가 AS까지 제공하는 ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White로 변경5. SSD는 최근에 출시한 젠4 규격의 끝판왕이라고 할 수 있는 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB) 2개로 변경6. 파워는 상위 플래티넘 인증에 화이트 색상인 SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite Plus 실버 서린 (32GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB) x 2 개상세보기[데스크탑 HDD]Western Digital WD BLUE 5640/128M (WD80EAZZ, 8TB) x 2 개상세보기[케이스]NZXT H9 Elite Matte White (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]NZXT KRAKEN ELITE 360 RGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "892,930원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,920원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite Plus 실버 서린  32GB",
+            "가격": "127,840원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White",
+            "가격": "1,611,880원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 x 2 개 2TB",
+            "가격": "229,490원",
+            "수량": "2"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5640/128M x 2 개",
+            "가격": "175,050원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "NZXT H9 Elite Matte White",
+            "가격": "334,010원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "215,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NZXT KRAKEN ELITE 360 RGB",
+            "가격": "445,220원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4872125원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB) x 2 개",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite Plus 실버 서린 (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "NZXT KRAKEN ELITE 360 RGB (WHITE)",
+    "cpu_score": 63,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 34625
+}

@@ -1,0 +1,76 @@
+{
+    "quote_number": "2916",
+    "quote_title": "AMD 라이젠5-4세대 5600 + 지포스 RTX 3060",
+    "date_create": "2024.2.14",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 3060 조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600 + 지포스 RTX 3060# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 케이스 색상이 블랙인데 메모리와 시스템 팬이 화이트인 것은 색상 조합이 맞지 않습니다. 둘 다 블랙으로 변경해서 색상을 맞춰주는 것이 좋습니다. 메모리는 동일 제품 블랙으로 변경2. 그래픽카드는 3080 8GB는 추천을 하지 않습니다. 1티어급 AS를 제공하고 가격적인 메리트도 높은 편인 inno3D 지포스 RTX 3060 D6 12GB TWIN X2으로 변경3. 시스템 쿨러는 케이스 전용 팬인 DAVEN A120 RGB (블랙) 정방향 팬으로 상단에 장착할 수 있도록 3개 추가를 했습니다.4. 저렴한 5V ARGB & PWM 허브 추가해서 모든 팬을 연결할 수 있도록 했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]TeamGroup T-Force DDR4-3600 CL18 Delta RGB 패키지 (16GB(8Gx2)상세보기[그래픽카드]inno3D 지포스 RTX 3060 D6 12GB TWIN X2상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]DAVEN AQUARIUM 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]3RSYS Socoool RC350 ARGB (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]DAVEN A120 RGB (블랙) x 3 개상세보기[쿨러.튜닝.조명.액세서리]IHTP MH-009 ARGB 8-BIT HUB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현재 게임 가성비가 가장 좋은 CPUSSD는 젠3 제품 중에서는 5년 무상AS에 성능도 좋고 가격적인 메리트도 있는 SSD케이스는 흔히 어항케이스라고 불리우는 디자인이 적용된 DAVEN AQUARIUM입니다. CPU쿨러 최대호환가능높이 163mm, 그래픽카드 최대호환가능길이 415mm 제원을 가졌으며 ATX 사이즈 메인보드까지 호환가능한 미들타워 제품입니다. 측면 120mm 기본팬 3개, 후면 120mm 기본팬 1개 총 4개를 제공하며 ARGB를 지원하여 메인보드 제조사 프로그램을 통해 색상 조정이 가능합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "71,450원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR4-3600 CL18 Delta RGB 패키지 16GB",
+            "가격": "68,200원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "inno3D 지포스 RTX 3060 D6 12GB TWIN X2",
+            "가격": "465,300원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN AQUARIUM 블랙",
+            "가격": "56,960원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 ARGB",
+            "가격": "22,800원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,670원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "IHTP MH-009 ARGB 8-BIT HUB",
+            "가격": "13,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1165440원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "Graphic Card": "inno3D 지포스 RTX 3060 D6 12GB TWIN X2",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "TeamGroup T-Force DDR4-3600 CL18 Delta RGB 패키지 (16GB(8Gx2)",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "3RSYS Socoool RC350 ARGB (BLACK)",
+    "cpu_score": 504,
+    "gpu_score": 47,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 20545
+}

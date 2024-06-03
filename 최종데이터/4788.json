@@ -1,0 +1,76 @@
+{
+    "quote_number": "4788",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 지포스 RTX 4060",
+    "date_create": "2024.3.27",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4060 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 지포스 RTX 4060# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 금액을 낮춰야 한다면 그래픽카드를 내리는 것 말고는 크게 줄일 수 있는 부품은 없습니다. 1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4060으로 변경2. 케이스만 화이트로 변경한다면 외부는 화이트 색상에 내부는 블랙 프레임이 적용되어 있고 최근까지도 6만원 근방에서 판매중이다가 가격을 대폭인하하여 가성비가 월등히 좋아진 대양케이스 FREEZER X MINI 강화유리 화이트 (미니타워)로 변경3. 이전 글에서 방송 및 그림 작업이라고 해서 7700으로 추천을 드렸었는데 가격이 많이 줄었기에 CPU를 높이는 것도 고려를 해 보시기 바랍니다.참고해서 합리적인 구매하세요.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS EX B650M-V7 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB상세보기[SSD]장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자상세보기[케이스]대양케이스 FREEZER X MINI 강화유리 화이트 (미니타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX600 80PLUS STANDARD상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]케이엘시스템 KLcom M.2 2280 방열판 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!쿨러.튜닝.조명.액세서리는 높은 NVMe SSD의 온도를 제어해 줄 가성비 좋은 SSD 방열판",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "203,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS EX B650M-V7 대원씨티에스",
+            "가격": "137,680원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,860원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB",
+            "가격": "424,040원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 삼성전자 1TB",
+            "가격": "111,790원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "대양케이스 FREEZER X MINI 강화유리 화이트",
+            "가격": "70,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX600 80PLUS STANDARD",
+            "가격": "39,650원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,390원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "케이엘시스템 KLcom M.2 2280 방열판",
+            "가격": "1,260원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1312230원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS EX B650M-V7 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB",
+    "SSD": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX600 80PLUS STANDARD",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 355,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 22891
+}

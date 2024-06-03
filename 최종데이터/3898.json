@@ -1,0 +1,25 @@
+{
+    "quote_number": "3898",
+    "quote_title": "AMD 라이젠5-4세대 5600X",
+    "date_create": "2024.3.6",
+    "cpu_gpu_combinations": "#NAME?",
+    "quotation_summary": " AMD 라이젠5-4세대 5600X# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "현재 메모리 조합이 8기가 2개면 삼성전자 DDR4-3200 (8GB) PC4-25600 2개 추가해서 32기가로 만들어 주시고 16기가 1개면 16기가 1개 더 추가해서 사용해 보시기 바랍니다.메모리를 늘이고 포맷을 한번 하고 작업 진행을 하는데도 버벅이면 그때 새로 구매하는 것을 고려해 보시기 바랍니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[메모리]삼성전자 DDR4-3200 (8GB) PC4-25600 x 2 개상세보기[메모리]삼성전자 DDR4-3200 (16GB) PC4-25600상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "메모리": {
+            "제품명": "삼성전자 DDR4-3200 PC4-25600 16GB",
+            "가격": "43,190원",
+            "수량": "1"
+        }
+    },
+    "total_price": "43190원",
+    "Memory": "삼성전자 DDR4-3200 (8GB) PC4-25600 x 2 개",
+    "cpu_score": null,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": null,
+    "gpu_benchmarkscore": null
+}

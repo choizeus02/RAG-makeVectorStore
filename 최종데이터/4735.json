@@ -1,0 +1,76 @@
+{
+    "quote_number": "4735",
+    "quote_title": "인텔 코어i5-14세대 14500 + 지포스 RTX 4060",
+    "date_create": "2024.3.26",
+    "cpu_gpu_combinations": "코어i5-14500 + RTX 4060 조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14500 + 지포스 RTX 4060# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "본체 2대와 모니터 3대 그리고 윈도우 2개를 포함해서는 200만원 언더 구성은 불가능합니다.정확히 한대당 필요한 모니터와 가격대를 알려주셔아 조언을 할 수가 있습니다.현재 추천드리는 구성은 1대분에 모니터 3대를 포함한 시스템입니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (정품)상세보기[메인보드]ASRock B760M PG LIGHTNING 디앤디컴상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X420A 블랙 (미들타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX600 80PLUS STANDARD상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]크로스오버 Q32V75 QHD IPS 75 무결점 x 2 개상세보기[모니터]필립스 242S1 IPS 멀티스탠드 시력보호 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14500",
+            "가격": "330,740원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING 디앤디컴",
+            "가격": "139,360원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,490원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB",
+            "가격": "424,530원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,990원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X420A 블랙",
+            "가격": "31,310원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX600 80PLUS STANDARD",
+            "가격": "39,900원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,460원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "필립스 242S1 IPS 멀티스탠드 시력보호 무결점",
+            "가격": "184,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1575500원",
+    "CPU": "인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (정품)",
+    "Motherboard": "ASRock B760M PG LIGHTNING 디앤디컴",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX600 80PLUS STANDARD",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 247,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32733,
+    "gpu_benchmarkscore": 22891
+}

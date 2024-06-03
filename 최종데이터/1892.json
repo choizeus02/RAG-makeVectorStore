@@ -1,0 +1,71 @@
+{
+    "quote_number": "1892",
+    "quote_title": "[최상급/390만] 13700K + 4080_RGB White 리안리 Snow white edition",
+    "date_create": "2024.1.17",
+    "cpu_gpu_combinations": "코어i7-13700KF + RTX 4080 조합",
+    "quotation_summary": " 1. 13700K + 4080 최고의 조합입니다.2. 나만의 PC를 가지고 싶은 유저에게 적합한 견적입니다.3. 무선 장비 사용에 대응했습니다.# 400만# 리안리# 스노우 화이트",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "AAA게임까지 모두 대응 가능한 데스크탑 입니다.최고의 CPU + 최고의 VGA 조합입니다.그림과 같은 외형은 하나의 예술작품 입니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i7-13세대 13700KF (랩터레이크)(벌크)상세보기[메인보드]ASRock B760M 스틸레전드 WiFi D5 에즈윈상세보기[메모리]G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB White상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (2TB)상세보기[케이스]리안리 PC-O11D Mini Snow (미니타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)상세보기[CPU쿨러]리안리 GALAHAD II Trinity SL-INF 360 (WHITE)상세보기[쿨러.튜닝.조명.액세서리]리안리 UNI FAN SL-INF 120 RGB WHITE (3PACK/Controller)상세보기[쿨러.튜닝.조명.액세서리]리안리 UNI FAN SL-INF 120 RGB WHITE (1PACK)상세보기[쿨러.튜닝.조명.액세서리]리안리 UNI FAN SL-INF 140 RGB WHITE (1PACK) x 2 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메인보드는 후면에 엠비언트라이트가 인상적이며, M.2 방열판에 장난 없습니다. 전원부 또한 i7 CPU에 대항하는 빵빵한 구성을 갖추고 있습니다.메모리는 튜닝 메모리 명가 GSKILL 제품입니다. 블랙&화이트 방열판과 위로 빛나는 하얀 RGB가 일품입니다.그래픽카드는 옆선 간지가 일품입니다. 우수한 냉각, 성능 그리고 AS를 보장합니다.SSD는 PCIe 4.0 3대장 입니다.케이스는 ATX까지 가능한 스노우 화이트 제품입니다. 커스터마이징에 최적화 되어 있습니다.파워서플라이는 고주파 최고 등급의 AS 정책CPU쿨러는 리안리의 3열 수랭 제품입니다. 성능도 우수하지만 외형이 더 이쁩니다.쿨러.튜닝.조명.액세서리는 RGB 띠가 우수한 성능마저 가립니다. 컨트롤러 포함 제품입니다.쿨러.튜닝.조명.액세서리는 RGB 띠가 우수한 성능마저 가립니다.쿨러.튜닝.조명.액세서리는 RGB 띠가 우수한 성능마저 가립니다.조립PC관련는 믿고 맡길 수 있는 서비스조립PC관련는 수랭은 전문가의 손에 맡겨져야 합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-13세대 13700KF",
+            "가격": "531,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M 스틸레전드 WiFi D5 에즈윈",
+            "가격": "220,620원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지) 32GB",
+            "가격": "196,990원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB White",
+            "가격": "2,226,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 2TB",
+            "가격": "226,310원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "리안리 PC-O11D Mini Snow",
+            "가격": "163,939원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE",
+            "가격": "159,408원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "리안리 GALAHAD II Trinity SL-INF 360",
+            "가격": "258,390원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "리안리 UNI FAN SL-INF 140 RGB WHITE x 2 개",
+            "가격": "47,590원",
+            "수량": "2"
+        }
+    },
+    "total_price": "4078737원",
+    "CPU": "인텔 코어i7-13세대 13700KF (랩터레이크)(벌크)",
+    "Motherboard": "ASRock B760M 스틸레전드 WiFi D5 에즈윈",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB White",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (2TB)",
+    "Memory": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)",
+    "CPU Cooler": "리안리 GALAHAD II Trinity SL-INF 360 (WHITE)",
+    "cpu_score": 136,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 46542,
+    "gpu_benchmarkscore": 34625
+}

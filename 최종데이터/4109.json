@@ -1,0 +1,76 @@
+{
+    "quote_number": "4109",
+    "quote_title": "코어i5-14세대 14600K + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.3.10",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 코어i5-14세대 14600K + 지포스 RTX 4070 Ti SUPER# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 14코어 20스레드로 작업과 게임하기에 좋은 14600K로 구성2. 메인보드는 900A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 MSI MAG B760M 박격포 II로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 구성4. 그래픽카드는 1티어 AS 중에서도 최상위로 평가받으면서 가격적인 메리트도 있는 이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB로 구성5. 언리얼 엔진의 경우 OS 드라이브와 데이터 드라이브를 나눠서 구성하는 것이 일반적이라 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 제품을 OS용으로는 512GB 데이터용으로는 1TB로 구성6. 케이스는 식스팬 기본 장착에 메인보드 CPU 장착 후면부에 120mm 팬을 추가 장착하여 CPU의 온도를 효과적으로 낮출 수 있도록 설계되어 최고 수준의 쿨링 효율을 보여주는 세븐 팬 제품인 잘만 N7 PLUS Black (미들타워)로 구성LED OFF도 가능하고 동시에 팬 속도 조절도 되는 장점이 아주 많은 제품입니다.7. 파워는 세계 최대의 글로벌 제조사인 CWT에서 OEM 생산 압도적인 전압변동률을 제공하여 전압 출렁임 없이 안정적인 시스템을 만들어 줄 MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)로 구성8. CPU쿨러는 케이스와 잘 어울리는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 가성비가 가장 좋은 PentaWave S06D LE ARGB로 구성9. 모니터는 27인치 QHD 해상도 165Hz 고주사율 제품인 크로스오버 27GV5Q 패스트165 WQHD 아이세이브 게이밍 무결점으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600K (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB상세보기[SSD]삼성전자 PM9A1 M.2 NVMe 벌크 (512GB)상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]잘만 N7 PLUS Black (미들타워)상세보기[파워서플라이]MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]크로스오버 27GV5Q 패스트165 WQHD 아이세이브 게이밍 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600K",
+            "가격": "433,190원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "212,810원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB",
+            "가격": "1,230,410원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "잘만 N7 PLUS Black",
+            "가격": "39,990원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0",
+            "가격": "144,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,060원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 27GV5Q 패스트165 WQHD 아이세이브 게이밍 무결점",
+            "가격": "205,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2708070원",
+    "CPU": "코어i5-14세대 14600K (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB",
+    "SSD": "삼성전자 PM9A1 M.2 NVMe 벌크 (512GB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 181,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 31768
+}

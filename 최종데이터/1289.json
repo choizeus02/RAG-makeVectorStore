@@ -1,0 +1,66 @@
+{
+    "quote_number": "1289",
+    "quote_title": "7950X3D + RTX 4090 + 화이트",
+    "date_create": "2024.1.11",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "asrock 제조사라면 유통사는 에즈윈 혹은 대원이 AS 평이 조금더 괜찮을 듯 합니다~메모리 5600mhz 32gb는 하이닉스 밖에 없는데가격도 비싸고 인식 해도 5200mhz인식이라그냥 팀그룹이 안정성도 괜찮을 듯 합니다~그래픽카드 AMP AIRO 같은게 오히려 더 상위 모델일텐데가격은 저렴 할 듯 하고~파워 같은경우이런 모델이 가성비 더 좋고 효율도 더 좋고화이트 깔맞춤도 충분히 가능 합니다~아마 DLX 시리즈 케이스 들이 호환이 안된다 합니다만 다 가능한 부분이니문제 없이 장착도 가능 합니다 ^^",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]ASRock B650E 스틸레전드 WiFi 대원씨티에스상세보기[메모리]TeamGroup DDR5-4800 CL40 Elite Plus 블랙 서린 (32GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (2TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]발키리 GL360 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메인보드는 B650 화이트 감성 보드!\nMSI 엣지 다음으로 좋은 선택지!그래픽카드는 찐 화이트 벽돌 감성!\n기가바이트 만의 3+1년 AS!CPU쿨러는 새로나온 끝판왕 수냉!\n성능이면 성능, 저소음이면 저소음까지!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "893,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650E 스틸레전드 WiFi 대원씨티에스",
+            "가격": "355,920원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-4800 CL40 Elite Plus 블랙 서린  32GB",
+            "가격": "124,990원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+            "가격": "2,933,900원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 2TB",
+            "가격": "289,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 화이트",
+            "가격": "95,460원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "215,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5195568원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650E 스틸레전드 WiFi 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (2TB)",
+    "Memory": "TeamGroup DDR5-4800 CL40 Elite Plus 블랙 서린 (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "발키리 GL360 ARGB (WHITE)",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

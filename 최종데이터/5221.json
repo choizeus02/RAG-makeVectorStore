@@ -1,0 +1,76 @@
+{
+    "quote_number": "5221",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + RTX 4070 SUPER",
+    "date_create": "2024.4.10",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + RTX 4070 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 600A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 가성비가 월등히 좋은 ASRock B650M PG Riptide 대원씨티에스로 변경2. 메모리는 규격램과 동일한 클럭인데 렘타이밍 조금 줄이고자 투자하는 것은 비효율적이라고 할 수 있습니다.라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 PATRIOT DDR5-5200 CL42 SIGNATURE (32GB) 2개 64기가로 변경3. 그래픽카드는 1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4070 SUPER로 변경했습니다. 고가의 그래픽카드일수록 추가되는 2년의 무상AS는 아주 큰 메리트가 됩니다.4. SSD는 최근에 출시된 젠4 규격의 끝판왕급 성능 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경5. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로 변경6. CPU쿨러는 소음이 심한 LT720보다는 저소음 쿨러의 대명사인 ARCTIC Liquid Freezer III 360 피씨디렉트로 변경7800X3D는 공랭쿨러로도 온도 제어가 가능한 전성비가 아주 높은 제품이라 수냉쿨러도 저소음인 제품으로 구성하는 것이 좋습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]PATRIOT DDR5-5200 CL42 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]Fractal Design North XL MESH 차콜 블랙 (빅타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]ARCTIC Liquid Freezer III 360 피씨디렉트상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]Fractal Design Dynamic X2 GP-14 PWM x 3 개상세보기[쿨러.튜닝.조명.액세서리]DARKFLASH DVS305 GPU STAND (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기그래픽카드는 RTX 4070과 RTX 4070 Ti 제품 사이에 위치한 라인업이며 길이 234.1mm, 두께 40.2mm의 제원을 가지고 있습니다. 보조전원 커넥터는 12VHPWR 규격이며 구매 후 14일 이내 제품 등록 시 무상 3년 보증에 추가로 2년 확대보증 서비스를 제공하여 오래도록 사용할 수 있습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "529,210원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "214,870원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "PATRIOT DDR5-5200 CL42 SIGNATURE  32GB",
+            "가격": "117,260원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+            "가격": "912,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,690원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Fractal Design North XL MESH 차콜 블랙",
+            "가격": "289,350원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "129,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "ARCTIC Liquid Freezer III 360 피씨디렉트",
+            "가격": "125,000원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,350원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "DARKFLASH DVS305 GPU STAND",
+            "가격": "4,670원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2844140원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "PATRIOT DDR5-5200 CL42 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "ARCTIC Liquid Freezer III 360 피씨디렉트",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

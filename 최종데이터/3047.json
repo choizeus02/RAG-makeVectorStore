@@ -1,0 +1,66 @@
+{
+    "quote_number": "3047",
+    "quote_title": "[라이젠] QHD 고사양 게이밍PC 7800X3D+RTX 4070 Ti SUPER",
+    "date_create": "2024.3.12",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " [라이젠] QHD 고사양 게이밍PC 7800X3D+RTX 4070 Ti SUPER# 게이밍PC# QHD# 고사양# 7800X3D# RTX 4070 Ti SUPER",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 Mr.홍금보 입니다.퀘이사존 다년간 좋은 인지도로 굳게 자리 잡았으며,저렴하다고 제품이 다 좋거나 가성비가 좋은건 아닙니다!합리적인 구매를 하실 수 있게 검증된 제품으로만 판매를 하고 구성을 하고 있으며,기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.믿고 맡겨주신다면, 그에 부응하도록 최선을 다할것을 굳게 약속 드리겠습니다!",
+    "quote_feedback": "라이젠 시스템의 QHD 게이밍PC",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]BRAVOTEC GUARDIAN 3100M V2 타이탄 글래스 (빅타워)상세보기[파워서플라이]마이크로닉스 Classic II 850W 80PLUS GOLD 230V EU 풀모듈러12VHPWR 케이블 제공상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 최강의 게이밍 CPU!메인보드는 가격대비 높은 전원부! 고성능 CPU까지 문제없다!메모리는 무난 무난한 DDR5 메모리!그래픽카드는 A/S 든든한 ZOTAC!SSD는 가성비 PCIe 4.0 SSD!케이스는 높은 호환성 준수한 가격!CPU쿨러는 대장급 쿨러의 가격인하? 가성비 급상승!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "207,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,189,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "BRAVOTEC GUARDIAN 3100M V2 타이탄 글래스",
+            "가격": "83,040원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 850W 80PLUS GOLD 230V EU 풀모듈러12VHPWR 케이블 제공",
+            "가격": "159,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,490원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2454740원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 Classic II 850W 80PLUS GOLD 230V EU 풀모듈러12VHPWR 케이블 제공",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

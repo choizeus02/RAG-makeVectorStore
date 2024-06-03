@@ -1,0 +1,71 @@
+{
+    "quote_number": "3051",
+    "quote_title": "AMD 라이젠5-4세대 5600 + 지포스 RTX 4060",
+    "date_create": "2024.2.16",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 4060 조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600 + 지포스 RTX 4060# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 화이트 컨셉의 1티어 튜닝 램인 TeamGroup T-Force DDR4-3600 CL18 Delta RGB 화이트 패키지 (16GB(8Gx2) x 2 개로 변경2. 케이스는 강화유리처럼 파손 위험없는 풀아크릴 스윙도어 패널에 6개의 기본 팬을 장착하고 LED OFF 기능까지 적용된 보급형 끝판왕급인 3RSYS R240 화이트 (미들타워)로 변경3. CPU쿨러는 케이스와도 잘 어울리는 화이트 색상에 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 3RSYS Socoool RC350 ARGB (WHITE)로 변경4. 윈도우의 경우 Pro 버전은 사실상 개인이 활용할 수 있는 기능은 없다고 보면 됩니다. 개인이 사용하는 경우는 윈도우 11 홈 처음사용자용으로 구성하면 됩니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASRock B550M Pro SE 디앤디컴상세보기[메모리]TeamGroup T-Force DDR4-3600 CL18 Delta RGB 화이트 패키지 (16GB(8Gx2) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB White상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]3RSYS R240 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]3RSYS Socoool RC350 ARGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현재 게임 가성비가 가장 좋은 CPU그래픽카드는 작고 귀엽고 이쁜 정품등록 시 AS 3+2년의 조탁 제품SSD는 젠3 제품 중에서는 5년 무상AS에 성능도 좋고 가격적인 메리트도 있는 SSD파워서플라이는 topower사의 600W 브론즈등급 화이트색상 제품입니다. A/S보증기간 7년을 제공하고 화이트 색상 제품이라 화이트감성 PC에 알맞는 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B550M Pro SE 디앤디컴",
+            "가격": "177,470원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR4-3600 CL18 Delta RGB 화이트 패키지  16GB",
+            "가격": "68,200원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB White",
+            "가격": "446,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS R240 화이트",
+            "가격": "40,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 ARGB",
+            "가격": "22,800원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "160,650원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1270980원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASRock B550M Pro SE 디앤디컴",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB White",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "TeamGroup T-Force DDR4-3600 CL18 Delta RGB 화이트 패키지 (16GB(8Gx2) x 2 개",
+    "Power Supply": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "3RSYS Socoool RC350 ARGB (WHITE)",
+    "cpu_score": 504,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 22891
+}

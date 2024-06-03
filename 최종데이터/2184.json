@@ -1,0 +1,66 @@
+{
+    "quote_number": "2184",
+    "quote_title": "12100 + GTX1650",
+    "date_create": "2024.1.14",
+    "cpu_gpu_combinations": "코어i3-12100F + GTX 1650 조합",
+    "quotation_summary": " 캐주얼 게임용 PC# 캐주얼 게임즐기시는 분들",
+    "quote_person_introduction": "안녕하세요 히릿히릿입니다.열심히 배워가며 견적 올리겠습니다.",
+    "quote_feedback": "고사양의 게임이 아닌 캐주얼한 게임을 즐기시는 분들에게 견적 구성하였고RGB를 최대한 배제 해서 구성하였습니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i3-12세대 12100F (엘더레이크)(벌크)상세보기[메인보드]MSI PRO H610M-E DDR4상세보기[메모리]GeIL DDR4 8G PC4-25600 CL22 PRISTINE x 2 개상세보기[그래픽카드]Colorful 지포스 GTX 1650 토마호크 EX D6 4GB상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]DAVEN AQUA 블랙 (미들타워)상세보기[파워서플라이](FSP) HYPER K 500W 80PLUS Standard 230V EU /파워상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 인텔 12세대 i3 12100 모델메인보드는 무난하게 사용가능한 msi h610 메인보드메모리는 게일 8기가 메모리 듀얼채널 구성그래픽카드는 컬러풀의 토마호크 1650SSD는 성능준수하고 발열적은 하이닉스 p31케이스는 데이븐의 아쿠아 케이스파워서플라이는 믿음직한 FSP의 파워CPU쿨러는 쾌적한 환경을 위해서 과하긴 하지만 쓰리알시스의 tm40쿨러",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i3-12세대 12100F",
+            "가격": "118,980원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI PRO H610M-E DDR4",
+            "가격": "86,480원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "GeIL DDR4 8G PC4-25600 CL22 PRISTINE",
+            "가격": "20,930원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "Colorful 지포스 GTX 1650 토마호크 EX D6 4GB",
+            "가격": "201,230원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN AQUA 블랙",
+            "가격": "28,230원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "HYPER K 500W 80PLUS Standard 230V EU /파워",
+            "가격": "48,500원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "623080원",
+    "CPU": "인텔 코어i3-12세대 12100F (엘더레이크)(벌크)",
+    "Motherboard": "MSI PRO H610M-E DDR4",
+    "Graphic Card": "Colorful 지포스 GTX 1650 토마호크 EX D6 4GB",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "GeIL DDR4 8G PC4-25600 CL22 PRISTINE x 2 개",
+    "Power Supply": "(FSP) HYPER K 500W 80PLUS Standard 230V EU /파워",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 844,
+    "gpu_score": 183,
+    "performance_grade": "저성능",
+    "cpu_benchmarkscore": 14250,
+    "gpu_benchmarkscore": 10149
+}

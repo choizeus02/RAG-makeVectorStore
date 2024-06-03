@@ -1,0 +1,71 @@
+{
+    "quote_number": "4411",
+    "quote_title": "AMD 라이젠9-5세대 7900 (라파엘) + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.3.18",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7900 (라파엘) + 지포스 RTX 4070 Ti SUPER# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2개 64기가로 변경2. 그래픽카드는 1티어 AS중에서도 최상위면서 가격도 착한 이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB로 변경3. 구성하신 DAVEN AQUARIUM 블랙 (미들타워)는 C타입 포트 미적용에 USB 포트도 2개만 제공하고 강판도 얇은 편이라 원가 절감한 티가 많이 나는 케이스입니다.윗분이 추천하는 몬스타 가츠 X520LA 리버스 블랙 (미들타워)는 상단 3열 수냉쿨러 장착이 불가능해서 수냉쿨러와 조합시 조립자체가 안되는 조합이니 꼭 확인을 하시구요.어항케이스 중에서는 압도적인 가성비와 C타입 포트도 제공하는 DARKFLASH DS900 ARGB 강화유리 블랙 (미들타워)로 변경4. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 가성비가 가장 좋은 편에 속하면서 케이스 제조사와 동일해서 깔맞춤까지 가능한 DARKFLASH NEBULA DN-360 ARGB (블랙)으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DS900 ARGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[게이밍헤드셋.스피커.마이크]앱코 ABKONCORE B581 가상 7.1 채널 블루 LED 초경량 게이밍 헤드셋 (정품)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 압도적인 전성비로 인한 말도 안되는 낮은 온도의  12코어 24쓰레드 CPU\n온도 제어가 힘든 고성능 CPU에 있어서 가성비 공랭 CPU쿨러로 온도 제어가 가능한 별종인 제품CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "538,780원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "213,740원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB",
+            "가격": "1,230,410원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DS900 ARGB 강화유리 블랙",
+            "가격": "52,750원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "129,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,340원",
+            "수량": "1"
+        },
+        "게이밍헤드셋.스피커.마이크": {
+            "제품명": "앱코 ABKONCORE B581 가상 7.1 채널 블루 LED 초경량 게이밍 헤드셋",
+            "가격": "21,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2730380원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 107,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 31768
+}

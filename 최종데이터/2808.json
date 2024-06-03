@@ -1,0 +1,71 @@
+{
+    "quote_number": "2808",
+    "quote_title": "인텔 코어i5-14세대 14500 + 지포스 RTX 4060",
+    "date_create": "2024.2.12",
+    "cpu_gpu_combinations": "코어i5-14500 + RTX 4060 조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14500 + 지포스 RTX 4060# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 14코어 20스레드로 사용목적과 금액대에 가장 효율적인 14500 벌크로 구성인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다.2. 메인보드는 드라이버 모스펫 전원부에 히트싱크와 램슬롯 4개가 적용된 ASRock B760M PG LIGHTNING D5 에즈윈으로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 구성4. 그래픽카드는 1티어 AS에 화이트 색상인 이엠텍 지포스 RTX 4060 MIRACLE WHITE D6 8GB로 구성5. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 구성6. 케이스는 강화유리처럼 파손 위험없는 풀아크릴 스윙도어 패널에 6개의 기본 팬을 장착하고 LED OFF 기능까지 적용된 보급형 끝판왕급인 3RSYS R240 화이트 (미들타워)로 구성7. 파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 600W 화이트로 구성8. CPU쿨러는 TDP 250W의 대장급 성능의 듀얼 타워 공랭쿨러로 2만원 중후반대의 말도 안되는 금액대에 출시된 생태파괴종급 제품인 JIUSHARK JF200MINI Crystal (WHITE)로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)상세보기[메인보드]ASRock B760M PG LIGHTNING D5 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4060 MIRACLE WHITE D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS R240 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]JIUSHARK JF200MINI Crystal (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "파워서플라이는 topower사의 600W 브론즈등급 화이트색상 제품입니다. A/S보증기간 7년을 제공하고 화이트 색상 제품이라 화이트감성 PC에 알맞는 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14500",
+            "가격": "334,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING D5 에즈윈",
+            "가격": "157,420원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,450원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 MIRACLE WHITE D6 8GB",
+            "가격": "437,870원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,500원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS R240 화이트",
+            "가격": "40,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "JIUSHARK JF200MINI Crystal",
+            "가격": "28,070원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,670원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1470420원",
+    "CPU": "인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)",
+    "Motherboard": "ASRock B760M PG LIGHTNING D5 에즈윈",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 MIRACLE WHITE D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "JIUSHARK JF200MINI Crystal (WHITE)",
+    "cpu_score": 247,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32733,
+    "gpu_benchmarkscore": 22891
+}

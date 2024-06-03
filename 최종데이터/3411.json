@@ -1,0 +1,76 @@
+{
+    "quote_number": "3411",
+    "quote_title": "AMD 라이젠5-5세대 7600 + 라데온 RX 6800",
+    "date_create": "2024.2.24",
+    "cpu_gpu_combinations": "라이젠5 7600 + RX 6800 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7600 + 라데온 RX 6800# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 금액을 많이 줄였는데 성능은 더 높인 구성입니다.2. 메인보드는 드라이버 모스펫 전원부와 히트싱크가 적용되어 있는 가성비 좋은 ASRock B650M PG Lightning 에즈윈로 변경3. 그래픽카드는 4060 Ti와는 체급 자체가 다른 수준으로 깡성능으로도 3070 Ti를 넘어서는 XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB로 변경AFMF 기능을 켜게되면 4070 Ti급 프레임을 기대할 수 있을 정도로 메리트가 높은 제품입니다.현재 가격대면 얼마전 중고로 한창 인기있었을 때의 광부버전 제품을 구매할 때와 가격차이가 크지 않을 정도로 깡패수준입니다.4. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경했고, 저렴한 방열판도 하나 추가했습니다.5. 케이스는 최대 VGA 장착 350mm까지 지원하는 월등한 가성비의 EDDY A1 RGB MESH 강화유리 (미들타워)로 변경6. 6800은 성능 대비 전성비도 좋아서 정격 650W를 권장파워로 요구합니다.파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 700W로 변경7. CPU쿨러는 싱글타워 끝판왕급 성능에 최근 3만원 대에서 만원 중후반대로 가격을 대폭인하해서 갓성비 중에서도 갓성비라고 할 수 있는 3RSYS TEAMMOST TM40으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[메모리]TeamGroup T-CREATE DDR5-6000 CL48 CLASSIC 패키지 서린 (32GB(16x2))상세보기[그래픽카드]XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]EDDY A1 RGB MESH 강화유리 (미들타워)상세보기[파워서플라이]topower Guardian TOP-700DG 80PLUS BRONZE상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[소프트웨어]Microsoft Office 2021 Home & Student (PKC 한글)상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라파엘 논X 제품의 막내로 높은 전성비와 게임 성능으로 DDR5 시스템 가성비 게이밍 라인의 최강자 CPU그래픽카드는 RTX 4070 바로 아랫 등급!\nRTX 4060 Ti보다 월등히 좋지만 더 좋은 가성비 제품!파워서플라이는  7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "234,070원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,010원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-CREATE DDR5-6000 CL48 CLASSIC 패키지 서린) 32GB",
+            "가격": "144,900원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB",
+            "가격": "507,420원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,890원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "EDDY A1 RGB MESH 강화유리",
+            "가격": "33,380원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-700DG 80PLUS BRONZE",
+            "가격": "75,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Office 2021 Home & Student",
+            "가격": "112,000원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1384670원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup T-CREATE DDR5-6000 CL48 CLASSIC 패키지 서린 (32GB(16x2))",
+    "Power Supply": "topower Guardian TOP-700DG 80PLUS BRONZE",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 312,
+    "gpu_score": 25,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 25024
+}

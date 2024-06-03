@@ -1,0 +1,60 @@
+{
+    "quote_number": "1482",
+    "quote_title": "화이트 감성 디아블로4 풀옵션, 배틀그라운드 풀옵션 게이밍 끝판왕 컴퓨터 반본체 (7800X 3D",
+    "date_create": "2023.10.13",
+    "cpu_gpu_combinations": "라이젠7 7800X3D +  조합",
+    "quotation_summary": " 1. 게이밍 목적의 반본체를 찾으시는 분2. 화이트 감성을 원하시는 분# 게임용# 롤# 로스트아크# 배그# 오버워치# 발로란트# 호그와트# 엘든링# 스팀게임",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 견적맨으로 활동하고 있는 coke-bear 입니다.퀘이사존에서 주로 활동하며 그 외 커뮤니티에서도 간간히 활동하고 있습니다.하드웨어에 관심이 많아 제품을 직접 사용해보기도 하고 주변 지인들 PC 견적부터 조립도 해주다보니PC 구매를 어려워하거나 용도에 맞지 않게 구매하여 불필요한 지출을 하는 경우를 보게 되었습니다.그런 분들께 조금이라도 도움이 되고자 PC 구매자분들께 합리적인 구매를 할 수 있게 견적맨으로 활동하게 되었습니다.",
+    "quote_feedback": "게이밍 끝판왕 반본체를 구매할 예정이면서 화이트 감성 구성을 목표로 하시는 분들을 위한 반본체 입니다.4070 TI나 4080 그래픽카드까지 호환 가능한 850W 골드 등급 화이트 색상 파워를 구성하고 있습니다.전체 부품을 화이트로 구성하였고 메모리의 경우 6000 클럭 화이트 제품 구성으로 감성과 성능 모두 챙기실 수 있습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650 Pro RS 대원씨티에스상세보기[메모리]G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))상세보기[SSD]마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)상세보기[케이스]DARKFLASH DK360 MESH RGB 강화유리 화이트 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 850W 80PLUS GOLD 230V EU 풀모듈러 화이트12VHPWR 케이블 제공상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE WHITE ARGB 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7000번대 제품 중 13900KS 와 게임 성능 동급의 게임이 최강의 CPU 입니다.메인보드는 B650 칩셋의 메인보드 중 전 라인업 사용 가능한 전원부 성능을 가지고 있으며 은색 방열판으로 화이트 감성 구성이 가능한 메인보드입니다.메모리는 지스킬의 6000 클럭 화이트 제품입니다.SSD는 pcie4.0 제품이며 가격대는 pcie3.0 의 p31 보다 저렴한 제품입니다.케이스는 비슷한 가격대 타사 제품들과 비교해보아도 준수한 강판 두께와 충분한 호환성으로 가격 대비 높은 만족도를 주는 케이스입니다.파워서플라이는 750W 골드 등급 이상부터 새제품 교환 정책을 가진 마이크로닉스의 850W 골드 등급 화이트 제품입니다. 12핀 그래픽카드 케이블을 무상 제공하고 있습니다.CPU쿨러는 트윈타워형 공랭쿨러 중 상위권의 쿨링 성능을 가진 피어리쓰 어쎄신 쿨러 화이트 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 Pro RS 대원씨티에스",
+            "가격": "172,490원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지) 32GB",
+            "가격": "196,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS 1TB",
+            "가격": "127,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK360 MESH RGB 강화유리 화이트",
+            "가격": "51,030원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 850W 80PLUS GOLD 230V EU 풀모듈러 화이트12VHPWR 케이블 제공",
+            "가격": "167,340원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+            "가격": "43,710원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1285550원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650 Pro RS 대원씨티에스",
+    "SSD": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)",
+    "Memory": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))",
+    "Power Supply": "마이크로닉스 Classic II 850W 80PLUS GOLD 230V EU 풀모듈러 화이트12VHPWR 케이블 제공",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+    "cpu_score": 225,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": null
+}

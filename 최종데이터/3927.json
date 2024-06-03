@@ -1,0 +1,66 @@
+{
+    "quote_number": "3927",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + RTX 4080 SUPER",
+    "date_create": "2024.3.7",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4080 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + RTX 4080 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 7800X3D는 100MB에 육박하는 L3 캐쉬 메모리로 게임을 박살 내버리는 타입이 제품이라 다른 CPU에 비해서 메모리 클럭의 영향을 덜 받습니다. 5600MHz 규격램과 6000MHz 튜닝램 사이의 성능 차이를 체감하기 어렵구요.또한 대부분 듀얼타워 공랭쿨러로 조립을 할텐데 메모리 슬롯을 모두 가려버려서 메모리가 보이지 않아서 튜닝 메모리의 메리트가 많이 떨어집니다. QVL 리스트 지원여부와 방열판 높이에 따른 쿨링 팬과의 간섭도 고려해야 해서 현 시스템에서는 안정성이 가장 높은 규격램인 TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))로 추천을 드립니다.2. 구성하신 그래픽카드는 현재 유통하는 업체가 많이 없어서 견적왕의 최대 메리트인 견적비교가 원활하지 않습니다. 1티어 AS 중에서도 최상위로 평가받고 가격적인 메리트도 높은 화이트 색상의 이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB로 변경3. SSD는 젠4 규격의 끝판왕급 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경4. 케이스는 최근 가장 핫한 파노라마 뷰 디자인에 압도적인 비주얼과 가성비 그리고 C타입 포트와 하단 타공망 적용으로 쿨링 효율까지 챙긴 몬스타 가츠 X520LA 화이트 (미니타워)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE WHITE ARGB 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "256,640원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+            "가격": "1,585,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "61,940원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+            "가격": "43,243원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2958813원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+    "cpu_score": 225,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 34625
+}

@@ -1,0 +1,76 @@
+{
+    "quote_number": "4385",
+    "quote_title": "7900  + RTX 4090 (워크스테이션)",
+    "date_create": "2024.3.17",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 4090 조합",
+    "quotation_summary": " 7900  + RTX 4090 (워크스테이션)# 7900  + RTX 4090 (워크스테이션)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7900  + RTX 4090 (워크스테이션)",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB)상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]NEWZEN SKULL 1000XM ATX 3.0 80PLUS GOLD PCIE5상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]크로스오버 27USD35 IPS UHD 4K DCI-P3 하이라이트 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 X 버전에 비해 발열과 전성비를 잡고 나와 저렴한 메인보드와 공랭쿨러와 사용 가능하고 12코어 24스레드로 뛰어난 작업 성능을 자랑하는 라이젠9 CPU입니다.메인보드는 14+2+1페이즈최대 840A(60A)의 전원부에 뛰어난 가성비와 ATX 사이즈로 호환성까지 뛰어난 보드입니다.메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 RTX 4000번대 최상위 제품인 RTX 4090입니다. GIGABYTE 그래픽카드는 구입 후 30일 이내 홈페이지 등록 시 3년무상보증에 1년을 더 연장하여 총 4년의 무상 서비스를 제공합니다.케이스는 상단 3열 수냉 장착 가능한 가성비 좋은 케이스입니다.파워서플라이는 퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책도 동일하고 가격대도 합라적이라 가성비 좋게 구성하시기 좋습니다.CPU쿨러는 대장급 공랭 중 뛰어난 정숙성과 성능을 겸비한 쿨러입니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "538,780원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "152,670원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46 16GB",
+            "가격": "63,520원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현",
+            "가격": "2,929,470원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 1TB",
+            "가격": "129,690원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 1000XM ATX 3.0 80PLUS GOLD PCIE5",
+            "가격": "194,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 27USD35 IPS UHD 4K DCI-P3 하이라이트 무결점",
+            "가격": "269,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4545860원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 제이씨현",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB)",
+    "Power Supply": "NEWZEN SKULL 1000XM ATX 3.0 80PLUS GOLD PCIE5",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 107,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 38694
+}

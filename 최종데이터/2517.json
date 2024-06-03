@@ -1,0 +1,66 @@
+{
+    "quote_number": "2517",
+    "quote_title": "13400F + 4060 Ti  작업 및 FHD 게이밍",
+    "date_create": "2024.2.4",
+    "cpu_gpu_combinations": "코어i5-13400F + RTX 4060 Ti 조합",
+    "quotation_summary": " 13400F + 4060 Ti  작업 및 FHD 게이밍# 13400F + 4060 Ti  작업 및 FHD 게이밍",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "13400F + 4060 Ti  작업 및 FHD 게이밍",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13400F (랩터레이크)(벌크)상세보기[메인보드]ASRock B760M PG LIGHTNING D5 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4060 Ti STORM X Dual OC D6 8GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]3RSYS J540 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 갓서린에서 유통하는 팀그룹 DDR5 5600 클럭 메모리입니다.SSD는 PCIE4.0 대역폭 상급 SSD파워서플라이는 가성비 좋은 쿨러마스터의 브론즈 등급 제품으로 대양에서 유통해서 AS도 좋습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13400F",
+            "가격": "251,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING D5 에즈윈",
+            "가격": "157,420원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 Ti STORM X Dual OC D6 8GB",
+            "가격": "554,040원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS J540",
+            "가격": "31,800원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1443760원",
+    "CPU": "인텔 코어i5-13세대 13400F (랩터레이크)(벌크)",
+    "Motherboard": "ASRock B760M PG LIGHTNING D5 에즈윈",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 Ti STORM X Dual OC D6 8GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 399,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 25232,
+    "gpu_benchmarkscore": 22891
+}

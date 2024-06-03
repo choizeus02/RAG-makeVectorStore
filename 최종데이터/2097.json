@@ -1,0 +1,58 @@
+{
+    "quote_number": "2097",
+    "quote_title": "언리얼5 개발용 반본체 / 7950x / 32GB RAM / 2TB SSD / 4TB HDD",
+    "date_create": "2024.3.1",
+    "cpu_gpu_combinations": "라이젠9 7950X3D +  조합",
+    "quotation_summary": " 1. 7950X 기반으로 별도 설정없이도 안정적인 성능2. 쿨링 및 스토리지 모두 여유있는 구성# 그래픽카드를 따로 보유중인 언리얼5 작업용 반본체를 찾는 분들께",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "파워 정격 850W로 4070 Ti ~ 4080까지 사용 가능한 반본체 구성입니다.언리얼 엔진 5에 아주 안정적인 7950X 기반 구성입니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[데스크탑 HDD]Toshiba 4TB N300 HDWQ140 (SATA3/7200/128M)상세보기[케이스]BRAVOTEC GUARDIAN 3100M V2 타이탄 글래스 (빅타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)상세보기[CPU쿨러]발키리 V360 ARGB (BLACK)상세보기[이벤트특가][SSD + RAM] 마이크론 Crucial T500 2TB + Crucial DDR5-5600 (32GB(16Gx2)) 패키지 대원씨티에스상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 P코어로만 이루어진 고성능 CPU메인보드는 가성비 최고의 하이엔드 CPU사용 가능 메인보드데스크탑 HDD는 NAS용으로 나온 안정성 최고케이스는 가성비 최강의 빅타워파워서플라이는 PCIE 5 지원하는 AS 1티어 Superflower의 정격 850W 제품CPU쿨러는 현존 360 사이즈 제품중에서는 최고라 불러도 될 제품이벤트특가는 T500 + 32GB 메모리가 이 가격이라면 굿!조립PC관련는 -조립PC관련는 -",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "892,970원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "147,900원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 4TB N300 HDWQ140",
+            "가격": "179,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "BRAVOTEC GUARDIAN 3100M V2 타이탄 글래스",
+            "가격": "83,040원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK",
+            "가격": "154,407원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 V360 ARGB",
+            "가격": "308,700원",
+            "수량": "1"
+        },
+        "SSD + RAM": {
+            "제품명": "마이크론 Crucial T500 2TB + Crucial DDR5-5600 패키지 대원씨티에스 2TB",
+            "가격": "183,290원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1949307원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)",
+    "CPU Cooler": "발키리 V360 ARGB (BLACK)",
+    "cpu_score": 63,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": null
+}

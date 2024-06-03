@@ -1,0 +1,71 @@
+{
+    "quote_number": "3147",
+    "quote_title": "14900KF + RTX 4090(2WAY) (딥러닝 워크스테이션)",
+    "date_create": "2024.2.18",
+    "cpu_gpu_combinations": "코어i9-14900KF + RTX 4090 조합",
+    "quotation_summary": " 14900KF + RTX 4090(2WAY) (딥러닝 워크스테이션)# 14900KF + RTX 4090(2WAY) (딥러닝 워크스테이션)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14900KF + RTX 4090(2WAY) (딥러닝 워크스테이션)",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900KF (랩터레이크 리프레시) (정품)상세보기[메인보드]ASUS ProArt Z790-CREATOR WIFI 인텍앤컴퍼니상세보기[메모리]패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 4 개상세보기[그래픽카드]MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 x 2 개상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[데스크탑 HDD]Toshiba 4TB N300 HDWQ140 (SATA3/7200/128M)상세보기[케이스]3RSYS T810 Quiet 블랙 (빅타워)상세보기[파워서플라이]HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)상세보기[CPU쿨러]발키리 GL360 ARGB (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 인텔 14세대 최상급 CPU입니다.메인보드는 16+1페이즈 1120A(70A)의 전원부에 PCIe 5.0 X 16 포트 X2개 지원, 썬더볼트지원SSD는 하이닉스의 PCIE4.0 대역폭 SSD입니다. 176단 낸드로 뛰어난 전성비를 자랑합니다.데스크탑 HDD는 도시바의 안정성이 뛰어난 나스용 하드입니다파워서플라이는 파워는 3대장 브랜드인 FSP의 고용량 ATX 3.0 파워CPU쿨러는 360 규격 수냉 중 최상급 수냉입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900KF",
+            "가격": "764,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ProArt Z790-CREATOR WIFI 인텍앤컴퍼니",
+            "가격": "739,600원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE x 4 개 32GB",
+            "가격": "121,400원",
+            "수량": "4"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 x 2 개",
+            "가격": "2,996,880원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 4TB N300 HDWQ140",
+            "가격": "179,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS T810 Quiet 블랙",
+            "가격": "132,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "HYDRO PTM PRO 1650W Platinum ATX3.0",
+            "가격": "555,490원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        }
+    },
+    "total_price": "9179253원",
+    "CPU": "인텔 코어i9-14세대 14900KF (랩터레이크 리프레시) (정품)",
+    "Motherboard": "ASUS ProArt Z790-CREATOR WIFI 인텍앤컴퍼니",
+    "Graphic Card": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 x 2 개",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 4 개",
+    "Power Supply": "HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)",
+    "CPU Cooler": "발키리 GL360 ARGB (BLACK)",
+    "cpu_score": 56,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 38694
+}

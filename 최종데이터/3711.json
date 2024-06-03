@@ -1,0 +1,76 @@
+{
+    "quote_number": "3711",
+    "quote_title": "7700 + 4070 SUPER QHD + 워크스테이션",
+    "date_create": "2024.3.2",
+    "cpu_gpu_combinations": "라이젠7 7700 + RTX 4070 조합",
+    "quotation_summary": " 7700 + 4070 SUPER QHD + 워크스테이션# 7700 + 4070 SUPER QHD + 워크스테이션",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7700 + 4070 SUPER QHD + 워크스테이션",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7700 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (32GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 Gaming OC D6X 12GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]1stPlayer T7 블랙 (미들타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]크로스오버 27GFA5 IPS 165 아이세이브 게이밍 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 8코어 16스레드의 라이젠7메인보드는 12+2+1페이즈 최대 600A(50A)의 준수한 전원부의 라이젠 보드입니다SSD는 PCIe4.0 최상급 성능의 SSD입니다.케이스는 전면 TYPE-C 포트 지원에 그래픽카드 지지대 기본 구성으로 구성도 좋고, 탈부착형 먼지 필터로 관리도 용이한 가성비 뛰어난 케이스입니다.파워서플라이는 브론즈 효율에 PCIE5 규격으로 가격대도 저렴한 가성비 좋은 마이크로닉스 파워입니다.CPU쿨러는 대장급 공랭 중 뛰어난 정숙성과 성능을 겸비한 쿨러입니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.모니터는 165Hz 고주사율에 IPS 패널에 350cd 밝기로 색감도 좋고 가격대도 좋아 가성비가 뛰어나 해당 제품으로 구성 추천드립니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7700",
+            "가격": "402,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "213,180원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  32GB",
+            "가격": "119,450원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 Gaming OC D6X 12GB 피씨디렉트",
+            "가격": "988,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,820원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7 블랙",
+            "가격": "39,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5",
+            "가격": "67,900원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,480원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,570원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 27GFA5 IPS 165 아이세이브 게이밍 무결점",
+            "가격": "169,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2461330원",
+    "CPU": "AMD 라이젠7-5세대 7700 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 Gaming OC D6X 12GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (32GB) x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 209,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 35970,
+    "gpu_benchmarkscore": 31768
+}

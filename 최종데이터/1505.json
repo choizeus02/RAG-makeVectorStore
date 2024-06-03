@@ -1,0 +1,71 @@
+{
+    "quote_number": "1505",
+    "quote_title": "13700K + RTX 4080 조합 QHD 게이밍 or 영상편집 등 작업용",
+    "date_create": "2024.1.28",
+    "cpu_gpu_combinations": "코어i7-14700KF + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 14700K + RTX 4070 ti super  조합 QHD 환경에서  게임을 즐기실 분들이나 영상편집 등 작업용으로도 복합적으로 사용하실 분들을 위한 견적입니다.# 13700K + RTX 4080 조합 QHD 환경에서  게임을 즐기실 분들이나 영상편집 등 작업용으로도 복합적으로 사용하실 분들을 위한 견적입니다.",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14700K + RTX 4070 ti super 조합 QHD 환경에서  게임을 즐기실 분들이나 영상편집 등 작업용으로도 복합적으로 사용하실 분들을 위한 견적입니다.7",
+    "computer_estimate_data": "[CPU]인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]Antec P20CE ELITE 6FAN METAL MESH SOLID (미들타워)상세보기[파워서플라이]맥스엘리트 MAXELITE MAXWELL COUNT 850W 80PLUS GOLD 풀모듈러 ATX 3.0 (PCIE5)상세보기[CPU쿨러]발키리 GL360 ARGB (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메모리는 팀그룹의 DDR5 5600 패키지입니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-14세대 14700KF",
+            "가격": "529,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "124,800원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB",
+            "가격": "1,289,780원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec P20CE ELITE 6FAN METAL MESH SOLID",
+            "가격": "107,100원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "맥스엘리트 MAXELITE MAXWELL COUNT 850W 80PLUS GOLD 풀모듈러 ATX 3.0",
+            "가격": "144,200원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,730원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3099633원",
+    "CPU": "인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "맥스엘리트 MAXELITE MAXWELL COUNT 850W 80PLUS GOLD 풀모듈러 ATX 3.0 (PCIE5)",
+    "CPU Cooler": "발키리 GL360 ARGB (BLACK)",
+    "cpu_score": 98,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 31768
+}

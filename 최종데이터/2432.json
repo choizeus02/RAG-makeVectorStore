@@ -1,0 +1,81 @@
+{
+    "quote_number": "2432",
+    "quote_title": "AMD 라이젠5-5세대 7500F (라파엘) + 라데온 RX 7800 XT",
+    "date_create": "2024.2.3",
+    "cpu_gpu_combinations": "라이젠5 7500F + RX 7800 XT 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F (라파엘) + 라데온 RX 7800 XT# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 해상도가 높아질수록 CPU의 개입보다는 그래픽카드의 개입이 더 커지는 환경이 됩니다. 7500F면 QHD해상도에서 충분한 퍼포먼스를 제공하기에 그대로 구성하면 되구요.2. 메인보드는 3개의 5V ARGB 헤더를 제공하기도 하고 데이지 체인 방식의 시스템 팬을 구성해서 헤더가 모자라거나 하지는 않습니다.3. 그래픽카드는 동일한 트리플 팬 제품이면서 가격적인 메리트가 높은 PowerColor 라데온 RX 7800 XT Hellhound D6 16GB로 변경4. 모니터는 중소기업 중에서는 인지도가 가장 높은 편으로 27인치 QHD 165Hz 고주사율 제품인 크로스오버 27GV5Q 패스트165 WQHD 아이세이브 게이밍 무결점으로 변경5. 나머지는 그대로 구성하시면 되겠습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]PowerColor 라데온 RX 7800 XT Hellhound D6 16GB상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]리안리 PC-O11D EVO RGB Black (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]리안리 GALAHAD II LCD SL-INF 360 (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]크로스오버 27GV5Q 패스트165 WQHD 아이세이브 게이밍 무결점상세보기[쿨러.튜닝.조명.액세서리]리안리 UNI FAN SL-INF 120 RGB 리버스 BLACK (1PACK)상세보기[쿨러.튜닝.조명.액세서리]리안리 UNI FAN TL LCD 120 리버스 (컨트롤러/3팩, BLACK)상세보기[쿨러.튜닝.조명.액세서리]3RSYS 빙하 G5 메모리방열판 (BLACK) x 2 개상세보기[쿨러.튜닝.조명.액세서리]Antec GPU HOLDER RTX40 (Black)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "207,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "PowerColor 라데온 RX 7800 XT Hellhound D6 16GB",
+            "가격": "713,450원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "리안리 PC-O11D EVO RGB Black",
+            "가격": "259,190원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "134,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "리안리 GALAHAD II LCD SL-INF 360",
+            "가격": "454,320원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,690원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 27GV5Q 패스트165 WQHD 아이세이브 게이밍 무결점",
+            "가격": "205,000원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "Antec GPU HOLDER RTX40",
+            "가격": "10,360원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2622890원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "PowerColor 라데온 RX 7800 XT Hellhound D6 16GB",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "리안리 GALAHAD II LCD SL-INF 360 (BLACK)",
+    "cpu_score": 355,
+    "gpu_score": 11,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 29006
+}

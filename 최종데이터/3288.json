@@ -1,0 +1,71 @@
+{
+    "quote_number": "3288",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.2.21",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 그래픽카드인 GIGABYTE 지포스 RTX 4070 Ti AERO OC V2 D6X 12GB 피씨디렉트는 현재 유통하는 업체가 없어서 견적왕의 최대 메리트인 견적비교가 되지 않습니다.1티어 AS면서 화이트 컨셉인 갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB로 변경2. SSD는 1TB 2개보다는 2TB 1개로 구성하는 것이 훨씬 효율적이지만 꼭 2개로 구성을 해야 한다면 젠4 규격의 동일 제품 2개로 구성하는 것이 속도가 가장 빠릅니다.젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경3. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 변경4. 구성하신 케이스는 후면 팬이 일반 논LED 제품입니다. 내부의 모든 팬을 동기화 시키기 위해서는 후면 팬도 교체를 하는 것이 좋습니다. 구성하신 리버스 팬과 동일한 제품군 정방향 팬인 3RSYS Silence GI 120 ARGB (WHITE) 1개 더 추가해서 후면에 교체하면 됩니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup T-Force DDR5-5600 CL36 Delta RGB 화이트 패키지 (32GB(16Gx2)) 서린상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB) x 2 개상세보기[케이스]HYTE Y60 스노우 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool 라니 XY-360 Quiet (WHITE)상세보기[쿨러.튜닝.조명.액세서리]3RSYS Silence GI 120 리버스 (WHITE) x 2 개상세보기[쿨러.튜닝.조명.액세서리]3RSYS Silence GI 120 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,380원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,880원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-5600 CL36 Delta RGB 화이트 패키지) 서린 32GB",
+            "가격": "158,400원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB",
+            "가격": "1,322,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 x 2 개 1TB",
+            "가격": "242,940원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "HYTE Y60 스노우 화이트",
+            "가격": "279,400원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool 라니 XY-360 Quiet",
+            "가격": "162,230원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "3RSYS Silence GI 120 ARGB",
+            "가격": "14,400원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3388920원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB) x 2 개",
+    "Memory": "TeamGroup T-Force DDR5-5600 CL36 Delta RGB 화이트 패키지 (32GB(16Gx2)) 서린",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool 라니 XY-360 Quiet (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

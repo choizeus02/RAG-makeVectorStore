@@ -1,0 +1,66 @@
+{
+    "quote_number": "1527",
+    "quote_title": "4K 올게임 풀옵션 게이밍 컴퓨터(디아블로4 풀옵션, 호그와트 레거시 풀옵션, 배틀그라운드 풀옵션, 엘든링 풀옵션, 레데리 풀옵션)-(7800X3D, RTX 4090)",
+    "date_create": "2023.12.26",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+    "quotation_summary": " 1. 4K 해상도를 사용하시는 분2. 게이밍 머신을 찾으시는 분3. 옵션타협따윈 없는 풀옵션을 원하시는 분# 4K 올게임 풀옵션 게이밍 컴퓨터(디아블로4 풀옵션# 호그와트 레거시 풀옵션# 배틀그라운드 풀옵션# 엘든링 풀옵션# 레데리 풀옵션)",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 견적맨으로 활동하고 있는 coke-bear 입니다.퀘이사존에서 주로 활동하며 그 외 커뮤니티에서도 간간히 활동하고 있습니다.하드웨어에 관심이 많아 제품을 직접 사용해보기도 하고 주변 지인들 PC 견적부터 조립도 해주다보니PC 구매를 어려워하거나 용도에 맞지 않게 구매하여 불필요한 지출을 하는 경우를 보게 되었습니다.그런 분들께 조금이라도 도움이 되고자 PC 구매자분들께 합리적인 구매를 할 수 있게 견적맨으로 활동하게 되었습니다.",
+    "quote_feedback": "게이밍 종결 CPU인 7800X 3D와 4K 게이밍을 가능하게 하는 RTX 4090 그래픽카드 구성의 게이밍 컴퓨터 입니다.4K 해상도의 모니터로 쾌적한 환경에 게임을 즐길 수 있는 PC 구성입니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB J 패키지 (32GB(16Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB상세보기[SSD]마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)상세보기[케이스]DARKFLASH DLX4000 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)상세보기[CPU쿨러]PentaWave Z06D (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7000번대 제품 중 13900KS 와 게임 성능 동급의 게임이 최강의 CPU 입니다.메인보드는 b650 칩셋의 메인보드 중 7950x 까지 커버 가능하여 추후 am5 소켓 지원하는 신제품 사용시에도 재사용 가능한 성능의 메인보드 입니다.메모리는 지스킬의 6000 클럭 XMP 메모리 입니다.그래픽카드는 AS 3대장인 이엠텍의 4090 제품입니다.SSD는 pcie4.0 제품이며 가격대는 pcie3.0 의 p31 보다 저렴한 제품입니다.케이스는 다크 플래쉬의 깔끔한 블랙 색상의 빅타워 케이스 입니다. 모든 면에서 호환성이 매우 좋은 편이라 어떤 부품 구성에서도 문제가 없으며 측면 라디에이터와 상단 라디에이터를 동시에 사용 가능하다는 장점이 있는 빅타워 케이스 입니다.파워서플라이는 국내 파워 회사 중 유일하게 고주파 발생까지도 무제한 새제품 교환 정책을 가진 슈퍼플라워의 1000w 플래티넘 제품입니다.\n타사의 경우 atx 3.0 케이블 제품으로 추가 금액을 받는 것과는 달리 atx 3.0 케이블을 무상증정하고 있어 추천드립니다.CPU쿨러는 트윈타워형 공랭쿨러 중 가장 쿨링 성능이 좋은 rc1800을 대체 가능한 쿨링 성능을 가진 트윈타워형 공랭쿨러 입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "147,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB J 패키지) 32GB",
+            "가격": "187,000원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+            "가격": "2,874,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS 1TB",
+            "가격": "127,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX4000 MESH 강화유리 블랙",
+            "가격": "102,330원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK",
+            "가격": "205,402원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z06D",
+            "가격": "56,910원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4228382원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+    "SSD": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)",
+    "Memory": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB J 패키지 (32GB(16Gx2))",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)",
+    "CPU Cooler": "PentaWave Z06D (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 38694
+}

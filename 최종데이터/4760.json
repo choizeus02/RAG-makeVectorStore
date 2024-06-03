@@ -1,0 +1,76 @@
+{
+    "quote_number": "4760",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4080 SUPER",
+    "date_create": "2024.3.27",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4080 SUPER 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4080 SUPER# 방송용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 화이트 컨셉인데 그래픽카드는 1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4080 SUPER 화이트로 변경했습니다. 고가의 그래픽카드일수록 추가되는 2년의 무상AS는 아주 큰 메리트가 됩니다.2. . 구성하신 케이스인 MONTECH KING 95 PRO 화이트 (미들타워)는 튜닝에 특화된 어항케이스입니다. 튜닝하라고 만들어 놓은 케이스라 상단에 3열 수냉쿨러를 장착할 때 튜닝이 극대화됩니다. 솔직히 이런 케이스에 공랭쿨러를 장착하는 것은 정말 어울리지 않습니다.https://blog.naver.com/zoro730321/223310743701동일한 제품 블루 직접 리뷰를 했었는데 상단에 3열 수냉쿨러를 장착해서 세팅을 한 모습입니다.공랭쿨러 대신 가장 저렴한 화이트 색상의 수냉쿨러인 COOLMAX AID W360 ARGB WHITE로 변경했고 라딩에이터만 사용하면 됩니다. 위 주소에 있는 세팅도 마찬가지로 동일한 수냉쿨러 블랙 색상에 쿨링 팬만 변경해서 깔맞춤을 했습니다.3. 라디에이터에 장착할 쿨링 팬은 RX 리버스 팬이 아니라 AX 정방향 팬 3개를 장착해 주면 됩니다.MONTECH KING 95 PRO 화이트 (미들타워)는 꼭 상단 3열 수냉쿨러를 장착하는 것을 강추합니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (32GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (2TB)상세보기[데스크탑 HDD]Western Digital 4TB Ultrastar DC HC310 패키지 (SATA3/7200/256M)상세보기[케이스]MONTECH KING 95 PRO 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]COOLMAX AID W360 ARGB WHITE상세보기[쿨러.튜닝.조명.액세서리]MONTECH AX120 PWM ARGB (WHITE) x 3 개상세보기[쿨러.튜닝.조명.액세서리]조이쿨 RGB 5V 3P 1:3상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "890,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "256,640원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  32GB",
+            "가격": "124,740원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White",
+            "가격": "1,614,030원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 2TB",
+            "가격": "226,230원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital 4TB Ultrastar DC HC310 패키지",
+            "가격": "1,320,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "MONTECH KING 95 PRO 화이트",
+            "가격": "233,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "COOLMAX AID W360 ARGB WHITE",
+            "가격": "76,000원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "조이쿨 RGB 5V 3P 1:3",
+            "가격": "1,600원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5007270원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity OC D6X 16GB White",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "COOLMAX AID W360 ARGB WHITE",
+    "cpu_score": 63,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 34625
+}

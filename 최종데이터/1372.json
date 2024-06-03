@@ -1,0 +1,76 @@
+{
+    "quote_number": "1372",
+    "quote_title": "7600 + RTX 3060 Ti + FHD 게이밍",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 3060 Ti 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "삼성렘이 이슈가 좀 있어서 5600mhz 기준 제품으로 마이크론 제품 구성하면 인식 및 활용도 가능한 부분이라 조금 더 좋은 선택지라 보여지고삼성 980이면 Pcie 3.0 기반 D램리스 제품입니다.저 가격이라면 P5 PLUS 1TB 같은 PCie 4.0 기반 D램 있는 제품으로 구성 할 수 있을 겁니다.3060 ti 같은 경우 D6와 D6X 제품이 있는데D6X 제품이 소폭 더 성능이 좋기는 할 겁니다.조텍 트윈 엣지, 갤럭시 PLUS EX 혹은 PLUS SG 정도로 구성하면 AS도 좋을 듯 합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS WiFi 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]AFOX 지포스 RTX 3060 Ti D6 8GB 대원씨티에스상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]DARKFLASH DK1000 MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]FSP HYPER K PRO 700W 80PLUS Standard 230V EU상세보기[CPU쿨러]PCCOOLER PALADIN 400상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]LG전자 울트라기어 27GN65R상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 새로나온 가성비 CPU!\n동급 인텔대비 월등한 게이밍 성능!메인보드는 가성비의 애즈락!\n믿음의 대원 AS!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 대원유통! AS 확실!\n가성비 좋은 3060 Ti!SSD는 이천 특산물! SK 하이닉스!\nPCIe 3.0의 끝판왕!케이스는 기본 140mm 팬 / 팬속도 조절가능! \n가성비 좋고 QC도 좋고!파워서플라이는 FSP 가성비의 새로운 모델!\n안정성 좋고 팬소음 적고!모니터는 27GN650의 리뉴얼 버전!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "239,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS WiFi 대원씨티에스",
+            "가격": "233,790원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "AFOX 지포스 RTX 3060 Ti D6 8GB 대원씨티에스",
+            "가격": "468,310원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK1000 MESH 강화유리 화이트",
+            "가격": "66,200원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "FSP HYPER K PRO 700W 80PLUS Standard 230V EU",
+            "가격": "84,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PCCOOLER PALADIN 400",
+            "가격": "28,990원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,730원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "LG전자 울트라기어 27GN65R",
+            "가격": "328,140원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1891100원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS WiFi 대원씨티에스",
+    "Graphic Card": "AFOX 지포스 RTX 3060 Ti D6 8GB 대원씨티에스",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "FSP HYPER K PRO 700W 80PLUS Standard 230V EU",
+    "CPU Cooler": "PCCOOLER PALADIN 400",
+    "cpu_score": 312,
+    "gpu_score": 106,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 15388
+}

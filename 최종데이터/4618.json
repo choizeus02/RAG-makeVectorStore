@@ -1,0 +1,66 @@
+{
+    "quote_number": "4618",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4080 SUPER",
+    "date_create": "2024.3.23",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4080 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4080 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 와이파이&블루투스가 필요한 경우 전원부도 튼튼하고 가격대비 퀄리티가 최상위 수준의 제품이라 그대로 구성하시면 되겠습니다.2. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있고 가격까지도 저렴한 ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2개로 변경3. 그래픽카드는 1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4080 SUPER로 변경했습니다. 고가의 그래픽카드일수록 추가되는 2년의 무상AS는 아주 큰 메리트가 됩니다.4. SSD는 구성하신 P31은 NVMe 규격에서 속도가 가장 느린 젠3 제품입니다.젠3 보다 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경5. 파워는 구성하신 마이크로닉스 COOLMAX FOCUS II 900W ETA SILVER PCIE5가 가성비는 가장 좋은 편에 속하는 제품입니다.4000번대 16핀 전용 커넥터가 적용된 지포스 그래픽카드의 경우는 12VHPWR 케이블을 지원하는 제품으로 구성하는 것이 보다 안정적으로 사용할 수가 있습니다. 실버 인증에 12VHPWR 케이블이 적용된 제품입니다.6. CPU쿨러는 케이스와도 잘 어울리는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공하는 PentaWave S06D LE ARGB로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]MSI MAG B650 토마호크 WIFI상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity D6X 16GB Black상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]NEWZEN SKULL X50 RGB 4FAN 블랙 (미들타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 900W ETA SILVER PCIE5상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 조텍만의 특별한 3+2 AS!\n4080 SUPER 기준 가성비 갓갓!CPU쿨러는 케이스와도 잘 어울리는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B650 토마호크 WIFI",
+            "가격": "328,930원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,500원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity D6X 16GB Black",
+            "가격": "1,585,170원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "NEWZEN SKULL X50 RGB 4FAN 블랙",
+            "가격": "38,590원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 900W ETA SILVER PCIE5",
+            "가격": "94,790원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,060원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2833220원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "MSI MAG B650 토마호크 WIFI",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity D6X 16GB Black",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 900W ETA SILVER PCIE5",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 225,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 34625
+}

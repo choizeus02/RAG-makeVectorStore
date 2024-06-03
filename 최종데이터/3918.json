@@ -1,0 +1,66 @@
+{
+    "quote_number": "3918",
+    "quote_title": "7950X3D + RTX 4090 (워크스테이션, 딥러닝)",
+    "date_create": "2024.3.6",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": " 7950X3D + RTX 4090 (워크스테이션, 딥러닝)# 7950X3D + RTX 4090 (워크스테이션# 딥러닝)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7950X3D + RTX 4090 (워크스테이션, 딥러닝)",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS TUF Gaming X670E-PLUS WIFI 대원씨티에스상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (32GB) x 2 개상세보기[그래픽카드]MSI 지포스 RTX 4090 슈프림X D6X 24GB 트라이프로져3S상세보기[SSD]삼성전자 990 PRO M.2 NVMe (4TB)상세보기[케이스]마이크로닉스 ML-420 View BTF 화이트 (빅타워)상세보기[파워서플라이]HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE WHITE ARGB 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7천번대 최상급 게이밍 + 작업용 CPU입니다.메인보드는 PCIe5.0을 지원해 뛰어난 호환성과 뛰어난 전원부를 자랑하는 보드입니다.그래픽카드는 RTX 4090 재고가 급속도로 사라지고있어서 재고 있는 제품들로 그때그때 수정중입니다.파워서플라이는 파워는 3대장 브랜드인 FSP의 고용량 ATX 3.0 파워CPU쿨러는 써멀리아트의 대장급 공랭입니다. 화이트 감성과 정숙성을 원하시는 분들에게 추천드립니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "891,910원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS TUF Gaming X670E-PLUS WIFI 대원씨티에스",
+            "가격": "420,470원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  32GB",
+            "가격": "119,450원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4090 슈프림X D6X 24GB 트라이프로져3S",
+            "가격": "2,776,183원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 990 PRO M.2 NVMe 4TB",
+            "가격": "507,780원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 View BTF 화이트",
+            "가격": "136,980원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "HYDRO PTM PRO 1650W Platinum ATX3.0",
+            "가격": "555,490원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+            "가격": "43,243원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5570956원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS TUF Gaming X670E-PLUS WIFI 대원씨티에스",
+    "Graphic Card": "MSI 지포스 RTX 4090 슈프림X D6X 24GB 트라이프로져3S",
+    "SSD": "삼성전자 990 PRO M.2 NVMe (4TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (32GB) x 2 개",
+    "Power Supply": "HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

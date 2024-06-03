@@ -1,0 +1,66 @@
+{
+    "quote_number": "3601",
+    "quote_title": "7800X3D + RTX 4090 4K 하이엔드 게이밍(저소음)",
+    "date_create": "2024.2.28",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+    "quotation_summary": " 7800X3D + RTX 4090 4K 하이엔드 게이밍(저소음)# 7800X3D + RTX 4090 4K 하이엔드 게이밍(저소음)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7800X3D + RTX 4090 4K 하이엔드 게이밍(저소음)",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]MSI MAG B650 토마호크 WIFI상세보기[메모리]TeamGroup T-CREATE DDR5-6000 CL48 CLASSIC 패키지 서린 (64GB(32Gx2))상세보기[그래픽카드]MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DLX4000 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7000번대 3D 모델 주인공인 7800X3D입니다. 순정 상태에서 13900KS를 넘어서는 뛰어난 게임 성능과 뛰어난 전성비가 장점입니다.메인보드는 14+2 페이즈 1120A(80A) Dr.MOS의 강력한 전원부를 가진 보드로 라이젠 하이엔드까지 문제 없는 강력한 보드입니다.SSD는 PCIE4.0 대역폭 상급 SSD케이스는 케이스는 다크플래쉬 DLX4000이 그래픽카드 장착길이 425mm로 호환성도 뛰어나고, FDB 베어링이 적용된 쿨링팬으로 뛰어난 쿨링성능과 정숙한 소음을 자랑합니다.파워서플라이는 슈퍼플라워의 ATX 3.0 골드 풀모듈러로 10년 보증에 유니버셜 커넥터 적용과 고주파 발생시 새제품 교환 등 뛰어난 AS 정책의 파워입니다.CPU쿨러는 대장급 공랭 중 뛰어난 정숙성과 성능을 겸비한 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,290원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B650 토마호크 WIFI",
+            "가격": "327,950원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-CREATE DDR5-6000 CL48 CLASSIC 패키지 서린) 64GB",
+            "가격": "288,420원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3",
+            "가격": "2,993,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX4000 MESH 강화유리 블랙",
+            "가격": "102,300원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0",
+            "가격": "225,408원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,400원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4723108원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "MSI MAG B650 토마호크 WIFI",
+    "Graphic Card": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup T-CREATE DDR5-6000 CL48 CLASSIC 패키지 서린 (64GB(32Gx2))",
+    "Power Supply": "SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 225,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 38694
+}

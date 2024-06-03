@@ -1,0 +1,71 @@
+{
+    "quote_number": "3367",
+    "quote_title": "인텔 코어i9-14세대 14900K + 지포스 RTX 4080 SUPER",
+    "date_create": "2024.2.23",
+    "cpu_gpu_combinations": "코어i9-14900K + RTX 4080 SUPER 조합",
+    "quotation_summary": " 인텔 코어i9-14세대 14900K + 지포스 RTX 4080 SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 1440A급 출력으로 전원부가 대폭 강화된 드라이버 모스펫이 적용되어 있어서 14900K와 조합해서 안정적으로 사용할 수 있는 제품이 지금 구성하신 GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트입니다.14세대와 함께 새롭게 출시가 된 제품으로 기판까지 화이트라 제대로 된 화이트 감성도 느낄 수 있죠. 충분히 안정적으로 사용할 수 있는 제품이라 걱정하지 않으셔도 됩니다.2. 메모리는 6000MHz 고클럭에 화이트 튜닝 1티어 메모리인 TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 (64GB(32Gx2))로 변경별도의 방열판으로 구성하게 되면 추가되는 케이블이 있어서 깔끔하게 정리하기가 어렵고 오버클럭을 추가로 해야 튜닝램과 성능을 ㅁ맞출 수 있어서 가격차이가 크지 않은 튜닝 램으로 추천드리구요.나머지는 그대로 구성하시면 됩니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 (64GB(32Gx2))상세보기[그래픽카드]Colorful iGame 지포스 RTX 4080 SUPER Vulcan OC D6X 16GB White상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]HYTE Y60 스노우 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)상세보기[CPU쿨러]발키리 GL360 ARGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]발키리 X12 ARGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]발키리 X12R ARGB (WHITE) x 2 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "785,750원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "379,890원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지) 64GB",
+            "가격": "340,000원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "Colorful iGame 지포스 RTX 4080 SUPER Vulcan OC D6X 16GB White",
+            "가격": "1,795,020원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "HYTE Y60 스노우 화이트",
+            "가격": "279,400원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0",
+            "가격": "225,408원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "발키리 X12R ARGB x 2 개",
+            "가격": "27,580원",
+            "수량": "2"
+        }
+    },
+    "total_price": "4151531원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "Colorful iGame 지포스 RTX 4080 SUPER Vulcan OC D6X 16GB White",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 (64GB(32Gx2))",
+    "Power Supply": "SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)",
+    "CPU Cooler": "발키리 GL360 ARGB (WHITE)",
+    "cpu_score": 56,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 34625
+}

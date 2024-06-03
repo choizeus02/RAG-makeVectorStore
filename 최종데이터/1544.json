@@ -1,0 +1,66 @@
+{
+    "quote_number": "1544",
+    "quote_title": "화이트 감성 FHD 디아블로4 풀옵션, 배틀그라운드 풀옵션 컴퓨터(5600X, 3060 TI)",
+    "date_create": "2024.1.3",
+    "cpu_gpu_combinations": "라이젠5 5600X + RTX 3060 Ti 조합",
+    "quotation_summary": " 1. FHD 해상도 모니터를 사용하시는 분2. 화이트 감성을 원하시는 분3. AS나 PC의 안정성을 중요시하시는 분# 배틀그라운드# 배그# 디아블로4# 디아4",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 견적맨으로 활동하고 있는 coke-bear 입니다.퀘이사존에서 주로 활동하며 그 외 커뮤니티에서도 간간히 활동하고 있습니다.하드웨어에 관심이 많아 제품을 직접 사용해보기도 하고 주변 지인들 PC 견적부터 조립도 해주다보니PC 구매를 어려워하거나 용도에 맞지 않게 구매하여 불필요한 지출을 하는 경우를 보게 되었습니다.그런 분들께 조금이라도 도움이 되고자 PC 구매자분들께 합리적인 구매를 할 수 있게 견적맨으로 활동하게 되었습니다.",
+    "quote_feedback": "5600X와 3060 TI 그래픽카드 구성으로 FHD 해상도에서 스팀 AAA 게임도 무난하게 가능한 게이밍 성능의 PC 입니다.전체적으로 화이트 부품으로 구성하였고 AS 부분에서 호평인 제조사들 제품 위주로 구성하였습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 버미어 5600X (정품 멀티팩)(쿨러포함)상세보기[메인보드]ASUS PRIME B550M-A 대원CTS상세보기[메모리]OLOy DDR4-3600 CL18 BLADE RGB White 패키지 (16GB(8Gx2))상세보기[그래픽카드]AFOX 지포스 RTX 3060 Ti D6 8GB 대원씨티에스상세보기[SSD]마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)상세보기[케이스]DARKFLASH DK200 RGB 강화유리 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]DARKFLASH Ellsworth S21 ARGB (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠의 5000 시리즈 중 가성비 극강의 5600X CPU 입니다. 6코어 12스레드를 가지고 있습니다. 현재까지도 가성비 PC 구성에 쓰이는 제품입니다.메인보드는 am4 소켓을 지원하는 b550 칩셋 중 5600x나 5700x를 사용하기에 준수한 성능을 가진 메인보드 입니다.메모리는 고수율 메모리 OEM 하던 OLOY 에서 출시한 3600 XMP 화이트 메모리 입니다.그래픽카드는 대원CTS 유통하고 있는 AFOX 의 3060 TI 제품입니다. 가격대가 매우 저렴하고 대원CTS 유통으로 AS 부분에서도 좋은 제품이라 추천드립니다.SSD는 pcie4.0 제품이며 가격대는 pcie3.0 의 p31 보다 저렴한 제품입니다.케이스는 다크플래쉬의 DK200 화이트 미들타워 케이스입니다. 동 가격 타 제품 대비 강판 두께나 기본팬 성능이 준수합니다.파워서플라이는 탑파워의 700W 제품 중 화이트 제품의 파워입니다. 브론즈 등급의 파워이고 마이크로닉스 화이트 파워 대비하여 AS 정책이 더 좋습니다.CPU쿨러는 가성비가 좋고 AM5 소켓 호환이 가능한 다크플래쉬의 S21 ARGB 화이트 제품입니다. 쿨링 성능은 팔라딘이나 RC410 과 동급이면서 가격은 소폭 저렴합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 버미어 5600X",
+            "가격": "183,050원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME B550M-A 대원CTS",
+            "가격": "113,890원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "OLOy DDR4-3600 CL18 BLADE RGB White 패키지) 16GB",
+            "가격": "67,960원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "AFOX 지포스 RTX 3060 Ti D6 8GB 대원씨티에스",
+            "가격": "468,310원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS 1TB",
+            "가격": "127,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK200 RGB 강화유리 화이트",
+            "가격": "42,460원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "72,590원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21 ARGB",
+            "가격": "27,120원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1102380원",
+    "CPU": "AMD 라이젠5-4세대 버미어 5600X (정품 멀티팩)(쿨러포함)",
+    "Motherboard": "ASUS PRIME B550M-A 대원CTS",
+    "Graphic Card": "AFOX 지포스 RTX 3060 Ti D6 8GB 대원씨티에스",
+    "SSD": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)",
+    "Memory": "OLOy DDR4-3600 CL18 BLADE RGB White 패키지 (16GB(8Gx2))",
+    "Power Supply": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 ARGB (화이트)",
+    "cpu_score": 504,
+    "gpu_score": 106,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 15388
+}

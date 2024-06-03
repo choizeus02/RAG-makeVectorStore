@@ -1,0 +1,65 @@
+{
+    "quote_number": "3497",
+    "quote_title": "AMD 라이젠5-5세대 7600 + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.2.26",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7600 + 지포스 RTX 4070 SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "구성하신 그래픽카드인 GIGABYTE 지포스 RTX 4070 SUPER Gaming OC D6X 12GB 피씨디렉트는 현재 유통하는 업체가 많이 없어서 견적왕의 최대 메리트인 견적 비교가 원활하지 못합니다.앞서 적으신 글에서 구성하신 갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB가 1티어 AS에 가격적인 메리트도 높은 제품이라 추천을 드리구요.트리플 팬때 문에 구성을 한거라면 유통업체가 많은 GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC D6X 12GB 피씨디렉트 정도로 변경해주면 되겠습니다.그리고 걱정하시는 파워 케이블은 4000번대 그래픽카드의 경우 전용 16핀 커넥터가 적용되어 있습니다. 12VHPWR 케이블 한 개만 연결하면 되는 어찌보면 편리하게 변경이 된 건데 지금 구성하신 NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)가 12VHPWR 케이블이 적용되어 있어서 문제없이 사용할 수 있습니다. 파워 네이밍에 PCIE5가 적혀있는 제품은 12VHPWR 케이블이 적용되어 있다는 뜻입니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (2TB)상세보기[케이스]DARKFLASH DRX70 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]DEEPCOOL AG400상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라파엘 논X 제품의 막내로 높은 전성비와 게임 성능으로 DDR5 시스템 가성비 게이밍 라인의 최강자 CPU",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "234,070원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,010원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "994,900원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 2TB",
+            "가격": "289,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DRX70 MESH RGB 강화유리 블랙",
+            "가격": "46,090원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DEEPCOOL AG400",
+            "가격": "21,620원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1867720원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (2TB)",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "DEEPCOOL AG400",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

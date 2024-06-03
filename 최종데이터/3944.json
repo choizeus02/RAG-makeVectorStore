@@ -1,0 +1,60 @@
+{
+    "quote_number": "3944",
+    "quote_title": "인텔 코어i5-12세대 12400",
+    "date_create": "2024.3.7",
+    "cpu_gpu_combinations": "코어i5-12400 +  조합",
+    "quotation_summary": " 인텔 코어i5-12세대 12400# 사무",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 사용해서 안정성도 높고 가격도 저렴한 ESSENCORE KLEVV DDR4-3200 CL22 (8GB) 2개 16기가로 변경2. 구성하신 케이스는 후면 팬 1개만 장착이 되어 있어서 쿨링 효율이 많이 떨어집니다. 3개의 팬을 기본 장착하고 디자인도 좋고 깔끔한 화이트 색상인 몬스타 가츠 X220M 화이트 (미니타워)로 변경3. 파워는 80PLUS보다 까다로운 테스트 환경으로 차세대 인증으로 평가받는 ETA 브론즈 인증 제품인 마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE로 변경4. CPU쿨러는 케이스와도 잘 어울리는 화이트 색상에 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 3RSYS Socoool RC350 ARGB (WHITE)로 변경ARGB를 지원하는 제품이라 시스템 팬과 동일한 화이트 LED로 설정하면 아주 멋진 세팅이 됩니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-12세대 12400 (엘더레이크)(벌크)상세보기[메인보드]ASRock B760M PG LIGHTNING/D4 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[SSD]삼성전자 PM9A1 M.2 NVMe 병행수입 (512GB)상세보기[케이스]몬스타 가츠 X220M 화이트 (미니타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE상세보기[CPU쿨러]3RSYS Socoool RC350 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-12세대 12400",
+            "가격": "164,500원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+            "가격": "179,580원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "21,040원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M.2 NVMe 병행수입 512GB",
+            "가격": "68,400원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X220M 화이트",
+            "가격": "37,260원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE",
+            "가격": "43,070원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 ARGB",
+            "가격": "22,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "557690원",
+    "CPU": "인텔 코어i5-12세대 12400 (엘더레이크)(벌크)",
+    "Motherboard": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+    "SSD": "삼성전자 PM9A1 M.2 NVMe 병행수입 (512GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE",
+    "CPU Cooler": "3RSYS Socoool RC350 ARGB (WHITE)",
+    "cpu_score": 595,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 19566,
+    "gpu_benchmarkscore": null
+}

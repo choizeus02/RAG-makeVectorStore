@@ -1,0 +1,71 @@
+{
+    "quote_number": "3082",
+    "quote_title": "7900 + 4060 TI 16GB(언리얼엔진 + 워크스테이션)",
+    "date_create": "2024.2.17",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 4060 Ti 조합",
+    "quotation_summary": " 7900 + 4060 TI 16GB(언리얼엔진 + 워크스테이션)# 7900 + 4060 TI 16GB(언리얼엔진 + 워크스테이션)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7900 + 4060 TI 16GB(언리얼엔진 + 워크스테이션)",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS TUF Gaming B650M-E WIFI 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]MSI 지포스 RTX 4060 Ti 게이밍 X D6 16GB 트윈프로져9상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB) x 2 개상세보기[케이스]DARKFLASH DRX70 MESH RGB 강화유리 화이트 (미들타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 X 버전에 비해 발열과 전성비를 잡고 나와 저렴한 메인보드와 공랭쿨러와 사용 가능하고 12코어 24스레드로 뛰어난 작업 성능을 자랑하는 라이젠9 CPU입니다.메모리는 갓서린에서 유통하는 팀그룹 DDR5 5600 클럭 메모리입니다.SSD는 PCIE4.0 대역폭 상급 SSD케이스는 전면 TYPE-C 포트를 지원하고, 그래픽카드 지지대 기본 구성에 금액대도 합리적인 다크플래쉬의 갓성비 케이스입니다.파워서플라이는 브론즈 효율에 PCIE5 규격으로 가격대도 저렴한 가성비 좋은 마이크로닉스 파워입니다.CPU쿨러는 대장급 공랭 중 뛰어난 정숙성과 성능을 겸비한 쿨러입니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "523,320원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS TUF Gaming B650M-E WIFI 대원씨티에스",
+            "가격": "223,000원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4060 Ti 게이밍 X D6 16GB 트윈프로져9",
+            "가격": "688,680원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 x 2 개 2TB",
+            "가격": "229,490원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DRX70 MESH RGB 강화유리 화이트",
+            "가격": "49,740원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5",
+            "가격": "65,930원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,600원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "160,650원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2337820원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS TUF Gaming B650M-E WIFI 대원씨티에스",
+    "Graphic Card": "MSI 지포스 RTX 4060 Ti 게이밍 X D6 16GB 트윈프로져9",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB) x 2 개",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 107,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 22891
+}

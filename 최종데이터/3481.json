@@ -1,0 +1,71 @@
+{
+    "quote_number": "3481",
+    "quote_title": "7600 + RX 7800 XT 라라랜드 (DAVEN AQUARIUM 화이트)",
+    "date_create": "2024.2.25",
+    "cpu_gpu_combinations": "라이젠5 7600 + RX 7800 XT 조합",
+    "quotation_summary": " 7600 + RX 7800 XT 라라랜드 (DAVEN AQUARIUM 화이트)# 7600 + RX 7800 XT 라라랜드 (DAVEN AQUARIUM 화이트)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7600 + RX 7800 XT 라라랜드 (DAVEN AQUARIUM 화이트)",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]PowerColor 라데온 RX 7800 XT Hellhound Spectral White D6 16GB 대원씨티에스상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DAVEN AQUARIUM 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]JONSBO TG-360 ARGB (WHITE)상세보기[모니터]크로스오버 27GV5Q 패스트165 WQHD 아이세이브 게이밍 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 라이젠 NON X 버전으로 발열을 잡고 나와 2~3만원대 공랭쿨러로 커버 가능해 가성비가 좋아졌습니다. \n게임성능도 인텔 13세대 i5 13500보다 뛰어납니다.메인보드는 실버계열 방열판과 Dr.MOS 전원부가 탑재된 가성비 좋은 보드입니다.메모리는 팀그룹의 DDR5 5600 패키지로 호환성이나 가성비가 좋은 제품입니다.SSD는 PCIe4.0 최상급 성능의 SSD입니다.케이스는 어항형 케이스중 파워가 옆면에 있는 투챔버형태로 높이도 컴팩트해서 감성이 뛰어난 케이스입니다.파워서플라이는  10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책도 동일하고 가격대도 좋은 파워입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "234,070원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "170,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "PowerColor 라데온 RX 7800 XT Hellhound Spectral White D6 16GB 대원씨티에스",
+            "가격": "731,120원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN AQUARIUM 화이트",
+            "가격": "63,510원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "JONSBO TG-360 ARGB",
+            "가격": "86,080원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 27GV5Q 패스트165 WQHD 아이세이브 게이밍 무결점",
+            "가격": "205,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1869000원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "Graphic Card": "PowerColor 라데온 RX 7800 XT Hellhound Spectral White D6 16GB 대원씨티에스",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "JONSBO TG-360 ARGB (WHITE)",
+    "cpu_score": 312,
+    "gpu_score": 11,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 29006
+}

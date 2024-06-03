@@ -1,0 +1,58 @@
+{
+    "quote_number": "3781",
+    "quote_title": "7600 반본체(몬스타 가츠 X620A 리버스 블랙, 4080 SUPER까지 장착 가능)체",
+    "date_create": "2024.3.4",
+    "cpu_gpu_combinations": "라이젠5 7600 +  조합",
+    "quotation_summary": " 7600 반본체(몬스타 가츠 X620A 리버스 블랙, 4080 SUPER까지 장착 가능)체# 7600 반본체(몬스타 가츠 X620A 리버스 블랙# 4080 SUPER까지 장착 가능)체",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7600 반본체(몬스타 가츠 X620A 리버스 블랙, 4080 SUPER까지 장착 가능)체",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[케이스]몬스타 가츠 X620A 리버스 블랙 (미들타워)상세보기[파워서플라이]맥스엘리트 MAXELITE MAXWELL COUNT 850W 80PLUS GOLD 풀모듈러 ATX 3.0 (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[이벤트특가][SSD + RAM] 마이크론 Crucial T500 1TB + Crucial DDR5-5600 (32GB(16Gx2)) 패키지 대원씨티에스상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 NON X 버전으로 발열을 잡고 나와 2~3만원대 공랭쿨러로 커버 가능해 가성비가 좋아졌습니다. \n게임성능도 인텔 13세대 i5 13500보다 뛰어납니다.메인보드는 Dr.MOS 전원부가 탑재된 가성비 좋은 B650보드입니다.CPU쿨러는 대장급 공랭 중 뛰어난 정숙성과 성능을 겸비한 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "234,070원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,010원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X620A 리버스 블랙",
+            "가격": "59,510원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "맥스엘리트 MAXELITE MAXWELL COUNT 850W 80PLUS GOLD 풀모듈러 ATX 3.0",
+            "가격": "149,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,480원",
+            "수량": "1"
+        },
+        "SSD + RAM": {
+            "제품명": "마이크론 Crucial T500 1TB + Crucial DDR5-5600 패키지 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "767340원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Power Supply": "맥스엘리트 MAXELITE MAXWELL COUNT 850W 80PLUS GOLD 풀모듈러 ATX 3.0 (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 312,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": null
+}

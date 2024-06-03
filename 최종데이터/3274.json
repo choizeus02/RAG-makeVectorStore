@@ -1,0 +1,76 @@
+{
+    "quote_number": "3274",
+    "quote_title": "인텔 코어i9-14세대 14900K + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.2.21",
+    "cpu_gpu_combinations": "코어i9-14900K + RTX 4070 SUPER 조합",
+    "quotation_summary": " 인텔 코어i9-14세대 14900K + 지포스 RTX 4070 SUPER# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 14세대 출시가 끝난 상황이고 13세대와 가격차이도 크지 않아서 14900K로 변경2. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부가 적용되어 있어서 안정적으로 사용할 수 있는 GIGABYTE Z790 AORUS ELITE X 피씨디렉트로 변경3. 메모리는 DDR5 규격에서는 아무런 이슈도 없는 현재 1티어 제품이라고 할 수 있는 ESSENCORE KLEVV DDR5-5600 CL46 (32GB) 2개 64기가로 변경4. 그래픽카드는 1티어 AS에 가격적인 메리트도 높고 4070 Ti와 7% 내외의 성능 차이 밖에 나지 않아서 현시점 가성비가 가장 좋은 갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB로 변경5. SSD는 5년 무상AS의 갓성비 젠4 제품인 MSI SPATIUM M480 PRO M.2 NVMe (2TB)로 변경읽기속도 : 7,400(MB/s) / 쓰기속도 : 7,000(MB/s)로 최고 수준의 성능이면서 DDR4 2GB 용량의 디램 버퍼 메모리가 적용되어 있습니다.6. 케이스는 3RSYS의 최종 진화 버전이라고 할 수 있는 140mm 5V ARGB 고성능 저소음 시스템 팬 4개를 기본 장착하고 C타입 포트 등 각종 편의 기능을 적용하여 완성형에 가까운 3RSYS R640 Quiet 블랙 (미들타워)로 변경8개의 팬을 제어할 수 있는 5V ARGB & PWM 허브를 제공하고 무엇보다도 아주 조용합니다.7. 파워는 4000번대 16핀 전용 커넥터가 적용된 그래픽카드의 경우는 12VHPWR 케이블을 지원하는 제품으로 구성하는 것이 보다 안정적으로 사용할 수가 있습니다. NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로 변경8. CPU쿨러는 구성한 제품이 최상위 성능에 소음이 가장 낮은 편으로 사실상 3열 수냉쿨러의 끝판왕이라 강추하구요.9. 모니터는 3개의 화면을 띄워서 다양하게 활용할 수 있는 UWQHD 해상도 제품인 필립스 345E2LE 울트라와이드 WQHD 100 시력보호 무결점으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (32GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]MSI SPATIUM M480 PRO M.2 NVMe (2TB) x 2 개상세보기[케이스]3RSYS R640 Quiet 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]3RSYS Socoool 라니 XY-360 Quiet (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]필립스 345E2LE 울트라와이드 WQHD 100 시력보호 무결점상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "789,880원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  32GB",
+            "가격": "124,600원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "1,000,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "MSI SPATIUM M480 PRO M.2 NVMe x 2 개 2TB",
+            "가격": "233,190원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "3RSYS R640 Quiet 블랙",
+            "가격": "86,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool 라니 XY-360 Quiet",
+            "가격": "162,230원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "160,650원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "필립스 345E2LE 울트라와이드 WQHD 100 시력보호 무결점",
+            "가격": "328,400원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3705590원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "MSI SPATIUM M480 PRO M.2 NVMe (2TB) x 2 개",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool 라니 XY-360 Quiet (BLACK)",
+    "cpu_score": 56,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 31768
+}

@@ -1,0 +1,71 @@
+{
+    "quote_number": "1711",
+    "quote_title": "12400 + GTX 1660 SUPER + 가성비 영상 편집 + 고용량 브이로그",
+    "date_create": "2024.3.8",
+    "cpu_gpu_combinations": "코어i5-12400 + GTX 1660 SUPER 조합",
+    "quotation_summary": " # 브이로그# 영상편집",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "일단 조립시 채굴 사용하면 딱 티가 나는 부분이라 좀 어렵다고 보여지고SSD로 2테라 구성하면 가격대가 상당히 올라가는 부분이라HDD로 4TB 정도 구성하시는걸 추천드립니다.다만 윈도우 정품을 제외하고도이정도 구성은 되어야 원활하게 작업 할 수 있다 보여지는데..가격대 100만원 전후는 좀 어렵다고 보여집니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-12세대 12400 (엘더레이크) (정품)상세보기[메인보드]MSI PRO B760M-A DDR4 II상세보기[메모리]삼성전자 DDR4-3200 (16GB) PC4-25600 x 2 개상세보기[그래픽카드]ARKTEK 지포스 GTX 1660 SUPER D6 6GB상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)상세보기[케이스]마이크로닉스 GL1-MORTAR (미들타워)상세보기[파워서플라이]SF-500R12ST MEGA 80PLUS STANDARD 230V EU상세보기[CPU쿨러]PCCOOLER PALADIN EX400 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 가성비 좋은 DDR4 메인보드!\n전원부 구성도 가성비 중 최강!그래픽카드는 가성비 좋은 GTX 1660 SUPER!\nSTOCM 유통으로 AS 퀄리티 무난~SSD는 이천 특산물! SK 하이닉스!\nPCIe 3.0의 끝판왕!케이스는 3만원대에서 볼 수 있는 유일한 갓성비 케이스!\n베스트샐러 M60의 동생 제품!파워서플라이는 GTX 1660 SUPER 라면충분한 용량의 500w!\n무한 고주파 교체 AS의 슈퍼플라워!CPU쿨러는 팔라딘 400의 가성비 제품!\n소음 억제력 , 발열 제어능력 준수!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-12세대 12400",
+            "가격": "164,970원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI PRO B760M-A DDR4 II",
+            "가격": "173,130원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "삼성전자 DDR4-3200 PC4-25600  16GB",
+            "가격": "43,310원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ARKTEK 지포스 GTX 1660 SUPER D6 6GB",
+            "가격": "254,220원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/256M",
+            "가격": "158,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 GL1-MORTAR",
+            "가격": "31,743원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SF-500R12ST MEGA 80PLUS STANDARD 230V EU",
+            "가격": "46,466원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PCCOOLER PALADIN EX400",
+            "가격": "22,160원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1075309원",
+    "CPU": "인텔 코어i5-12세대 12400 (엘더레이크) (정품)",
+    "Motherboard": "MSI PRO B760M-A DDR4 II",
+    "Graphic Card": "ARKTEK 지포스 GTX 1660 SUPER D6 6GB",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "삼성전자 DDR4-3200 (16GB) PC4-25600 x 2 개",
+    "Power Supply": "SF-500R12ST MEGA 80PLUS STANDARD 230V EU",
+    "CPU Cooler": "PCCOOLER PALADIN EX400 (BLACK)",
+    "cpu_score": 595,
+    "gpu_score": 152,
+    "performance_grade": "저성능",
+    "cpu_benchmarkscore": 19566,
+    "gpu_benchmarkscore": 12926
+}

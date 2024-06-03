@@ -1,0 +1,59 @@
+{
+    "quote_number": "4419",
+    "quote_title": "포토샵 일러스트 영상편집 i5 14500 + RTX 3050 화이트감성 작업 및 FHD 게이밍 컴퓨터 견적",
+    "date_create": "2024.3.27",
+    "cpu_gpu_combinations": "코어i5-14500 + RTX 3050 조합",
+    "quotation_summary": " i5 14500 / RTX 3050 / RAM 32GB / SSD 1TB# 작업용# FHD 게이밍# 화이트감성# 포토샵# 일러스트# 영상편집# 사무업무# 문서작업",
+    "quote_person_introduction": "안녕하세요. 로카프입니다.우리 주변에는 아직 컴퓨터 견적구성을 어떻게 할 지 몰라 고민에 빠지는 분들이 많이 계십니다.성능은 괜찮을까? 고장은 나지 않을까? 가격은 괜찮은건가? 이런 고민들을 한 번쯤은 해보셨을 겁니다.용도에 알맞는 성능과 합리적인 가격, 최우선으로 안정성과 신뢰도 높은 부품들로 구성된 견적을 추천해드리겠습니다.컴퓨터를 처음 알아보시는 분들의 입장에서 생각하고 견적을 구성해드리는 견적맨이 되겠습니다.",
+    "quote_feedback": "i5 14500 + RTX 3050 화이트조합의 견적 구성 도와드렸습니다.구성한 CPU는 인텔 내장그래픽이 있어 영상편집 시 퀵싱크 활용이 가능한 장점이 있으며메모리는 16GB 2장 총 32GB 용량 맞춰드렸습니다.그래픽카드는 A/S퀄리티 좋은 이엠텍, 조텍, 갤럭시, inno3D 제품 추천드리며SSD는 PCIe4.0규격 상위스펙 1TB 제품입니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)상세보기[메인보드]ASRock B760M PG SONIC WiFi D5 에즈윈상세보기[그래픽카드]갤럭시 갤라즈 GALAX 지포스 RTX 3050 EX WHITE OC D6 8GB상세보기[케이스]DAVEN APEX White (미들타워)상세보기[파워서플라이]topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]3RSYS Socoool RC1200 ARGB (WHITE)상세보기[이벤트특가][SSD + RAM] 마이크론 Crucial T500 1TB + Crucial DDR5-5600 (32GB(16Gx2)) 패키지 대원씨티에스상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 고성능을 발휘하는 P코어 6개 효율성 높은 E코어 8개로 이루어진 빅리틀 구조의 CPU인 14500이며 따라서 윈도우11 사용이 권장됩니다. 14400보다 좀 더 나은 멀티성능을 보여주며 내장그래픽 탑재 모델로 영상편집 작업 시 퀵싱크 기능을 통해 작업능률 향상을 도모할 수 있습니다.메인보드는 B760M 스틸레전드 WIFI와 구성 거의 동일한 PG SONIC WIFI입니다. 방열판 색상이 대체적으로 화이트라 화이트감성 PC 구성 시에도 고려해볼만한 제품입니다.그래픽카드는 A/S 1티어급인 갤럭시사의 RTX 3050 8GB 화이트색상 제품입니다. 제원 상 권장파워용량은 450W 이상이며 DP포트 3개와 HDMI포트 1개가 있습니다.케이스는 기본팬 4개를 제공하고 CPU쿨러최대호환가능높이 185mm, 그래픽카드최대호환가능길이 350mm 제원의 DAVEN APEX입니다. 좌측면 스윙도어 형태이며 LED ON/OFF 스위치가 있어 사용자 취향에 따라 켜고 끌 수 있습니다.파워서플라이는 topower사의 600W 브론즈등급 화이트색상 제품입니다. A/S보증기간 7년을 제공하고 화이트 색상 제품이라 화이트감성 PC에 알맞는 제품입니다.CPU쿨러는 금액부담 크지않은 듀얼타워공랭쿨러로 ARGB 연동이 가능한 제품이며 무상보증기간은 3년입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14500",
+            "가격": "331,670원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG SONIC WiFi D5 에즈윈",
+            "가격": "211,040원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 갤라즈 GALAX 지포스 RTX 3050 EX WHITE OC D6 8GB",
+            "가격": "311,300원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN APEX White",
+            "가격": "51,150원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1200 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        },
+        "SSD + RAM": {
+            "제품명": "마이크론 Crucial T500 1TB + Crucial DDR5-5600 패키지 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1133650원",
+    "CPU": "인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)",
+    "Motherboard": "ASRock B760M PG SONIC WiFi D5 에즈윈",
+    "Graphic Card": "갤럭시 갤라즈 GALAX 지포스 RTX 3050 EX WHITE OC D6 8GB",
+    "Power Supply": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "3RSYS Socoool RC1200 ARGB (WHITE)",
+    "cpu_score": 247,
+    "gpu_score": 153,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32733,
+    "gpu_benchmarkscore": 12885
+}

@@ -1,0 +1,76 @@
+{
+    "quote_number": "2516",
+    "quote_title": "14700K + RTX 4080 SUPER 워크스테이션 + 고사양 게이밍",
+    "date_create": "2024.2.4",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 4080 SUPER 조합",
+    "quotation_summary": " 14700K + RTX 4080 SUPER 워크스테이션 + 고사양 게이밍# 14700K + RTX 4080 SUPER 워크스테이션 + 고사양 게이밍",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14700K + RTX 4080 SUPER 워크스테이션 + 고사양 게이밍",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700K (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4080 SUPER ST D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB) x 2 개상세보기[데스크탑 HDD]Western Digital 8TB Ultrastar DC HC320 HUS728T8TALE6L4 1PACK상세보기[케이스]아이구주 VENTI D1000 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)상세보기[CPU쿨러]발키리 GL360 ARGB (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메모리는 갓서린에서 유통하는 팀그룹 DDR5 5600 클럭 메모리입니다.그래픽카드는 AS 1티어 갤럭시의 RTX 4080 SUPERSSD는 PCIE4.0 대역폭 상급 SSDCPU쿨러는 360 규격 수냉 중 최상급 수냉입니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700K",
+            "가격": "579,040원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX 피씨디렉트",
+            "가격": "384,560원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4080 SUPER ST D6X 16GB",
+            "가격": "1,629,970원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 x 2 개 2TB",
+            "가격": "229,490원",
+            "수량": "2"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital 8TB Ultrastar DC HC320 HUS728T8TALE6L4 1PACK",
+            "가격": "348,800원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "아이구주 VENTI D1000 블랙",
+            "가격": "69,090원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0",
+            "가격": "221,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,690원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4157358원",
+    "CPU": "코어i7-14세대 14700K (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX 피씨디렉트",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4080 SUPER ST D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB) x 2 개",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)",
+    "CPU Cooler": "발키리 GL360 ARGB (BLACK)",
+    "cpu_score": 98,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 34625
+}

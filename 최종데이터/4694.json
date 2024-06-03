@@ -1,0 +1,86 @@
+{
+    "quote_number": "4694",
+    "quote_title": "인텔 코어i7-14세대 14700K + 지포스 RTX 4060",
+    "date_create": "2024.3.25",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 4060 조합",
+    "quotation_summary": " 인텔 코어i7-14세대 14700K + 지포스 RTX 4060# 사무",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성자체가 많이 언밸런스합니다. Z790 칩셋에 3열 대장급 수냉쿨러로 구성해야 온도 제어가 되죠. 구성은 전체적으로 수정이 필요합니다.2. CPU는 성능차이가 큰 14700K로 변경3. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부가 적용되어 있고 기판까지 화이트로 제대로 된 화이트 감성을 느낄 수 있는GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트로 변경4. 삼성 램은 대규모 불량 이슈가 있었던 터라 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2개 64기가로 변경5. 그래픽카드는 3060의 경우 단종 수준이고 성능도 높고 전성비도 더 좋은 4060과의 가격차이도 크지 않습니다.1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4060으로 변경6. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경7. 케이스는 상단 3열 수냉쿨러 장착이 가능한 제품 중에서 화이트 색상에 가성비도 좋은 DARKFLASH DF2100 MESH RGB 강화유리 화이트 (미들타워)로 구성8. 4060의 경우 최대 전력 소모량이 115W에 불과해서 정격 500W면 충분한 파워 용량이 됩니다.파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 600W 화이트로 변경9. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 잘만 Alpha II A36 (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[데스크탑 HDD]Toshiba P300 5400/128M (HDWD240, 4TB)상세보기[케이스]DARKFLASH DF2100 MESH RGB 강화유리 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]잘만 Alpha II A36 (WHITE)상세보기[모니터]LG전자 32UN650상세보기[키보드]CHERRY MX 2.0S WIRELESS (화이트, 적축)상세보기[마우스]로지텍코리아 MX Master 3S (정품) (화이트)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "파워서플라이는 topower사의 600W 브론즈등급 화이트색상 제품입니다. A/S보증기간 7년을 제공하고 화이트 색상 제품이라 화이트감성 PC에 알맞는 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-14세대 14700K",
+            "가격": "572,830원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "379,400원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB",
+            "가격": "424,530원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,990원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba P300 5400/128M",
+            "가격": "166,990원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DF2100 MESH RGB 강화유리 화이트",
+            "가격": "66,110원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,530원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "LG전자 32UN650",
+            "가격": "529,730원",
+            "수량": "1"
+        },
+        "키보드": {
+            "제품명": "CHERRY MX 2.0S WIRELESS",
+            "가격": "149,000원",
+            "수량": "1"
+        },
+        "마우스": {
+            "제품명": "로지텍코리아 MX Master 3S",
+            "가격": "131,500원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2942070원",
+    "CPU": "인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "잘만 Alpha II A36 (WHITE)",
+    "cpu_score": 98,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 22891
+}

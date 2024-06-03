@@ -1,0 +1,66 @@
+{
+    "quote_number": "3183",
+    "quote_title": "13400 + 4060(리안리 A4-H20 Silver (미니ITX))",
+    "date_create": "2024.2.19",
+    "cpu_gpu_combinations": "코어i5-13400 + RTX 4060 조합",
+    "quotation_summary": " 13400 + 4060(리안리 A4-H20 Silver (미니ITX))# 13400 + 4060(리안리 A4-H20 Silver (미니ITX))",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "13400 + 4060(리안리 A4-H20 Silver (미니ITX))",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13400 (랩터레이크)(벌크)상세보기[메인보드]ASUS ROG STRIX B760-I GAMING WIFI STCOM상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4060 2X OC V2 D6 8GB상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]리안리 A4-H20 Silver (미니ITX)상세보기[파워서플라이]마이크로닉스 Compact SFX 700W 80PLUS GOLD상세보기[CPU쿨러]Thermalright FROZEN MAGIC 240 ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메모리는 갓서린에서 유통하는 팀그룹 DDR5 5600 클럭 메모리입니다.그래픽카드는 AS 1티어 업체인 갤럭시의 RTX 4060SSD는 발열도 적어 게임용으로도 많이 추천되는 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13400",
+            "가격": "251,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ROG STRIX B760-I GAMING WIFI STCOM",
+            "가격": "333,770원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,490원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4060 2X OC V2 D6 8GB",
+            "가격": "447,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "리안리 A4-H20 Silver",
+            "가격": "253,380원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Compact SFX 700W 80PLUS GOLD",
+            "가격": "137,890원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright FROZEN MAGIC 240 ARGB",
+            "가격": "93,040원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1783950원",
+    "CPU": "인텔 코어i5-13세대 13400 (랩터레이크)(벌크)",
+    "Motherboard": "ASUS ROG STRIX B760-I GAMING WIFI STCOM",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4060 2X OC V2 D6 8GB",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 Compact SFX 700W 80PLUS GOLD",
+    "CPU Cooler": "Thermalright FROZEN MAGIC 240 ARGB",
+    "cpu_score": 399,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 25232,
+    "gpu_benchmarkscore": 22891
+}

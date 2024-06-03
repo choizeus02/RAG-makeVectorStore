@@ -1,0 +1,76 @@
+{
+    "quote_number": "2626",
+    "quote_title": "코어i7-14세대 14700K + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.2.7",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 코어i7-14세대 14700K + 지포스 RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다. 14700K 벌크로 변경2. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부로 안정적으로 사용할 수 있는 GIGABYTE Z790 AORUS ELITE X 피씨디렉트로 구성3. 그래픽카드는 화이트 컨셉을 선호하는 것 같아서 갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB로 변경4. SSD는 5년 무상AS의 갓성비 젠4 제품인 MSI SPATIUM M480 PRO 히트싱크 M.2 NVMe (1TB)로 변경읽기속도 : 7,400(MB/s) / 쓰기속도 : 7,000(MB/s)로 최고 수준의 성능이면서 DDR4 2GB 용량의 디램 버퍼 메모리가 적용되어 있습니다.5. 구성하신 케이스는 상단 3열 수냉쿨러 장착이 되지 않습니다. 많이 추천하는 DAVEN AQUARIUM 화이트 (미들타워)는 쿨링 효율에 약점을 보이는 어항케이스인지라 풀메쉬 디자인에 3열 수냉쿨러 장착이 가능한 화이트 색상의 제품인 앱코 SUITMASTER V2000 베놈 ARGB 화이트 (미들타워)로 변경6. 파워는 동일 제품 화이트 색상으로 변경7. CPU쿨러는 최상위 성능군이면서 소음은 가장 낮은 수준으로 사실상 3열 수냉쿨러의 끝판왕이라고 할 수 있는 3RSYS Socoool 라니 XY-360 Quiet (WHITE) 강추합니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700K (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]ADATA DDR5-5600 CL46 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB상세보기[SSD]MSI SPATIUM M480 PRO M.2 NVMe (2TB)상세보기[데스크탑 HDD]Toshiba 1TB P300 HDWD110 (SATA3/7200/64M)상세보기[케이스]앱코 SUITMASTER V2000 베놈 ARGB 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool 라니 XY-360 Quiet (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700K",
+            "가격": "579,020원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46 패키지) 32GB",
+            "가격": "112,700원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB",
+            "가격": "1,321,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "MSI SPATIUM M480 PRO M.2 NVMe 2TB",
+            "가격": "233,190원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 1TB P300 HDWD110",
+            "가격": "73,800원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "앱코 SUITMASTER V2000 베놈 ARGB 화이트",
+            "가격": "55,100원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool 라니 XY-360 Quiet",
+            "가격": "162,230원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,670원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3188780원",
+    "CPU": "코어i7-14세대 14700K (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB",
+    "SSD": "MSI SPATIUM M480 PRO M.2 NVMe (2TB)",
+    "Memory": "ADATA DDR5-5600 CL46 패키지 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool 라니 XY-360 Quiet (WHITE)",
+    "cpu_score": 98,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 31768
+}

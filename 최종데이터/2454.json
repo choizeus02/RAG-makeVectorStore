@@ -1,0 +1,71 @@
+{
+    "quote_number": "2454",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.2.3",
+    "cpu_gpu_combinations": "라이젠9 7950X + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4070 Ti SUPER# 작업",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "SSD는 1TB 2개보다는 2TB 1개로 구성하는 것이 보다 효율적입니다.구성한 제품과 동일한 Western Digital WD BLACK SN850X M.2 NVMe (2TB)로 변경했습니다.그래픽카드는 4070 티슈가 원래는 4070 Ti와 동일한 금액대에 출시가 되었는데 현재는 가격이 출시 프리미엄으로 높은 편입니다. 언제 떨어져서 안정화 될런지는 알 수가 없죠. 아무튼 지금 가격대는 비싸긴 합니다.나머지는 동일하게 진행하셔도 좋습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X (라파엘) (정품)상세보기[메인보드]MSI MAG B650 토마호크 WIFI상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (2TB)상세보기[케이스]DAVEN AQUARIUM 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]발키리 GL360 ARGB (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "케이스는 흔히 어항케이스라고 불리우는 디자인이 적용된 DAVEN AQUARIUM입니다. CPU쿨러 최대호환가능높이 163mm, 그래픽카드 최대호환가능길이 415mm 제원을 가졌으며 ATX 사이즈 메인보드까지 호환가능한 미들타워 제품입니다. 측면 120mm 기본팬 3개, 후면 120mm 기본팬 1개 총 4개를 제공하며 ARGB를 지원하여 메인보드 제조사 프로그램을 통해 색상 조정이 가능합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X",
+            "가격": "892,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B650 토마호크 WIFI",
+            "가격": "318,250원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB",
+            "가격": "1,289,700원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 2TB",
+            "가격": "226,310원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN AQUARIUM 블랙",
+            "가격": "56,960원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "134,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,690원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3383633원",
+    "CPU": "AMD 라이젠9-5세대 7950X (라파엘) (정품)",
+    "Motherboard": "MSI MAG B650 토마호크 WIFI",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER BLACK OC D6X 16GB",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "발키리 GL360 ARGB (BLACK)",
+    "cpu_score": 60,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62909,
+    "gpu_benchmarkscore": 31768
+}

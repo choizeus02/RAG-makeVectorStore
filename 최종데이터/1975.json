@@ -1,0 +1,66 @@
+{
+    "quote_number": "1975",
+    "quote_title": "저가형 영상편집용 PC (12400, 1660 SUPER)",
+    "date_create": "2024.1.3",
+    "cpu_gpu_combinations": "코어i5-12400 + GTX 1660 SUPER 조합",
+    "quotation_summary": " 1. 간단한 영상편집용 PC를 원하시는 분2. 가벼운 캐쥬얼 게임 정도를 같이 즐기시는 분# 영상편집# 2D 캐쥬얼 게임",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 견적맨으로 활동하고 있는 coke-bear 입니다.퀘이사존에서 주로 활동하며 그 외 커뮤니티에서도 간간히 활동하고 있습니다.하드웨어에 관심이 많아 제품을 직접 사용해보기도 하고 주변 지인들 PC 견적부터 조립도 해주다보니PC 구매를 어려워하거나 용도에 맞지 않게 구매하여 불필요한 지출을 하는 경우를 보게 되었습니다.그런 분들께 조금이라도 도움이 되고자 PC 구매자분들께 합리적인 구매를 할 수 있게 견적맨으로 활동하게 되었습니다.",
+    "quote_feedback": "인텔의 경우 영상편집에서 내장그래픽으로 퀵싱크 활용이 가능하다는 장점이 있어 영상편집용도의 PC 구성이라면 인텔 내장그래픽 탑재된 CPU로 구성하시는 게 좋습니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-12세대 12400 (엘더레이크) (정품)상세보기[메인보드]ASRock B760M PG LIGHTNING/D4 대원씨티에스상세보기[메모리]삼성전자 DDR4-3200 (16GB) PC4-25600 x 2 개상세보기[그래픽카드]이엠텍 지포스 GTX 1660 SUPER MIRACLE II D6 6GB상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]DAVEN D4 MESH BLACK (미들타워)상세보기[파워서플라이]SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU상세보기[CPU쿨러]DARKFLASH Ellsworth S21 (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 인텔의 12세대 6코어 제품입니다.메인보드는 b760 칩셋 중 ddr4 메모리가 호환 가능한 애즈락의 가성비 메인보드 입니다.메모리는 삼성의 ddr4 16gb 메모리입니다.그래픽카드는 as 3대장인 이엠텍의 1660 super 제품입니다.SSD는 PCIE4.0 SSD 말미에 나온 제품군 중 가장 성능이 뛰어난 SN850X 제품입니다. 고성능의 PCIE4.0 SSD 들이 발열로 인해 제 성능이 나오지 않는 제품군이 있지만 SN850X 의 경우 보드의 기본 방열판으로도 제 성능을 보여주는 제품입니다.케이스는 저가형 미들타워 케이스인 데이븐의 D4 MESH 제품입니다. 전면 메쉬형태의 제품으로 내부 발열 해소에 유리하고 강판두께 또한 준수합니다.파워서플라이는 파워 회사 중 as 정책이 가장 좋은 슈퍼플라워의 600w 파워입니다.CPU쿨러는 다크플래쉬 사의 s11 쿨러 단종 이후 새로 출시한 s21 쿨러 입니다. 무뽑방지가 기본적으로 적용되어 있습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-12세대 12400",
+            "가격": "164,970원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+            "가격": "137,970원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "삼성전자 DDR4-3200 PC4-25600  16GB",
+            "가격": "43,310원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 GTX 1660 SUPER MIRACLE II D6 6GB",
+            "가격": "272,170원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D4 MESH BLACK",
+            "가격": "35,130원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU",
+            "가격": "61,500원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21",
+            "가격": "27,120원",
+            "수량": "1"
+        }
+    },
+    "total_price": "917050원",
+    "CPU": "인텔 코어i5-12세대 12400 (엘더레이크) (정품)",
+    "Motherboard": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 GTX 1660 SUPER MIRACLE II D6 6GB",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "삼성전자 DDR4-3200 (16GB) PC4-25600 x 2 개",
+    "Power Supply": "SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 (블랙)",
+    "cpu_score": 595,
+    "gpu_score": 152,
+    "performance_grade": "저성능",
+    "cpu_benchmarkscore": 19566,
+    "gpu_benchmarkscore": 12926
+}

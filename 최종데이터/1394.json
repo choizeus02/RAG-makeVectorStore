@@ -1,0 +1,71 @@
+{
+    "quote_number": "1394",
+    "quote_title": "7800x3d + RTX 4090 + 초고사양 게임",
+    "date_create": "2024.1.11",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "그래픽카드의 경우 최상위 모델에서는 조텍 AMP AIRO가 가장 무난한 선택지라 보여집니다.고주파도 적은 편이고가격도 상당히 저렴 합니다 ^^슈플 같은 경우 골드급 이상에서는 RTX 4천번대 전용 케이블을 무상으로 주는 부분이기에지금 구성하신 모델 블랙으로 구성해도 문제 없습니다 ^^",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650E PG Riptide WiFi 대원씨티에스상세보기[메모리]G.SKILL DDR5-6000 CL30 RIPJAWS S5 J 블랙 패키지 (32GB(16Gx2))상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 WINDFORCE V2 D6X 24GB 피씨디렉트상세보기[SSD]삼성전자 980 PRO M.2 NVMe (2TB)상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (2TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)상세보기[CPU쿨러]PentaWave Z06D (BLACK)상세보기[쿨러.튜닝.조명.액세서리]darkFlash C6S RGB (블랙 1PACK) x 3 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 7950x3D를 제외하면\n이걸 따라올 게이밍 CPU는 없다!그래픽카드는 기가바이트 가성비 제품!\nRTX 4090 중 가장 가성비!케이스는 구관이 명관!\n베스트셀러 케이스!파워서플라이는 가성비 플레티넘 파워!\n슈퍼플라워의 믿음의 AS와! PCIe 5.0 완벽 대응!CPU쿨러는 새로운 공냉 끝판왕!\n블랙감성!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650E PG Riptide WiFi 대원씨티에스",
+            "가격": "360,570원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL30 RIPJAWS S5 J 블랙 패키지) 32GB",
+            "가격": "172,300원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 WINDFORCE V2 D6X 24GB 피씨디렉트",
+            "가격": "2,910,630원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 2TB",
+            "가격": "289,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK",
+            "가격": "205,402원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z06D",
+            "가격": "56,910원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "darkFlash C6S RGB x 3 개",
+            "가격": "6,740원",
+            "수량": "3"
+        }
+    },
+    "total_price": "4635522원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650E PG Riptide WiFi 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 WINDFORCE V2 D6X 24GB 피씨디렉트",
+    "SSD": "삼성전자 980 PRO M.2 NVMe (2TB)",
+    "Memory": "G.SKILL DDR5-6000 CL30 RIPJAWS S5 J 블랙 패키지 (32GB(16Gx2))",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)",
+    "CPU Cooler": "PentaWave Z06D (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 38694
+}

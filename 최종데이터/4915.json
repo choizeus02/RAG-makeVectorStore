@@ -1,0 +1,71 @@
+{
+    "quote_number": "4915",
+    "quote_title": "7800X3D + RTX 4080 SUPER (Antec C8 MESH White)",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4080 SUPER 조합",
+    "quotation_summary": " 7800X3D + RTX 4080 SUPER (Antec C8 MESH White)# 7800X3D + RTX 4080 SUPER (Antec C8 MESH White)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7800X3D + RTX 4080 SUPER (Antec C8 MESH White)",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE X670E AORUS PRO X 피씨디렉트상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]Antec C8 MESH White (빅타워)상세보기[파워서플라이]SuperFlower SF-850F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)상세보기[CPU쿨러]발키리 V360S ARGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]발키리 S12 ARGB (WHITE) x 4 개상세보기[쿨러.튜닝.조명.액세서리]발키리 S12R ARGB (WHITE) x 3 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 라이젠 7000번대 3D 모델 주인공인 7800X3D입니다. 순정 상태에서 13900KS를 넘어서는 뛰어난 게임 성능과 뛰어난 전성비가 장점입니다.메인보드는 6+2+2페이즈 1120A(70A)의 뛰어난 전원부를 지닌 라이젠 최상급 칩셋 X670E입니다. \n방열판이 화이트라 화이트 감성 내기도 좋습니다.메모리는 팀그룹의 화이트 튜닝메모리입니다.그래픽카드는 AS 1티어 이엠텍의 RTX 4080 SUPER 화이트 제품입니다.SSD는 하이닉스의 PCIE4.0 대역폭 SSD입니다. 176단 낸드로 뛰어난 전성비를 자랑합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "529,200원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE X670E AORUS PRO X 피씨디렉트",
+            "가격": "405,480원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스) 32GB",
+            "가격": "340,000원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+            "가격": "1,582,110원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec C8 MESH White",
+            "가격": "126,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14XG LEADEX VII GOLD WHITE ATX 3.0",
+            "가격": "198,390원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 V360S ARGB",
+            "가격": "308,700원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "발키리 S12R ARGB x 3 개",
+            "가격": "34,900원",
+            "수량": "3"
+        }
+    },
+    "total_price": "3760580원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE X670E AORUS PRO X 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))",
+    "Power Supply": "SuperFlower SF-850F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)",
+    "CPU Cooler": "발키리 V360S ARGB (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 34625
+}

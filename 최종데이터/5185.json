@@ -1,0 +1,66 @@
+{
+    "quote_number": "5185",
+    "quote_title": "AMD 라이젠5-4세대 5600 + 라데온 RX 6800",
+    "date_create": "2024.4.9",
+    "cpu_gpu_combinations": "라이젠5 5600 + RX 6800 조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600 + 라데온 RX 6800# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리 수율은 오버클럭을 할 때의 이야기지 오버클럭을 하지 않는다면 수율은 의미가 없습니다. 규격램이면서 저렴하고 SK하이닉스 모듈을 사용하는 ESSENCORE KLEVV DDR4-3200 CL22 (16GB) 2개 그대로 구성하면 되구요.2. SSD는 젠3 제품 중에서는 5년 무상AS에 디램 메모리와 전용 히트싱크가 적용되어 있고 최상위 성능에 가격도 저렴한 편인 ADATA XPG SX8200 Pro M.2 2280 코잇 (1TB)로 변경3. 케이스는 식스팬 기본 적용에 LED 모드와 속도 조절이 가능하고 350mm VGA 장착 지원을 하는 가성비 끝판왕인 EDDY A1 RGB MESH 강화유리 (미들타워)로 변경적용되어 있는 팬의 소음이 20dBA 정도로 아주 조용한 편입니다.4. 파워는 6년 무상AS에 무려 9종에 달하는 보호회로를 적용하여 안정성에 몰빵을 하고서도 가격은 아주 착한 수준으로 출시가 되었고 현재 출시 이벤트로 가격을 더 인하해서 판매 중이라 갓성비 중에서도 갓성비라고 할 수 있는 몬스타 가츠 ExtremeX FX800 80PLUS STANDARD로 강추합니다. 다른 700W 제품보다도 월등히 저렴하면서도 AS기간도 길고 보호회로도 많이 적용되어 있죠.견적맨들이 주로 추천하는 슈플 메가의 경우는 5년 무상에 6종 보호회로가 적용되어 있어서 차이가 나는 편입니다.5. CPU쿨러는 싱글타워 끝판왕급 성능에 케이스와도 잘 어울리고 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 PentaWave Z04E SRB ARGB로 강추제가 직접 테스트를 해 봤는 S21보다도 성능이 더 좋았습니다. 가격도 많이 저렴하고 ARGB도 지원하는데 성능도 더 좋아서 구성하지 않을 이유가 없는 쿨러입니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개상세보기[그래픽카드]XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB상세보기[SSD]ADATA XPG SX8200 Pro M.2 2280 코잇 (1TB)상세보기[케이스]EDDY A1 RGB MESH 강화유리 (미들타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX800 80PLUS STANDARD상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현재 게임 가성비가 가장 좋은 CPU그래픽카드는 RTX 4070 바로 아랫 등급!\nRTX 4060 Ti보다 월등히 좋지만 더 좋은 가성비 제품!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "144,380원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "83,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  16GB",
+            "가격": "31,990원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB",
+            "가격": "507,420원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "ADATA XPG SX8200 Pro M.2 2280 코잇 1TB",
+            "가격": "115,200원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "EDDY A1 RGB MESH 강화유리",
+            "가격": "33,380원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX800 80PLUS STANDARD",
+            "가격": "49,100원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1017670원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "Graphic Card": "XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB",
+    "SSD": "ADATA XPG SX8200 Pro M.2 2280 코잇 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX800 80PLUS STANDARD",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 504,
+    "gpu_score": 25,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 25024
+}

@@ -1,0 +1,66 @@
+{
+    "quote_number": "4981",
+    "quote_title": "14500 RX 580 @ 110만 / 데이터 백업용 워크스테이션",
+    "date_create": "2024.4.2",
+    "cpu_gpu_combinations": "코어i5-14500 + RX 580 조합",
+    "quotation_summary": " 14500의 E+P 코어 효율과32G DDR5 메모리Gen4 하이앤드 1TB SSDB760 350A 메인보드쿨링을 위해 6팬 케이스화면 출력용 RX 580파워는 신뢰의 슈플CPU쿨링은 듀얼타워# 110만# 데이터백업# 사무실# 워크스테이션",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "100만원 살짝 넘긴 구성이예요14500의 E+P 코어 효율과32G DDR5 메모리Gen4 하이앤드 1TB SSDB760 350A 메인보드쿨링을 위해 6팬 케이스화면 출력용 RX 580파워는 신뢰의 슈플CPU쿨링은 듀얼타워로 선택했어요어떤 것 보다 시스템 안정에 치중하여 견적했어요",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)상세보기[메인보드]ASRock B760M Pro-A 대원씨티에스상세보기[메모리]마이크론 Crucial DDR5-5600 CL46 PRO 패키지 대원씨티에스 (32GB(16Gx2))상세보기[그래픽카드]액슬 라데온 RX 580 2048SP D5 8GB R2 에즈윈상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DAVEN D6 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU상세보기[CPU쿨러]3RSYS Socoool RC1200 ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 E코어와 P코어로 무장한 14500입니다. 게임에도 작업에도 우수합니다.메인보드는 350A Dr.Mos 전원부와 확장성에 강력하지만 가격은 착한 제품입니다.메모리는 출시 이후 잦은 품절로 화제가 된 제품입니다. 방열판 가격을 0으로 만든 장본인이죠.그래픽카드는 앙증맞는 화면 출력용 입니다. 이제는 사라져가는 DVI 포트부터 HDMI DP 모두를 지원합니다.SSD는 PCIe 4.0 하이앤드 라인업 입니다.  초당 7GB가 넘는 데이터를 전송할 수 있습니다.케이스는 6팬을 통한 훌륭한 냉각 성능이 포인트 입니다.파워서플라이는 명가 슈플의 600w 스탠다드 입니다.CPU쿨러는 듀얼타워 가성비 제품이예요. RGB도 있고 듀얼타워인데 이 가격이면 ㄷㄷ 입니다.조립PC관련는 믿고 맡길 수 있는 서비스",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14500",
+            "가격": "330,430원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M Pro-A 대원씨티에스",
+            "가격": "226,230원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR5-5600 CL46 PRO 패키지 대원씨티에스) 32GB",
+            "가격": "264,520원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "액슬 라데온 RX 580 2048SP D5 8GB R2 에즈윈",
+            "가격": "123,700원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D6 MESH 강화유리 블랙",
+            "가격": "36,780원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU",
+            "가격": "61,500원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1200 ARGB",
+            "가격": "34,410원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1206640원",
+    "CPU": "인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)",
+    "Motherboard": "ASRock B760M Pro-A 대원씨티에스",
+    "Graphic Card": "액슬 라데온 RX 580 2048SP D5 8GB R2 에즈윈",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "마이크론 Crucial DDR5-5600 CL46 PRO 패키지 대원씨티에스 (32GB(16Gx2))",
+    "Power Supply": "SuperFlower SF-600R12ST MEGA 80PLUS STANDARD 230V EU",
+    "CPU Cooler": "3RSYS Socoool RC1200 ARGB",
+    "cpu_score": 247,
+    "gpu_score": 184,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32733,
+    "gpu_benchmarkscore": 11533
+}

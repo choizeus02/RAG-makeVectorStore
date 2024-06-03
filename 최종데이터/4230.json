@@ -1,0 +1,86 @@
+{
+    "quote_number": "4230",
+    "quote_title": "AMD 라이젠9-5세대 7900 + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.3.13",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7900 + 지포스 RTX 4070 SUPER# 방송",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. ASUS 메인보드는 가격대비 퀄리티가 높은 편이 아니라서 추천을 하는 경우가 많지 않습니다. 현재 구성하신 제품도 720A급 출력의 전원부 제품인데 980A급 출력의 전원부에 와이파이&블루투스 그리고 초대형 히트싱크까지 적용되어 있는 GIGABYTE B650 AORUS ELITE AX 피씨디렉트가 더 저렴해서 추천드리구요.2. 구성하신 그래픽카드는 현재 유통이 안되고 있습니다.1티어 AS 중에서도 최상위면서 가격적인 메리트도 높은 이엠텍 지포스 RTX 4070 SUPER STORM X Dual OC D6X 12GB로 구성3. SSD인 P31은 NVMe 규격 중에서는 속도가 가장 느린 젠3 제품입니다.젠3 보다 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경4. 케이스는 식스팬 기본 장착에 메인보드 CPU 장착 후면부에 120mm 팬을 추가 장착하여 CPU의 온도를 효과적으로 낮출 수 있도록 설계되어 최고 수준의 쿨링 효율을 보여주는 세븐 팬 제품인 잘만 N7 PLUS Black (미들타워)로 변경LED OFF도 가능하고 동시에 팬 속도 조절도 되는 장점이 아주 많은 제품입니다.5. 파워는 4000번대 16핀 전용 커넥터가 적용된 그래픽카드의 경우는 12VHPWR 케이블을 지원하는 제품으로 구성하는 것이 보다 안정적으로 사용할 수가 있습니다. 실버 인증에 12VHPWR 케이블이 적용된 마이크로닉스 WIZMAX 750W 80PLUS SILVER ATX3.0 (PCIE5)로 변경6. CPU쿨러는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공하는 3RSYS Socoool RC1200 ARGB로 변경7. 키보드는 체리 저소음 적축 스위치가 적용되어 있는 제품 중에서는 가성비가 가장 좋은 앱코 HACKER K660M TKL 이색사출 PBT 체리 키보드 딥로얄 (저소음적축)으로 변경8. 마우스는 유/무선에 블루투스까지 지원해서 다양하게 활용할 수 있는 검증된 쉘이 적용되어 있는 몬스타기어 CREW GX 유무선으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 SUPER STORM X Dual OC D6X 12GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]잘만 N7 PLUS Black (미들타워)상세보기[파워서플라이]마이크로닉스 WIZMAX 750W 80PLUS SILVER ATX3.0 (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC1200 ARGB상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]알파스캔 AOC 24B1X 블랙 보더리스 IPS 75 시력보호 무결점상세보기[키보드]앱코 HACKER K660M TKL 이색사출 PBT 체리 키보드 딥로얄 (저소음적축)상세보기[마우스]몬스타기어 CREW GX 유무선상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 압도적인 전성비로 인한 말도 안되는 낮은 온도의  12코어 24쓰레드 CPU\n온도 제어가 힘든 고성능 CPU에 있어서 가성비 공랭 CPU쿨러로 온도 제어가 가능한 별종인 제품",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "538,780원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX 피씨디렉트",
+            "가격": "256,640원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 SUPER STORM X Dual OC D6X 12GB",
+            "가격": "830,320원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "잘만 N7 PLUS Black",
+            "가격": "39,990원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 WIZMAX 750W 80PLUS SILVER ATX3.0",
+            "가격": "88,780원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1200 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "알파스캔 AOC 24B1X 블랙 보더리스 IPS 75 시력보호 무결점",
+            "가격": "154,040원",
+            "수량": "1"
+        },
+        "키보드": {
+            "제품명": "앱코 HACKER K660M TKL 이색사출 PBT 체리 키보드 딥로얄",
+            "가격": "69,000원",
+            "수량": "1"
+        },
+        "마우스": {
+            "제품명": "몬스타기어 CREW GX 유무선",
+            "가격": "29,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2449380원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 SUPER STORM X Dual OC D6X 12GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 WIZMAX 750W 80PLUS SILVER ATX3.0 (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC1200 ARGB",
+    "cpu_score": 107,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 31768
+}

@@ -1,0 +1,60 @@
+{
+    "quote_number": "4284",
+    "quote_title": "14600K 개발 및 코딩, 워크스테이션",
+    "date_create": "2024.3.15",
+    "cpu_gpu_combinations": "코어i5-14600K +  조합",
+    "quotation_summary": " 14600K 개발 및 코딩, 워크스테이션# 14600K 개발 및 코딩# 워크스테이션",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14600K 개발 및 코딩, 워크스테이션",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600K (랩터레이크)(벌크)상세보기[메인보드]ASRock B760M PG Riptide D5 디앤디컴상세보기[메모리]GeIL DDR5-4800 CL40 PRISTINE V (16GB)상세보기[SSD]장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자상세보기[케이스]몬스타 가츠 X320M 블랙 (미니타워)상세보기[파워서플라이]쿨러마스터 MWE 500 BRONZE V2 230V상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기파워서플라이는 가성비 좋은 쿨러마스터의 500W 브론즈 효율 파워입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600K",
+            "가격": "433,190원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG Riptide D5 디앤디컴",
+            "가격": "178,190원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "GeIL DDR5-4800 CL40 PRISTINE V 16GB",
+            "가격": "57,470원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 삼성전자 1TB",
+            "가격": "64,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X320M 블랙",
+            "가격": "29,890원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 500 BRONZE V2 230V",
+            "가격": "47,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,060원",
+            "수량": "1"
+        }
+    },
+    "total_price": "844800원",
+    "CPU": "코어i5-14세대 14600K (랩터레이크)(벌크)",
+    "Motherboard": "ASRock B760M PG Riptide D5 디앤디컴",
+    "SSD": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자",
+    "Memory": "GeIL DDR5-4800 CL40 PRISTINE V (16GB)",
+    "Power Supply": "쿨러마스터 MWE 500 BRONZE V2 230V",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 181,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": null
+}

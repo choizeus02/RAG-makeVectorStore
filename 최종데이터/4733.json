@@ -1,0 +1,71 @@
+{
+    "quote_number": "4733",
+    "quote_title": "인텔 코어i5-12세대 12400F + 라데온 RX 7600 XT",
+    "date_create": "2024.3.26",
+    "cpu_gpu_combinations": "코어i5-12400F + RX 7600 XT 조합",
+    "quotation_summary": " 인텔 코어i5-12세대 12400F + 라데온 RX 7600 XT# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다. 12400F 벌크로 변경2. 메인보드는 13-4세대로 업글하려면 전원부가 보다 튼튼한 제품으로 구성해 주는 것이 좋습니다. 드라이버 모스펫 전원부와 화이트 히트싱크가 적용되어 있는 ASRock B760M Pro RS D5 에즈윈으로 변경3. 삼성 램은 현재 불량이슈가 크게 터진 상황이라 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2개 32기가로 변경4. 구성하신 RX 7600은 현재 유통하는 업체가 없어서 구매가 불가능한 상황입니다. 조금 더 투자를 하더라도 상위 제품인 ASRock 라데온 RX 7600 XT 스틸레전드 OC D6 16GB 에즈윈으로 추천드리구요.5. 그래픽 작업에 있어서 가장 체감이 크게 되는 부품이 SSD입니다. 구성하신 P31은 NVMe 규격 중에서 가장 느린 젠3 제품입니다.젠3보다 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경6. 구성하신 케이스는 품절이라 요즘 가장 핫한 어항케이스 중에서도 압도적인 비주얼과 가성비 그리고 C타입 포트와 하단부 타공망 적용으로 쿨링 효율까지 챙긴 몬스타 가츠 X520A 화이트 (미들타워)로 변경7. CPU쿨러는 대장급 성능의 듀얼타워 공랭 쿨러 중에서는 압도적인 가성비를 제공하는 3RSYS Socoool RC1200 ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-12세대 12400F (엘더레이크)(벌크)상세보기[메인보드]ASRock B760M Pro RS D5 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ASRock 라데온 RX 7600 XT 스틸레전드 OC D6 16GB 에즈윈상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X520A 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]3RSYS Socoool RC1200 ARGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTKM01 화이트 데스크탑용 메모리 램카드 방열판 x 2 개상세보기[쿨러.튜닝.조명.액세서리]케이엘시스템 KLcom M.2 2280 방열판 (SILVER)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 정품과 동일한 3년 AS를 제공하는 12세대 인텔 i5 12400F (벌크) CPU메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!파워서플라이는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 700W 화이트",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-12세대 12400F",
+            "가격": "164,500원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M Pro RS D5 에즈윈",
+            "가격": "171,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,490원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ASRock 라데온 RX 7600 XT 스틸레전드 OC D6 16GB 에즈윈",
+            "가격": "518,560원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,990원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520A 화이트",
+            "가격": "47,900원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "75,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1200 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "케이엘시스템 KLcom M.2 2280 방열판",
+            "가격": "1,260원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1245110원",
+    "CPU": "인텔 코어i5-12세대 12400F (엘더레이크)(벌크)",
+    "Motherboard": "ASRock B760M Pro RS D5 에즈윈",
+    "Graphic Card": "ASRock 라데온 RX 7600 XT 스틸레전드 OC D6 16GB 에즈윈",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "3RSYS Socoool RC1200 ARGB (WHITE)",
+    "cpu_score": 595,
+    "gpu_score": 72,
+    "performance_grade": "저성능",
+    "cpu_benchmarkscore": 19566,
+    "gpu_benchmarkscore": 17905
+}

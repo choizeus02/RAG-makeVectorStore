@@ -1,0 +1,66 @@
+{
+    "quote_number": "3414",
+    "quote_title": "5600  + RTX 4060 TI(FHD 게이밍)",
+    "date_create": "2024.2.24",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 4060 Ti 조합",
+    "quotation_summary": " 5600  + RTX 4060 TI(FHD 게이밍)# 5600  + RTX 4060 TI(FHD 게이밍)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "5600  + RTX 4060 TI(FHD 게이밍)",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME B550M-A 대원CTS상세보기[메모리]TeamGroup T-Force DDR4-3600 CL18 Delta RGB 패키지 (32GB(16Gx2)상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4060 Ti OC D6 8GB상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]1stPlayer T7-P 화이트 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 여전히 가성비 게이밍 CPU로 명성이 자자한 CPU입니다.메인보드는 5600과 가성비 좋게 구성하기 좋은 메인보드입니다.그래픽카드는 AS 탑티어인 갤럭시의 FHD 퍼포먼스 라인 그래픽카드입니다.SSD는 이천 특산물로 불리며 낮은 발열과 뛰어난 성능으로 게임용이나 사무용도로도 훌륭한 제품입니다. \n안정성이 이미 검증된 제품이죠파워서플라이는 가성비 좋은 쿨러마스터의 브론즈 등급 제품으로 대양에서 유통해서 AS도 좋습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME B550M-A 대원CTS",
+            "가격": "113,860원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR4-3600 CL18 Delta RGB 패키지 32GB",
+            "가격": "123,690원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4060 Ti OC D6 8GB",
+            "가격": "568,980원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7-P 화이트",
+            "가격": "42,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1161890원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME B550M-A 대원CTS",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4060 Ti OC D6 8GB",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "TeamGroup T-Force DDR4-3600 CL18 Delta RGB 패키지 (32GB(16Gx2)",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 504,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 22891
+}

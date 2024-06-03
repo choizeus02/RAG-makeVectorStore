@@ -1,0 +1,66 @@
+{
+    "quote_number": "1452",
+    "quote_title": "12400F + RTX 3060 + FHD 디아4 풀옵션 견적",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "코어i5-12400F + RTX 3060 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "100 조금 넘기기는 할텐데3060 12기가는 좀 어렵기는 할 것 같습니다.다만 열화 상관 없고 FHD나 QHD급 60hz 정도면 상관 없다 하신다면문젠 없을 겁니다.다만 디아4가 렘누수가 좀 있다보니 가능하면 메모리 용량 자체는 32기가 셋팅을 추천드립니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-12세대 12400F (엘더레이크)(벌크)상세보기[메인보드]ASRock B760M Pro-A 대원씨티에스상세보기[메모리]마이크론 Crucial DDR4-3200 CL22 (16GB) x 2 개상세보기[그래픽카드]MANLi 지포스 RTX 3060 Rush D6 12GB LHR상세보기[SSD]마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (500GB)상세보기[케이스]DAVEN D4 MESH BLACK (미들타워)상세보기[파워서플라이]FSP HYPER K PRO 600W 80PLUS Standard 230V EU상세보기[CPU쿨러]PCCOOLER PALADIN EX400 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 13500 , 14500까지 넉넉하게 커버 가능한 전원부!\n가성비 좋은 DDR5 B760 메인보드!메모리는 QHD 게이밍은 32기가!\n특히 싱글 AAA급 게임은 더더욱!SSD는 PCie 4.0 가성비 SSD!\nPM9a1 대비 더 안정적인 펌웨어!케이스는 가성비 완전 좋은 케이스!\n3만원대에 있을건 다 있는 케이스!파워서플라이는 FPS 가성비 파워!\n동급 기준 최고의 선택지!CPU쿨러는 팔라딘 400의 가성비 제품!\n소음 억제력 , 발열 제어능력 준수!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-12세대 12400F",
+            "가격": "164,970원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M Pro-A 대원씨티에스",
+            "가격": "153,510원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4-3200 CL22  16GB",
+            "가격": "41,250원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MANLi 지포스 RTX 3060 Rush D6 12GB LHR",
+            "가격": "398,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS 500GB",
+            "가격": "69,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D4 MESH BLACK",
+            "가격": "34,840원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "FSP HYPER K PRO 600W 80PLUS Standard 230V EU",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PCCOOLER PALADIN EX400",
+            "가격": "22,160원",
+            "수량": "1"
+        }
+    },
+    "total_price": "991490원",
+    "CPU": "인텔 코어i5-12세대 12400F (엘더레이크)(벌크)",
+    "Motherboard": "ASRock B760M Pro-A 대원씨티에스",
+    "Graphic Card": "MANLi 지포스 RTX 3060 Rush D6 12GB LHR",
+    "SSD": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (500GB)",
+    "Memory": "마이크론 Crucial DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "FSP HYPER K PRO 600W 80PLUS Standard 230V EU",
+    "CPU Cooler": "PCCOOLER PALADIN EX400 (BLACK)",
+    "cpu_score": 595,
+    "gpu_score": 81,
+    "performance_grade": "저성능",
+    "cpu_benchmarkscore": 19566,
+    "gpu_benchmarkscore": 17063
+}

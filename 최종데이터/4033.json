@@ -1,0 +1,66 @@
+{
+    "quote_number": "4033",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4080 SUPER",
+    "date_create": "2024.3.9",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4080 SUPER 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4080 SUPER# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "7950X3D는 공랭쿨러로도 온도 제어가 되는 전성비가 아주 높은 제품입니다.공랭쿨러와 수냉쿨러 사이의 온도 차이도 크지 않고 수냉쿨러 사이에서는 변별력이 없어지는 제품이죠. 7만원짜리 쿨러든 40만원짜리 쿨러든 동일한 온도일 정도로 온도가 아주 잘 잡혀있는 CPU입니다.CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 화이트 색상의 앱코 T360 테티스 풀체인지 ARGB (화이트)로 추천드립니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650E AORUS ELITE X AX ICE 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]Antec PERFORMANCE 1 FT MESH 강화유리 White (빅타워)상세보기[파워서플라이]SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)상세보기[CPU쿨러]앱코 T360 테티스 풀체인지 ARGB (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "891,920원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650E AORUS ELITE X AX ICE 피씨디렉트",
+            "가격": "346,800원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+            "가격": "1,585,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec PERFORMANCE 1 FT MESH 강화유리 White",
+            "가격": "209,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0",
+            "가격": "225,408원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "앱코 T360 테티스 풀체인지 ARGB",
+            "가격": "77,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3700508원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650E AORUS ELITE X AX ICE 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)",
+    "CPU Cooler": "앱코 T360 테티스 풀체인지 ARGB (화이트)",
+    "cpu_score": 63,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 34625
+}

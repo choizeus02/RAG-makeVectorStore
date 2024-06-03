@@ -1,0 +1,55 @@
+{
+    "quote_number": "3598",
+    "quote_title": "라이젠 5600 반본체",
+    "date_create": "2024.2.28",
+    "cpu_gpu_combinations": "라이젠5 5600 +  조합",
+    "quotation_summary": " 라이젠 5600 반본체# 라이젠 5600 반본체",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "라이젠 5600 반본체",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]MSI B550M PRO-VDH WIFI상세보기[메모리]삼성전자 DDR4-3200 (8GB) PC4-25600 x 2 개상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[파워서플라이]마이크로닉스 COOLMAX VISION II 500W상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 여전히 가성비 게이밍 CPU로 명성이 자자한 CPU입니다.메모리는 삼성 메모리는 말이 필요 없죠 ^^SSD는 PCIE4.0 대역폭 상급 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "138,390원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI B550M PRO-VDH WIFI",
+            "가격": "135,190원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "삼성전자 DDR4-3200 PC4-25600  8GB",
+            "가격": "21,350원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,490원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX VISION II 500W",
+            "가격": "36,780원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "599350원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "MSI B550M PRO-VDH WIFI",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "삼성전자 DDR4-3200 (8GB) PC4-25600 x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX VISION II 500W",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 504,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": null
+}

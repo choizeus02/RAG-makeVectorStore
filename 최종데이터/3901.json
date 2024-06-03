@@ -1,0 +1,76 @@
+{
+    "quote_number": "3901",
+    "quote_title": "인텔 코어i7-14세대 14700KF + 지포스 RTX 4080 SUPER",
+    "date_create": "2024.3.6",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 4080 SUPER 조합",
+    "quotation_summary": " 인텔 코어i7-14세대 14700KF + 지포스 RTX 4080 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1.  메모리는 SK하이닉스 모듈을 사용하여 안정적인 패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) 2개 64기가로 변경가격은 동일한 수준인데 모듈 차이가 있어서 패트리어트로 추천을 드립니다. ADATA제품은 하이닉스 A다이라고 표기가 안된 제품들은 다른 모듈을 사용한다고 하네요.2. 구성하신 그래픽카드는 현재 유통하는 업체가 몇 없어서 견적왕의 최대 메리트인 견적비교가 되지 않습니다.1티어 AS 중에서도 최상위면서 화이트 색상에 가격적인 메리트도 높은 이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB로 변경3. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 1000W 고용량에 골드보다 상위인 플래티넘 인증 고효율 화이트 제품인SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)상세보기[케이스]Antec C8 MESH White (빅타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]발키리 GL360 ARGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]발키리 X12 ARGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]발키리 X12R ARGB (WHITE) x 6 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-14세대 14700K",
+            "가격": "573,850원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "379,460원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+            "가격": "1,585,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/256M",
+            "가격": "158,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec C8 MESH White",
+            "가격": "126,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "215,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "발키리 X12R ARGB x 6 개",
+            "가격": "28,140원",
+            "수량": "6"
+        }
+    },
+    "total_price": "3734838원",
+    "CPU": "인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "발키리 GL360 ARGB (WHITE)",
+    "cpu_score": 98,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 34625
+}

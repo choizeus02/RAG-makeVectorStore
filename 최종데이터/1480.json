@@ -1,0 +1,66 @@
+{
+    "quote_number": "1480",
+    "quote_title": "fhd 해상도 가성비 게이밍 컴퓨터 (5600, rtx 3060 ti)",
+    "date_create": "2024.1.3",
+    "cpu_gpu_combinations": "코어i7-13700K + RTX 4070 Ti 조합",
+    "quotation_summary": " 1. fhd 해상도 모니터를 사용하시는 분2. 가성비를 중요하게 보시는 분# 스타# 메이플# 오버워치# 배그# 롤# 에이펙스# 로블록스",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 견적맨으로 활동하고 있는 coke-bear 입니다.퀘이사존에서 주로 활동하며 그 외 커뮤니티에서도 간간히 활동하고 있습니다.하드웨어에 관심이 많아 제품을 직접 사용해보기도 하고 주변 지인들 PC 견적부터 조립도 해주다보니PC 구매를 어려워하거나 용도에 맞지 않게 구매하여 불필요한 지출을 하는 경우를 보게 되었습니다.그런 분들께 조금이라도 도움이 되고자 PC 구매자분들께 합리적인 구매를 할 수 있게 견적맨으로 활동하게 되었습니다.",
+    "quote_feedback": "fhd 해상도 기준 가성비 가장 좋은 구성의 게이밍 pc 입니다.5600 cpu와 prime b550m-a 보드를 기반으로 가성비 있게 구성하였고 fhd 해상도 기준 대다수의 게임을 풀옵션으로 가능한 3060 ti 그래픽카드로 구성하였습니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i7-13세대 13700K (랩터레이크) (정품)상세보기[메인보드]MSI PRO Z790-A WIFI상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB)상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 Ti Trinity OC D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)상세보기[CPU쿨러]3RSYS Socoool 라니 XY-360 Quiet (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기SSD는 마이크론의 pcie4.0 상위 제품인 t500 2tb 제품입니다.CPU쿨러는 3rsys의 3열 상급 수냉쿨러 입니다. 신제품인 quiet 제품으로 소음 부분에서 개선된 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-13세대 13700K",
+            "가격": "569,800원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI PRO Z790-A WIFI",
+            "가격": "386,060원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE 32GB",
+            "가격": "117,450원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 Ti Trinity OC D6X 12GB",
+            "가격": "1,169,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK",
+            "가격": "154,407원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool 라니 XY-360 Quiet",
+            "가격": "162,230원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2881937원",
+    "CPU": "인텔 코어i7-13세대 13700K (랩터레이크) (정품)",
+    "Motherboard": "MSI PRO Z790-A WIFI",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 Ti Trinity OC D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB)",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)",
+    "CPU Cooler": "3RSYS Socoool 라니 XY-360 Quiet (BLACK)",
+    "cpu_score": 136,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 46542,
+    "gpu_benchmarkscore": 31768
+}

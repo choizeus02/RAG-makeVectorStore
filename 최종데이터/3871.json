@@ -1,0 +1,91 @@
+{
+    "quote_number": "3871",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4090",
+    "date_create": "2024.3.6",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4090# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 7800X3D는 전성비가 아주 좋은 CPU로 메인보드 선택이 자유로운 편입니다.메인보드를 동일 제품군 B650 칩셋으로 변경해서 가성비를 조금 더 챙겼습니다.2. 메모리는 화이트 컨셉의 1티어 튜닝 메모리인 TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))로 변경3. SSD는 최근에 출시된 젠4 규격의 끝판왕급 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경4. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 1000W 고용량에 골드보다 상위인 플래티넘 인증 고효율 제품인 SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)로 변경5. 마이크로닉스 ML-420 View BTF 화이트 (빅타워)같이 상단에 420mm 라디에이터 장착을 지원하는 파노라마뷰 어항케이스는 튜닝에 특화된 제품이라 상단을 채워줄 수 있는 420mm 수냉쿨러 장착하는 것을 추천드립니다. 360mm를 장착하면 상단에 공간이 남게 됩니다. 현재 유통 중인 420mm 수냉쿨러 중에서는 가성비가 가장 좋은 화이트 제품인 써멀테이크 TH420 V2 ARGB Sync (SNOW)로 변경6. 스피커는 현재 유통사가 많이 없어서 현금가 카드가 품절이 뜹니다. 가격대비 성능이 아주 높은 수준인 몬스타 가츠 Live 500 사운드바로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5640/128M (WD80EAZZ, 8TB)상세보기[케이스]마이크로닉스 ML-420 View BTF 화이트 (빅타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]써멀테이크 TH420 V2 ARGB Sync (SNOW)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[키보드]몬스타 몬스타기어 닌자104PRO 유무선 공장풀윤활 기계식 화이트 (프라임, 폭스테일)상세보기[마우스]몬스타 가츠 EXTREMEX M4K 유무선상세보기[게이밍헤드셋.스피커.마이크]몬스타 가츠 Live 500상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "256,640원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스) 32GB",
+            "가격": "340,000원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+            "가격": "2,933,870원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5640/128M",
+            "가격": "168,790원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 View BTF 화이트",
+            "가격": "136,980원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "215,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "써멀테이크 TH420 V2 ARGB Sync",
+            "가격": "160,600원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,510원",
+            "수량": "1"
+        },
+        "키보드": {
+            "제품명": "몬스타 몬스타기어 닌자104PRO 유무선 공장풀윤활 기계식 화이트",
+            "가격": "169,000원",
+            "수량": "1"
+        },
+        "마우스": {
+            "제품명": "몬스타 가츠 EXTREMEX M4K 유무선",
+            "가격": "56,090원",
+            "수량": "1"
+        },
+        "게이밍헤드셋.스피커.마이크": {
+            "제품명": "몬스타 가츠 Live 500",
+            "가격": "38,490원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5395275원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "써멀테이크 TH420 V2 ARGB Sync (SNOW)",
+    "cpu_score": 225,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 38694
+}

@@ -1,0 +1,70 @@
+{
+    "quote_number": "4669",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D",
+    "date_create": "2024.3.25",
+    "cpu_gpu_combinations": "라이젠9 7950X3D +  조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 공랭쿨러로 커버할 수 있는 최상위 성능 제품인 7950X3D로 구성2. 메인보드는 600A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 ASRock B650M PG Riptide 대원씨티에스로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2개 32기가로 구성4. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 구성5. 케이스는 논LED 컨셉에 저소음 시스템 팬이 적용되어 있는 3RSYS S100 Quiet 블랙 (미들타워)로 구성SILENCE라고 적혀있는 저소음 특화된 케이스보다 더 조용한 수준의 케이스입니다.6. 파워는 정격 800W 골드인증 제품인 쿨러마스터 G800 GOLD로 구성해서 안정성과 가성비를 모두 챙겼습니다.24시간 켜놓으면 파워의 효율도 상당히 중요합니다. 골드인증이면 전기세를 절약하는데도 상당히 도움이 되면서 고퀄리티의 부품을 사용해서 안정성도 높습니다.7. CPU쿨러는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 최저 수준의 소음으로 극저소음 시스템을 만들어 줄 DARKFLASH Ellsworth D21 (BLACK)으로 구성8. 모니터는 가장 선호되는 IPS패널이 적용되어 있는 27인치 QHD 해상도 제품인 정림전자 GMASTAR JE271L7711 IPS QHD 75 무결점으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS S100 Quiet 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]DARKFLASH Ellsworth D21 (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]정림전자 GMASTAR JE271L7711 IPS QHD 75 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!파워서플라이는 안정성과 가성비를 겸비한 골드인증 800W 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "891,920원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "214,920원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,500원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,990원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS S100 Quiet 블랙",
+            "가격": "69,100원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "93,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth D21",
+            "가격": "47,300원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,470원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "정림전자 GMASTAR JE271L7711 IPS QHD 75 무결점",
+            "가격": "145,940원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1867640원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "DARKFLASH Ellsworth D21 (BLACK)",
+    "cpu_score": 63,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": null
+}

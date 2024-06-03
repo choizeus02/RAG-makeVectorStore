@@ -1,0 +1,71 @@
+{
+    "quote_number": "4039",
+    "quote_title": "14900K + RTX 4080 SUPER (커세어 CORSAIR 5000D RGB AIRFLOW TRUE WHITE)",
+    "date_create": "2024.3.9",
+    "cpu_gpu_combinations": "코어i9-14900K + RTX 4080 SUPER 조합",
+    "quotation_summary": " 14900K + RTX 4080 SUPER (커세어 CORSAIR 5000D RGB AIRFLOW TRUE WHITE)# 14900K + RTX 4080 SUPER (커세어 CORSAIR 5000D RGB AIRFLOW TRUE WHITE)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14900K + RTX 4080 SUPER (커세어 CORSAIR 5000D RGB AIRFLOW TRUE WHITE)",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]PATRIOT DDR5-6000 CL42 VIPER  Elite  5 RGB 패키지 (96GB(48Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]커세어 CORSAIR 5000D RGB AIRFLOW TRUE WHITE (미들타워)상세보기[파워서플라이]Antec NeoECO 1000W WHITE 80PLUS GOLD 풀 모듈러 ATX 3.0 (PCIE5)상세보기[CPU쿨러]발키리 GL360 ARGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]Thermalright TL-B14W x 4 개상세보기[쿨러.튜닝.조명.액세서리]BRAVOTEC 스톤마일 NEO ARGB (블랙) x 2 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메인보드는 화이트 감성을 위한 어로스 엘리트 보드입니다.\n16+1+2페이즈 1120A(90A)의 뛰어난 전원부의 보드입니다.그래픽카드는 AS 1티어 이엠텍의 RTX 4080 SUPER 화이트 제품입니다.SSD는 PCIE4.0 대역폭 상급 SSDCPU쿨러는 현재 360 규격 최상급 수냉입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "782,110원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "379,440원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "PATRIOT DDR5-6000 CL42 VIPER  Elite  5 RGB 패키지) 96GB",
+            "가격": "436,030원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+            "가격": "1,585,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "커세어 CORSAIR 5000D RGB AIRFLOW TRUE WHITE",
+            "가격": "275,510원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "Antec NeoECO 1000W WHITE 80PLUS GOLD 풀 모듈러 ATX 3.0",
+            "가격": "242,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "BRAVOTEC 스톤마일 NEO ARGB x 2 개",
+            "가격": "14,240원",
+            "수량": "2"
+        }
+    },
+    "total_price": "4119543원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "PATRIOT DDR5-6000 CL42 VIPER  Elite  5 RGB 패키지 (96GB(48Gx2))",
+    "Power Supply": "Antec NeoECO 1000W WHITE 80PLUS GOLD 풀 모듈러 ATX 3.0 (PCIE5)",
+    "CPU Cooler": "발키리 GL360 ARGB (WHITE)",
+    "cpu_score": 56,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 34625
+}

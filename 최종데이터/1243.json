@@ -1,0 +1,65 @@
+{
+    "quote_number": "1243",
+    "quote_title": "7600 + 반본체",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠5 7600 +  조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "기존 3080급보단 좀 낮기는 해도4070 성능이면 어느정도 옵션타협 하면 충분히 고주사율 플레이도 가능하리라 봅니다.애즈락 메인보드라면 에즈윈이나 대원 cts 쪽이 AS 정책상 좋을 듯 합니다.선정리의 경우 아마 구매시 요청하면 다 해주기는 할 겁니다 ^^어떤 그래픽카드 구성 할 것인지 적어놓으면 기본적으로 해줄 겁니다.PM9a1 구성이라면 M.2 방열판 장착해 주시는게 좋을 듯 합니다~",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock A620M-HDV/M.2+ 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]아이구주 PRAY 30 PLUS (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]PCCOOLER PALADIN 400상세보기[쿨러.튜닝.조명.액세서리]마이크로닉스 WARP C1 M.2 히트싱크상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 새로나온 가성비 CPU!\n동급 인텔대비 월등한 게이밍 성능!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!SSD는 이천 특산물! SK 하이닉스!\nPCIe 3.0의 끝판왕!파워서플라이는 AS 10년! 고주파 AS 대응!\nATX 3.0 정식 지원!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "239,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock A620M-HDV/M.2+ 에즈윈",
+            "가격": "109,680원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "아이구주 PRAY 30 PLUS",
+            "가격": "54,090원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PCCOOLER PALADIN 400",
+            "가격": "28,990원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "마이크로닉스 WARP C1 M.2 히트싱크",
+            "가격": "3,860원",
+            "수량": "1"
+        }
+    },
+    "total_price": "829390원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock A620M-HDV/M.2+ 에즈윈",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "PCCOOLER PALADIN 400",
+    "cpu_score": 312,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": null
+}

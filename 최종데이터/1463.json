@@ -1,0 +1,76 @@
+{
+    "quote_number": "1463",
+    "quote_title": "화이트 감성 언리얼엔진, 딥러닝, 영상편집, 연산작업 등 워크스테이션 (7950X, RTX 4080)",
+    "date_create": "2024.1.3",
+    "cpu_gpu_combinations": "라이젠9 7950X + RTX 4080 조합",
+    "quotation_summary": " 1. 고사양의 작업용 PC를 원하시는 분2. 화이트 느낌의 PC를 원하시는 분3. 발열에 민감하신 분# 영상편집# 3D 랜더링# 언리얼엔진",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 견적맨으로 활동하고 있는 coke-bear 입니다.퀘이사존에서 주로 활동하며 그 외 커뮤니티에서도 간간히 활동하고 있습니다.하드웨어에 관심이 많아 제품을 직접 사용해보기도 하고 주변 지인들 PC 견적부터 조립도 해주다보니PC 구매를 어려워하거나 용도에 맞지 않게 구매하여 불필요한 지출을 하는 경우를 보게 되었습니다.그런 분들께 조금이라도 도움이 되고자 PC 구매자분들께 합리적인 구매를 할 수 있게 견적맨으로 활동하게 되었습니다.",
+    "quote_feedback": "CPU 수냉쿨러와 GPU 수냉킷을 동시에 장착해야 하기 때문에 케이스는 2개의 라디에이터가 호환 가능한 O11D EVO 제품으로 구성한 PC 입니다.더불어 전면 메쉬킷으로 전면 팬을 추가하여 내부 발열 해소에 매우 유리한 구조로 구성하였습니다.고사양의 작업시에도 내부 발열 관리에 유리할 수 있게 구성하였고 풀 화이트 감성으로 보는 즐거움까지 추가한 PC 입니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X (라파엘) (정품)상세보기[메인보드]ASUS ROG STRIX B650-A GAMING WIFI STCOM상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]Colorful iGAME 지포스 RTX 4080 Neptune OC D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Toshiba 4TB N300 HDWQ140 (SATA3/7200/128M)상세보기[케이스]리안리 PC-O11D EVO XL White (미들타워)상세보기[케이스]리안리 PC-O11D EVO 프론트 메쉬 킷 (White)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]NZXT KRAKEN ELITE 360 RGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]NZXT F120 RGB DUO Matte White (1PACK) x 3 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 작업용 끝판왕 CPU 입니다. 현재 출시된 제품 중 일반 PC로 구성 가능한 제품 중 가장 작업 성능이 뛰어난 제품입니다. 인텔 13세대 제품처럼 E코어를 끼워넣은 것이 아닌 P코어 만으로 16코어를 가진 고성능 CPU 입니다.메인보드는 b650 칩셋 메인보드 중 찐 화이트 색상의 방열판을 가지고 있어 화이트 감성 충만한 메인보드입니다.메모리는 패트리엇의 5600 클럭 기본 메모리 32gb 제품입니다.그래픽카드는 4080 그래픽카드 중 수냉킷을 장착하여 쿨링 성능이 극대화된 컬러풀의 넵튠 제품입니다.SSD는 마이크론의 pcie4.0 상위 제품인 t500 2tb 제품입니다.데스크탑 HDD는 HDD의 구성시 유저가 알아야 할 것은 안정적인 구동 방식입니다. CMR 방식이나 PMR 방식의 HDD로 구성하셔야 안정성이 좋아 내부 자료를 오래도록 유지하는데 유리합니다. 4TB 제품군 중 PMR 방식의 안정성이 높은 도시바 N300 제품입니다.케이스는 리안리의 O11D EVO 업그레이드 버전인 XL 케이스 입니다.케이스는 O11D EVO 케이스의 전면 유리 부분에 팬 장착을 가능하게 해주는 메쉬 킷 입니다.파워서플라이는 국내 파워 회사 중 유일하게 고주파 발생까지도 무제한 새제품 교환 정책을 가진 슈퍼플라워의 1000w 플래티넘 제품입니다.\n타사의 경우 atx 3.0 케이블 제품으로 추가 금액을 받는 것과는 달리 atx 3.0 케이블을 무상증정하고 있어 추천드립니다.CPU쿨러는 수냉쿨러 중 항상 상위권을 유지하는 NZXT의 크라켄 신형 제품입니다.쿨러.튜닝.조명.액세서리는 NZXT의 WHITE 튜닝 팬입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X",
+            "가격": "893,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ROG STRIX B650-A GAMING WIFI STCOM",
+            "가격": "443,210원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,450원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "Colorful iGAME 지포스 RTX 4080 Neptune OC D6X 16GB",
+            "가격": "2,148,380원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 4TB N300 HDWQ140",
+            "가격": "179,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "리안리 PC-O11D EVO 프론트 메쉬 킷",
+            "가격": "36,100원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "215,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NZXT KRAKEN ELITE 360 RGB",
+            "가격": "436,050원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "NZXT F120 RGB DUO Matte White x 3 개",
+            "가격": "649,560원",
+            "수량": "3"
+        }
+    },
+    "total_price": "6764215원",
+    "CPU": "AMD 라이젠9-5세대 7950X (라파엘) (정품)",
+    "Motherboard": "ASUS ROG STRIX B650-A GAMING WIFI STCOM",
+    "Graphic Card": "Colorful iGAME 지포스 RTX 4080 Neptune OC D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "NZXT KRAKEN ELITE 360 RGB (WHITE)",
+    "cpu_score": 60,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62909,
+    "gpu_benchmarkscore": 34625
+}

@@ -1,0 +1,71 @@
+{
+    "quote_number": "1316",
+    "quote_title": "13600K + RTX 4070 Ti + 게임 + 작업",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "코어i7-13600K + RTX 4070 Ti 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "https://quasarzone.com/bbs/qf_hwjoin/views/1771689쿨러 그냥 조금만 더 투자해서 Z06D를 가는게 낫지 않나 보여지고MSI Z보드를 가던 이유가 CPU Load Lite 때문일텐데이제 B보드에서도 쓸 수 있습니다.어짜피 작업발열 공냉 대장급이면 무조건 언더볼팅 해야 할텐데..160~180w 정도로 제한해서 써야 하는 부분이고https://quasarzone.com/bbs/qc_qsz/views/1478175?page=9#p3AS 고려하면 그냥 B760M 스틸레전드 에즈윈 구성한 다음에 BFB 180w 정도로 제한해 놓고 쓰면 됩니다.(물론 그래도 LLC는 만지면 안됩니다)ATX 3.0 파워를 사용하는 이유가 RTX 4천번대 전용 케이블 때문일텐데동급에서는 시소닉 OEM 제품인 TUF 850 Gold 쪽이 더 저렴하고아니면https://quasarzone.com/bbs/qn_partner/views/1296760이런식으로 전용 케이블을 주는 제품으로 구성해도 활용성 자체는 무방 합니다 ^^HDD 장치의 경우 SMR 작동 방식 보다는PMR 혹은 CMR 작동방식이 더 안정적인 부분으로4TB급 용량에서는 토시바 N300, 씨게이트 아이언울프, WD Red Plus가 해당 됩니다~P31 가격이라면 PCIe 4.0 기반인 p5 plus를 구성하는게 성능상 더 좋은 부분입니다~가격차이도 거의 없구요~그래픽카드 화이트 모델이라면 EX Gamer의 대체품이 딱히 없는 지라 추천 할만 한데그냥 블랙이라면차라리 갤럭시 ST를 구성하거나 조텍 트리니티, 이엠텍 GamingPro쪽이 낫다고 보여집니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600K (랩터레이크) (정품)상세보기[메인보드]ASRock B760M 스틸레전드 WiFi D5 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 Ti AMP EXTREME AIRO D6X 12GB상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)상세보기[CPU쿨러]PentaWave Z06D (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 AS 좋고! 13600K 활용하기도 좋고!\n믿음의 스틸레전드!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!SSD는 이천 특산물! SK 하이닉스!\nPCIe 3.0의 끝판왕!케이스는 구관이 명관!\n베스트셀러 케이스!CPU쿨러는 새로운 공냉 끝판왕!\n블랙감성!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600K",
+            "가격": "429,380원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M 스틸레전드 WiFi D5 에즈윈",
+            "가격": "220,620원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 Ti AMP EXTREME AIRO D6X 12GB",
+            "가격": "1,079,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/256M",
+            "가격": "158,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK",
+            "가격": "154,407원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z06D",
+            "가격": "56,910원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2459817원",
+    "CPU": "인텔 코어i5-13세대 13600K (랩터레이크) (정품)",
+    "Motherboard": "ASRock B760M 스틸레전드 WiFi D5 에즈윈",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 Ti AMP EXTREME AIRO D6X 12GB",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)",
+    "CPU Cooler": "PentaWave Z06D (BLACK)",
+    "cpu_score": 194,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 31768
+}

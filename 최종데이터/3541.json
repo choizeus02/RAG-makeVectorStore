@@ -1,0 +1,66 @@
+{
+    "quote_number": "3541",
+    "quote_title": "인텔 코어i5-14세대 14500 + 지포스 GTX 1650",
+    "date_create": "2024.2.27",
+    "cpu_gpu_combinations": "코어i5-14500 + GTX 1650 조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14500 + 지포스 GTX 1650# 사무",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 14코어 20스레드로 100만원 언더에서 구성할 수 있는 최적의 제품이라고 할 수 있는 14500으로 구성2. 메인보드는 드라이버 모스펫 전원부와 풀 히트싱크가 적용되어 있는 ASRock B760M PG LIGHTNING/D4 대원씨티에스로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 사용해서 안정성도 높고 가격도 저렴한 ESSENCORE KLEVV DDR4-3200 CL22 (16GB) 2개 32기가로 구성4. 그래픽카드는 고사양 게임용도가 아니라서 1티어급 AS를 제공하는 inno3D 지포스 GTX 1650 D6 4GB TWIN X2 OC V3로 구성5. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 구성6. 케이스는 최근에 출시된 보급형 끝판왕급 가성비 제품인 몬스타 가츠 X420A 블랙 (미들타워)로 구성7. 파워는 정격 600W 브론즈 인증 제품 중에서 최상위 퀄리티면서 최근 7만원 중후반 대에서 5만원 대 초반으로 가격을 대폭 인하해서 갓성비가 된 (마이크로닉스) New Performance 600W 80Plus Bronze Change-up으로 구성8. CPU쿨러는 TDP 250W로 대장급 성능의 듀얼타워 공랭쿨러로 2만원 중후반대의 미친 가격대에 출시된 생태파괴종급 제품인 JIUSHARK JF200MINI Crystal (BLACK)으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)상세보기[메인보드]ASRock B760M PG LIGHTNING/D4 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개상세보기[그래픽카드]inno3D 지포스 GTX 1650 D6 4GB TWIN X2 OC V3상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X420A 블랙 (미들타워)상세보기[파워서플라이](마이크로닉스) New Performance 600W 80Plus Bronze Change-up /파워상세보기[CPU쿨러]JIUSHARK JF200MINI Crystal (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14500",
+            "가격": "332,710원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+            "가격": "137,970원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  16GB",
+            "가격": "31,990원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "inno3D 지포스 GTX 1650 D6 4GB TWIN X2 OC V3",
+            "가격": "195,510원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X420A 블랙",
+            "가격": "31,310원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "New Performance 600W 80Plus Bronze Change-up /파워",
+            "가격": "70,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "JIUSHARK JF200MINI Crystal",
+            "가격": "27,570원",
+            "수량": "1"
+        }
+    },
+    "total_price": "960540원",
+    "CPU": "인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)",
+    "Motherboard": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+    "Graphic Card": "inno3D 지포스 GTX 1650 D6 4GB TWIN X2 OC V3",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "(마이크로닉스) New Performance 600W 80Plus Bronze Change-up /파워",
+    "CPU Cooler": "JIUSHARK JF200MINI Crystal (BLACK)",
+    "cpu_score": 247,
+    "gpu_score": 207,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32733,
+    "gpu_benchmarkscore": 10149
+}

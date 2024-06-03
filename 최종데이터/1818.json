@@ -1,0 +1,66 @@
+{
+    "quote_number": "1818",
+    "quote_title": "[중급/110만] 5600 + RX7600_RGB White Lost Ark ready",
+    "date_create": "2023.10.9",
+    "cpu_gpu_combinations": "라이젠5 5600 + RX 7600 조합",
+    "quotation_summary": " 1. 5600 + RX7600 화이트 RGB 감성 조합입니다.2. RTX3060을 기재하셨다면 기대 이상의 성능이 가능합니다.3. 이 모든 것이 110만원에 해결됩니다.# 110만원 게이밍# 화려한 RGB+화이트 시스템",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "화이트 시스템의 정점입니다.깔끔한 화이트 구성에 화려한 RGB를 수 놓아 누구나 한번은 눈이 가는 PC를 만들었습니다.RTX3060 성능을 뛰어넘은 RX7600과 AMD의 수문장 5600 시스템을 구성하여 해비하지 않은 모든 게임에 적합합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASRock B550M PRO4 에즈윈상세보기[메모리]ADATA XPG DDR4-3200 CL16 SPECTRIX D35G RGB 화이트 패키지 (16GB(8Gx2))상세보기[그래픽카드]ASRock 라데온 RX 7600 스틸레전드 OC D6 8GB 에즈윈상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]DAVEN D6 MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트상세보기[CPU쿨러]DARKFLASH Ellsworth S21 ARGB (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 저렴하게 세팅된 메인보드와 결합하여 최고의 가성비 CPU로 거듭났습니다.\n4060 Ti까지는 너끈히 감당합니다.메인보드는 화이트 방열판에 풍부한 확장성을 가지고 있습니다.메모리는 깔끔한 화이트 방열판과 위의 RGB 영롱한 라인을 가진 제품입니다.그래픽카드는 RX7600 화이트 감성 뿜뿜 VGA입니다. 가격은 차차 내려오겠죠.SSD는 PCIe 4.0 하이앤드 제품입니다. 명불 허전이죠.케이스는 DAVEN에서 야심차게 준비해서 나온 제품입니다. 수 많은 팬은 시스템의 후끈한 열기를 싹 걷어 갈 겁니다.파워서플라이는 마이크로닉스가 파워 명가로 자리잡은지 꽤 오래 되었습니다. 유일한 화이트 버전의 600w 제품입니다. 좋은 성능에 좋은 가격은 말할 것도 없구요.CPU쿨러는 RGB 화이트 시스템을 완성시켜 줄 쿨러 입니다. 조화가 그림입니다.조립PC관련는 믿고 맡길 수 있는 서비스",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B550M PRO4 에즈윈",
+            "가격": "122,612원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR4-3200 CL16 SPECTRIX D35G RGB 화이트 패키지) 16GB",
+            "가격": "56,588원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ASRock 라데온 RX 7600 스틸레전드 OC D6 8GB 에즈윈",
+            "가격": "438,380원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D6 MESH 강화유리 화이트",
+            "가격": "42,840원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+            "가격": "61,630원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21 ARGB",
+            "가격": "27,120원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1058830원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASRock B550M PRO4 에즈윈",
+    "Graphic Card": "ASRock 라데온 RX 7600 스틸레전드 OC D6 8GB 에즈윈",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "ADATA XPG DDR4-3200 CL16 SPECTRIX D35G RGB 화이트 패키지 (16GB(8Gx2))",
+    "Power Supply": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 ARGB (화이트)",
+    "cpu_score": 504,
+    "gpu_score": 72,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 17905
+}

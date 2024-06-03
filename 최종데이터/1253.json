@@ -1,0 +1,66 @@
+{
+    "quote_number": "1253",
+    "quote_title": "풀 화이트 감성 4K 게이밍 PC (7800X 3D, RTX 4090)",
+    "date_create": "2023.12.26",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+    "quotation_summary": " 1. 4K 게이밍 PC를 구성하시는 분2. 화이트 감성을 원하시는 분# 4K 게이밍# 화이트# 호그와트# 고사양 게임# 스팀게임# 최신 게임",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 견적맨으로 활동하고 있는 coke-bear 입니다.퀘이사존에서 주로 활동하며 그 외 커뮤니티에서도 간간히 활동하고 있습니다.하드웨어에 관심이 많아 제품을 직접 사용해보기도 하고 주변 지인들 PC 견적부터 조립도 해주다보니PC 구매를 어려워하거나 용도에 맞지 않게 구매하여 불필요한 지출을 하는 경우를 보게 되었습니다.그런 분들께 조금이라도 도움이 되고자 PC 구매자분들께 합리적인 구매를 할 수 있게 견적맨으로 활동하게 되었습니다.",
+    "quote_feedback": "",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASUS ROG STRIX B650-A GAMING WIFI STCOM상세보기[메모리]G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (2TB)상세보기[케이스]DARKFLASH DLX200 MESH RGB 강화유리 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14TP LEADEX V PRO PLATINUM (White)12VHPWR 케이블 제공상세보기[CPU쿨러]Thermalright Peerless Assassin 120 White 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7000번대 제품 중 13900KS 와 게임 성능 동급의 게임이 최강의 CPU 입니다.메인보드는 B650 칩셋 중 찐 화이트 색상의 방열판을 가진 ROG STRIX B650-A WIFI 제품입니다. 전원부 성능은 7950X 3D를 쓰기엔 이미 초월한 성능이며 화이트 감성의 구성에도 적합합니다.메모리는 지스킬의 6000 클럭 화이트 제품입니다.그래픽카드는 AS 3대장인 이엠텍의 4090 제품입니다.SSD는 PCIE4.0 제품 중 상위권의 성능인 하이닉스 P41 제품입니다. 기존 높은 가격대에서 메리트가 없었으나 가격 하락으로 매력있는 가격대의 제품이 되었습니다.케이스는 다크플래쉬의 빅타워 케이스로 호환성이 매우 넓고 강판 두께나 기본팬 성능도 좋은 편으로 별도의 팬 교체없이 사용 가능하다는 장점이 있습니다.파워서플라이는 국내 파워 회사 중 유일하게 고주파까지도 무제한 새제품 교환 정책을 가지고 있는 슈퍼플라워의 1000W 플래티넘 화이트 제품입니다.\n무상증정되는 ATX 3.0 케이블 또한 화이트로 증정되어 화이트 감성에 적극 추천드립니다.CPU쿨러는 써멀테이크의 피어리쓰 어쎼신 시리즈 중 염가형의 SE 제품이 아닌 120 제품입니다. 좀 더 큰 히트파이프를 가지고 있습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ROG STRIX B650-A GAMING WIFI STCOM",
+            "가격": "443,210원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지) 32GB",
+            "가격": "196,990원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+            "가격": "2,874,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 2TB",
+            "가격": "289,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX200 MESH RGB 강화유리 화이트",
+            "가격": "116,180원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14TP LEADEX V PRO PLATINUM12VHPWR 케이블 제공",
+            "가격": "279,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 White 서린",
+            "가격": "43,710원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4769930원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASUS ROG STRIX B650-A GAMING WIFI STCOM",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (2TB)",
+    "Memory": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))",
+    "Power Supply": "SuperFlower SF-1000F14TP LEADEX V PRO PLATINUM (White)12VHPWR 케이블 제공",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 White 서린",
+    "cpu_score": 225,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 38694
+}

@@ -1,0 +1,71 @@
+{
+    "quote_number": "1534",
+    "quote_title": "7800x3d + RTX 3060 Ti + FHD 배그 풀옵션",
+    "date_create": "2024.1.8",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 3060 Ti 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "윈도우는 가능하면 FPP(처음사용자용)으로 구성해 주시는게 좋을 듯 한데나머지 버전 제품은 차후에 보드 교체 및 변경시 정품인증이 풀리게 됩니다.또한 지금 기반으로는 CPU 성능유지도 어려운 붑누이고전력제한 해제 자체도 어려운 부분이라성능은 13600K보다도 떨어질 듯 합니다.https://quasarzone.com/bbs/qc_bench/views/84662#p6차라리 저 가격이라면 7800x3D로 구성하는게 성능상 더 좋지 않나 보여지고아니면 CPU를 낮추고 GPU에 투자하는게 좋아 보입니다.3060 Ti 같은 경우에는 D6X 메모리 모델이 성능이 좋을 듯 합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]G.SKILL DDR5-6000 CL36 TRIDENT Z5 NEO RGB J 패키지 (32GB(16Gx2))상세보기[그래픽카드]AFOX 지포스 RTX 3060 Ti D6 8GB 대원씨티에스상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]3RSYS Socoool RC1800 ARGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 7950x3D를 제외하면\n이걸 따라올 게이밍 CPU는 없다!메인보드는 12페이즈 / 720a 스펙의 전원부 모델!\n7950x까지 커버 가능!\n그리고 화이트 감성!그래픽카드는 대원유통! AS 확실!\n가성비 좋은 3060 Ti!SSD는 이천 특산물! SK 하이닉스!\nPCIe 3.0의 끝판왕!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,960원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 NEO RGB J 패키지) 32GB",
+            "가격": "187,000원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "AFOX 지포스 RTX 3060 Ti D6 8GB 대원씨티에스",
+            "가격": "468,310원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 화이트",
+            "가격": "95,460원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "72,590원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1800 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,730원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2004460원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "AFOX 지포스 RTX 3060 Ti D6 8GB 대원씨티에스",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 NEO RGB J 패키지 (32GB(16Gx2))",
+    "Power Supply": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "3RSYS Socoool RC1800 ARGB (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 106,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 15388
+}

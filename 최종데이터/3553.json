@@ -1,0 +1,71 @@
+{
+    "quote_number": "3553",
+    "quote_title": "14600KF + RTX 4060 TI",
+    "date_create": "2024.2.27",
+    "cpu_gpu_combinations": "코어i5-14600KF + RTX 4060 Ti 조합",
+    "quotation_summary": " 14600KF + RTX 4060 TI# 14600KF + RTX 4060 TI",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14600KF + RTX 4060 TI",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600KF (랩터레이크)(벌크)상세보기[메인보드]MSI PRO Z790-P WIFI상세보기[메모리]TeamGroup T-CREATE DDR5-6000 CL34 EXPERT 패키지 서린 (64GB(32Gx2))상세보기[그래픽카드]GIGABYTE 지포스 RTX 4060 Ti WINDFORCE OC D6 8GB 피씨디렉트상세보기[SSD]마이크론 Crucial T700 M.2 NVMe 아스크텍 (1TB)상세보기[데스크탑 HDD]Toshiba 3TB P300 HDWD130 (SATA3/7200/64M)상세보기[케이스]DARKFLASH DRX70 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC-1800 Quiet 솔더링 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "케이스는 5만원 이하 케이스 중 전면 TYPE-C 포트를 지원하고, 그래픽카드 지지대 기본 구성에 그래픽카드 호환성도 준수한 케이스입니다.파워서플라이는 10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책에 뛰어난 가성비까지 겸비한 파워입니다.CPU쿨러는 최상급 성능에 정숙성도 뛰어난 대장급 공랭 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600KF",
+            "가격": "400,870원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI PRO Z790-P WIFI",
+            "가격": "386,170원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-CREATE DDR5-6000 CL34 EXPERT 패키지 서린) 64GB",
+            "가격": "318,780원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4060 Ti WINDFORCE OC D6 8GB 피씨디렉트",
+            "가격": "517,200원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T700 M.2 NVMe 아스크텍 1TB",
+            "가격": "88,500원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 3TB P300 HDWD130",
+            "가격": "127,460원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DRX70 MESH RGB 강화유리 블랙",
+            "가격": "46,090원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC-1800 Quiet 솔더링",
+            "가격": "66,110원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2076010원",
+    "CPU": "코어i5-14세대 14600KF (랩터레이크)(벌크)",
+    "Motherboard": "MSI PRO Z790-P WIFI",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4060 Ti WINDFORCE OC D6 8GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T700 M.2 NVMe 아스크텍 (1TB)",
+    "Memory": "TeamGroup T-CREATE DDR5-6000 CL34 EXPERT 패키지 서린 (64GB(32Gx2))",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC-1800 Quiet 솔더링 (BLACK)",
+    "cpu_score": 181,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 22891
+}

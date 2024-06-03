@@ -1,0 +1,71 @@
+{
+    "quote_number": "4179",
+    "quote_title": "[라이젠] 화이트PC 7600+4060 Ti",
+    "date_create": "2024.3.26",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4060 Ti 조합",
+    "quotation_summary": " 가성비PC,PC방,FHD,풀옵션,게이밍,7600,RTX 4060 Ti# 가성비PC# PC방# FHD# 풀옵션# 게이밍# 7600# RTX 4060 Ti",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 Mr.홍금보 입니다.퀘이사존 다년간 좋은 인지도로 굳게 자리 잡았으며,저렴하다고 제품이 다 좋거나 가성비가 좋은건 아닙니다!합리적인 구매를 하실 수 있게 검증된 제품으로만 판매를 하고 구성을 하고 있으며,기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.믿고 맡겨주신다면, 그에 부응하도록 최선을 다할것을 굳게 약속 드리겠습니다!",
+    "quote_feedback": "가성비PC,PC방,FHD,풀옵션,게이밍,7600,RTX 4060 Ti",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock A620M-HDV/M.2+ 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DAVEN D6 MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]시소닉 A12 Standard 230V EU SSR-600RA LLC상세보기[CPU쿨러]DARKFLASH Ellsworth S21 ARGB (화이트)상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTKM01 화이트 데스크탑용 메모리 램카드 방열판 x 2 개상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK11 M.2 방열판 (Silver)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 가성비 PC의 대표 CPU!메인보드는 가성비 좋은 A620 라인업 보드!메모리는 무난 무난한 DDR5 메모리!SSD는 가성비 PCIe 4.0 SSD!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "234,070원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock A620M-HDV/M.2+ 대원씨티에스",
+            "가격": "103,960원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+            "가격": "577,530원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D6 MESH 강화유리 화이트",
+            "가격": "42,780원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "시소닉 A12 Standard 230V EU SSR-600RA LLC",
+            "가격": "75,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21 ARGB",
+            "가격": "26,900원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK11 M.2 방열판",
+            "가격": "4,930원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1322840원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock A620M-HDV/M.2+ 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "시소닉 A12 Standard 230V EU SSR-600RA LLC",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 ARGB (화이트)",
+    "cpu_score": 312,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 22891
+}

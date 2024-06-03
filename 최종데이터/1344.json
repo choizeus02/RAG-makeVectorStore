@@ -1,0 +1,65 @@
+{
+    "quote_number": "1344",
+    "quote_title": "7950x3d + 반본체 + 최고급 게이밍 + 4k 게이밍 + 저소음",
+    "date_create": "2023.9.19",
+    "cpu_gpu_combinations": "라이젠9 7950X3D +  조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "일단 4090 기준 구성이라면 M-atx 사이즈 보다는 ATX 사이즈로 구성하시는 걸 추천드리고메인보드는 B650 PG Lighting 정도만 구성해도 전원부 14페이즈 기준이라전력을 더 먹는 7950x 과부화 상황에서도 충분히 활용 가능 한 정도 일 겁니다 ^^메모리의 경우 5600mhz를 제대로 인식하는 제품이 마이크론 정도인데..32기가에는 없고그냥 4800mhz짜리 팀그룹 제품이나 하이닉스로 보시는게 좋을 듯 합니다.(렘오버 하실꺼라면 4800mhz 하이닉스가 수율이 더 좋기는 합니다)지금 기반이라면 파워 용량은 1000w급으로 충분 할 겁니다.13900K 마냥 전력이 튀거나 그런건 없는지라 충분 할 겁니다 ^^SF 1000 Leadex VI PRO 시리즈라면 RTX 4천번대 전용 케이블도 주는 부분이고효율도 플레티넘이라 가성비 및 활용성 둘다 괜찮은 모델입니다 ^^저소음과 가성비 둘다 잡으실 꺼라면써멀라이트 팬텀 스피릿 120 se 혹은 써멀라이트 어썌신 120 (se 아닌 모델)이가성비는 월등히 더 좋을 듯 합니다.아틱 사용하는 이유가그나마 저 RPM에서도 풍압 풍량이 좋아서그리고 저소음이라 쓰는거라귀신소리 나기 직전까지 RPM 올려놓은 다음에 고정해 놓고 쓰시는걸 추천드립니다 ^^측면 같은 경우에는 지금 구성이라면 흡기로 넣어주셔야 할 듯 한데..이 경우에는 블레이드가 보이는 구조라.. 그렇게 이쁘지는 않을 겁니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]커세어 CORSAIR 7000D AIRFLOW 블랙 (빅타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 Black 서린상세보기[쿨러.튜닝.조명.액세서리]ARCTIC P12 PWM PST VALUE PACK 서린 x 2 개상세보기[쿨러.튜닝.조명.액세서리]ARCTIC P14 PWM PST 서린 (black/black) x 3 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 14+2+1 전원부!\n가격은 25만원! 가성비 of 가성비!메모리는 하이닉스 A다이 언락 모델!\n인식률 / 수율 최상! 안정성도 최상!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "893,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "147,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,450원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "커세어 CORSAIR 7000D AIRFLOW 블랙",
+            "가격": "323,450원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK",
+            "가격": "205,402원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 Black 서린",
+            "가격": "59,000원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "ARCTIC P14 PWM PST 서린 x 3 개",
+            "가격": "8,710원",
+            "수량": "3"
+        }
+    },
+    "total_price": "2055782원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 Black 서린",
+    "cpu_score": 63,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": null
+}

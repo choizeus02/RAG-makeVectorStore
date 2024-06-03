@@ -1,0 +1,66 @@
+{
+    "quote_number": "3184",
+    "quote_title": "인텔 코어i5-13세대 13400 + 지포스 RTX 4060",
+    "date_create": "2024.2.20",
+    "cpu_gpu_combinations": "코어i5-13400 + RTX 4060 조합",
+    "quotation_summary": " 인텔 코어i5-13세대 13400 + 지포스 RTX 4060# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 메모리는 노트북용이라 호환이 되지 않습니다. 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경2. 그래픽카드는 1티어 AS에 가격적인 메리트도 높은 갤럭시 GALAX 지포스 RTX 4060 2X OC V2 D6 8GB로 변경3. 구성하신 P31 SSD는 NVMe 규격 중에서는 속도가 가장 느린 젠3 제품입니다.젠3 보다 2배 더 빠른  젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경4. 파워는 호환이 가능한 규격 제품 중에서는 월등한 가성비를 제공하는 마이크로닉스 Compact SFX 700W 80PLUS GOLD로 변경5. 구성하신 리안리 A4-H20 Silver (미니ITX) 케이스는 호환이 가능한 수냉쿨러 리스트를 DB에 제공을 합니다.호환이 되는 수냉쿨러 중에서 가성비가 가장 좋은 Thermalright FROZEN MAGIC 240 ARGB로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13400 (랩터레이크)(벌크)상세보기[메인보드]ASUS ROG STRIX B760-I GAMING WIFI STCOM상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4060 2X OC V2 D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]리안리 A4-H20 Silver (미니ITX)상세보기[파워서플라이]마이크로닉스 Compact SFX 700W 80PLUS GOLD상세보기[CPU쿨러]Thermalright FROZEN MAGIC 240 ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13400",
+            "가격": "251,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ROG STRIX B760-I GAMING WIFI STCOM",
+            "가격": "333,770원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,490원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4060 2X OC V2 D6 8GB",
+            "가격": "447,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,110원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "리안리 A4-H20 Silver",
+            "가격": "253,380원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Compact SFX 700W 80PLUS GOLD",
+            "가격": "137,890원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright FROZEN MAGIC 240 ARGB",
+            "가격": "93,040원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1747060원",
+    "CPU": "인텔 코어i5-13세대 13400 (랩터레이크)(벌크)",
+    "Motherboard": "ASUS ROG STRIX B760-I GAMING WIFI STCOM",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4060 2X OC V2 D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 Compact SFX 700W 80PLUS GOLD",
+    "CPU Cooler": "Thermalright FROZEN MAGIC 240 ARGB",
+    "cpu_score": 399,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 25232,
+    "gpu_benchmarkscore": 22891
+}

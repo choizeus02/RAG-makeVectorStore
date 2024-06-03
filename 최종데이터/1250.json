@@ -1,0 +1,66 @@
+{
+    "quote_number": "1250",
+    "quote_title": "7800X3D + RTX 4080 + 화이트 케이스",
+    "date_create": "2023.5.2",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4080 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "https://quasarzone.com/bbs/qn_partner/views/1296760파워도 이런 제품이 PCie 5.0 케이블도 주는 부분이라활용성 자체는 문제 없을 듯 한데가성비는 더 좋기는 할 겁니다.란쿨 216 같은 경우에는먼지필터 킷 같이 구성해 주시는게 좋을 듯 합니다~",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASUS TUF Gaming B650-PLUS STCOM상세보기[메모리]OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]GIGABYTE 지포스 RTX 4080 AERO OC D6X 16GB 피씨디렉트상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]리안리 LAN216-2W Dust Filter KIT (White)상세보기[케이스]리안리 LANCOOL 216 RGB White (미들타워)상세보기[파워서플라이]FSP HYDRO G PRO 1000W 80PLUS Gold Full Modular Gen5상세보기[CPU쿨러]DARKFLASH Twister DX-360 V2.6 ARGB (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 7950x3D를 제외하면\n이걸 따라올 게이밍 CPU는 없다!메모리는 고수율 하이닉스 A다이 언락!\n블레이드 감성의 메모리!CPU쿨러는 크라켄과 동급 성능!\n케이스와의 깔맞춤!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS TUF Gaming B650-PLUS STCOM",
+            "가격": "247,590원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "194,120원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4080 AERO OC D6X 16GB 피씨디렉트",
+            "가격": "1,908,320원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "리안리 LANCOOL 216 RGB White",
+            "가격": "126,484원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "FSP HYDRO G PRO 1000W 80PLUS Gold Full Modular Gen5",
+            "가격": "380,840원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Twister DX-360 V2.6 ARGB",
+            "가격": "134,890원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3685234원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASUS TUF Gaming B650-PLUS STCOM",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4080 AERO OC D6X 16GB 피씨디렉트",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "FSP HYDRO G PRO 1000W 80PLUS Gold Full Modular Gen5",
+    "CPU Cooler": "DARKFLASH Twister DX-360 V2.6 ARGB (블랙)",
+    "cpu_score": 225,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 34625
+}

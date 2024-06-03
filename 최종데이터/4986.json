@@ -1,0 +1,76 @@
+{
+    "quote_number": "4986",
+    "quote_title": "인텔 코어i5-14세대 14600K + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.4.2",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 4070 SUPER 조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14600K + 지포스 RTX 4070 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리의 경우 구성하신 에센코어 제품이 현재 유통하는 업체가 몇 없어서 견적왕의 최대 메리트인 견적 비교가 원활하지 못합니다.라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경2. 그래픽카드는 1티어 AS 중에서도 최상위면서 가격적엔 메리트도 높은 화이트 색상의 이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB로 변경3. pm9a1은 지속적인 펌웨어 이슈가 발생하는 제품이라는 말은 잘못된 정보입니다. 현재 판매 일선에서 가성비로 가장 먼저 그리고 가장 많이 추천되는 제품입니다. 문제가 있었다면 판매 일선에서 커팅이 되었겠죠.가장 신뢰받는 유튜버면서 판매업도 겸하고 있는 신성조님이 라방에서 작년 한 해 천 개이상의 PM9A1을 판매했는데 초기 불량이 2-3개 나왔나 그랬다고 멘트를 한 적이 있죠. 불량이나 이슈가 거의 없는 제품입니다. 그대로 구성하시면 되구요.4. 케이스는 최근 가장 핫한 파노라마 뷰 어항디자인으로 측면 팬은 리버스로 쿨링 효율을 높였고 소음도 20dBA 수준으로 아주 낮은 몬스타 가츠 X620A 리버스 화이트 (미들타워)로 변경5. 4070 SUPER의 경우 정격 700W를 권장파워로 요구를 하는 제품이라 구성한 동일 파워 750W로 변경6. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (화이트)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14600K (랩터레이크 리프레시) (벌크)상세보기[메인보드]ASUS ROG STRIX B760-G GAMING WIFI 코잇상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[데스크탑 HDD]Western Digital 4TB Ultrastar DC HC310 패키지 (SATA3/7200/256M)상세보기[케이스]몬스타 가츠 X620A 리버스 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (화이트)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기그래픽카드는 RTX 4070과 RTX 4070 Ti 제품 사이에 위치한 라인업이며 A/S퀄리티 1티어인 이엠텍사 화이트색상 제품입니다. 보조전원 커넥터는 12VHPWR 규격이며 제원 상 길이 315mm, 두께 50mm입니다.케이스는 흔히 어항케이스라고 불리우는 디자인이 적용된 X620A 리버스입니다. CPU쿨러 최대호환가능높이 165mm, 그래픽카드 최대호환가능길이 430mm 제원을 가졌으며 ATX 사이즈 메인보드까지 호환가능한 미들타워 제품입니다. 측면 120mm 기본팬 3개, 후면 120mm 기본팬 1개 총 4개를 제공하며 ARGB를 지원하여 메인보드 제조사 프로그램을 통해 색상 조정이 가능합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14600K",
+            "가격": "432,370원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ROG STRIX B760-G GAMING WIFI 코잇",
+            "가격": "222,800원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,030원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB",
+            "가격": "922,830원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,900원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital 4TB Ultrastar DC HC310 패키지",
+            "가격": "1,320,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X620A 리버스 화이트",
+            "가격": "64,840원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,260원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,350원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3575240원",
+    "CPU": "인텔 코어i5-14세대 14600K (랩터레이크 리프레시) (벌크)",
+    "Motherboard": "ASUS ROG STRIX B760-G GAMING WIFI 코잇",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (화이트)",
+    "cpu_score": 181,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 31768
+}

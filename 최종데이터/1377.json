@@ -1,0 +1,66 @@
+{
+    "quote_number": "1377",
+    "quote_title": "7950x + RTX 4090 + 딥러닝 + 머신러닝",
+    "date_create": "2024.1.11",
+    "cpu_gpu_combinations": "라이젠9 7950X + RTX 4090 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "13700F는 오히려 13600K보다 못한 작업성능이고 멀티 성능입니다.수냉 달고 전력제한 해제 하실꺼라면Z보드가서 해야 하는데오히려 13700K보다 전기도 더 먹고 안정성도 떨어지고 발열도 더 높습니다.즉 메리트가 없는 CPU가 이번 13700, 13900 논K 모델입니다.추가적으로 메모리의 경우 오버 클럭을 하지 않은 일반 순정상태로 구성하시는게 안정성은 더 좋은 부분이기에일반 렘을 구성하시는게 좋을 듯 하며~1번 2번 모두 간섭이 있을 듯 하고G사제품 사용하실꺼라면 피씨디렉트 유통이 더 좋을 듯 합니다.혹은 AMP AIRO 화이트가 더 상위 모델인데 더 저렴 할 겁니다~AS도 더 낫구요~지금정도 가격대 구성이라면 7900x나 7950x를 구성하는게 오히려 연산 처리능력이나딥러닝쪽에서는 좋을 것 같고 수냉은 호라이즌 제품이 팬소음이 상당히 크다고 체감한 부분이라다른 수냉 사용해 주시는게 좋을 듯 합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X (라파엘) (정품)상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]마이크론 Crucial DDR5-4800 CL40 (32GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]발키리 GL360 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 현존 최강의 작업용 CPU\n그렇다고 게임성능이 떨어지지는 않음!메인보드는 14+2+1 전원부!\n가격은 25만원! 가성비 of 가성비!그래픽카드는 찐 화이트 벽돌 감성!\n기가바이트 만의 3+1년 AS!SSD는 최신형 PCIE 4.0 SSD!\n전성비 최고! 안정성 좋은 파이슨 E25 컨트롤러!CPU쿨러는 새로나온 끝판왕 수냉!\n성능이면 성능, 저소음이면 저소음까지!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X",
+            "가격": "893,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "147,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR5-4800 CL40  32GB",
+            "가격": "122,060원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+            "가격": "2,933,900원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 화이트",
+            "가격": "95,460원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "215,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4922178원",
+    "CPU": "AMD 라이젠9-5세대 7950X (라파엘) (정품)",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "마이크론 Crucial DDR5-4800 CL40 (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "발키리 GL360 ARGB (WHITE)",
+    "cpu_score": 60,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62909,
+    "gpu_benchmarkscore": 38694
+}

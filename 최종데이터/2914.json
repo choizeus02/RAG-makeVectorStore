@@ -1,0 +1,66 @@
+{
+    "quote_number": "2914",
+    "quote_title": "인텔 코어i5-14세대 14500 + 지포스 RTX 4060 Ti",
+    "date_create": "2024.2.14",
+    "cpu_gpu_combinations": "코어i5-14500 + RTX 4060 Ti 조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14500 + 지포스 RTX 4060 Ti# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 14세대가 모두 출시가 된 상황이라 13세대는 추천을 하기가 어렵습니다. 14500 벌크로 변경인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다.2. 메인보드는 DDR4만 지원하는 제품이라 호환이 되지 않습니다. 가성비가 월등히 좋은 ASRock B760M PG LIGHTNING D5 + WiFi6E 모듈 패키지 디앤디컴으로 변경3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경4. 케이스는 최근에 출시한 보급형 끝판왕급 제품이라고 할 수 있는 3RSYS J540 (미들타워)로 구성5. 14500은 듀얼타워 공랭쿨러가 필요할 만큼 온도가 높지 않습니다. 싱글타워로도 충분하지만 조금 더 낮은 온도를 원하신다면 TDP 250W의 대장급 성능의 듀얼타워 공랭쿨러로 케이스와 잘 어울리면서 2만원 중후반대의 미친 금액대에 출시한 생태파괴종급 제품인 JIUSHARK JF200MINI Crystal (BLACK)으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)상세보기[메인보드]ASRock B760M PG LIGHTNING D5 + WiFi6E 모듈 패키지 디앤디컴상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS J540 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]JIUSHARK JF200MINI Crystal (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "케이스는 보급형 끝판왕급 제품",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14500",
+            "가격": "334,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING D5 + WiFi6E 모듈 패키지 디앤디컴",
+            "가격": "196,000원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,450원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+            "가격": "539,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,500원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS J540",
+            "가격": "31,800원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "JIUSHARK JF200MINI Crystal",
+            "가격": "28,070원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1434660원",
+    "CPU": "인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)",
+    "Motherboard": "ASRock B760M PG LIGHTNING D5 + WiFi6E 모듈 패키지 디앤디컴",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "JIUSHARK JF200MINI Crystal (BLACK)",
+    "cpu_score": 247,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32733,
+    "gpu_benchmarkscore": 22891
+}

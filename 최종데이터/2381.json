@@ -1,0 +1,71 @@
+{
+    "quote_number": "2381",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.2.1",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 지포스 RTX 4070 SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 그래픽카드는 1티어 AS에 가격적인 메리트도 있는 갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB로 변경2. 케이스는 방음 패드를 부착한 저소음에 특화된 케이스만큼 조용한 3RSYS S100 Quiet 화이트 (미들타워)로 변경3. 4070 SUPER는 4070과 전력 소모량의 차이가 크지 않아서 정격 700W가 권장파워 용량입니다.화이트 색상의 케이스고 CPU쿨러도 화이트라 파워도 구성한 제품과 동일한 제품군 화이트 750W로 변경4. 7500F는 온도가 높지 않습니다. 싱글타워 쿨러로도 온도 제어가 확실히 됩니다.케이스와 찰떡궁합이면서 고성능 저소음 대장급 싱글쿨러인  3RSYS Socoool RC350 QUIET (WHITE)로 변경https://coolenjoy.net/bbs/system/1275904추천드리는 케이스와 CPU쿨러 조합 조립예시입니다.여기에 장착된 CPU가 7500F보다 온도가 조금 더 높은 7600인데 이 시스템에서 아이들 시 33.1도 풀로드 시 76.5도를 유지했습니다.https://blog.naver.com/zoro730321/2233187997193RSYS Socoool RC350 QUIET (WHITE) 리뷰 자료이니 참고하시면 되겠습니다.5. 온도도 높지 않고 조용한 쿨러와 케이스를 찾는다면 이 조합 강추해드리겠습니다. 직접 사용해보고 추천드리는 겁니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]3RSYS S100 Quiet 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC350 QUIET (WHITE)상세보기[쿨러.튜닝.조명.액세서리]케이엘시스템 KLcom M.2 2280 방열판 (SILVER)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,010원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "124,800원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "989,600원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS S100 Quiet 화이트",
+            "가격": "71,990원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 QUIET",
+            "가격": "28,500원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "케이엘시스템 KLcom M.2 2280 방열판",
+            "가격": "1,260원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1829880원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC350 QUIET (WHITE)",
+    "cpu_score": 355,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 31768
+}

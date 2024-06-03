@@ -1,0 +1,70 @@
+{
+    "quote_number": "2476",
+    "quote_title": "AMD 라이젠9-5세대 7900 (라파엘)",
+    "date_create": "2024.2.4",
+    "cpu_gpu_combinations": "라이젠9 7900 +  조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7900 (라파엘)# 작업",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 케이스는 비슷한 디자인에 m-ATX 보드와 ATX 파워 장착을 지원해서 보다 폭넓은 부품 선택지를 제공하는 아이구주 M-CUBE 블랙 (미니타워)로 변경했습니다.DB를 보시면 알겠지만 쿨러마스터 케이스와 동일한 디자인이라도 봐도 무방한데 장착 호환성은 월등히 더 좋습니다.사이즈가 303 x 185 x 391( H X W X D로 400mm에서 한참 모자라는 303mm 높이의 제품입니다.2. 메인보드는 와이파이&블루투스를 지원하는 m-ATX 규격인 ASRock B650M PG Lightning + WiFi6E 모듈 패키지 에즈윈으로 구성3. CPU쿨러도 최대 높이 155mm까지 지원을 하는지라 쿨링 능력이 떨어지는 플라워형 CPU쿨러로 구성할 필요가 없습니다.TDP 250W의 대장급 성능의 듀얼타워 공랭쿨러로 2만원 중후반대의 미친 금액대에 출시된 생태파괴종급 제품인 JIUSHARK JF200MINI Crystal (BLACK)로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning + WiFi6E 모듈 패키지 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]아이구주 M-CUBE 블랙 (미니타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]JIUSHARK JF200MINI Crystal (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]ARCTIC P12 PWM PST (1PACK) x 2 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 압도적인 전성비로 인한 말도 안되는 낮은 온도의  12코어 24쓰레드 CPU\n온도 제어가 힘든 고성능 CPU에 있어서 가성비 공랭 CPU쿨러로 온도 제어가 가능한 별종인 제품SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "523,320원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning + WiFi6E 모듈 패키지 에즈윈",
+            "가격": "180,770원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "아이구주 M-CUBE 블랙",
+            "가격": "78,790원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "JIUSHARK JF200MINI Crystal",
+            "가격": "28,570원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,690원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "ARCTIC P12 PWM PST x 2 개",
+            "가격": "7,390원",
+            "수량": "2"
+        }
+    },
+    "total_price": "1328240원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning + WiFi6E 모듈 패키지 에즈윈",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "JIUSHARK JF200MINI Crystal (BLACK)",
+    "cpu_score": 107,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": null
+}

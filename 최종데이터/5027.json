@@ -1,0 +1,66 @@
+{
+    "quote_number": "5027",
+    "quote_title": "AMD 라이젠5-4세대 5600 + 지포스 RTX 3050",
+    "date_create": "2024.4.3",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 3050 조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600 + 지포스 RTX 3050# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 원하시는 DARKFLASH DLM200 MESH PERFORMANCE 강화유리 화이트 (미니타워)에 어울리는 논LED 퓨어 화이트 컨셉으로 추천드리겠습니다.2. CPU는 가성비가 가장 좋은 5600으로 구성3. 메인보드는 기판까지 화이트로 제대로 된 화이트 감성을 느낄 수 있는 ASRock B550M Pro SE 디앤디컴으로 구성4. 메모리는 라이프타임 워런티로 삼성램 대비 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 사용해서 안정성도 높고 가격도 저렴한 ESSENCORE KLEVV DDR4-3200 CL22 (8GB) 2개 16기가로 구성5. 그래픽카드는 화이트 색상에 금액대 내에서 무난하게 사용할 수 있는 이엠텍 지포스 RTX 3050 MIRACLE WHITE D6 6GB로 구성6. SSD는 5년 무상AS의 갓성비 젠4 제품인 ADATA LEGEND 960 M.2 NVMe (2TB)로 구성읽기속도 : 7,400(MB/s) / 쓰기속도 : 6,800(MB/s)로 최고 수준의 성능이면서 디램 버퍼 메모리와 전용 히트싱크가 적용되어 있습니다.7. 파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 600W 화이트로 구성8. CPU쿨러는 케이스와 아주 잘 어울리는 논LED 화이트 색상의 마이크로닉스 ICEROCK MA-410 (WHITE)로 구성해서 화이트 컨셉을 완성했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASRock B550M Pro SE 디앤디컴상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 3050 MIRACLE WHITE D6 6GB상세보기[SSD]ADATA LEGEND 960 M.2 NVMe (2TB)상세보기[케이스]DARKFLASH DLM200 MESH PERFORMANCE 강화유리 화이트 (미니타워)상세보기[파워서플라이]topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]마이크로닉스 ICEROCK MA-410 (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현재 게임 가성비가 가장 좋은 CPU파워서플라이는 topower사의 600W 브론즈등급 화이트색상 제품입니다. A/S보증기간 7년을 제공하고 화이트 색상 제품이라 화이트감성 PC에 알맞는 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "144,380원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B550M Pro SE 디앤디컴",
+            "가격": "177,250원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "20,920원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 3050 MIRACLE WHITE D6 6GB",
+            "가격": "278,710원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "ADATA LEGEND 960 M.2 NVMe 2TB",
+            "가격": "204,160원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLM200 MESH PERFORMANCE 강화유리 화이트",
+            "가격": "65,980원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "마이크로닉스 ICEROCK MA-410",
+            "가격": "20,020원",
+            "수량": "1"
+        }
+    },
+    "total_price": "997340원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASRock B550M Pro SE 디앤디컴",
+    "Graphic Card": "이엠텍 지포스 RTX 3050 MIRACLE WHITE D6 6GB",
+    "SSD": "ADATA LEGEND 960 M.2 NVMe (2TB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "마이크로닉스 ICEROCK MA-410 (WHITE)",
+    "cpu_score": 504,
+    "gpu_score": 196,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 10896
+}

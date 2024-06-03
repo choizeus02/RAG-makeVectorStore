@@ -1,0 +1,91 @@
+{
+    "quote_number": "3684",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 지포스 RTX 4060 Ti",
+    "date_create": "2024.3.2",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4060 Ti 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 지포스 RTX 4060 Ti# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 성능 차이는 크지 않지만 가격 차이가 있어서 가성비가 더 좋은 7500F로 변경2. 메인보드는 전원부 히트싱크가 적용되어 있는 ASUS EX B650M-V7 대원씨티에스로 변경비슷한 금액대라면 커브 옵티마이저를 지원하지 않는 하위 칩셋인 A620보다는 상위 칩셋인 B650으로 구성하는 것이 좋습니다.3. 그래픽카드의 경우 구성하신 제품은 현재 유통하는 업체가 얼마 없는 상태라 갤럭시 BOY 지포스 RTX 4060 Ti OC D6 8GB로 변경4. SSD는 최근에 출시된 젠4 규격의 끝판왕 제품이라고 할 수 있는 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)로 변경5. 파워는 6년 무상AS에 무려 9종에 달하는 보호회로를 적용하여 안정성에 몰빵을 하고서도 가격은 아주 착한 수준으로 출시가 되었고 현재 출시 이벤트로 가격을 더 인하해서 판매 중이라 갓성비 중에서도 갓성비라고 할 수 있는 몬스타 가츠 ExtremeX FX700 80PLUS STANDARD로 구성6. 7500F는 듀얼 타워 공랭쿨러가 필요할 만큼 온도가 높지 않습니다. 싱글타워로도 충분히 온도 제어가 가능하구요.CPU쿨러는 싱글타워 끝판왕급 성능에 최근 3만원 대에서 만원 중후반대로 가격을 대폭인하해서 갓성비 중에서도 갓성비라고 할 수 있는 3RSYS TEAMMOST TM40으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS EX B650M-V7 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4060 Ti OC D6 8GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]DARKFLASH DK1000 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX700 80PLUS STANDARD상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]LG전자 울트라기어 27GP830상세보기[게이밍헤드셋.스피커.마이크]Creative PEBBLE V2 스피커상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD데스크탑 HDD는 안정성 높은 PMR 방식의 HDD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,580원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS EX B650M-V7 대원씨티에스",
+            "가격": "137,680원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4060 Ti OC D6 8GB",
+            "가격": "601,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "101,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK1000 MESH 강화유리 블랙",
+            "가격": "64,940원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX700 80PLUS STANDARD",
+            "가격": "43,500원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,570원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "LG전자 울트라기어 27GP830",
+            "가격": "394,980원",
+            "수량": "1"
+        },
+        "게이밍헤드셋.스피커.마이크": {
+            "제품명": "Creative PEBBLE V2 스피커",
+            "가격": "43,400원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2038540원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS EX B650M-V7 대원씨티에스",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4060 Ti OC D6 8GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "몬스타 가츠 ExtremeX FX700 80PLUS STANDARD",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 355,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 22891
+}

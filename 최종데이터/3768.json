@@ -1,0 +1,76 @@
+{
+    "quote_number": "3768",
+    "quote_title": "인텔 코어i5-14세대 14500 + 라데온 RX 6600",
+    "date_create": "2024.3.4",
+    "cpu_gpu_combinations": "코어i5-14500 + RX 6600 조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14500 + 라데온 RX 6600# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성은 잘하셨는데 몇가지만 변경해도 좋을 것 같네요.2. 14500은 온도가 아주 낮은 CPU인지라 메인보드와 CPU쿨러 선택이 아주 자유로운 편입니다.메인보드는 드라이버 모스펫 전원부와 대형 히트싱크 그리고 와이파이 & 블루투스 모듈이 적용된 가성비가 좋은MSI PRO B760M-A WIFI로 변경3. 메모리는 하이닉스 A다이 언락 제품이 메리트가 있으려면 수동으로 오버클럭을 할 때입니다. 오버클럭을 하지 않는다면 메리트가 많이 떨어지죠. 현재 구성은 SA전압 설정에 제한이 걸려있어서 사실상 메모리 오버가 불가능하니 메리트가 없다고 보면 됩니다.인지도도 높고 SK하이닉스 모듈을 사용해서 안정적으로 사용할 수 있는 TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))로 변경4. CPU쿨러는 사실 싱글 타워 공랭쿨러로도 충분히 온도 제어가 가능한데 더 낮은 온도에서 사용하시라고 가성비가 월등히 좋은 듀얼타워 공랭쿨러인 3RSYS Socoool RC1200 ARGB (WHITE)로 추천을 드리는 겁니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)상세보기[메인보드]MSI PRO B760M-A WIFI상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DAVEN APEX White (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트상세보기[CPU쿨러]3RSYS Socoool RC1200 ARGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]3RSYS 빙하6 M.2 SSD 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14500",
+            "가격": "331,780원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI PRO B760M-A WIFI",
+            "가격": "178,990원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스",
+            "가격": "265,910원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN APEX White",
+            "가격": "51,160원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+            "가격": "61,648원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1200 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,530원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "3RSYS 빙하6 M.2 SSD 방열판",
+            "가격": "7,340원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1359738원",
+    "CPU": "인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)",
+    "Motherboard": "MSI PRO B760M-A WIFI",
+    "Graphic Card": "ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+    "CPU Cooler": "3RSYS Socoool RC1200 ARGB (WHITE)",
+    "cpu_score": 247,
+    "gpu_score": 88,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32733,
+    "gpu_benchmarkscore": 16473
+}

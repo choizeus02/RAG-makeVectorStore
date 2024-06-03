@@ -1,0 +1,66 @@
+{
+    "quote_number": "4801",
+    "quote_title": "인텔 코어i7-14세대 14700KF + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.3.28",
+    "cpu_gpu_combinations": "코어i7-14700KF + RTX 4070 SUPER 조합",
+    "quotation_summary": " 인텔 코어i7-14세대 14700KF + 지포스 RTX 4070 SUPER# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 작업 성능에 있어서는 14코어 20스레드인 14600KF보다 20코어 28스레드인 14700KF가 월등히 더 좋습니다. 그래픽카드는 변경하지 않아도 되지만 CPU는 변경하는 것이 좋습니다.2. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부로 안정적으로 사용할 수 있는 GIGABYTE Z790 AORUS ELITE X 피씨디렉트로 변경3. 메모리는 라이프타임 워런티가 적용되어 있어서 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용해서 안정성적으로 사용할 수 있는 ESSENCORE KLEVV DDR5-5600 CL46 (16GB) 2개 32기가로 변경4. CPU쿨러는 360mm 라디에이터 일체형 3열 수냉쿨러 중에서는 끝판왕이라고 해도 될 정도의 성능에 소음도 낮고 가격적인 메리트도 있는 압도적인 가성비 제품인 잘만 Alpha II A36 (BLACK)으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]3RSYS S403 Quiet 블랙 (미니타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]잘만 Alpha II A36 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 RTX 4070과 RTX 4070 Ti 제품 사이에 위치한 라인업이며 길이 234.1mm, 두께 40.2mm의 제원을 가지고 있습니다. 보조전원 커넥터는 12VHPWR 규격이며 구매 후 14일 이내 제품 등록 시 무상 3년 보증에 추가로 2년 확대보증 서비스를 제공하여 오래도록 사용할 수 있습니다.SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-14세대 14700KF",
+            "가격": "536,570원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,750원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,830원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+            "가격": "912,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS S403 Quiet 블랙",
+            "가격": "79,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,430원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2368610원",
+    "CPU": "인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "잘만 Alpha II A36 (BLACK)",
+    "cpu_score": 98,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 31768
+}

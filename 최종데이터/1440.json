@@ -1,0 +1,60 @@
+{
+    "quote_number": "1440",
+    "quote_title": "12100F + GTX 1650 + 롤 가성비 견적",
+    "date_create": "2023.5.10",
+    "cpu_gpu_combinations": "코어i3-12100F + GTX 1650 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "진짜 극한의 극한이네여12100말고 그냥 F모델로 한 다음에GTX 1650 구성하시는게 더 좋을 듯 하고CPU쿨러는 기본쿨러 써도 무방 합니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i3-12세대 12100F (엘더레이크) (정품)상세보기[메인보드]ASUS PRIME H610M-K D4 인텍앤컴퍼니상세보기[메모리]마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개상세보기[그래픽카드]이엠텍 지포스 GTX 1650 MIRACLE NEW D6 4GB상세보기[SSD]마이크론 Crucial MX500 대원CTS (500GB)상세보기[케이스]마이크로닉스 GL1-MORTAR (미들타워)상세보기[파워서플라이]SF-500R12ST MEGA 80PLUS STANDARD 230V EU상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 4코어 CPU이지만 캐쥬얼 게임은 나름 쓸만!\n인텔 6,7세대 i7보다 좋음!메인보드는 12100F까지는 충분!\n믿고쓰는 Asus!메모리는 라이프 워런티 지원!\n수율 좋은 DDR4 메모리!케이스는 3만원대에서 볼 수 있는 유일한 갓성비 케이스!\n베스트샐러 M60의 동생 제품!파워서플라이는 GTX 1660 SUPER 라면충분한 용량의 500w!\n무한 고주파 교체 AS의 슈퍼플라워!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i3-12세대 12100F",
+            "가격": "118,980원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME H610M-K D4 인텍앤컴퍼니",
+            "가격": "96,920원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4 8G PC4-25600 CL22",
+            "가격": "21,480원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 GTX 1650 MIRACLE NEW D6 4GB",
+            "가격": "192,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial MX500 대원CTS 500GB",
+            "가격": "69,900원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 GL1-MORTAR",
+            "가격": "32,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SF-500R12ST MEGA 80PLUS STANDARD 230V EU",
+            "가격": "46,971원",
+            "수량": "1"
+        }
+    },
+    "total_price": "600531원",
+    "CPU": "인텔 코어i3-12세대 12100F (엘더레이크) (정품)",
+    "Motherboard": "ASUS PRIME H610M-K D4 인텍앤컴퍼니",
+    "Graphic Card": "이엠텍 지포스 GTX 1650 MIRACLE NEW D6 4GB",
+    "SSD": "마이크론 Crucial MX500 대원CTS (500GB)",
+    "Memory": "마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개",
+    "Power Supply": "SF-500R12ST MEGA 80PLUS STANDARD 230V EU",
+    "cpu_score": 844,
+    "gpu_score": 183,
+    "performance_grade": "저성능",
+    "cpu_benchmarkscore": 14250,
+    "gpu_benchmarkscore": 10149
+}

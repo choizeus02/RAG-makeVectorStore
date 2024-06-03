@@ -1,0 +1,71 @@
+{
+    "quote_number": "2665",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 지포스 RTX 4060 Ti",
+    "date_create": "2024.2.8",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4060 Ti 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 지포스 RTX 4060 Ti# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 전원부 히트싱크가 적용되어 있는 ASUS EX B650M-V7 대원씨티에스로 변경비슷한 금액대라면 커브 옵티마이저를 지원하지 않는 하위 칩셋인 A620보다는 상위 칩셋인 B650으로 구성하는 것이 좋습니다.2. 메모리는 DDR5로 구성해야 호환이 됩니다. 메인보드에 램 슬롯이 2개 뿐이라 16기가 2개 32기가를 강제한다고 보면 될 것 같구요.라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경3. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경했고, 저렴한 방열판도 하나 추가했습니다.4. 파워는 6년 무상 AS에 무려 9종에 달하는 보호회로를 적용하여 안정성에 몰빵을 하고서도 아주 착한 금액대에 출시를 했고 현재 출시 기념 이벤트로 가격도 대폭 할인 행사 중이라 갓성비 중에서도 갓성비라고 할 수 있는 몬스타 가츠 ExtremeX FX700 80PLUS STANDARD로 변경보통 대부분의 보급형 파워는 3-5년의 무상 AS와 4-6종의 보호회로가 적용되어 있습니다.5. CPU쿨러는 케이스와도 잘 어울리고 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 3RSYS Socoool RC350 ARGB (BLACK)으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS EX B650M-V7 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]BRAVOTEC 트레저 X10 AERO BLACK (미들타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX700 80PLUS STANDARD상세보기[CPU쿨러]3RSYS Socoool RC350 ARGB (BLACK)상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS EX B650M-V7 대원씨티에스",
+            "가격": "137,680원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+            "가격": "539,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,500원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "BRAVOTEC 트레저 X10 AERO BLACK",
+            "가격": "85,470원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX700 80PLUS STANDARD",
+            "가격": "43,500원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 ARGB",
+            "가격": "22,800원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1267960원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS EX B650M-V7 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX700 80PLUS STANDARD",
+    "CPU Cooler": "3RSYS Socoool RC350 ARGB (BLACK)",
+    "cpu_score": 355,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 22891
+}

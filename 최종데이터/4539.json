@@ -1,0 +1,59 @@
+{
+    "quote_number": "4539",
+    "quote_title": "2024년 04월 PC 월간 견적 - 상급 QHD 게이밍 (AMD + RTX 4070 TI SUPER)",
+    "date_create": "2024.3.21",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 2024년 04월 PC 월간 견적 - 상급 QHD 게이밍 (AMD + RTX 4070 TI SUPER)# 상급 QHD 게이밍# QHD 상급 게이밍# 배그 QHD 풀옵션# 헬다이버즈 2 QHD 추천# 팰월드 QHD 풀옵션# 철권 4K 풀옵션# DQHD 게이밍# 21:9 게이밍",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "2024년 04월 PC 월간 견적 - 상급 QHD 게이밍 (AMD + RTX 4070 TI SUPER)",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 대원씨티에스상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[케이스]DARKFLASH DRX70 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC1200 ARGB상세보기[이벤트특가][SSD + RAM] 마이크론 Crucial T500 1TB + Crucial DDR5-5600 (32GB(16Gx2)) 패키지 대원씨티에스상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 새로나온 가성비 CPU!\n동급 인텔대비 월등한 게이밍 성능!메인보드는 b650m 시리즈의 가장 갓성비!\n300A전원부로 7700까지는 완벽 커버!그래픽카드는 가성비 RTX 4070 TI SUPER! 발열 준수! 소음 억제 좋고!\n조텍만의 3+2년 AS!케이스는 그래픽카드 지지대 동봉!\n기본팬 구성도 매우 좋은 가성비 제품!파워서플라이는 AS 10년! 고주파 AS 지원!\nATX 3.0 정식 모델의 가성비 파워!CPU쿨러는 가성비 공냉 준 끝판왕!이벤트특가는 견적왕에서만 하는 특별한 이벤트!\n안정성 좋은 메모리와 1티어 SSD의 만남!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "234,070원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 대원씨티에스",
+            "가격": "152,940원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,239,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DRX70 MESH RGB 강화유리 블랙",
+            "가격": "46,050원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "133,260원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1200 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        },
+        "SSD + RAM": {
+            "제품명": "마이크론 Crucial T500 1TB + Crucial DDR5-5600 패키지 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1968810원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 대원씨티에스",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC1200 ARGB",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

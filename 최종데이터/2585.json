@@ -1,0 +1,71 @@
+{
+    "quote_number": "2585",
+    "quote_title": "AMD 라이젠7-5세대 7700 + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.2.5",
+    "cpu_gpu_combinations": "라이젠7 7700 + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7700 + 지포스 RTX 4070 Ti SUPER# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 메모리는 현재 유통사가 많이 없어서 견적왕의 최대 메리트라고 할 수 있느 견적비교가 원활하게 되지 않습니다. 많은 업체에서 판매중인 TeamGroup DDR5-5600 CL46 Elite Plus 블랙 서린 (32GB) 2개 64기가로 변경2. SSD는 5년 무상AS의 갓성비 젠4 제품인 MSI SPATIUM M480 PRO M.2 NVMe (2TB)로 구성읽기속도 : 7,400(MB/s) / 쓰기속도 : 7,000(MB/s)로 최고 수준의 성능이면서 DDR4 2GB 용량의 디램 버퍼 메모리가 적용되어 있습니다. 성능 좋은 방열판도 하나 추가했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7700 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite Plus 블랙 서린 (32GB) x 2 개상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[SSD]MSI SPATIUM M480 PRO M.2 NVMe (2TB)상세보기[케이스]DAVEN APEX Black (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[쿨러.튜닝.조명.액세서리]JIUSHARK M.2-ONE M1 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "케이스는 기본팬 4개를 제공하고 CPU쿨러최대호환가능높이 185mm, 그래픽카드최대호환가능길이 350mm 제원의 DAVEN APEX입니다. 좌측면 스윙도어 형태이며 LED ON/OFF 스위치가 있어 사용자 취향에 따라 켜고 끌 수 있습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7700",
+            "가격": "402,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,010원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite Plus 블랙 서린  32GB",
+            "가격": "129,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,189,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "MSI SPATIUM M480 PRO M.2 NVMe 2TB",
+            "가격": "233,190원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN APEX Black",
+            "가격": "46,650원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "129,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "JIUSHARK M.2-ONE M1",
+            "가격": "5,500원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2459370원",
+    "CPU": "AMD 라이젠7-5세대 7700 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "SSD": "MSI SPATIUM M480 PRO M.2 NVMe (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite Plus 블랙 서린 (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 209,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 35970,
+    "gpu_benchmarkscore": 31768
+}

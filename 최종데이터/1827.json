@@ -1,0 +1,71 @@
+{
+    "quote_number": "1827",
+    "quote_title": "QHD 해상도 완전 정복(배그, 검은사막, 발더스게이트, 아머드코어 등) 게이밍 PC (7800X 3D, RTX 4080)",
+    "date_create": "2024.1.3",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4080 조합",
+    "quotation_summary": " 1. QHD 해상도를 사용하시는 분2. 프레임이 스트레스 없이 풀옵션을 원하시는 분# 스팀# 배그# 롤# 레데리2# 검은 사막# 호그와트# 아머드코어 3",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 견적맨으로 활동하고 있는 coke-bear 입니다.퀘이사존에서 주로 활동하며 그 외 커뮤니티에서도 간간히 활동하고 있습니다.하드웨어에 관심이 많아 제품을 직접 사용해보기도 하고 주변 지인들 PC 견적부터 조립도 해주다보니PC 구매를 어려워하거나 용도에 맞지 않게 구매하여 불필요한 지출을 하는 경우를 보게 되었습니다.그런 분들께 조금이라도 도움이 되고자 PC 구매자분들께 합리적인 구매를 할 수 있게 견적맨으로 활동하게 되었습니다.",
+    "quote_feedback": "게이밍 용도라면 현 시점에서는 7800X 3D가 13900KS 와 동급의 게임 성능을 가지고 있어 종결급 CPU라 보시면 됩니다.메인보드는 B650 PG LIGHTNING 이면 7950X 나 7950X 3D 까지도 사용 가능한 성능이고 ATX 사이즈로 확장성도 좋으며 크기가 크고 무게가 나가는 4080 이상급의 그래픽카드에서도 안정적으로 사용 가능합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]G.SKILL DDR5-6000 CL36 TRIDENT Z5 NEO RGB J 패키지 (32GB(16Gx2))상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)상세보기[CPU쿨러]PentaWave Z06D (BLACK)상세보기[모니터]LG전자 울트라기어 27GP850상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7000번대 제품 중 13900KS 와 게임 성능 동급의 게임이 최강의 CPU 입니다.메인보드는 b650 칩셋의 메인보드 중 7950x 까지 커버 가능하여 추후 am5 소켓 지원하는 신제품 사용시에도 재사용 가능한 성능의 메인보드 입니다.메모리는 지스킬의 6000 CL32 EXPO 제품입니다. NEO 버전이 AMD EXPO 호환 버전의 제품이라 구성하였습니다.그래픽카드는 기판을 분해해도 AS 서비스를 받을 수 있는 상위급의 AS 정책을 가지고 있는 조텍의 4080 익스트림 에어로 제품입니다.SSD는 마이크론의 pcie4.0 상위 제품인 t500 2tb 제품입니다.케이스는 다크플래쉬의 빅타워급 케이스인 DLX21 케이스 입니다. 동일 가격대 제품들이 비슷한 호환성을 가지고 있지만 강판 두께나 기본팬 성능, 측면팬과 그래픽카드 지지대가 포함되어 있어 가성비도 좋은 편입니다.파워서플라이는 국내 파워 브랜드 중 유일하게 고주파 발생까지 무제한 새제품 교환 정책을 가진 슈퍼플라워의 850W 골드 등급 제품입니다. PCIE5 규격으로 12핀 그래픽카드 케이블 사용이 가능합니다.CPU쿨러는 트윈타워형 공랭쿨러 중 가장 쿨링 성능이 좋은 rc1800을 대체 가능한 쿨링 성능을 가진 트윈타워형 공랭쿨러 입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "147,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 NEO RGB J 패키지) 32GB",
+            "가격": "186,990원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB",
+            "가격": "1,595,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK",
+            "가격": "154,407원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z06D",
+            "가격": "56,910원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "LG전자 울트라기어 27GP850",
+            "가격": "472,380원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3464367원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 NEO RGB J 패키지 (32GB(16Gx2))",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)",
+    "CPU Cooler": "PentaWave Z06D (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 34625
+}

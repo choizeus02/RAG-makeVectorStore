@@ -1,0 +1,66 @@
+{
+    "quote_number": "3279",
+    "quote_title": "AMD QHD 게이밍 PC",
+    "date_create": "2024.4.2",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 1. 가격 대비 성능을 최우선으로 고려하여 견적 구성하였습니다2. A/S 평가가 좋고 품질 좋은 제품들로 구성하였습니다# 240만원 게이밍 PC# AMD 게이밍 PC# QHD 게이밍 PC# 가성비 게이밍 PC",
+    "quote_person_introduction": "저렴한 제품으로 가격 맞추기가 아닌 가격 대비 뛰어난 성능과 안정성 A/S 등을 고려하여 합리적인 구매 하실 수 있도록 도움 드리겠습니다",
+    "quote_feedback": "저렴한 제품으로 가격 맞추기가 아닌 가격 대비 뛰어난 성능과 안정성 A/S 등을 고려하여 견적 구성하였습니다",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M-HDV/M.2 대원씨티에스상세보기[메모리]PATRIOT DDR5-5200 CL42 SIGNATURE (16GB) x 2 개상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[SSD]장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자상세보기[케이스]1stPlayer T7-P 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현시점 CPU 중 게이밍 기준으로 가장 성능이 뛰어난 AMD 라이젠7-5세대 7800X3D 제품 추천 드립니다메인보드는 ARGB 제품 사용하지 않으신다면 DR.MOS 400A 전원부와 히트싱크도 잘 갖춰져 있고 추후 WiFi 장착까지 가능하며 가격까지 저렴한 ASRock B650M-HDV/M.2 제품 추천 드립니다메모리는 하이닉스 모듈을 사용해 호환성과 안정성이 뛰어나고 가격도 저렴한 PATRIOT DDR5-5200 CL42 SIGNATURE 제품 추천 드립니다그래픽카드는 그래픽카드는 그래픽카드는 A/S 3대장 중 하나이고 구매 후 2주 이내 제품 등록하면 5년 보증 제공하는 ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB 제품 추천 드립니다SSD는 삼성 980 PRO OEM 제품으로 뛰어난 성능에 가격까지 저렴한 PM9A1 M.2 NVMe 병행수입 제품 추천 드립니다케이스는 120MM 쿨링팬 6개 기본 제공하고 디자인, 편의성, 가격까지 어느 하나 빠지는 것 없는  1stPlayer T7-P 제품 추천 드립니다파워서플라이는 CWT OEM 파워이고 고주파 문제 발생 시 제한 없는 제품 교체, 보증 기간내 불량 발생 시 선출고 교체 등 업계 최고 서비스를 제공하는 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD 제품 추천 드립니다CPU쿨러는 듀얼 공랭 최상급 성능과 정숙한 소음에 가격까지 저렴한 Thermalright Peerless Assassin 120 SE 제품을 선택했습니",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,380원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M-HDV/M.2 대원씨티에스",
+            "가격": "160,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "PATRIOT DDR5-5200 CL42 SIGNATURE  16GB",
+            "가격": "63,910원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,239,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 삼성전자 1TB",
+            "가격": "64,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7-P 블랙",
+            "가격": "39,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "134,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,500원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2323180원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M-HDV/M.2 대원씨티에스",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "SSD": "장우컴퍼니 PM9A1 M.2 NVMe 병행수입 (1TB) 삼성전자",
+    "Memory": "PATRIOT DDR5-5200 CL42 SIGNATURE (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

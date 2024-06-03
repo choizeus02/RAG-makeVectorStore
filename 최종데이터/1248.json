@@ -1,0 +1,71 @@
+{
+    "quote_number": "1248",
+    "quote_title": "5600x + RTX 3060 Ti PLUS SG D6X",
+    "date_create": "2024.1.11",
+    "cpu_gpu_combinations": "라이젠5 5600X + RTX 3060 Ti 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "다 문제는 없어 보입니다.5600x 기반이라면 윈 10쪽이 아직까지는 성능이 조금 더 잘나오는 게임들이 있기는 할 겁니다.음 메모리 같은 경우에 수동오버 포텐은 지금 삼성보다는 DDR4 기준에서마이크론이 더 좋은 부분이기도 하고AS도 라이프 워런티라 조금 더 괜찮은 부분이긴 할 듯 합니다.SSD P31보다 지금은 970 EVO PLUS가 더 저렴하고동급 선택지에서는 조금이나마 가성비가 좋은 부분입니다~파워는 상기 제조사 기준 및 AS 정책 확인해 보시고 구성해 주시는게좋을 듯 합니다 ^^CPU쿨러 같은 경우에도 paladin 400 argb면 s21 argb 모델이 저렴하고성능도 소폭 더 괜찮습니다 ^^",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 버미어 5600X (정품 멀티팩)(쿨러포함)상세보기[메인보드]ASRock B550M PRO4 디앤디컴상세보기[메모리]마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개상세보기[그래픽카드]AFOX 지포스 RTX 3060 Ti D6 8GB 대원씨티에스상세보기[SSD]삼성전자 970 EVO Plus M.2 2280 (500GB)상세보기[케이스]마이크로닉스 Master M60 메쉬 블랙 (미들타워)상세보기[파워서플라이]FSP HYPER K PRO 700W 80PLUS Standard 230V EU상세보기[CPU쿨러]잘만 CNPS9X PERFORMA RGB (SILVER)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 가성비 좋은 M.2 방열판 달린 메인보드!\nARGB 연동 가능!메모리는 라이프 워런티 지원!\n수율 좋은 DDR4 메모리!그래픽카드는 대원유통! AS 확실!\n가성비 좋은 3060 Ti!파워서플라이는 FSP 가성비의 새로운 모델!\n안정성 좋고 팬소음 적고!CPU쿨러는 가성비 좋고 성능 좋고!\n3만원 미만에서의 갓성비 모델!소프트웨어는 윈도우는 11!\n10도 사용 가능!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 버미어 5600X",
+            "가격": "183,050원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B550M PRO4 디앤디컴",
+            "가격": "124,760원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4 8G PC4-25600 CL22",
+            "가격": "21,480원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "AFOX 지포스 RTX 3060 Ti D6 8GB 대원씨티에스",
+            "가격": "468,310원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 970 EVO Plus M.2 2280 500GB",
+            "가격": "87,980원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 Master M60 메쉬 블랙",
+            "가격": "41,760원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "FSP HYPER K PRO 700W 80PLUS Standard 230V EU",
+            "가격": "84,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 CNPS9X PERFORMA RGB",
+            "가격": "33,740원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,730원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1240290원",
+    "CPU": "AMD 라이젠5-4세대 버미어 5600X (정품 멀티팩)(쿨러포함)",
+    "Motherboard": "ASRock B550M PRO4 디앤디컴",
+    "Graphic Card": "AFOX 지포스 RTX 3060 Ti D6 8GB 대원씨티에스",
+    "SSD": "삼성전자 970 EVO Plus M.2 2280 (500GB)",
+    "Memory": "마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개",
+    "Power Supply": "FSP HYPER K PRO 700W 80PLUS Standard 230V EU",
+    "CPU Cooler": "잘만 CNPS9X PERFORMA RGB (SILVER)",
+    "cpu_score": 504,
+    "gpu_score": 106,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 15388
+}

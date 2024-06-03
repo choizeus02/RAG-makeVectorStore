@@ -1,0 +1,66 @@
+{
+    "quote_number": "2424",
+    "quote_title": "14500 + 4060 Ti 영상편집 및 게임",
+    "date_create": "2024.2.2",
+    "cpu_gpu_combinations": "코어i5-14500 + RTX 4060 조합",
+    "quotation_summary": " 14500 + 4060 Ti 영상편집 및 게임# 14500 + 4060 Ti 영상편집 및 게임",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14500 + 4060 Ti 영상편집 및 게임",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)상세보기[메인보드]ASRock B760M-HDVP D5 디앤디컴상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB상세보기[SSD]MSI SPATIUM M480 PRO 히트싱크 M.2 NVMe (1TB)상세보기[케이스]잘만 N7 PLUS Black (미들타워)상세보기[파워서플라이](마이크로닉스) New Performance 600W 80Plus Bronze Change-up /파워상세보기[CPU쿨러]3RSYS Socoool RC350 ARGB (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 팀그룹의 DDR5 5600 패키지로 호환성이나 가성비가 좋은 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14500",
+            "가격": "334,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M-HDVP D5 디앤디컴",
+            "가격": "137,360원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "124,800원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
+            "가격": "447,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "MSI SPATIUM M480 PRO 히트싱크 M.2 NVMe 1TB",
+            "가격": "135,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "잘만 N7 PLUS Black",
+            "가격": "39,950원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "New Performance 600W 80Plus Bronze Change-up /파워",
+            "가격": "70,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 ARGB",
+            "가격": "22,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1311900원",
+    "CPU": "인텔 코어i5-14세대 14500 (랩터레이크 리프레시) (벌크)",
+    "Motherboard": "ASRock B760M-HDVP D5 디앤디컴",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
+    "SSD": "MSI SPATIUM M480 PRO 히트싱크 M.2 NVMe (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "(마이크로닉스) New Performance 600W 80Plus Bronze Change-up /파워",
+    "CPU Cooler": "3RSYS Socoool RC350 ARGB (BLACK)",
+    "cpu_score": 247,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32733,
+    "gpu_benchmarkscore": 22891
+}

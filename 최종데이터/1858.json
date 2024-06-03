@@ -1,0 +1,71 @@
+{
+    "quote_number": "1858",
+    "quote_title": "[최상급/370만] 13700K + 4080_RGB White Art Gallery",
+    "date_create": "2023.12.19",
+    "cpu_gpu_combinations": "코어i7-13700K + RTX 4080 조합",
+    "quotation_summary": " 1. 13700K + 4080 최고의 조합입니다.2. RGB를 사랑하는 유저에게 적합한 견적입니다.3. 화이트한 바디는 7개의 쿨러를 장착해 냉각에 뛰어나며 우수한 성능의 제품으로 구성했습니다.4. 무선 장비 사용에 대응했습니다.# #390만원 #AAA게임 #외형에 민감한 유저",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "AAA게임까지 모두 대응 가능한 데스크탑 입니다.최고의 CPU + 최고의 VGA 조합입니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i7-13세대 13700K (랩터레이크) (정품)상세보기[메인보드]ASRock Z790 스틸레전드 WiFi D5 에즈윈상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB White상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]1stPlayer Mi8 White (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]발키리 GL360 ARGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]리안리 UNI FAN SL120 WHITE (3PACK/Controller)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 7800X3D와 싸우는 인텔의 수문장입니다. 우수한 성능은 기본입니다.메인보드는 화이트 방열판, 과도하지 않은 RGB 포인트가 일품입니다.메모리는 대표 제조사 ADATA제품입니다. 상단 RGB가 영롱합니다.그래픽카드는 옆선 간지가 일품입니다. 우수한 냉각, 성능 그리고 AS를 보장합니다.SSD는 PCIe 4.0 하이앤드 제품입니다. 명불 허전이죠.케이스는 순수 커스터마이징 용 제품입니다. 많은 유저들이 이 제품을 통해 나만의 PC를 빌드업 합니다.파워서플라이는 고주파 최고 등급의 AS 정책을 가진 슈퍼플라워 제품입니다. 해외 테스트에서 가장 많이 노출되는 파워 중 하나 입니다.CPU쿨러는 수랭 1위 GL360 화이트 버전입니다. 리안리 쿨러와 정말 잘 어울립니다.쿨러.튜닝.조명.액세서리는 우수한 성능, 저소음, 영롱한 RGB띠가 발군입니다. 컨트롤러를 포함하고 있습니다.조립PC관련는 믿고 맡길 수 있는 서비스조립PC관련는 수랭은 전문가의 손에 맡겨져야 합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-13세대 13700K",
+            "가격": "569,800원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock Z790 스틸레전드 WiFi D5 에즈윈",
+            "가격": "390,830원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "325,500원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB White",
+            "가격": "2,226,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer Mi8 White",
+            "가격": "109,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "215,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "리안리 UNI FAN SL120 WHITE",
+            "가격": "39,130원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4204568원",
+    "CPU": "인텔 코어i7-13세대 13700K (랩터레이크) (정품)",
+    "Motherboard": "ASRock Z790 스틸레전드 WiFi D5 에즈윈",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB White",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "발키리 GL360 ARGB (WHITE)",
+    "cpu_score": 136,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 46542,
+    "gpu_benchmarkscore": 34625
+}

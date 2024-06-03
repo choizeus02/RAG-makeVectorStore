@@ -1,0 +1,71 @@
+{
+    "quote_number": "2984",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.2.15",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴 메인보드는 현재 유통사가 많이 없어서 다른 부품 선택에 제약이 생깁니다. 모듈 패키지가 아닌 자체 내장이 되어 있는 ASRock B650M Pro RS WiFi 대원씨티에스로 변경2. 구성하신 그래픽카드도 유통사가 없는 상황입니다. 1티어 화이트 컨셉 제품인 GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 피씨디렉트로 변경3. HDD는 PMR방식의 제품 중에서는 가성비가 가장 좋은 편인 Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)로 변경4. 어항케이스는 최근에 출시한 제품일수록 가성비 및 디자인이 훨씬 더 좋아지고 있습니다.리버스 팬을 적용하여 튜닝성도 최대치로 높이고 가성비도 월등히 좋고 디자인도 최상이라고 할 수 있는 몬스타 가츠 X620A 리버스 (미들타워)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS WiFi 대원씨티에스상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)상세보기[케이스]몬스타 가츠 X620A 리버스 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE WHITE ARGB 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 6000클럭 튜닝램 제품 가운데 CL타이밍 값이 30으로 낮은편인 ADATA사의 LANCER RGB 화이트 튜닝램입니다. 라이프워런티정책으로 A/S정책이 좋으며 16GB 2장 총 32GB 패키지입니다.SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD케이스는 흔히 어항케이스라고 불리우는 디자인이 적용된 X620A 리버스입니다. CPU쿨러 최대호환가능높이 165mm, 그래픽카드 최대호환가능길이 430mm 제원을 가졌으며 ATX 사이즈 메인보드까지 호환가능한 미들타워 제품입니다. 측면 120mm 기본팬 3개, 후면 120mm 기본팬 1개 총 4개를 제공하며 ARGB를 지원하여 메인보드 제조사 프로그램을 통해 색상 조정이 가능합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS WiFi 대원씨티에스",
+            "가격": "233,790원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "325,500원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 피씨디렉트",
+            "가격": "1,363,470원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/256M",
+            "가격": "158,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X620A 리버스 화이트",
+            "가격": "64,840원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+            "가격": "43,243원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2961663원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS WiFi 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE WHITE ARGB 서린",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

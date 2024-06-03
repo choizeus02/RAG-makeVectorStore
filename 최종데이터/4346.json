@@ -1,0 +1,43 @@
+{
+    "quote_number": "4346",
+    "quote_title": "코어i5-14세대 14600K",
+    "date_create": "2024.3.16",
+    "cpu_gpu_combinations": "코어i5-14600K +  조합",
+    "quotation_summary": " 코어i5-14세대 14600K# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 하이닉스 A다이 언락 제품의 경우는 수동으로 램 오버를 할 때 메리트가 있는 제품입니다. 메모리 오버를 하지 않는다면 추천을 하지는 않구요. 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경2.  CPU쿨러는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공하는 PentaWave S06D LE ARGB로 변경구성하신 PCCOOLER CPS RZ620 (BLACK)은 성능과 소음을 맞바꾼듯한 느낌이 있는 제품이라 풀로드시 소음이 좀 있는 편이더군요. 직접 테스트를 해 본 제품인데 작업시 소음과 무관하다면 해당 제품이 가장 성능이 좋은 건 맞습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600K (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 맥스 WIFI상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU쿨러는 케이스와도 잘 어울리는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600K",
+            "가격": "433,190원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 맥스 WIFI",
+            "가격": "212,810원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,060원",
+            "수량": "1"
+        }
+    },
+    "total_price": "809660원",
+    "CPU": "코어i5-14세대 14600K (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 맥스 WIFI",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 181,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": null
+}

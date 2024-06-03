@@ -1,0 +1,66 @@
+{
+    "quote_number": "4235",
+    "quote_title": "AMD 라이젠9-5세대 7900 + 지포스 RTX 4060",
+    "date_create": "2024.3.13",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 4060 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7900 + 지포스 RTX 4060# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 12코어 24스레드로 다양하게 활용할 수 있는 상위 제품인 7900으로 구성2. 칼디짓 TS4독은 C타입 USB4 포트에 연결해서 사용하는데 메인보드 I/O패널에서 2개의 USB4 포트를 제공하면서도 가격은 아주 착한 수준인 ASUS ProArt X670E-CREATOR WIFI 대원씨티에스로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 구성4. 케이스를 이쁜 것으로 구성해 달라고 하셔서 요즘 가장 핫한 어항케이스로 구성을 했는데 화이트 색상이 블랙보다 훨씬 이뻐서 화이트 컨셉으로 추천을 드리구요. 그래픽카드를 화이트 색상인 ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB White로 구성5. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 구성6. 케이스는 압도적인 비주얼과 가성비를 자랑하고 케이스 전면 C타입 포트도 지원하는 몬스타 가츠 X620A 리버스 (미들타워)로 구성7. 파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 600W 화이트로 구성8. 어항케이스는 상단에 3열 수냉쿨러를 장착해야 멋진 세팅이 되는 제품이라 앱코 T360 테티스 풀체인지 ARGB (화이트)로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS ProArt X670E-CREATOR WIFI 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB White상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X620A 리버스 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]앱코 T360 테티스 풀체인지 ARGB (화이트)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 압도적인 전성비로 인한 말도 안되는 낮은 온도의  12코어 24쓰레드 CPU\n온도 제어가 힘든 고성능 CPU에 있어서 가성비 공랭 CPU쿨러로 온도 제어가 가능한 별종인 제품그래픽카드는 작고 귀엽고 이쁜 정품등록 시 AS 3+2년의 조탁 제품케이스는 흔히 어항케이스라고 불리우는 디자인이 적용된 X620A 리버스입니다. CPU쿨러 최대호환가능높이 165mm, 그래픽카드 최대호환가능길이 430mm 제원을 가졌으며 ATX 사이즈 메인보드까지 호환가능한 미들타워 제품입니다. 측면 120mm 기본팬 3개, 후면 120mm 기본팬 1개 총 4개를 제공하며 ARGB를 지원하여 메인보드 제조사 프로그램을 통해 색상 조정이 가능합니다.파워서플라이는 topower사의 600W 브론즈등급 화이트색상 제품입니다. A/S보증기간 7년을 제공하고 화이트 색상 제품이라 화이트감성 PC에 알맞는 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "538,780원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ProArt X670E-CREATOR WIFI 대원씨티에스",
+            "가격": "768,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB White",
+            "가격": "445,790원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X620A 리버스 화이트",
+            "가격": "64,840원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "앱코 T360 테티스 풀체인지 ARGB",
+            "가격": "77,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2194510원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS ProArt X670E-CREATOR WIFI 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 TWIN Edge OC D6 8GB White",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "앱코 T360 테티스 풀체인지 ARGB (화이트)",
+    "cpu_score": 107,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 22891
+}

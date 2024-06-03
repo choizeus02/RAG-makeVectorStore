@@ -1,0 +1,71 @@
+{
+    "quote_number": "3479",
+    "quote_title": "AMD 라이젠 스레드리퍼 7970X + 지포스 RTX 4090",
+    "date_create": "2024.2.25",
+    "cpu_gpu_combinations": "라이젠 스레드리퍼 7970X (스톰 픽) + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠 스레드리퍼 7970X + 지포스 RTX 4090# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 7975WX와 호환이 되는 TRX50 소켓의 GIGABYTE TRX50 AERO D 피씨디렉트로 구성2. 메모리의 경우 TRX 소켓 보드는 4개의 슬롯과 쿼드채널 메모리를 지원하는 지라 64기가 2개가 아닌 32기가 4개로 구성해서 쿼드채널로 구성해야 성능이 더 좋아지게 됩니다. 서버용 메모리만 호환이 가능하기 때문에 삼성전자 DDR5 32G DDR5-4800 ECC/REG 서버용메모리 PC5-38400 4개 128기가로 구성3. 그래픽카드는 2WAY 구성하는데 간섭이 없을 정도로 슬림한 제품인 MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 2개로 구성4. SSD는 현존 속도가 가장 빠른 젠5 규격의 마이크론 Crucial T700 M.2 NVMe 대원씨티에스 (4TB)로 구성삼성전자 990 PRO M.2 NVMe (4TB)는 속도가 절반 수준인 젠4 제품입니다.5. HDD는 8TB 용량으로 넉넉하게 구성6. 케이스는 가격대비 미친 퀄리티를 제공하는 빅타워 케이스인 마이크로닉스 ML-420 BTF 블랙 (빅타워)로 구성7. 파워는 4000번대 16핀 전용 커넥터가 적용된 그래픽카드의 경우는 12VHPWR 케이블을 지원하는 제품으로 구성하는 것이 보다 안정적으로 사용할 수가 있습니다. 변환 젠더로 사용시에는 각 그래픽카드 당 3개의 케이블이 달리게 되면서 지저분해지기도 하고 안정성도 많이 떨어지죠. 2개의 12VHPWR 케이블을 제공하는 HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)로 구성8. CPU쿨러는 420mm 라디에이터가 적용되어 있는 수냉쿨러 끝판왕인 Phanteks GLACIER ONE 420 D30 (BLACK)로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠 스레드리퍼 7970X (스톰 픽) (정품)상세보기[메인보드]GIGABYTE TRX50 AERO D 피씨디렉트상세보기[메모리]삼성전자 DDR5 32G DDR5-4800 ECC/REG 서버용메모리 PC5-38400 x 4 개상세보기[그래픽카드]MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 x 2 개상세보기[SSD]마이크론 Crucial T700 M.2 NVMe 대원씨티에스 (4TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5640/128M (WD80EAZZ, 8TB)상세보기[케이스]마이크로닉스 ML-420 BTF 블랙 (빅타워)상세보기[파워서플라이]HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)상세보기[CPU쿨러]Phanteks GLACIER ONE 420 D30 (BLACK)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 64GB 제품 품절로 32GB로 대체합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠 스레드리퍼 7970X",
+            "가격": "3,695,960원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE TRX50 AERO D 피씨디렉트",
+            "가격": "1,034,190원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "삼성전자 DDR5 32G DDR5-4800 ECC/REG 서버용메모리 PC5-38400 x 4 개",
+            "가격": "183,820원",
+            "수량": "4"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 x 2 개",
+            "가격": "2,993,850원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T700 M.2 NVMe 대원씨티에스 4TB",
+            "가격": "320,850원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5640/128M",
+            "가격": "168,790원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 블랙",
+            "가격": "132,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "HYDRO PTM PRO 1650W Platinum ATX3.0",
+            "가격": "555,490원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Phanteks GLACIER ONE 420 D30",
+            "가격": "283,540원",
+            "수량": "1"
+        }
+    },
+    "total_price": "12913800원",
+    "CPU": "AMD 라이젠 스레드리퍼 7970X (스톰 픽) (정품)",
+    "Motherboard": "GIGABYTE TRX50 AERO D 피씨디렉트",
+    "Graphic Card": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 x 2 개",
+    "SSD": "마이크론 Crucial T700 M.2 NVMe 대원씨티에스 (4TB)",
+    "Memory": "삼성전자 DDR5 32G DDR5-4800 ECC/REG 서버용메모리 PC5-38400 x 4 개",
+    "Power Supply": "HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)",
+    "CPU Cooler": "Phanteks GLACIER ONE 420 D30 (BLACK)",
+    "cpu_score": 11,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 97273,
+    "gpu_benchmarkscore": 38694
+}

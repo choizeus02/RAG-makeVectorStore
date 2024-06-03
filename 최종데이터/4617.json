@@ -1,0 +1,66 @@
+{
+    "quote_number": "4617",
+    "quote_title": "7800X3D + RX 7800 XT WHITE(DARKFLASH DS900 ARGB 화이트)",
+    "date_create": "2024.3.23",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RX 7800 XT 조합",
+    "quotation_summary": " 7800X3D + RX 7800 XT WHITE(DARKFLASH DS900 ARGB 화이트)# 7800X3D + RX 7800 XT WHITE(DARKFLASH DS900 ARGB 화이트)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7800X3D + RX 7800 XT WHITE(DARKFLASH DS900 ARGB 화이트)",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 디앤디컴상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]PowerColor 라데온 RX 7800 XT Hellhound Spectral White D6 16GB 대원씨티에스상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]DARKFLASH DS900 ARGB 강화유리 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC1200 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7000번대 3D 모델 주인공인 7800X3D입니다. 순정 상태에서 13900KS를 넘어서는 뛰어난 게임 성능과 뛰어난 전성비가 장점입니다.메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 화이트 감성 라데온입니다.SSD는 삼성 980 프로 OEM 제품으로 가성비가 좋습니다.케이스는 케이스는 내부가 훤히 보이는 어항형 디자인에선 측면 리버스 블레이드(역방향) 팬으로 감성도 뛰어나고, 그래픽카드 425mm까지 지원해 호환성은 물론 전면 TYPE-C 포트 지원과 그래픽카드 지지대 기본 구성 등 편의성까지 좋은 가성비 좋은 케이스입니다.파워서플라이는  10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책도 동일하고 가격대도 좋은 파워입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 디앤디컴",
+            "가격": "182,880원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,500원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "PowerColor 라데온 RX 7800 XT Hellhound Spectral White D6 16GB 대원씨티에스",
+            "가격": "731,120원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DS900 ARGB 강화유리 화이트",
+            "가격": "56,330원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1200 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1880260원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 디앤디컴",
+    "Graphic Card": "PowerColor 라데온 RX 7800 XT Hellhound Spectral White D6 16GB 대원씨티에스",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC1200 ARGB (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 11,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 29006
+}

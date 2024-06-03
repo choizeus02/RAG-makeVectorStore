@@ -1,0 +1,66 @@
+{
+    "quote_number": "1367",
+    "quote_title": "7950x + RTX 4070 + 옥테인 + C4D",
+    "date_create": "2023.12.5",
+    "cpu_gpu_combinations": "라이젠9 7950X + RTX 4070 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "그래픽카드는 이엠텍 조텍 갤럭시 이노3디 기준이 AS 상 좋을 듯 하고~4070 기반은 성능이 다 비슷비슷 합니다저렴한걸 구성해도 무방하리라 보여집니다.지금 구성하신 케이스는 수냉이 전면 장착되는 부분이라가능하면 상단 장착이 가능한 구성으로 추천드리며DNX700 정도가 무난 할 것 같습니다.DDR5 메모리의 경우 용량에 상관없이 4장을 다 꽂아서 사용하면 대역폭 문제로 인해성능이 하락하게 됩니다.지금 구성이라면 4800mhz 짜리 32기가 2장으로 구성하시는걸 추천드립니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X (라파엘) (정품)상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 WINDFORCE OC D6X 12GB 피씨디렉트상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DNX700 MESH RGB 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-750F14HG LEADEX III GOLD WHITE상세보기[CPU쿨러]DARKFLASH Twister DX-360 V2.6 ARGB (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 현존 최강의 작업용 CPU\n그렇다고 게임성능이 떨어지지는 않음!메인보드는 14+2+1 전원부!\n가격은 25만원! 가성비 of 가성비!메모리는 하이닉스 A다이 언락 모델!\n인식률 / 수율 최상! 안정성도 최상!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X",
+            "가격": "893,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "147,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,450원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 WINDFORCE OC D6X 12GB 피씨디렉트",
+            "가격": "795,940원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DNX700 MESH RGB 화이트",
+            "가격": "72,160원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-750F14HG LEADEX III GOLD WHITE",
+            "가격": "139,402원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Twister DX-360 V2.6 ARGB",
+            "가격": "134,890원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2584192원",
+    "CPU": "AMD 라이젠9-5세대 7950X (라파엘) (정품)",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 WINDFORCE OC D6X 12GB 피씨디렉트",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-750F14HG LEADEX III GOLD WHITE",
+    "CPU Cooler": "DARKFLASH Twister DX-360 V2.6 ARGB (화이트)",
+    "cpu_score": 60,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62909,
+    "gpu_benchmarkscore": 31768
+}

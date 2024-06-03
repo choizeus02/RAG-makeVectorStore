@@ -1,0 +1,60 @@
+{
+    "quote_number": "1485",
+    "quote_title": "13600K(F + 반본체 + FHD 원신 풀옵 견적 + DJMAX 5 견적",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "코어i5-13600KF +  조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "램오버 하실꺼라면패트리엇 5600이나하이닉스, 에센코어 기준으로 4800mhz 제품을 구성하는게 수율상 가장 무난 할 겁니다.메인보드의 경우 동급 기준으로 ASRock B760M 스틸레전드 WIFI D5 에즈윈 모델이 AS상 더 좋은 선택이라 보여지기는 합니다.언더볼팅의 경우 ASRock 제품은 BFB 기능을 통해 MSI 기능인 Cpu Load Lite와 동일한 방식으로 언더볼팅이 가능 합니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600KF (랩터레이크) (정품)상세보기[메인보드]ASRock B760M 스틸레전드 WiFi D5 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[SSD]삼성전자 970 EVO Plus M.2 2280 (1TB)상세보기[케이스]DARKFLASH DNX700 MESH RGB 블랙 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 750W 80PLUS GOLD 230V EU 풀모듈러12VHPWR 케이블 제공상세보기[CPU쿨러]DEEPCOOL AG620상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 인텔 하이앤드 게이밍 CPU의 시작!\n4070 ti 이상은 13600K부터!메인보드는 AS 좋고! 13600K 활용하기도 좋고!\n믿음의 스틸레전드!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!케이스는 새로나온 가성비 케이스!\n강판 좋고! 쿨링 좋고! 감성 좋고!파워서플라이는 PCIe 5.0 케이블 정격지원!\n가성비 좋은 골드 파워!CPU쿨러는 5만원대 언더의 가성비 공냉쿨러!\n하지만 성능은 끝판왕 공냉쿨러!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600KF",
+            "가격": "1,588,590원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M 스틸레전드 WiFi D5 에즈윈",
+            "가격": "220,620원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 970 EVO Plus M.2 2280 1TB",
+            "가격": "135,320원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DNX700 MESH RGB 블랙",
+            "가격": "66,440원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 750W 80PLUS GOLD 230V EU 풀모듈러12VHPWR 케이블 제공",
+            "가격": "128,150원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DEEPCOOL AG620",
+            "가격": "36,680원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2305800원",
+    "CPU": "인텔 코어i5-13세대 13600KF (랩터레이크) (정품)",
+    "Motherboard": "ASRock B760M 스틸레전드 WiFi D5 에즈윈",
+    "SSD": "삼성전자 970 EVO Plus M.2 2280 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 Classic II 750W 80PLUS GOLD 230V EU 풀모듈러12VHPWR 케이블 제공",
+    "CPU Cooler": "DEEPCOOL AG620",
+    "cpu_score": 194,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": null
+}

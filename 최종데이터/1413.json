@@ -1,0 +1,66 @@
+{
+    "quote_number": "1413",
+    "quote_title": "13700K + RTX 4070 Ti + 영상편집 + 3D 작업 + 3D 모델링",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "코어i7-13700K + RTX 4070 Ti 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "애매하네요..어느 프로그렘의 비중이 높은지 알아야 할 듯 합니다.메인보드의 경우 AS 고려해서 긱바냐아니면 그냥 MSI냐 인데 맘에 드시는거 하시면 됩니다.어짜피 마음가는대로 해주시면 됩니다 ^^블랜더나 에펙이라면 GPU 사용량도 좀 있는 편이니4070 ti로 가는것도 나쁘지는 않을 것 같구요쿨러 같은 경우 일반 케이스 쿨러만 넣으셨는데13700K건 7900x나 7950x건 수냉은 가주셔야 발열 제어가 가능 할 겁니다.대학생 이신건가요???아니면 그냥 취미로 하시는걸까요??사용하시는 프로그렘 보면 학부생? 같은 느낌이긴 한데..그냥 이번에 투자해서 대학 졸업할때까지 쓰겠다는 마인드라면 나쁘지는 않을 겁니다.다만 남성분이시라면...군대 + 대학 포함하면 한 6년이니..13700K 구성시 수냉이 강제되는 부분이고AS 6년 지원하는 급은 크라켄이나 아세텍 펌프 들어간 제품군들이 유일하기에선택지는 좀 강제가 될 듯 합니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i7-13세대 13700K (랩터레이크) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE 피씨디렉트상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 Ti EAGLE D6X 12GB 피씨디렉트상세보기[SSD]삼성전자 980 PRO M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DLX4000 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)상세보기[CPU쿨러]NZXT KRAKEN 360상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메인보드는 기가바이트가 실수한 제품! 완벽한 갓성비!\n500w까지는 충분히 버티는 전원부!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 소음은 있지만\n가성비 좋은 4070 ti!케이스는 DLX21 보다 더 큰 확장성!\n360 수냉 2개까지 장착 가능한 대형 케이스!파워서플라이는 PCie 5.0 케이블 동봉!\n믿음 AS! 슈퍼플라워!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-13세대 13700K",
+            "가격": "569,800원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE 피씨디렉트",
+            "가격": "337,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 Ti EAGLE D6X 12GB 피씨디렉트",
+            "가격": "1,099,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 980 PRO M.2 NVMe 1TB",
+            "가격": "159,540원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX4000 MESH 강화유리 블랙",
+            "가격": "102,330원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK",
+            "가격": "154,407원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NZXT KRAKEN 360",
+            "가격": "303,050원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2855857원",
+    "CPU": "인텔 코어i7-13세대 13700K (랩터레이크) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 Ti EAGLE D6X 12GB 피씨디렉트",
+    "SSD": "삼성전자 980 PRO M.2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)",
+    "CPU Cooler": "NZXT KRAKEN 360",
+    "cpu_score": 136,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 46542,
+    "gpu_benchmarkscore": 31768
+}

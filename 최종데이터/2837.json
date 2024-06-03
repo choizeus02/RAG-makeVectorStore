@@ -1,0 +1,76 @@
+{
+    "quote_number": "2837",
+    "quote_title": "14600K + 4070 SUPER(QHD",
+    "date_create": "2024.2.12",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 4070 SUPER 조합",
+    "quotation_summary": " 14600K + 4070 SUPER(QHD# 14600K + 4070 SUPER(QHD",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14600K + 4070 SUPER(QHD",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600K (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 맥스 WIFI상세보기[메모리]ADATA DDR5-5600 CL46 (16GB)하이닉스 A다이 언락 제품! x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[데스크탑 HDD]Toshiba 4TB N300 HDWQ140 (SATA3/7200/128M)상세보기[케이스]아이구주 PRAY 30 PLUS (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[ODD](LG전자) Super-Multi GH24NSD1 벌크 /ODD상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 14페이즈 900A(75A)의 뛰어난 전원부입니다.메모리는 하이닉스 A다이 언락이 탑재된 ADATA의  메모리입니다.그래픽카드는 AS 3대장 조텍의 RTX 4070 SUPERSSD는 PCIe4.0 최상급 성능의 SSD입니다.데스크탑 HDD는 도시바의 안정성이 뛰어난 나스용 하드입니다케이스는 강판두께도 준수하고 쿨링팬도 조용해 LED가 없는 깔끔한 디자인에 정숙한 케이스를 찾으신다면 해당 케이스 정도 구성하시면 됩니다.파워서플라이는 10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책에 뛰어난 가성비까지 겸비한 파워입니다.CPU쿨러는 대장급 공랭 중 뛰어난 정숙성과 성능을 겸비한 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600K",
+            "가격": "436,800원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 맥스 WIFI",
+            "가격": "199,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46하이닉스 A다이 언락 제품!  16GB",
+            "가격": "143,930원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+            "가격": "874,950원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 4TB N300 HDWQ140",
+            "가격": "179,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "아이구주 PRAY 30 PLUS",
+            "가격": "54,090원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        },
+        "ODD": {
+            "제품명": "Super-Multi GH24NSD1 벌크 /ODD",
+            "가격": "20,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2342460원",
+    "CPU": "코어i5-14세대 14600K (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 맥스 WIFI",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46 (16GB)하이닉스 A다이 언락 제품! x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 181,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 31768
+}

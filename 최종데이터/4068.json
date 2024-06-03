@@ -1,0 +1,69 @@
+{
+    "quote_number": "4068",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.3.10",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 지포스 RTX 4070 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 4070 SUPER는 정격 700W를 권장파워로 요구하는 그래픽카드입니다. 850W까지 필요하지 않아서 동일 제품 750W로 변경2. 현재 구성한 시스템 팬인 3RSYS SILENCE XY 120 ARGB (WHITE)는 흡기로 장착하게 되면 정방향 팬이라 뒤쪽 프레임이 보이게 됩니다. 디자인을 많이 해치게 되죠. 이걸 개선하기 위해서 나온 제품이 리버스 시스템 팬입니다. 정방향과 동일한 디자인이지만 날개 방향을 반대로 설계해서 정방향이지만 역방향처럼 동작하게 만들어서 프레임이 보이지 않게 디자인하여 튜닝  효과를 많이 높인 제품입니다.특히나 추천드리는 3RSYS Silence GI 120 데이지체인 리버스 3PACK (WHITE)은 쿨링 팬끼리 단자로 연결하는 방식으로 케이블을 획기적으로 줄여서 보다 깔끔하게 시스템을 만들어 줍니다.3. 5V ARGB & PWM 허브는 8채널을 지원하면서 조금 더 저렴한 IHTP MH-009 ARGB 8-BIT HUB로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[그래픽카드]inno3D 지포스 RTX 4070 SUPER OC D6X 12GB TWIN X2 WHITE상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]JONSBO TK-2 White (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]JONSBO TG-360 ARGB (WHITE)상세보기[이벤트특가][SSD + RAM] 마이크론 Crucial T500 2TB + Crucial DDR5-5600 (32GB(16Gx2)) 패키지 대원씨티에스상세보기[쿨러.튜닝.조명.액세서리]3RSYS Silence GI 120 데이지체인 리버스 3PACK (WHITE) x 2 개상세보기[쿨러.튜닝.조명.액세서리]LEADCOOL RH-1 EVO ARGB 메모리 방열판 화이트 (2PACK)상세보기[쿨러.튜닝.조명.액세서리]IHTP MH-009 ARGB 8-BIT HUB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메인보드는 B650칩셋 제품이라서 PBO와 커브옵티마이저 기능을 지원하는 제품입니다. 400A급 드라이버모스펫 구성의 전원부 성능을 가지고 있으며 기판일부와 방열판색상이 화이트라 화이트조합에 알맞습니다.데스크탑 HDD는 안정성 높은 PMR 방식의 HDD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "203,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "170,400원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "inno3D 지포스 RTX 4070 SUPER OC D6X 12GB TWIN X2 WHITE",
+            "가격": "903,920원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "100,780원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "JONSBO TK-2 White",
+            "가격": "134,490원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "JONSBO TG-360 ARGB",
+            "가격": "86,070원",
+            "수량": "1"
+        },
+        "SSD + RAM": {
+            "제품명": "마이크론 Crucial T500 2TB + Crucial DDR5-5600 패키지 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "IHTP MH-009 ARGB 8-BIT HUB",
+            "가격": "13,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1964610원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "Graphic Card": "inno3D 지포스 RTX 4070 SUPER OC D6X 12GB TWIN X2 WHITE",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "JONSBO TG-360 ARGB (WHITE)",
+    "cpu_score": 355,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 31768
+}

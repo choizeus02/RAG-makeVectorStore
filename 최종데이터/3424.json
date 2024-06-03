@@ -1,0 +1,71 @@
+{
+    "quote_number": "3424",
+    "quote_title": "13600KF + RTX 4060 TI",
+    "date_create": "2024.2.25",
+    "cpu_gpu_combinations": "코어i5-13600KF + RTX 4060 Ti 조합",
+    "quotation_summary": " 13600KF + RTX 4060 TI# 13600KF + RTX 4060 TI",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "13600KF + RTX 4060 TI",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600KF (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DAVEN AQUARIUM 블랙 (미들타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 벌크도 공식적으로 3년 보증을 지원해 14600KF급으로 구성하신다면 벌크로는 14600KF보다 금액적 메리트가 높아 13600KF 쪽이 나으실 거 같습니다.메인보드는 14페이즈 900A(75A) 급 뛰어난 전원부로 14600K까지 문제 없이 사용 가능합니다.메모리는 팀그룹의 DDR5 5600 패키지로 호환성이나 가성비가 좋은 제품입니다.그래픽카드는 VRAM이 16GB로 높아 그래픽카드 VRAM을 많이 사용하는 앱플레이어나 게임, 작업용도로도 좋습니다.SSD는 PCIe4.0 최상급 성능의 SSD입니다.케이스는 어항형 케이스 중 투챔버 형태로 파워가 옆면에 장착되어 온도면이나 감성면에서도 훌륭한 케이스입니다.파워서플라이는 브론즈 효율에 PCIE5 규격으로 가격대도 저렴한 가성비 좋은 마이크로닉스 파워입니다.CPU쿨러는 10이하에서 상급 성능에 소음도 검증된 갓성비 쿨러입니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600KF",
+            "가격": "1,588,590원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포",
+            "가격": "201,700원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB",
+            "가격": "610,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN AQUARIUM 블랙",
+            "가격": "56,930원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5",
+            "가격": "65,980원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,400원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "168,990원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3028330원",
+    "CPU": "인텔 코어i5-13세대 13600KF (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포",
+    "Graphic Card": "MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 194,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 22891
+}

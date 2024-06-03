@@ -1,0 +1,66 @@
+{
+    "quote_number": "4443",
+    "quote_title": "7970X + RTX 4090 워크스테이션",
+    "date_create": "2024.3.18",
+    "cpu_gpu_combinations": "라이젠 스레드리퍼 7970X (스톰 픽) + RTX 4090 조합",
+    "quotation_summary": " 7970X + RTX 4090 워크스테이션# 7970X + RTX 4090 워크스테이션",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7970X + RTX 4090 워크스테이션",
+    "computer_estimate_data": "[CPU]AMD 라이젠 스레드리퍼 7970X (스톰 픽) (정품)상세보기[메인보드]ASUS PRO WS TRX50-SAGE WiFi 대원씨티에스상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 4 개상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB상세보기[SSD]마이크론 Crucial T700 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]Antec PERFORMANCE 1 FT MESH 강화유리 Black (빅타워)상세보기[파워서플라이]SuperFlower SF-1300F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)상세보기[CPU쿨러]NOCTUA NH-U14S TR5-SP6상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기그래픽카드는 화이트 제품은 아니지만 감성과 성능, AS까지 모두 잡은 그래픽카드입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠 스레드리퍼 7970X",
+            "가격": "3,695,950원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRO WS TRX50-SAGE WiFi 대원씨티에스",
+            "가격": "1,295,480원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE x 4 개 32GB",
+            "가격": "123,900원",
+            "수량": "4"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+            "가격": "2,874,550원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T700 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "157,940원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec PERFORMANCE 1 FT MESH 강화유리 Black",
+            "가격": "206,600원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1300F14XG LEADEX VII GOLD WHITE ATX 3.0",
+            "가격": "285,120원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NOCTUA NH-U14S TR5-SP6",
+            "가격": "203,290원",
+            "수량": "1"
+        }
+    },
+    "total_price": "9214530원",
+    "CPU": "AMD 라이젠 스레드리퍼 7970X (스톰 픽) (정품)",
+    "Motherboard": "ASUS PRO WS TRX50-SAGE WiFi 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+    "SSD": "마이크론 Crucial T700 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 4 개",
+    "Power Supply": "SuperFlower SF-1300F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)",
+    "CPU Cooler": "NOCTUA NH-U14S TR5-SP6",
+    "cpu_score": 11,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 97273,
+    "gpu_benchmarkscore": 38694
+}

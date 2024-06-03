@@ -1,0 +1,66 @@
+{
+    "quote_number": "4051",
+    "quote_title": "12400F + RTX 3050 (클립스튜디오, 일러스트, 포토샵 등 사무용)",
+    "date_create": "2024.3.9",
+    "cpu_gpu_combinations": "코어i5-12400F + RTX 3050 조합",
+    "quotation_summary": " 12400F + RTX 3050 (클립스튜디오, 일러스트, 포토샵 등 사무용)# 12400F + RTX 3050 (클립스튜디오# 일러스트# 포토샵 등 사무용)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "12400F + RTX 3050 (클립스튜디오, 일러스트, 포토샵 등 사무용)",
+    "computer_estimate_data": "[CPU]인텔 코어i5-12세대 12400F (엘더레이크)(벌크)상세보기[메인보드]ASRock B760M PG LIGHTNING/D4 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 3050 D6 6GB LP상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]DARKFLASH DK110 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 500 BRONZE V2 230V상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 인텔 12세대 CPU로 현재 시점에선 13400F보단 가성비가 좋습니다.SSD는 삼성 980 프로 OEM 제품으로 가성비가 좋습니다.케이스는 사무용도로 먼지 관리도 용이한 가성비 좋은 케이스입니다.파워서플라이는 가성비 좋은 쿨러마스터의 500W 브론즈 효율 파워입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-12세대 12400F",
+            "가격": "164,500원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+            "가격": "179,580원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "21,040원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 3050 D6 6GB LP",
+            "가격": "276,370원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK110",
+            "가격": "18,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 500 BRONZE V2 230V",
+            "가격": "47,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "852350원",
+    "CPU": "인텔 코어i5-12세대 12400F (엘더레이크)(벌크)",
+    "Motherboard": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 3050 D6 6GB LP",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 500 BRONZE V2 230V",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 595,
+    "gpu_score": 196,
+    "performance_grade": "저성능",
+    "cpu_benchmarkscore": 19566,
+    "gpu_benchmarkscore": 10896
+}

@@ -1,0 +1,81 @@
+{
+    "quote_number": "3004",
+    "quote_title": "코어i5-14세대 14600KF + 지포스 RTX 4060",
+    "date_create": "2024.2.15",
+    "cpu_gpu_combinations": "코어i5-14600KF + RTX 4060 조합",
+    "quotation_summary": " 코어i5-14세대 14600KF + 지포스 RTX 4060# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 14700KF로 구성해서는 윈도우와 듀얼모니터를 포함하게 되면 200만원 언더에서 구성하는 것은 어렵습니다.14코어 20스레드로 작업 성능이 꽤 준수한 편인 14600KF로 추천드리구요.2. 메인보드는 900A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 B760 칩셋의 끝판완인 MSI MAG B760M 박격포로 구성3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 구성4. 그래픽카드는 1티어 AS에 가격적인 메리트도 높은 갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB로 구성5. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어 방식에 C타입 포트 등을 적용하고도 가격을 대폭 인하하여 새롭게 출시된 갓성비 수준의 제품인 3RSYS L700 LITE (미들타워)로 구성6. 파워는 정격 600W 브론즈 인증 제품인 쿨러마스터 MWE 600 BRONZE V2 230V로 구성7. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)으로 구성8. 모니터는 27인치 IPS패널이 적용된 QHD 해상도 제품 정림전자 GMASTAR JE271L7711 IPS QHD 75 무결점 2개로 구성해서 다양하게 활용할 수 있도록 했습니다. 듀얼모니터 연결을 위한 변환 케이블도 하나 추가했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600KF (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]정림전자 GMASTAR JE271L7711 IPS QHD 75 무결점 x 2 개상세보기[케이블/AV(영상.음성)통합관련]케이엘시스템 KLcom DP to HDMI 케이블 (KL107, 1.8m)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600KF",
+            "가격": "403,570원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포",
+            "가격": "199,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "124,800원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
+            "가격": "447,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,110원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,500원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,670원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "정림전자 GMASTAR JE271L7711 IPS QHD 75 무결점 x 2 개",
+            "가격": "145,940원",
+            "수량": "2"
+        },
+        "케이블/AV(영상.음성)통합관련": {
+            "제품명": "케이엘시스템 KLcom DP to HDMI 케이블",
+            "가격": "7,970원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1961170원",
+    "CPU": "코어i5-14세대 14600KF (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 181,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 22891
+}

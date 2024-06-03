@@ -1,0 +1,71 @@
+{
+    "quote_number": "2019",
+    "quote_title": "7800X3D x RTX 4080 화이트 구성",
+    "date_create": "2024.2.27",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4080 조합",
+    "quotation_summary": " 1. 7800X3D 화이트 구성으로 방송 및 편집까지 고민하시는 분들에게 적합2. 4080 구성으로 QHD 초고주사율 모니터까지 커버 가능# 성능뿐만아니라 외형까지도 중요하시하는 당신에게",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "화이트 구성의 RTX 4080을 사용하는 게이밍 최고 성능 구성입니다.성능은 말해뭐해라 할 정도로 검증된 구성입니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650 Pro RS 대원씨티에스상세보기[메모리]OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB White상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]DARKFLASH DF5000 MESH ARGB 강화유리 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]발키리 A360 ARGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 Intel 13700K 가격에 성능은 13900KS를 뛰어넘는다..!\n더 이상 무슨 설명이 필요?.............메인보드는 화이트 구성에 쓰기 좋은 메인보드메모리는 이 성능에 이 가격이 가능한가? 넵, OLOy 구매하세요.그래픽카드는 유려한 외관, 가격대비 뛰어난 성능SSD는 990 Pro 와 경쟁모델이면서도 가격은 너무 착한 제품케이스는 이쁘고 넓직하고 가격도 괜찮은 케이스파워서플라이는 떠오르는 모듈러 가성비 파워, 슈퍼플라워와 동일한 AS 정책으로 갓갓CPU쿨러는 수냉 쿨러의 강자 발키리의 엔트리 제품소프트웨어는 -조립PC관련는 -조립PC관련는 -",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 Pro RS 대원씨티에스",
+            "가격": "172,490원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "194,120원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB White",
+            "가격": "2,226,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DF5000 MESH ARGB 강화유리 화이트",
+            "가격": "91,660원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 A360 ARGB",
+            "가격": "91,085원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,730원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3844915원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650 Pro RS 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB White",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "발키리 A360 ARGB (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 34625
+}

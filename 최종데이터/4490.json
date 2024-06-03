@@ -1,0 +1,71 @@
+{
+    "quote_number": "4490",
+    "quote_title": "인텔 코어i7-14세대 14700KF + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.3.20",
+    "cpu_gpu_combinations": "코어i7-14700KF + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 인텔 코어i7-14세대 14700KF + 지포스 RTX 4070 Ti SUPER# 방송용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU의 경우 논K와 K버전의 성능 차이가 제법 크게 나는 편이라 논K CPU는 추천을 잘 하지 않습니다. 20코어 24스레드로 방송 및 작업하기에 좋은 14700KF로 변경2. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 화이트 감성의 끝판왕 제품인 GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트로 변경3. SSD는 최근에 출시한 젠4 규격의 끝판왕급 성능 제품인 마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB) x2개로 변경4. 케이스는 상단 3열 수냉쿨러 장착이 가능한 화이트 감성의 고퀄리티 제품인 앱코 SUITMASTER M2000 NOVA ARGB 강화유리 화이트 (미들타워)로 변경5. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 변경6. CPU쿨러는 최상위 1티어 성능군이면서 소음도 낮은 편이라 끝판왕 수냉쿨러라고 할 수 있는 잘만 Alpha II A36 (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 (64GB(32Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB) x 2 개상세보기[케이스]앱코 SUITMASTER M2000 NOVA ARGB 강화유리 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]잘만 Alpha II A36 (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-14세대 14700KF",
+            "가격": "538,220원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "379,420원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지) 64GB",
+            "가격": "340,000원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB",
+            "가격": "1,178,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 x 2 개 1TB",
+            "가격": "227,500원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "앱코 SUITMASTER M2000 NOVA ARGB 강화유리 화이트",
+            "가격": "89,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,530원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,480원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3409000원",
+    "CPU": "인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB) x 2 개",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 (64GB(32Gx2))",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "잘만 Alpha II A36 (WHITE)",
+    "cpu_score": 98,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 31768
+}

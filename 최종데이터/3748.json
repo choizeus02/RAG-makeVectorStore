@@ -1,0 +1,66 @@
+{
+    "quote_number": "3748",
+    "quote_title": "코어i7-14세대 14700KF + 지포스 RTX 4060 Ti",
+    "date_create": "2024.3.3",
+    "cpu_gpu_combinations": "코어i7-14700KF + RTX 4060 Ti 조합",
+    "quotation_summary": " 코어i7-14세대 14700KF + 지포스 RTX 4060 Ti# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 7950X3D는 게임에 특화된 CPU로 게임을 하면서 작업을 할 때 메리트가 높습니다. 단순히 작업 위주라면 14700KF로 구성하는 것이 좋죠.2. 구성하신 케이스는 상단에 280mm 수냉쿨러까지만 장착을 지원합니다. 상단 장착을 지원하지 않는 케이스인지라 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 변경3. CPU쿨러도 발키리 GL360 ARGB (BLACK)는 현재 유통하는 업체가 많이 없어서 견적왕의 최대 메리트인 견적 비교가 원활하지 못합니다. 대장급 성능의 3열 수냉쿨러 중에서는 월등한 가성비를 제공하는 잘만 Alpha II A36 (BLACK)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700KF (랩터레이크)(벌크)상세보기[메인보드]MSI MAG Z790 토마호크 맥스 WIFI상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]잘만 Alpha II A36 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD파워서플라이는 안정성과 가성비를 겸비한 골드인증 800W 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700KF",
+            "가격": "538,950원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG Z790 토마호크 맥스 WIFI",
+            "가격": "418,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB",
+            "가격": "610,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "93,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,580원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2091610원",
+    "CPU": "코어i7-14세대 14700KF (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG Z790 토마호크 맥스 WIFI",
+    "Graphic Card": "MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "잘만 Alpha II A36 (BLACK)",
+    "cpu_score": 98,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 22891
+}

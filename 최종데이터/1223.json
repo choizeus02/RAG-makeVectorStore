@@ -1,0 +1,66 @@
+{
+    "quote_number": "1223",
+    "quote_title": "13600KF + 4070 Ti  게이밍 + 추천 PC!",
+    "date_create": "2023.4.20",
+    "cpu_gpu_combinations": "코어i5-13600KF + RTX 4070 Ti 조합",
+    "quotation_summary": " 1. 작업과 게임을 함께 하기위한 구성입니다.2. 해당 구성이라면 QHD 해상도도 원활하게 이용 가능합니다.# 250 이하 게이밍 PC 구성# 가벼운 작업과 게임 겸용 PC# 인텔 선호 유저# QHD 게이밍",
+    "quote_person_introduction": "﻿안녕하세요! 견적맨 파란개비 입니다.다년간의 PC A/S와 퀘이사존, 인벤, 카카오톡  오픈채팅 등의 커뮤니티 활동으로 다져진 경험으로합리적인 가격과 성능, 사후 처리까지 문제없는 제품을 찾아 추천드리겠습니다!",
+    "quote_feedback": "",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600KF (랩터레이크) (정품)상세보기[메인보드]ASRock B760 Pro RS D5 에즈윈상세보기[메모리]마이크론 Crucial DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 Ti Trinity OC D6X 12GB상세보기[SSD]마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)상세보기[케이스]DARKFLASH DK360 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]Antec NeoECO 850W 80PLUS GOLD 풀모듈러상세보기[CPU쿨러]PentaWave Z06D (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 13세대 13600KF 입니다.\n작업용 PC에 무난하게 구성되는 제품입니다.\n다만 E코어 관련 이슈가 있어 해당 이슈에 민감한 분들에겐 비추입니다.메인보드는 현재 국내에서 A/S 평이 가장 좋은 에즈윈 유통의 제품입니다.메모리는 마이크론의 DDR5 메모리입니다.\n제한적 평생 보증을 제공하여 제품이 단종되기 전까지 서비스를 받을 수 있습니다.그래픽카드는 조텍의 RTX 4070 Ti 제품입니다.\n현재 4000번대 그래픽카드 중 조텍 제품의 소음 / 발열 / 성능 모든 부분에서 1티어급 모습을 보여줍니다.\n워런티도 기본 3년에 제품 등록시 2년 추가되어 총 5년 보증이라 메리트가 상당합니다.SSD는 마이크론의 PCIE 4.0 SSD 입니다.\n비슷한 가격의 P31 대비 높은 성능을 보여주며\n보증 5년에 가격대도 여느 PCIE 3.0 SSD와 비슷한 수준을 보여주어 가성비가 뛰어납니다.케이스는 다크플래시의 DK360 제품입니다.\n준수한 확장성과 4만원대의 낮은 가격대로 가성비가 꽤 괜찮은 제품 입니다.\n전면에 메쉬 처리와 함께 185mm RGB 튜닝 팬이 2개 구성되어 있어\n내부 통풍과 소음적인 측면에서 상당히 좋은 모습을 보여줍니다.\n전체적으로 깔끔한 구성을 보여주고 있으며\n좀 더 화려한 외관을 원하시는 경우 \nLP30 같은 파워 RGB 커버를 함께 구성하시는 것도 좋은 방향입니다.파워서플라이는 안텍의 NeoECO 850W 골드급 파워입니다.\n4000번대용 12VHPWR 케이블은 없으나 10년 보증으로 긴 A/S 기간을 가지고 있습니다.CPU쿨러는 PentaWave사의  트윈타워형 공랭 쿨러입니다.\n조금 생소할 수 있으나 성능이나 가격 등 꽤 준수한 제품입니다.조립PC관련는 조립 서비스 입니다. 조립된 본체를 수령 받으실 수 있으며 1년간 하드웨어적 문제에 대해선 무상 출장 A/S 받으실 수 있습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600KF",
+            "가격": "1,588,590원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760 Pro RS D5 에즈윈",
+            "가격": "173,180원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR5-5600 CL46  16GB",
+            "가격": "126,350원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 Ti Trinity OC D6X 12GB",
+            "가격": "1,169,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS 1TB",
+            "가격": "127,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK360 MESH RGB 강화유리 블랙",
+            "가격": "44,610원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "Antec NeoECO 850W 80PLUS GOLD 풀모듈러",
+            "가격": "186,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z06D",
+            "가격": "56,910원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3597990원",
+    "CPU": "인텔 코어i5-13세대 13600KF (랩터레이크) (정품)",
+    "Motherboard": "ASRock B760 Pro RS D5 에즈윈",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 Ti Trinity OC D6X 12GB",
+    "SSD": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)",
+    "Memory": "마이크론 Crucial DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "Antec NeoECO 850W 80PLUS GOLD 풀모듈러",
+    "CPU Cooler": "PentaWave Z06D (BLACK)",
+    "cpu_score": 194,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 31768
+}

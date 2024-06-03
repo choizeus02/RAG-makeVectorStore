@@ -1,0 +1,66 @@
+{
+    "quote_number": "1296",
+    "quote_title": "13600K + RTX 4070 Ti",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "코어i5-13600KF + RTX 4070 Ti 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "지금 가격대 기반이라면 그냥 전부다 신품을 기준으로 DDR5 구성하시는게 좋을 듯 합니다.13600K 같은 경우에 DDR4, DDR5 동시 사용은 가능하나성능자체가 차이가 좀 있는 부분입니다.다만 지금 가격대라면 7600에 32기가 셋팅이 될 듯 합니다.그래픽카드는 이엠텍 조텍 갤럭시 이노3디 기준이 AS상 좋을 듯 하고4070 ti 에서는 이엠텍 GamingPro, 조텍 트리니티, 갤럭시 ST 정도가 무난 한 선택지이고파워는 750~850w 정도보시면 될텐데극한의 가성비로 하실꺼라면 G800 Goldhttps://quasarzone.com/bbs/qn_partner/views/1296760이런 RTX 4천번대 전용 케이블 써가면서 하실꺼라면SF 750 / 850 Leadex 혹은 안텍 NeoECO 정도 추천드립니다.13600K 구성시에는공냉 대장급이 필요 할 듯 하고보통의 경우 메인보드에서 지원하는 언더볼팅을 통해서전력다운 시킨 이후에 발열을 잡아주게 되는데https://quasarzone.com/bbs/qc_qsz/views/1478175?page=9#p3가장 저렴하면서 AS도 무난한건ASRock B760M PG Ripitde 에즈윈 부터 구성하면 160w정도까지 쓸 수 있기에 게임용에서는 크게 문제는 없을 겁니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600KF (랩터레이크) (정품)상세보기[메인보드]ASRock B760M PG Riptide D5 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 Ti EAGLE OC V2 D6X 12GB 피씨디렉트상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]DARKFLASH DF2100 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)상세보기[CPU쿨러]DEEPCOOL AG620상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 인텔 하이앤드 게이밍 CPU의 시작!\n4070 ti 이상은 13600K부터!메인보드는 ASRock의 실수!\nB660 같은 가격보다 더 좋은 전원부!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!SSD는 이천 특산물! SK 하이닉스!\nPCIe 3.0의 끝판왕!케이스는 DLX21과 똑같은 확장성!\n하지만 조금더 가성비!CPU쿨러는 5만원대 언더의 가성비 공냉쿨러!\n하지만 성능은 끝판왕 공냉쿨러!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600KF",
+            "가격": "1,588,590원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG Riptide D5 에즈윈",
+            "가격": "167,350원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 Ti EAGLE OC V2 D6X 12GB 피씨디렉트",
+            "가격": "1,099,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DF2100 MESH RGB 강화유리 블랙",
+            "가격": "81,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK",
+            "가격": "154,407원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DEEPCOOL AG620",
+            "가격": "36,680원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3395027원",
+    "CPU": "인텔 코어i5-13세대 13600KF (랩터레이크) (정품)",
+    "Motherboard": "ASRock B760M PG Riptide D5 에즈윈",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 Ti EAGLE OC V2 D6X 12GB 피씨디렉트",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)",
+    "CPU Cooler": "DEEPCOOL AG620",
+    "cpu_score": 194,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 31768
+}

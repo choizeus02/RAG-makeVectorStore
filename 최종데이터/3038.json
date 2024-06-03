@@ -1,0 +1,60 @@
+{
+    "quote_number": "3038",
+    "quote_title": "AMD 라이젠5-5세대 7500F",
+    "date_create": "2024.2.16",
+    "cpu_gpu_combinations": "라이젠5 7500F +  조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 7600과 성능 차이는 크지 않지만 가격 차이는 제법 있어서 가성비가 더 좋은 7500F로 변경2. 메인보드는 기판까지 화이트 색상에 튼튼한 전원부까지 적용되어 있어서 제대로 된 화이트 감성을 느낄 수 있는 GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트 강추하구요.3. 메모리는 화이트 컨셉의 1티어 튜닝 램인 TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))으로 변경4. SSD는 5년 무상AS의 갓성비 젠4 제품인 MSI SPATIUM M480 PRO M.2 NVMe (1TB)로 변경읽기속도 : 7,400(MB/s) / 쓰기속도 : 6,800(MB/s)로 최고 수준의 성능이면서 DDR4 1GB 용량의 디램 버퍼 메모리가 적용되어 있습니다.5. 케이스는 최근에 출시된 파노라마 뷰 어항디자인 제품의 가성비 끝판왕이라고 할 수 있는 몬스타 가츠 X620A 리버스 (미들타워)로 변경튜닝을 해치지 않는 리버스 팬 3개와 정방향 팬 1개를 기본 장착하고 C타입 포트까지 적용되어 있어서 C타입 포트가 없는 아쿠아리움 대비 메리트가 아주 큰 제품입니다.6. 파워는 그래픽카드의 정확한 스펙이 없어서 대부분의 제품을 커버할 수 있는 화이트 색상의 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 변경7. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (화이트)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (벌크)상세보기[메인보드]GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))상세보기[SSD]MSI SPATIUM M480 PRO M.2 NVMe (1TB)상세보기[케이스]몬스타 가츠 X620A 리버스 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기케이스는 흔히 어항케이스라고 불리우는 디자인이 적용된 X620A 리버스입니다. CPU쿨러 최대호환가능높이 165mm, 그래픽카드 최대호환가능길이 430mm 제원을 가졌으며 ATX 사이즈 메인보드까지 호환가능한 미들타워 제품입니다. 측면 120mm 기본팬 3개, 후면 120mm 기본팬 1개 총 4개를 제공하며 ARGB를 지원하여 메인보드 제조사 프로그램을 통해 색상 조정이 가능합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린) 32GB",
+            "가격": "164,400원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "MSI SPATIUM M480 PRO M.2 NVMe 1TB",
+            "가격": "135,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X620A 리버스 화이트",
+            "가격": "64,840원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,500원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1097880원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (벌크)",
+    "Motherboard": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
+    "SSD": "MSI SPATIUM M480 PRO M.2 NVMe (1TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (화이트)",
+    "cpu_score": 355,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": null
+}

@@ -1,0 +1,66 @@
+{
+    "quote_number": "5197",
+    "quote_title": "추천 게이밍 PC! 7800X3D + RTX 4070 Ti Super",
+    "date_create": "2024.4.9",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 1. 3D캐시 적용 CPU로 최저 프레임 방어에 유리2. DLSS 3 지원 게임에서 더 높은 게이밍 성능# QHD게이밍# UHD게이밍# X3D",
+    "quote_person_introduction": "안녕하세요!팝콘피씨 파트너스 견적맨 팝콘맨 입니다.다수의 조립 경험으로 최적의 호환성과알맞은 용도 / 가격대의 견적을 추천 드리겠습니다.",
+    "quote_feedback": "QHD 추천 게이밍 컴퓨터입니다.7800X3D와 RTX 4070 Ti SUPER로 구성되어 QHD 해상도에서도 뛰어난 퍼포먼스를 보여줍니다.CPU는 3D캐시가 적용되어 게임 최저 프레임 방어에 뛰어난 성능을 발휘합니다.특히 로스트아크, 메이플스토리 같은 다양한 리소스가 많은 MMORPG에서 뛰어난 프레임 방어 성능을 보여줍니다.그래픽카드는 엔비디아의 RTX 4070 Ti SUPER로,DLSS 3를 지원하여 프레임 보간 등을 통한 퍼포먼스 개선을 지원합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]마이크론 Crucial DDR5-5600 CL46 PRO 패키지 (32GB(16Gx2))상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 Ti SUPER WINDFORCE OC D6X 16GB 피씨디렉트상세보기[SSD]ADATA LEGEND 960 M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DRX70 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 750W 80PLUS GOLD 230V EU 풀모듈러12VHPWR 케이블 제공상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 게이밍 CPU 중 준 종결 제품이라 할 수 있습니다.\n8코어 16쓰레드 구성에 3D캐시가 적용되어 게임 성능, 특히 최저 프레임 방어에서 뛰어난 성능을 보여줍니다.메인보드는 메인보드는 최근 에즈락 메인보드의 가성비는 매우 뛰어납니다. 가격대비 높은 전원부 구성과 준수한 확장성을 보여주고 있고 유통사에 따라 뛰어난 A/S도 지니고 있어 메리트는 충분합니다.메모리는 마이크론의 PRO 패키지 메모리 입니다.\nJEDEC 기준 메모리가 총 2개 구성된 제품으로 동일 주차로 구매 가능하여\n메모리 오버클럭을 하는 경우 좀 더 좋은 수율을 기대할 수 있습니다.그래픽카드는 무난한 제품 성능과 저렴한 가격대를 가지고 있어 가성비 좋게 구성 가능합니다.SSD는 ADATA의 무난한 가성비 SSD, 레전드 960입니다.\n적당한 가격과 품질을 가져 가성비로 구성하기 좋습니다.케이스는 다크플래쉬의 새로운 미들타워형 케이스 입니다.\n뛰어난 공랭 쿨러 호환성과 최대 355mm 그래픽카드 지원으로 준수한 확장성을 가지고 있습니다.파워서플라이는 마이크로닉스 750W 파워입니다.\n12VHPWR 케이블을 기본 제공하며, 보증기간 10년에 새 제품 무상 교환 서비스를 제공합니다.CPU쿨러는 써멀라이트의 가성비 트윈 타워형 쿨러입니다.조립PC관련는 매장에서 조립 후 제품이 출고되며 구매일로부터 1년간 하드웨어적 문제에 대해 무상 방문 출장 A/S를 지원합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "529,210원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "214,870원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR5-5600 CL46 PRO 패키지) 32GB",
+            "가격": "264,520원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 Ti SUPER WINDFORCE OC D6X 16GB 피씨디렉트",
+            "가격": "1,257,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "ADATA LEGEND 960 M.2 NVMe 1TB",
+            "가격": "124,650원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DRX70 MESH RGB 강화유리 블랙",
+            "가격": "46,030원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 750W 80PLUS GOLD 230V EU 풀모듈러12VHPWR 케이블 제공",
+            "가격": "132,490원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2606710원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 Ti SUPER WINDFORCE OC D6X 16GB 피씨디렉트",
+    "SSD": "ADATA LEGEND 960 M.2 NVMe (1TB)",
+    "Memory": "마이크론 Crucial DDR5-5600 CL46 PRO 패키지 (32GB(16Gx2))",
+    "Power Supply": "마이크로닉스 Classic II 750W 80PLUS GOLD 230V EU 풀모듈러12VHPWR 케이블 제공",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

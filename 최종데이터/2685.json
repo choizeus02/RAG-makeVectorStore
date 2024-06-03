@@ -1,0 +1,76 @@
+{
+    "quote_number": "2685",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4090",
+    "date_create": "2024.2.8",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4090# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 그래픽카드는 4090 중에서는 가격적인 메리트가 가장 높은 편이면서 상위 제품군이기도 한 GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 피씨디렉트로 변경2. SSD는 젠4 규격의 끝판왕급 제품인 마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB) 2개로 변경3. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 1050W 고용량에 골드보다 상위인 플래티넘 인증 고효율 제품인 마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)로 변경4. CPU쿨러는 RC1800 ARGB에서 쿨링 팬을 성능이 더 좋고 소음은 더 줄인 3RSYS Socoool RC 1800 Quiet ARGB (BLACK)으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]MSI PRO X670-P WiFi상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 피씨디렉트상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB) x 2 개상세보기[케이스]Fractal Design Torrent TG Light Tint 강화유리 블랙 (미들타워)상세보기[파워서플라이]마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]be quiet SILENT WINGS 3 서린 (140mm)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI PRO X670-P WiFi",
+            "가격": "438,000원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 피씨디렉트",
+            "가격": "2,913,810원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 x 2 개 2TB",
+            "가격": "217,000원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "Fractal Design Torrent TG Light Tint 강화유리 블랙",
+            "가격": "219,680원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0",
+            "가격": "205,500원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "30,650원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,670원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "be quiet SILENT WINGS 3 서린",
+            "가격": "31,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5095220원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "MSI PRO X670-P WiFi",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 Gaming OC D6X 24GB 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (2TB) x 2 개",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 38694
+}

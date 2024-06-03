@@ -1,0 +1,76 @@
+{
+    "quote_number": "3522",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4090",
+    "date_create": "2024.2.27",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4090# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 이엠텍 지포스 RTX 4090 GAMEROCK OC D6X 24GB은 유통업체가 많지 않아서 견적왕의 최대 메리트인 견적비교가 되지 않습니다.성능 차이를 체감할 수 없는 동일 제품군 이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB로 변경2. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 1050W 고용량에 골드보다 상위인 플래티넘 인증 고효율 제품인 마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)로 변경3. CPU쿨러는 싱글타워 제품으로는 7800X3D의 온도를 제어하기가 어렵습니다.대장급 성능의 듀얼타워 공랭쿨러로 가격적인 메리트가 아주 높은 PentaWave S06D LE ARGB로 변경4. 많은 팬을 추가했기 때문에 5V ARGB & PWM 허브를 추가해서 손쉽게 연결할 수 있도록 했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock X670E 스틸레전드 대원씨티에스상세보기[메모리]G.SKILL DDR5-6000 CL32 TRIDENT Z5 NEO RGB J 패키지 (64GB(32Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB상세보기[SSD]삼성전자 990 PRO M.2 NVMe (4TB)상세보기[케이스]리안리 PC-O11D XL LOL 영혼의 꽃 아리 에디션 (빅타워)상세보기[파워서플라이]마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]발키리 X12 ARGB (BLACK) x 10 개상세보기[쿨러.튜닝.조명.액세서리]IHTP MH-009 ARGB 8-BIT HUB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,290원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock X670E 스틸레전드 대원씨티에스",
+            "가격": "442,630원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL32 TRIDENT Z5 NEO RGB J 패키지) 64GB",
+            "가격": "338,539원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+            "가격": "2,874,550원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 990 PRO M.2 NVMe 4TB",
+            "가격": "536,070원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "리안리 PC-O11D XL LOL 영혼의 꽃 아리 에디션",
+            "가격": "338,539원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0",
+            "가격": "205,470원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "33,370원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "160,650원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "IHTP MH-009 ARGB 8-BIT HUB",
+            "가격": "13,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5462108원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock X670E 스틸레전드 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+    "SSD": "삼성전자 990 PRO M.2 NVMe (4TB)",
+    "Memory": "G.SKILL DDR5-6000 CL32 TRIDENT Z5 NEO RGB J 패키지 (64GB(32Gx2))",
+    "Power Supply": "마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 225,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 38694
+}

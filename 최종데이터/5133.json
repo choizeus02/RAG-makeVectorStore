@@ -1,0 +1,66 @@
+{
+    "quote_number": "5133",
+    "quote_title": "인텔 코어i9-14세대 14900K  + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.4.7",
+    "cpu_gpu_combinations": "코어i9-14900K + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 인텔 코어i9-14세대 14900K  + 지포스 RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. SSD인 P31은 NVMe 규격 중에서 속도가 가장 느린 젠3 제품입니다.젠3 보다 2배 더 빠른 젠4 제품 중 끝판왕급 성능인 마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)으로 변경2. 구성하신 잘만 P30은 미니타워라 현재 구성한 시스템과 조립 호환이 되지 않습니다.P30과 동일한 디자인에 미들타워면서 압도적인 비주얼의 어항케이스 디자인에 월등한 가성비와 하단부 타공망까지 적용되어 있는 몬스타 가츠 X520LA 화이트 (미들타워)로 변경3. CPU쿨러는 최상위 성능군에서도 탑티어 제품이면서 압도적인 가성비까지 제공하는 사실상 360mm 3열 수냉쿨러의 끝판왕이라고 할 수 있는 잘만 Alpha II A36 (WHITE)로 구성발키리 GL360과 비교시 40dB(A) 고정시에는 잘만이 약간 우위이고 풀RPM에서는 발키리가 약간 우위입니다. 모두 1도 차이가 나지 않는 0.5도 내외의 차이인지라 동일 성능이라고 보면 되는데 소음에서도 잘만이 더 낮은 편이고 가격은 훨씬 더 낮아서 종합적으로는잘만 Alpha II A36 (WHITE)가 훨씬 더 좋은 제품이라고 보면 되겠습니다.https://quasarzone.com/bbs/qc_qsz/views/1657751수냉쿨러 벤치 자료입니다. 아래쪽으로 내리면 성능관련 도표가 나오는데 확인하시면 되겠습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity OC D6X 16GB White상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]잘만 Alpha II A36 (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기메모리는 6000클럭 튜닝램 제품 가운데 CL타이밍 값이 30으로 낮은편인 ADATA사의 LANCER RGB 화이트 튜닝램입니다. 라이프워런티정책으로 A/S정책이 좋으며 16GB 2장 총 32GB 패키지입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "781,100원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "379,300원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "327,840원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity OC D6X 16GB White",
+            "가격": "1,270,590원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 1TB",
+            "가격": "126,800원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "61,940원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,430원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3203350원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity OC D6X 16GB White",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)",
+    "Memory": "ADATA XPG DDR5-6000 CL30 LANCER RGB 화이트 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "잘만 Alpha II A36 (WHITE)",
+    "cpu_score": 56,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 31768
+}

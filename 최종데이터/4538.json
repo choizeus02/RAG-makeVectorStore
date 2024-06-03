@@ -1,0 +1,59 @@
+{
+    "quote_number": "4538",
+    "quote_title": "2024년 04월 PC 월간 견적 - 가성비 QHD 게이밍 (인텔 + RX 7900GRE)",
+    "date_create": "2024.3.21",
+    "cpu_gpu_combinations": "코어i5-13400F + RX 7900 GRE 조합",
+    "quotation_summary": " 2024년 04월 PC 월간 견적 - 가성비 QHD 게이밍 (인텔 + RX 7900GRE)# 가성비 QHD 게이밍# QHD 가성비 게이밍# 배그 QHD 국민옵션# 팰월드 QHD 가성비# 헬다이버즈 2 QHD 가성비# 스팀 게임 가성비 QHD# 철권 8 풀옵션",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "2024년 04월 PC 월간 견적 - 가성비 QHD 게이밍 (인텔 + RX 7900GRE)",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13400F (랩터레이크) (정품)상세보기[메인보드]ASRock B760M Pro-A 대원씨티에스상세보기[그래픽카드]SAPPHIRE 라데온 RX 7900 GRE PULSE D6 16GB상세보기[케이스]DAVEN APEX Black (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]DARKFLASH Ellsworth S21 (블랙)상세보기[이벤트특가][SSD + RAM] 마이크론 Crucial T500 1TB + Crucial DDR5-5600 (32GB(16Gx2)) 패키지 대원씨티에스상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 인텔 13세대 i5 CPU!\nE코어가 추가된 가성비 멀티 성능 CPU!메인보드는 13500 , 14500까지 넉넉하게 커버 가능한 전원부!\n가성비 좋은 DDR5 B760 메인보드!그래픽카드는 RTX 4070 SUPER 보다 기본 성능이 더 좋다!\n라데온 전문 벤더 사파이어! 이엠텍 유통!케이스는 350mm까지 글카 호환!\n전면 C타입 지원!파워서플라이는 AS 10년! 고주파 AS 대응!\nATX 3.0 정식 지원!CPU쿨러는 AG400보다 좋은\n갓갓갓성비 공냉쿨러!이벤트특가는 견적왕에서만 하는 특별한 이벤트!\n안정성 좋은 메모리와 1티어 SSD의 만남!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13400F",
+            "가격": "251,810원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M Pro-A 대원씨티에스",
+            "가격": "226,230원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "SAPPHIRE 라데온 RX 7900 GRE PULSE D6 16GB",
+            "가격": "784,990원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN APEX Black",
+            "가격": "46,650원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21",
+            "가격": "26,900원",
+            "수량": "1"
+        },
+        "SSD + RAM": {
+            "제품명": "마이크론 Crucial T500 1TB + Crucial DDR5-5600 패키지 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1590480원",
+    "CPU": "인텔 코어i5-13세대 13400F (랩터레이크) (정품)",
+    "Motherboard": "ASRock B760M Pro-A 대원씨티에스",
+    "Graphic Card": "SAPPHIRE 라데온 RX 7900 GRE PULSE D6 16GB",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 (블랙)",
+    "cpu_score": 399,
+    "gpu_score": 6,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 25232,
+    "gpu_benchmarkscore": 30951
+}

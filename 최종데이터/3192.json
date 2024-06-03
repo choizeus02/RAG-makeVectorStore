@@ -1,0 +1,91 @@
+{
+    "quote_number": "3192",
+    "quote_title": "코어i5-14세대 14600K + 지포스 RTX 3060",
+    "date_create": "2024.2.20",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 3060 조합",
+    "quotation_summary": " 코어i5-14세대 14600K + 지포스 RTX 3060# 사무",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 14세대가 모두 출시된 상황이라 13세대는 메리트가 없습니다. 14600KF 벌크로 변경인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다.2. 그래픽카드는 1티어 AS에 가격적인 메리트도 높은 이엠텍 지포스 RTX 3060 MIRACLE V2 D6 12GB로 변경3. 작업에 있어서 가장 크게 체감되는 부품이 SSD입니다. 구성하신 P31은 NVMe 규격 중에서 가장 느린 젠3 제품입니다.젠3보다 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경4. HDD는 PMR방식의 원천 기술을 가지고 있는 도시바의 P300 1TB로 변경5. 케이스는 강화유리처럼 파손 위험없는 풀아크릴 스윙도어 패널에 6개의 기본 팬을 장착하고 LED OFF 기능까지 적용된 보급형 끝판왕급인 3RSYS R240 블랙 (미들타워)로 변경6. 파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 700W로 변경7. CPU쿨러는 대장급 성능의 듀얼타워 공랭쿨러 중 압도적인 가성비를 제공하는 Thermalright Peerless Assassin 120 SE 서린으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600K (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 맥스 WIFI상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 3060 MIRACLE V2 D6 12GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[데스크탑 HDD]Toshiba 1TB P300 HDWD110 (SATA3/7200/64M)상세보기[케이스]3RSYS R240 블랙 (미들타워)상세보기[파워서플라이]topower Guardian TOP-700DG 80PLUS BRONZE상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[모니터]에이메카 270LEDPM 광시야각 리얼 100 HDR 무결점상세보기[키보드]앱코 HACKER K640 축교환 레인보우 LED 게이밍 기계식 블랙 (적축)상세보기[마우스]로지텍코리아 G304 LIGHTSPEED 무선 (정품) (블랙)상세보기[마우스패드]앱코 APAD 생활방수 장패드상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "파워서플라이는  7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급 파워",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600K",
+            "가격": "436,800원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 맥스 WIFI",
+            "가격": "217,920원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,490원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 3060 MIRACLE V2 D6 12GB",
+            "가격": "399,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,110원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 1TB P300 HDWD110",
+            "가격": "74,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS R240 블랙",
+            "가격": "38,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-700DG 80PLUS BRONZE",
+            "가격": "75,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "38,500원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "에이메카 270LEDPM 광시야각 리얼 100 HDR 무결점",
+            "가격": "125,940원",
+            "수량": "1"
+        },
+        "키보드": {
+            "제품명": "앱코 HACKER K640 축교환 레인보우 LED 게이밍 기계식 블랙",
+            "가격": "38,590원",
+            "수량": "1"
+        },
+        "마우스": {
+            "제품명": "로지텍코리아 G304 LIGHTSPEED 무선",
+            "가격": "51,670원",
+            "수량": "1"
+        },
+        "마우스패드": {
+            "제품명": "앱코 APAD 생활방수 장패드",
+            "가격": "3,900원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1729910원",
+    "CPU": "코어i5-14세대 14600K (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 맥스 WIFI",
+    "Graphic Card": "이엠텍 지포스 RTX 3060 MIRACLE V2 D6 12GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-700DG 80PLUS BRONZE",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 181,
+    "gpu_score": 47,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 20545
+}

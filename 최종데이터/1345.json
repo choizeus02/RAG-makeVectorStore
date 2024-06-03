@@ -1,0 +1,66 @@
+{
+    "quote_number": "1345",
+    "quote_title": "7800X3D + RTX 4080 + QHD 게이밍 + AS 준수",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4080 SUPER 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "https://quasarzone.com/bbs/qf_hwjoin/views/1772614SG 가격이라면 차라리 최상위인 AMP AIRO가 낫다고 봅니다 ^^AS가 모난 것도 아니구요~볼베어링 이슈가 있기는 하나그냥 처음부터 10~20% 정도로 작동 시켜서 강제로 활용하면 문제는 없는 부분이고간혹 영상으로 100% 풀로드까지 강제로 돌게 시켜놓고 옆판 다 열고 바로 앞에서 찍는 것들이 있는데그렇게 하면 어떤 그래픽카드던 다 소음 그렇게 나옵니다~전원부 구성도 좋고 발열 자체도 낮은지라 굳이 그정도까지 팬속 강제로 안해도 충분히 발열 잡을 수 있습니다 ^^라파엘 기준 6400mhz는 은근 잘 안들어 갑니다 ㅠㅠ가능하면 그냥 6000에 CL32짜리 동일 모델 제품으로 보시는걸 추천드립니다.(라파엘 CPU의 메모리 오버클럭 스윗스팟은 6000mhz입니다)",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[메모리]OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity D6X 16GB Black상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DNX700 MESH RGB 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)상세보기[CPU쿨러]3RSYS Socoool RC1800 ARGB (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 7950x3D를 제외하면\n이걸 따라올 게이밍 CPU는 없다!메인보드는 14+2+1 전원부!\n가격은 25만원! 가성비 of 가성비!메모리는 고수율 하이닉스 A다이 언락!\n블레이드 감성의 메모리!그래픽카드는 조텍만의 특별한 3+2 AS!\n4080 SUPER 기준 가성비 갓갓!케이스는 새로나온 가성비 케이스!\n강판 좋고! 쿨링 좋고! 감성 좋고!파워서플라이는 PCie 5.0 기반 구성!\n리뉴얼된 리덱스! 믿음의 슈퍼플라워!CPU쿨러는 현존 공냉 끝판왕!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "147,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지)하이닉스 A다이 언락 제품! 32GB",
+            "가격": "194,120원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity D6X 16GB Black",
+            "가격": "1,514,700원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DNX700 MESH RGB 블랙",
+            "가격": "66,440원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE",
+            "가격": "159,408원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1800 ARGB",
+            "가격": "34,420원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2809978원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity D6X 16GB Black",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지 (32GB(16Gx2))하이닉스 A다이 언락 제품!",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD WHITE (PCIE 5)",
+    "CPU Cooler": "3RSYS Socoool RC1800 ARGB (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 34625
+}

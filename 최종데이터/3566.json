@@ -1,0 +1,71 @@
+{
+    "quote_number": "3566",
+    "quote_title": "14700K + RTX 4060 (워크스테이션 + FHD 게이밍)",
+    "date_create": "2024.2.28",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 4060 조합",
+    "quotation_summary": " 14700K + RTX 4060 (워크스테이션 + FHD 게이밍)# 14700K + RTX 4060 (워크스테이션 + FHD 게이밍)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14700K + RTX 4060 (워크스테이션 + FHD 게이밍)",
+    "computer_estimate_data": "[CPU]인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (32GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4060 2X OC V2 D6 8GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Seagate 6TB BarraCuda ST6000DM003 (SATA3/5400/256M)상세보기[케이스]앱코 SUITMASTER M2000 NOVA ARGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5상세보기[CPU쿨러]발키리 GL360 ARGB (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 이전 세대 대비 4코어가 늘어난  8+12코어 16+12스레드의 i7입니다.메인보드는 16+1+2페이즈 1440A(90A)의 뛰어난 전원부로 14세대도 문제 없는 강력한 보드입니다.그래픽카드는 AS 1티어 업체인 갤럭시의 RTX 4060SSD는 PCIE4.0 대역폭 상급 SSD케이스는 PWM 조절 가능한 스마트 쿨링팬과 상단 3열 수냉 장착 가능한 뛰어난 가성비의 케이스입니다.\n그래픽카드 지지대도 지원합니다.파워서플라이는 브론즈 효율에 PCIE5 규격으로 가격대도 저렴한 가성비 좋은 마이크로닉스 파워입니다.CPU쿨러는 360 규격 수냉 중 최상급 수냉입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-14세대 14700K",
+            "가격": "576,050원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,720원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  32GB",
+            "가격": "119,450원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4060 2X OC V2 D6 8GB",
+            "가격": "443,980원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,490원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Seagate 6TB BarraCuda ST6000DM003",
+            "가격": "174,160원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "앱코 SUITMASTER M2000 NOVA ARGB 강화유리 블랙",
+            "가격": "79,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5",
+            "가격": "65,980원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2306683원",
+    "CPU": "인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4060 2X OC V2 D6 8GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (32GB) x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5",
+    "CPU Cooler": "발키리 GL360 ARGB (BLACK)",
+    "cpu_score": 98,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 22891
+}

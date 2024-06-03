@@ -1,0 +1,66 @@
+{
+    "quote_number": "2714",
+    "quote_title": "코어i5-14세대 14600KF + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.2.9",
+    "cpu_gpu_combinations": "코어i5-14600KF + RTX 4070 SUPER 조합",
+    "quotation_summary": " 코어i5-14세대 14600KF + 지포스 RTX 4070 SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 완벽한 수준의 화이트 컨셉으로 추천드리겠습니다.2. CPU는 14코어 20스레드로 사용목적에 가장 어울리는 14600KF 벌크로 변경14세대가 모두 출시가 된 상황에서 13세대로 구성하는 것은 추천을 하기가 애매하죠.3. 메인보드는 기판까지 화이트로 제대로 된 화이트 감성을 느낄 수 있는 GIGABYTE B760M AORUS ELITE X AX 피씨디렉트로 변경4. 메모리는 컨셉과 가장 잘 어울리는 화이트 LED 튜닝 램인 TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))로 변경5. 현 시점  가성비 끝판왕은 4070 SUPER입니다. 4070 일반 제품 대비 15% 이상 성능이 더 좋으면서 가격은 크게 차이가 나지 않습니다. 4070Ti와도 7% 내외의 차이로 가성비는 압도를 하는 수준이라 1티어 AS에 화이트 색상인 이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB로 변경6. 케이스는 파노라마뷰 어항케이스 중에서는 디자인이 가장 좋은 편에 속하면서 고성능 저소음 시스템 팬을 기본 장착한 3RSYS S315 Quiet 리버스 화이트 (미니타워)로 변경7. 4070 SUPER는 850W까지 파워가 필요하지 않아서 동일 제품 750W로 변경했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600KF (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE B760M AORUS ELITE X AX 피씨디렉트상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS S315 Quiet 리버스 화이트 (미니타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600KF",
+            "가격": "403,570원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B760M AORUS ELITE X AX 피씨디렉트",
+            "가격": "219,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스) 32GB",
+            "가격": "335,600원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB",
+            "가격": "905,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,500원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS S315 Quiet 리버스 화이트",
+            "가격": "76,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,500원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2250500원",
+    "CPU": "코어i5-14세대 14600KF (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE B760M AORUS ELITE X AX 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 SUPER MIRACLE WHITE D6X 12GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 아인스 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (화이트)",
+    "cpu_score": 181,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 31768
+}

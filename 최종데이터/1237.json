@@ -1,0 +1,66 @@
+{
+    "quote_number": "1237",
+    "quote_title": "화이트 감성 QHD 로스트아크 풀옵션, 디아블로4 풀옵션, 배틀그라운드 풀옵션 게이밍 PC(7600, RTX 4070 TI)",
+    "date_create": "2023.12.26",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 Ti 조합",
+    "quotation_summary": " 1. 화이트 감성을 원하시는 분2. 가성비를 중요하시는 분3. FHD 풀옵이나 QHD 에서 쾌적한 고사양 게임을 원하시는 분# 화이트# FHD# QHD# 스팀 고사양# 로스트아크# 스타# 엘든링# 호그와트# 에이펙스# 오버워치# 롤# 리그오브레전드# 배그# 배틀그라운드",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 견적맨으로 활동하고 있는 coke-bear 입니다.퀘이사존에서 주로 활동하며 그 외 커뮤니티에서도 간간히 활동하고 있습니다.하드웨어에 관심이 많아 제품을 직접 사용해보기도 하고 주변 지인들 PC 견적부터 조립도 해주다보니PC 구매를 어려워하거나 용도에 맞지 않게 구매하여 불필요한 지출을 하는 경우를 보게 되었습니다.그런 분들께 조금이라도 도움이 되고자 PC 구매자분들께 합리적인 구매를 할 수 있게 견적맨으로 활동하게 되었습니다.",
+    "quote_feedback": "FHD와 QHD 해상도를 아우를 수 있는 4070 TI 그래픽카드 기반의 게이밍 PC 입니다.7600 CPU를 구성하여 가성비가 좋으며 4070 TI 와 병목 현상도 없어 그래픽카드의 성능을 100% 활용하여 QHD 해상도까지 쾌적하게 고사양 게임을 즐기실 수 있습니다.전체적으로 화이트 감성의 부품으로 구성하였으며 메모리의 경우 AMD 시스템에서 스윗스팟인 6000~6400 클럭에 준하는 6000 클럭 EXPO 지원 메모리로 구성하여 프레임을 좀 더 끌어올릴 수 있게 구성하였습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock A620M Pro RS 에즈윈상세보기[메모리]G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 Ti EX GAMER WHITE OC V2 D6X 12GB상세보기[SSD]마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)상세보기[케이스]DARKFLASH DK360 MESH RGB 강화유리 화이트 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 850W 80PLUS GOLD 230V EU 풀모듈러 화이트12VHPWR 케이블 제공상세보기[CPU쿨러]DARKFLASH Ellsworth S21 ARGB (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 6코어 12스레드의 라이젠 7000번대 라파엘 제품 중 가장 가성비 라인업 제품입니다.메인보드는 보드 유통사 중 AS 1티어의 에즈윈의 620 메인보드 입니다. Dr.Mos 전원부를 가지고 있어 성능이 매우 좋습니다.메모리는 지스킬의 6000 클럭 화이트 제품입니다.그래픽카드는 AS 3대장 중 하나인 갤럭시의 4070 TI 화이트 제품입니다.SSD는 pcie4.0 제품이며 가격대는 pcie3.0 의 p31 보다 저렴한 제품입니다.케이스는 비슷한 가격대 타사 제품들과 비교해보아도 준수한 강판 두께와 충분한 호환성으로 가격 대비 높은 만족도를 주는 케이스입니다.파워서플라이는 750W 골드 등급 이상부터 새제품 교환 정책을 가진 마이크로닉스의 850W 골드 등급 화이트 제품입니다. 12핀 그래픽카드 케이블을 무상 제공하고 있습니다.CPU쿨러는 가성비가 좋고 AM5 소켓 호환이 가능한 다크플래쉬의 S21 ARGB 화이트 제품입니다. 쿨링 성능은 팔라딘이나 RC410 과 동급이면서 가격은 소폭 저렴합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "239,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock A620M Pro RS 에즈윈",
+            "가격": "182,900원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지) 32GB",
+            "가격": "196,990원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 Ti EX GAMER WHITE OC V2 D6X 12GB",
+            "가격": "1,198,400원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS 1TB",
+            "가격": "127,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK360 MESH RGB 강화유리 화이트",
+            "가격": "51,030원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 850W 80PLUS GOLD 230V EU 풀모듈러 화이트12VHPWR 케이블 제공",
+            "가격": "167,340원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21 ARGB",
+            "가격": "27,120원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2190720원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock A620M Pro RS 에즈윈",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 Ti EX GAMER WHITE OC V2 D6X 12GB",
+    "SSD": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)",
+    "Memory": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))",
+    "Power Supply": "마이크로닉스 Classic II 850W 80PLUS GOLD 230V EU 풀모듈러 화이트12VHPWR 케이블 제공",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 ARGB (화이트)",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

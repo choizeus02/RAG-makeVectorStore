@@ -1,0 +1,71 @@
+{
+    "quote_number": "4163",
+    "quote_title": "AMD 라이젠5-4세대 5600 + 라데온 RX 6800",
+    "date_create": "2024.3.11",
+    "cpu_gpu_combinations": "라이젠5 5600 + RX 6800 조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600 + 라데온 RX 6800# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 요즘은 케이스의 C타입 포트가 있으면 활용하기가 아주 좋죠. 없어도 상관없다면 메인보드는 그대로 유지하면 되고 와이파이&블루투스까지 사용할 수 있고 C타입도 지원하는 제품으로 변경해서 다양하게 활용하면 좋을 것 같아서 MSI B550M PRO-VDH WIFI로 추천드립니다.2. 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)의 경우 일선 판매점에서도 가장 우선 순위로 추천하는 가성비 제품입니다. SSD의 특성상 초기 불량이 아니라면 고장날 일도 잘 없죠. 그리고 유명 IT 컴퓨터 판매 유튜버인 신성조님이 라방을 통해서 최근 1년간 1000개 이상을 판매했는데 불량이 1개인가 2개 나왔다고 불량률이 거의 없는 제품이라고 언급을 했었습니다. 걱정없이 사용해도 되는 제품이라 자주 추천을 하고 있구요.3. 케이스는 P30과 동일한 디자인에 더 좋은 시스템 팬을 장착하고 가격은 더 저렴해서 가성비가 월등히 좋은 3RSYS S315 Quiet 리버스 블랙 (미니타워)로 변경해봤습니다.4. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]MSI B550M PRO-VDH WIFI상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개상세보기[그래픽카드]XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS S315 Quiet 리버스 블랙 (미니타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX700 80PLUS STANDARD상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 현재 게임 가성비가 가장 좋은 CPU그래픽카드는 RTX 4070 바로 아랫 등급!\nRTX 4060 Ti보다 월등히 좋지만 더 좋은 가성비 제품!CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI B550M PRO-VDH WIFI",
+            "가격": "138,560원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  16GB",
+            "가격": "31,990원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB",
+            "가격": "507,420원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS S315 Quiet 리버스 블랙",
+            "가격": "74,250원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX700 80PLUS STANDARD",
+            "가격": "43,500원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,340원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1331720원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "MSI B550M PRO-VDH WIFI",
+    "Graphic Card": "XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX700 80PLUS STANDARD",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 504,
+    "gpu_score": 25,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 25024
+}

@@ -1,0 +1,66 @@
+{
+    "quote_number": "1965",
+    "quote_title": "14600K 작업 기본구성",
+    "date_create": "2024.4.1",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 4070 조합",
+    "quotation_summary": " 1) 가성비를 챙긴 14600K 작업용 구성2) 수냉으로 발열 걱정도 X# 인텔 14600K로 작업용 컴퓨터 구성을 희망하시는 분",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "영상작업을 겸한다면 퀵싱크를 활용할 수 있는 기본기 탄탄한 구성입니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14600K (랩터레이크 리프레시) (정품)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 TWIN EDGE OC D6X 12GB상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]DAVEN AQUARIUM 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 13600K와 큰 차이는 없다하지만 가격도 큰 차이 없으니 신형을 사는것이...!메인보드는 기존 B760M 박격포 리비전메모리는 검증된 가성비 DDR5 5600클럭 제품그래픽카드는 RTX 3080을 대체하는 RTX 4070 입니다.\n큰 차이점이라면 정격 600W 파워로 사용이 가능하다는거죠.SSD는 성능, 가격 현재로써는 최선입니다.케이스는 상단 3열도 가능하고 그래픽카드도 415mm까지 가능하고 외형까지도 멋진 물건파워서플라이는 저렴한 가격에 AS는 탑티어CPU쿨러는 가성비 정말 좋은 3열 수냉",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14600K",
+            "가격": "436,800원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "199,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  16GB",
+            "가격": "64,700원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 TWIN EDGE OC D6X 12GB",
+            "가격": "874,950원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN AQUARIUM 블랙",
+            "가격": "56,970원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,710원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2036210원",
+    "CPU": "인텔 코어i5-14세대 14600K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 TWIN EDGE OC D6X 12GB",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 181,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 31768
+}

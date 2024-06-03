@@ -1,0 +1,76 @@
+{
+    "quote_number": "4672",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 라데온 RX 6800",
+    "date_create": "2024.3.25",
+    "cpu_gpu_combinations": "라이젠5 7500F + RX 6800 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 라데온 RX 6800# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 4가지 구성을 적절히 섞고 가성비가 월등히 좋은 부품들을 추가해서 조금 수정을 해 드리겠습니다.2. CPU와 메인보드는 7500F와 ASRock B650M PG Lightning 에즈윈으로 유지3. 메모리의 경우 삼성과 마이크론 램은 최근 대규모의 불량 이슈가 났던 터라 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2개 32기가로 변경4. 그래픽카드는이전 세대 하이엔드급 성능인 3070 Ti 보다도 깡성능이 더 높은 넘사벽 갓성비 제품이라고 할 수 있는 XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB로 변경AFMF 설정시 4070 TI 이상의 프레임도 기대할 수 있는 메리트가 아주 높은 제품입니다.https://youtu.be/K2Hg-CM6U6A그래픽카드 가성비 비교표 3월 ( SUPER 포함, 3050 6G, 7900GRE 포함) - 신성조 <- 그래픽카드 선택에 도움이 될 영상 링크해드립니다. 시청하시면 도움이 아주 많이 될 겁니다.5. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 구성했고, 저렴한 방열판도 하나 추가했습니다.6. 케이스는 최근까지도 5만원 중후반대에 판매중이다가 최근 3만원 중반대로 가격을 대폭 인하했고 VGA 장착을 최대 371mm까지 지원해서 장착호환성도 최고 수준인 갓성비 제품 3RSYS J700 RGB BLACK (미들타워)로 변경7.  파워는 6년 무상AS에 무려 9종에 달하는 보호회로를 적용하여 안정성에 몰빵을 하고서도 가격은 아주 착한 수준으로 출시가 되었고 현재 출시 이벤트로 가격을 더 인하해서 판매 중이라 갓성비 중에서도 갓성비라고 할 수 있는 몬스타 가츠 ExtremeX FX800 80PLUS STANDARD로 변경8. CPU쿨러는 싱글타워 끝판왕급 성능에 케이스와도 잘 어울리고 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 PentaWave Z04E SRB ARGB로  변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS J700 RGB BLACK (미들타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX800 80PLUS STANDARD상세보기[CPU쿨러]PentaWave Z04E SRB ARGB상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]케이엘시스템 KLcom M.2 2280 방열판 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!그래픽카드는 RTX 4070 바로 아랫 등급!\nRTX 4060 Ti보다 월등히 좋지만 더 좋은 가성비 제품!쿨러.튜닝.조명.액세서리는 높은 NVMe SSD의 온도를 제어해 줄 가성비 좋은 SSD 방열판",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "203,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,090원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,500원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB",
+            "가격": "507,430원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,990원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS J700 RGB BLACK",
+            "가격": "39,100원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX800 80PLUS STANDARD",
+            "가격": "49,600원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z04E SRB ARGB",
+            "가격": "20,230원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,470원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "케이엘시스템 KLcom M.2 2280 방열판",
+            "가격": "1,260원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1383070원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX800 80PLUS STANDARD",
+    "CPU Cooler": "PentaWave Z04E SRB ARGB",
+    "cpu_score": 355,
+    "gpu_score": 25,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 25024
+}

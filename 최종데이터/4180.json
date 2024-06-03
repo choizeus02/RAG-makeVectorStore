@@ -1,0 +1,71 @@
+{
+    "quote_number": "4180",
+    "quote_title": "인텔 코어i9-14세대 14900KF + 지포스 RTX 4080 SUPER",
+    "date_create": "2024.3.12",
+    "cpu_gpu_combinations": "코어i9-14900KF + RTX 4080 SUPER 조합",
+    "quotation_summary": " 인텔 코어i9-14세대 14900KF + 지포스 RTX 4080 SUPER# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 최고 수준의 작업 성능을 보여주는 14900KF로 구성2. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부가 적용되어 있어서 14900KF와 조합하여 안정적으로 사용할 수 있는 MSI MAG Z790 토마호크 맥스 WIFI로 구성3. 메모리는 48GB램 2개 세트로 구성된 CORSAIR DDR5-6000 CL30 Dominator Titanium BLACK 패키지 (64GB(32Gx2))로 구성4. 그래픽카드는 1티어 AS중에서도 최상위면서 가격적인 메리트도 있는 이엠텍 지포스 RTX 4080 SUPER BLACK STORM OC D6X 16GB로 구성5. SSD는 젠4 규격의 끝판왕급 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 구성6. 케이스는 가격대비 미친 퀄리티라고 할 수 있는 420mm 라디에이터 장착을 지원하는 빅타워인 마이크로닉스 ML-420 BTF 블랙 (빅타워)로 구성7. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 1050W의 고용량에 플래티넘 인증 고효율 제품인 마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)로 구성8. CPU쿨러는 수냉쿨러 끝판왕인 420mm 라디에이터 제품인 Phanteks GLACIER ONE 420 D30 (BLACK)으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900KF (랩터레이크 리프레시) (정품)상세보기[메인보드]MSI MAG Z790 토마호크 맥스 WIFI상세보기[메모리]CORSAIR DDR5-6000 CL30 Dominator Titanium BLACK 패키지 (64GB(32Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4080 SUPER BLACK STORM OC D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]마이크로닉스 ML-420 BTF 블랙 (빅타워)상세보기[파워서플라이]마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)상세보기[CPU쿨러]Phanteks GLACIER ONE 420 D30 (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900KF",
+            "가격": "783,710원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG Z790 토마호크 맥스 WIFI",
+            "가격": "405,410원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "CORSAIR DDR5-6000 CL30 Dominator Titanium BLACK 패키지) 64GB",
+            "가격": "477,060원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4080 SUPER BLACK STORM OC D6X 16GB",
+            "가격": "1,568,340원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 블랙",
+            "가격": "131,970원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0",
+            "가격": "211,940원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Phanteks GLACIER ONE 420 D30",
+            "가격": "283,540원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4262680원",
+    "CPU": "인텔 코어i9-14세대 14900KF (랩터레이크 리프레시) (정품)",
+    "Motherboard": "MSI MAG Z790 토마호크 맥스 WIFI",
+    "Graphic Card": "이엠텍 지포스 RTX 4080 SUPER BLACK STORM OC D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "CORSAIR DDR5-6000 CL30 Dominator Titanium BLACK 패키지 (64GB(32Gx2))",
+    "Power Supply": "마이크로닉스 COOLMAX P-1050W 80PLUS PLATINUM ATX 3.0 (PCIE5)",
+    "CPU Cooler": "Phanteks GLACIER ONE 420 D30 (BLACK)",
+    "cpu_score": 56,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 34625
+}

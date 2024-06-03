@@ -1,0 +1,91 @@
+{
+    "quote_number": "2310",
+    "quote_title": "코어i7-14700K + nVIDIA RTX 4070 SUPER 조합",
+    "date_create": "2024.1.30",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 4070 SUPER 조합",
+    "quotation_summary": " 코어i7-14700K + nVIDIA RTX 4070 SUPER 조합# 작업",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 현 시점 가성비가 가장 좋은 그래픽카드는 4070 SUPER입니다.보통 그래픽카드에서 1%의 성능을 올리기 위해서 들어가는 기회비용을 만원 정도로 봅니다. 4070 SUPER와 4070 TI의 성능 차이는 평균 7% 내외로 4070 Ti가 가성비가 좋기 위해서는 7만원 이내의 가격 차이를 보여야 하는데 지금처럼 20만원 이상 차이가 나버리면 비교하는 것 자체가 무의미 해 지게 됩니다. 새롭게 출시된 그래픽카드 중에서 진정한 승자가 4070 SUPER로 평가받는 것이 이상하지 않죠.1티어 AS에 가격적인 메리트도 높은 갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB로 변경2. 구성하신 케이스는 현재 품절 직전이라 유통하는 업체가 한 곳 뿐인데 이 케이스를 선택하게 되면 다른 부품 선택에 제약이 생기게 됩니다. 고성능 저소음 리버스 팬 3개와 정방향 팬 1개를 기본 장착하고 어항케이스 중에서는 가성비가 좋은 편인 3RSYS S406 Quiet 리버스 블랙 (미들타워)로 변경3. 파워는 4000번대 16핀 전용 커넥터가 적용된 그래픽카드의 경우는 12VHPWR 케이블을 지원하는 제품으로 구성하는 것이 보다 안정적으로 사용할 수가 있습니다. 실버 인증에 12VHPWR 케이블이 적용된 마이크로닉스 COOLMAX FOCUS II 900W ETA SILVER PCIE5로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]3RSYS S406 Quiet 리버스 블랙 (미들타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 900W ETA SILVER PCIE5상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]MSI 프로 MP241X 아이케어 무결점상세보기[모니터]필립스 275S1 IPS QHD 멀티스탠드 시력보호 무결점상세보기[마우스패드]앱코 APAD 생활방수 장패드상세보기[케이블/LAN.데이터.전원.전선]D[10005]UTP 랜케이블,CAT.5E DIRECT 5M-Grey상세보기[케이블/AV(영상.음성)통합관련](대원티엠티) DW-HDMI-10M HDMI 1.4 케이블 10m /케이블류상세보기[케이블/AV(영상.음성)통합관련]POWERLAN PL022 PL-DP14-010S DP1.4 고급형 메탈 케이블 1m상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-14세대 14700K",
+            "가격": "579,080원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "124,800원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "989,600원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS S406 Quiet 리버스 블랙",
+            "가격": "81,200원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 900W ETA SILVER PCIE5",
+            "가격": "91,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,680원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,700원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "필립스 275S1 IPS QHD 멀티스탠드 시력보호 무결점",
+            "가격": "259,000원",
+            "수량": "1"
+        },
+        "마우스패드": {
+            "제품명": "앱코 APAD 생활방수 장패드",
+            "가격": "3,900원",
+            "수량": "1"
+        },
+        "10005": {
+            "제품명": "UTP 랜케이블,CAT.5E DIRECT 5M-Grey",
+            "가격": "900원",
+            "수량": "1"
+        },
+        "케이블/AV(영상.음성)통합관련": {
+            "제품명": "POWERLAN PL022 PL-DP14-010S DP1.4 고급형 메탈 케이블 1m",
+            "가격": "5,700원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2859860원",
+    "CPU": "인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 900W ETA SILVER PCIE5",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 98,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 31768
+}

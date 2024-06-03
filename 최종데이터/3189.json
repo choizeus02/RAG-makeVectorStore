@@ -1,0 +1,66 @@
+{
+    "quote_number": "3189",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.2.20",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. SSD는 5년 무상AS의 갓성비 젠4 제품인 MSI SPATIUM M480 PRO M.2 NVMe (2TB)로 변경읽기속도 : 7,400(MB/s) / 쓰기속도 : 7,000(MB/s)로 최고 수준의 성능이면서 DDR4 2GB 용량의 디램 버퍼 메모리가 적용되어 있습니다.2. 7800X3D는 전성비가 아주 좋은 CPU인지라 공랭쿨러와 수냉쿨러 사이의 온도 차이가 크지 않은 제품입니다. 케이스가 화이트 계열의 제품이라 호환 리스트에 있는 수냉쿨러 중 Thermalright FROZEN MAGIC 240 ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS ROG STRIX B650E-I GAMING WIFI STCOM상세보기[메모리]ESSENCORE KLEVV DDR5-6000 CL30 BOLT V 패키지 서린 (32GB(16Gx2))상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[SSD]MSI SPATIUM M480 PRO M.2 NVMe (2TB)상세보기[케이스]리안리 A4-H20 Silver (미니ITX)상세보기[파워서플라이]커세어 CORSAIR SF750 80 PLUS Platinum상세보기[CPU쿨러]Thermalright FROZEN MAGIC 240 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,390원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ROG STRIX B650E-I GAMING WIFI STCOM",
+            "가격": "443,220원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-6000 CL30 BOLT V 패키지 서린) 32GB",
+            "가격": "167,990원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,189,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "MSI SPATIUM M480 PRO M.2 NVMe 2TB",
+            "가격": "233,190원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "리안리 A4-H20 Silver",
+            "가격": "253,380원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "커세어 CORSAIR SF750 80 PLUS Platinum",
+            "가격": "245,690원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright FROZEN MAGIC 240 ARGB",
+            "가격": "93,040원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3145700원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS ROG STRIX B650E-I GAMING WIFI STCOM",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "SSD": "MSI SPATIUM M480 PRO M.2 NVMe (2TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-6000 CL30 BOLT V 패키지 서린 (32GB(16Gx2))",
+    "Power Supply": "커세어 CORSAIR SF750 80 PLUS Platinum",
+    "CPU Cooler": "Thermalright FROZEN MAGIC 240 ARGB (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

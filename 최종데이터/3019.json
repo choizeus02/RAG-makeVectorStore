@@ -1,0 +1,66 @@
+{
+    "quote_number": "3019",
+    "quote_title": "인텔 코어i5-14세대 14600KF + 포스 RTX 4060 Ti",
+    "date_create": "2024.2.15",
+    "cpu_gpu_combinations": "코어i5-14600KF + RTX 4060 Ti 조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14600KF + 포스 RTX 4060 Ti# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. i7은 온도가 높아서 전원부가 튼튼한 Z790 칩셋과 3열 수냉쿨러를 강제합니다. 14세대가 다  출시가 된 상황이라 12세대는 추천을 하기가 어렵죠.금액대 내에서는 14600KF가 가장 적합합니다.2. 메인보드는 900A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 B760 칩셋의 끝판왕인 MSI MAG B760M 박격포로 변경3. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 32기가 2개 64기가로 변경4. 그래픽카드는 1티어 AS에 화이트 컨셉 제품인 이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB로 변경5. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경6. 케이스는 파노라마 뷰 어항디자인 중에서는 디자인도 좋고 압도적인 가성비를 자랑하는 공랭쿨러 한정 최고의 제품이라고 할 수 있는 몬스타 가츠 X520LA 화이트 (미니타워)로 변경7. 4060 Ti는 최대 전력 소모량이 3060 보다도 낮은 160W 수준이라 파워 효율의 영향이 크지는 않습니다.파워는 7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 700W 화이트로 변경8. 파워는 대장급 성능의 듀얼 타워 공랭쿨러에 소음은 아주 낮은 3RSYS Socoool RC 1800 Quiet ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14600KF (랩터레이크 리프레시) (정품)상세보기[메인보드]MSI MAG B760M 박격포상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14600KF",
+            "가격": "403,570원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포",
+            "가격": "199,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  32GB",
+            "가격": "115,810원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+            "가격": "580,590원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,110원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "61,940원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "72,590원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "30,650원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1682050원",
+    "CPU": "인텔 코어i5-14세대 14600KF (랩터레이크 리프레시) (정품)",
+    "Motherboard": "MSI MAG B760M 박격포",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (32GB) x 2 개",
+    "Power Supply": "topower Guardian TOP-700DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (WHITE)",
+    "cpu_score": 181,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 22891
+}

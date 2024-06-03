@@ -1,0 +1,60 @@
+{
+    "quote_number": "3061",
+    "quote_title": "라이젠 8600G 사무용",
+    "date_create": "2024.2.16",
+    "cpu_gpu_combinations": "라이젠5 8600G +  조합",
+    "quotation_summary": " 라이젠 8600G 사무용# 라이젠 8600G 사무용",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "라이젠 8600G 사무용",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 8600G (피닉스) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]EDDY M0 미니 블랙 (미니타워)상세보기[파워서플라이]쿨러마스터 MWE 500 BRONZE V2 230V상세보기[CPU쿨러]3RSYS Socoool RC150 RGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 12+2+1페이즈 최대 600A(50A)의 준수한 전원부의 라이젠 보드입니다메모리는 갓서린에서 유통하는 팀그룹 DDR5 5600 클럭 메모리입니다.SSD는 삼성 980 프로 OEM 제품으로 가성비가 좋습니다.파워서플라이는 가성비 좋은 쿨러마스터의 500W 브론즈 효율 파워입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 8600G",
+            "가격": "265,670원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "207,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,110원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "EDDY M0 미니 블랙",
+            "가격": "17,320원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 500 BRONZE V2 230V",
+            "가격": "44,870원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC150 RGB",
+            "가격": "16,820원",
+            "수량": "1"
+        }
+    },
+    "total_price": "782210원",
+    "CPU": "AMD 라이젠5-5세대 8600G (피닉스) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 500 BRONZE V2 230V",
+    "CPU Cooler": "3RSYS Socoool RC150 RGB",
+    "cpu_score": 381,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": null,
+    "gpu_benchmarkscore": null
+}

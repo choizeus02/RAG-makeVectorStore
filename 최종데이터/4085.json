@@ -1,0 +1,71 @@
+{
+    "quote_number": "4085",
+    "quote_title": "7960X + RTX 4090 (딥러닝, 머신러닝)",
+    "date_create": "2024.3.10",
+    "cpu_gpu_combinations": "라이젠 스레드리퍼 7960X (스톰 픽) + RTX 4090 조합",
+    "quotation_summary": " 7960X + RTX 4090 (딥러닝, 머신러닝)# 7960X + RTX 4090 (딥러닝# 머신러닝)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7960X + RTX 4090 (딥러닝, 머신러닝)",
+    "computer_estimate_data": "[CPU]AMD 라이젠 스레드리퍼 7960X (스톰 픽) (정품)상세보기[메인보드]GIGABYTE TRX50 AERO D 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 4 개상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]NEWZEN SKULL 1000XM ATX 3.0 80PLUS GOLD PCIE5상세보기[CPU쿨러]ARCTIC Freezer 4U-M상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "그래픽카드는 화이트 제품은 아니지만 감성과 성능, AS까지 모두 잡은 그래픽카드입니다.SSD는 PCIE4.0 대역폭 상급 SSD케이스는 상단 3열 수냉 장착 가능한 가성비 좋은 케이스입니다.파워서플라이는 퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책도 동일하고 가격대도 합라적이라 가성비 좋게 구성하시기 좋습니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠 스레드리퍼 7960X",
+            "가격": "2,329,300원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE TRX50 AERO D 피씨디렉트",
+            "가격": "1,033,450원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE x 4 개 32GB",
+            "가격": "121,560원",
+            "수량": "4"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+            "가격": "2,874,550원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 1000XM ATX 3.0 80PLUS GOLD PCIE5",
+            "가격": "194,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "ARCTIC Freezer 4U-M",
+            "가격": "83,060원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        }
+    },
+    "total_price": "7459600원",
+    "CPU": "AMD 라이젠 스레드리퍼 7960X (스톰 픽) (정품)",
+    "Motherboard": "GIGABYTE TRX50 AERO D 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 4 개",
+    "Power Supply": "NEWZEN SKULL 1000XM ATX 3.0 80PLUS GOLD PCIE5",
+    "CPU Cooler": "ARCTIC Freezer 4U-M",
+    "cpu_score": 24,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 83028,
+    "gpu_benchmarkscore": 38694
+}

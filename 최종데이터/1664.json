@@ -1,0 +1,65 @@
+{
+    "quote_number": "1664",
+    "quote_title": "7900 + RTX 3060 + 다중 앱플레이어 + 리니지 다계정 + 다클라 게임",
+    "date_create": "2023.11.20",
+    "cpu_gpu_combinations": "코어i7-14700K +  조합",
+    "quotation_summary": " # 다계정 게임# 앱플레이어# 모바일 게임# 다계정",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "5900x 가격이면 그냥 7900에 A620 넣고 PBO 안쓰는 방식이면 기본적으로 팔라딘 400만 넣어도 될 겁니다차라리 그게 낫지 않을까요?DDR5 32기가 2장 넣구요",
+    "computer_estimate_data": "[CPU]인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품)상세보기[메인보드]NZXT N7 Z790 Matte White상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (2TB)상세보기[케이스]NZXT H9 Flow Matte White (미들타워)상세보기[케이스]NZXT Internal USB Hub Gen 3상세보기[파워서플라이]SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)상세보기[CPU쿨러]NZXT KRAKEN 360 RGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]NZXT F120 RGB CORE White (3PACK/Controller)상세보기[쿨러.튜닝.조명.액세서리]NZXT F120 RGB CORE White (1PACK) x 4 개상세보기[쿨러.튜닝.조명.액세서리]NZXT RGB & Fan Controller V2상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i7-14세대 14700K",
+            "가격": "579,120원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "NZXT N7 Z790 Matte White",
+            "가격": "436,040원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  32GB",
+            "가격": "116,210원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 2TB",
+            "가격": "289,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "NZXT Internal USB Hub Gen 3",
+            "가격": "500,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0",
+            "가격": "225,408원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NZXT KRAKEN 360 RGB",
+            "가격": "303,050원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "NZXT RGB & Fan Controller V2",
+            "가격": "303,050원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2868088원",
+    "CPU": "인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "NZXT N7 Z790 Matte White",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14XG LEADEX VII GOLD WHITE ATX 3.0 (PCIE5)",
+    "CPU Cooler": "NZXT KRAKEN 360 RGB (WHITE)",
+    "cpu_score": 98,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": null
+}

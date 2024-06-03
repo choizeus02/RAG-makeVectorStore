@@ -1,0 +1,66 @@
+{
+    "quote_number": "3275",
+    "quote_title": "AMD 라이젠5-5세대 7500F +  라데온 RX 7600",
+    "date_create": "2024.2.21",
+    "cpu_gpu_combinations": "라이젠5 7500F + RX 7600 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F +  라데온 RX 7600# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 전원부 히트싱크가 적용되어 있는 ASUS EX B650M-V7 대원씨티에스로 변경비슷한 금액대라면 커브 옵티마이저를 지원하지 않는 하위 칩셋인 A620보다는 상위 칩셋인 B650으로 구성하는 것이 좋습니다.2. 그래픽카드는 7600의 성능이 조금 더 좋으면서 AFMF 기능을 적용하면 4070을 넘어서는 프레임까지 기대할 수 있습니다. 안정성은 6000번대부터는 문제가 발생하지 않는 수준으로 트러블은 없다고 보시면 되구요. 7000번대에는 지포스보다 더 안정적이라고 할 수 있습니다. PowerColor 라데온 RX 7600 Fighter D6 8GB 대원씨티에스로 변경여기서 줄인 금액으로 메모리 용량을 높이면 보다 쾌적한 환경이 되죠.3. 메모리를 동일 제품 16기가 2개 32기가로 높였습니다.4. 파워는 스탠다드보다 상위인 브론즈 인증 600W 제품인 쿨러마스터 MWE 600 BRONZE V2 230V로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS EX B650M-V7 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]PowerColor 라데온 RX 7600 Fighter D6 8GB 대원씨티에스상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]1stPlayer T7-P 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "SSD는 젠3 제품 중에서는 5년 무상AS에 성능도 좋고 가격적인 메리트도 있는 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "201,700원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS EX B650M-V7 대원씨티에스",
+            "가격": "137,680원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,500원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "PowerColor 라데온 RX 7600 Fighter D6 8GB 대원씨티에스",
+            "가격": "335,450원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7-P 블랙",
+            "가격": "39,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1012530원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS EX B650M-V7 대원씨티에스",
+    "Graphic Card": "PowerColor 라데온 RX 7600 Fighter D6 8GB 대원씨티에스",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 355,
+    "gpu_score": 72,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 17905
+}

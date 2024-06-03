@@ -1,0 +1,54 @@
+{
+    "quote_number": "5013",
+    "quote_title": "가성비 사무용",
+    "date_create": "2024.4.3",
+    "cpu_gpu_combinations": "라이젠5 5600G +  조합",
+    "quotation_summary": " 1.가성비 사무용2.롤, 발로란트 등 저사양 게임3.유튜브, 넷플릭스, 영상 시청, 문서작업# 저가 사무용# 유튜브# 넷플릭스# 문서작",
+    "quote_person_introduction": "안녕하세요. 컴킬 공식 파트너 슈퍼파월 입니다.PC 업체에서 다년간 일한 노하우로 가성비와A/S를 최대한 신경 써서 견적 추천드리겠습니다.",
+    "quote_feedback": "사무용으로 사용하거나 가정에서 유튜브, 넷플릭스, 영상 시청, 문서작업또는 롤, 발로란트 등 저사양 게임을 하시는 분들에게 추천드립니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600G (세잔) (멀티팩)상세보기[메인보드]MSI A520M-A PRO상세보기[메모리]마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개상세보기[SSD]마이크론 Crucial P3 대원씨티에스 (500GB)상세보기[케이스]3RSYS R30 블랙 (미니타워)상세보기[파워서플라이]SF-500R12ST MEGA 80PLUS STANDARD 230V EU상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 6코어 12쓰레드에 뛰어난 내장그 래픽을 탑재한 제품으로 롤, 발로란트 등 저사양으로 가능합니다.메인보드는 AM4 지원하는 보드 중에 무난하고 가성비 있는 메인보드이며 HDMI , DVI 포트를 지원하여\n사무용으로 좋습니다.메모리는 가격과 성능 A/S 모든면에서 완벽합니다.SSD는 SSD는 가성비 좋은 SSD. 사무용이나 서브용으로 좋습니다.케이스는 사무용으로 심플한 디자인 입니다.파워서플라이는 고주파 등 A/S 관련하여 교체 서비스가 좋고 내장그래픽카드 구성에 맞는 500W 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600G",
+            "가격": "151,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI A520M-A PRO",
+            "가격": "73,520원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4 8G PC4-25600 CL22",
+            "가격": "21,470원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P3 대원씨티에스 500GB",
+            "가격": "56,430원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS R30 블랙",
+            "가격": "18,200원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SF-500R12ST MEGA 80PLUS STANDARD 230V EU",
+            "가격": "48,880원",
+            "수량": "1"
+        }
+    },
+    "total_price": "391960원",
+    "CPU": "AMD 라이젠5-4세대 5600G (세잔) (멀티팩)",
+    "Motherboard": "MSI A520M-A PRO",
+    "SSD": "마이크론 Crucial P3 대원씨티에스 (500GB)",
+    "Memory": "마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개",
+    "Power Supply": "SF-500R12ST MEGA 80PLUS STANDARD 230V EU",
+    "cpu_score": 504,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": null
+}

@@ -1,0 +1,76 @@
+{
+    "quote_number": "4939",
+    "quote_title": "인텔 코어i5-14세대 14600K + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.4.1",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 4070 SUPER 조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14600K + 지포스 RTX 4070 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2개 32기가로 변경2. 그래픽카드는 화이트 컨셉의 1티어 제품이면서 많은 업체에서 유통 중이라 견적비교가 원활한 편인 GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC ICE D6X 12GB 피씨디렉트로 변경3. 작업에 있어서 체감이 가장 크게 되는 부품중 하나가 SSD입니다. 구성하신 P31은 NVMe 규격 중 속도가 가장 느린 젠3 제품입니다.젠3 보다 2배 더 빠른 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경4. 구성하신 씨게이트 HDD는 SMR방식이라 추천을 하지 않습니다. PMR방식의 Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)로 변경5. 케이스는 ARGB를 지원하는 CPU쿨러로 구성을 한다면 동일한 5V ARGB 시스탬 팬 4개가 기본장착되어 있고 가격차이도 크지 않은 L600의 LED 버전인 L610 Quiet로 변경10개의 팬을 제어할 수 있는 5V ARGB & PWM 허브를 기본으로 제공해서 CPU쿨러와 동기화시켜서 깔맞춤 사용하시면 됩니다.6. CPU쿨러는 동일한 제품군이면서 쿨링팬이 업그레이드 되면서 더 좋은 성능에 더 조용해졌고 최근 가격도 대폭 인하해서 가성비가 월등히 좋아진 3RSYS Socoool RC 1800 Quiet ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14600K (랩터레이크 리프레시) (벌크)상세보기[메인보드]ASUS ROG STRIX B760-G GAMING WIFI 코잇상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC ICE D6X 12GB 피씨디렉트상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)상세보기[케이스]3RSYS L610 Quiet (화이트)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14600K",
+            "가격": "432,370원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ROG STRIX B760-G GAMING WIFI 코잇",
+            "가격": "222,800원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,830원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC ICE D6X 12GB 피씨디렉트",
+            "가격": "994,930원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,900원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/256M",
+            "가격": "158,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L610 Quiet",
+            "가격": "88,300원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "55,000원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,350원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2486140원",
+    "CPU": "인텔 코어i5-14세대 14600K (랩터레이크 리프레시) (벌크)",
+    "Motherboard": "ASUS ROG STRIX B760-G GAMING WIFI 코잇",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC ICE D6X 12GB 피씨디렉트",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (WHITE)",
+    "cpu_score": 181,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 31768
+}

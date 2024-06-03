@@ -1,0 +1,71 @@
+{
+    "quote_number": "2324",
+    "quote_title": "인텔 코어i9-14세대 14900K + 지포스 RTX 4090",
+    "date_create": "2024.1.31",
+    "cpu_gpu_combinations": "코어i9-14900K + RTX 4090 조합",
+    "quotation_summary": " 인텔 코어i9-14세대 14900K + 지포스 RTX 4090# 딥러닝",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 2개의 4090을 장착할 수 있는 레이아웃이 적용되어 있는 상급 제품이라고 할 수 있는 ASRock Z790 Nova WIFI 대원씨티에스로 구성2. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 32기가 2개 64기가로 구성3. 그래픽카드는 1티어 AS 중에서도 최상위면서 가격적인 메리트도 있는 이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB 2개로 구성4. 케이스는 420mm 라디에이터 장착 지원을 하는 가격대비 미친 퀄리티의 빅타워 제품인 마이크로닉스 ML-420 BTF 블랙 (빅타워)로 구성5. 파워는 12VHPWR 케이블 2개를 기본 제공하는 1650W 고용량에 플래티넘 인증 고효율 제품인 HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)로 구성6. CPU쿨러는 현 시점 최상위 성능군인 420mm 라디에이터가 적용되어 있는 Phanteks GLACIER ONE 420 D30 (BLACK)으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900K (랩터레이크 리프레시)(벌크)상세보기[메인보드]ASRock Z790 Nova WIFI 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB x 2 개상세보기[SSD]삼성전자 990 PRO M.2 NVMe (2TB)상세보기[데스크탑 HDD]Western Digital 10TB Ultrastar DC HC330 WUS721010ALE6L4 패키지 (SATA3/7200/256M)상세보기[케이스]마이크로닉스 ML-420 BTF 블랙 (빅타워)상세보기[파워서플라이]HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)상세보기[CPU쿨러]Phanteks GLACIER ONE 420 D30 (BLACK)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900K",
+            "가격": "789,880원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock Z790 Nova WIFI 대원씨티에스",
+            "가격": "504,400원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  32GB",
+            "가격": "115,870원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB x 2 개",
+            "가격": "2,839,000원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 990 PRO M.2 NVMe 2TB",
+            "가격": "278,960원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital 10TB Ultrastar DC HC330 WUS721010ALE6L4 패키지",
+            "가격": "3,040,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 블랙",
+            "가격": "132,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "HYDRO PTM PRO 1650W Platinum ATX3.0",
+            "가격": "555,490원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Phanteks GLACIER ONE 420 D30",
+            "가격": "283,540원",
+            "수량": "1"
+        }
+    },
+    "total_price": "11494010원",
+    "CPU": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시)(벌크)",
+    "Motherboard": "ASRock Z790 Nova WIFI 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB x 2 개",
+    "SSD": "삼성전자 990 PRO M.2 NVMe (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개",
+    "Power Supply": "HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)",
+    "CPU Cooler": "Phanteks GLACIER ONE 420 D30 (BLACK)",
+    "cpu_score": 56,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 38694
+}

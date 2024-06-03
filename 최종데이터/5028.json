@@ -1,0 +1,59 @@
+{
+    "quote_number": "5028",
+    "quote_title": "i5 13400F + RTX 4070 SUPER 게이밍 컴퓨터 견적",
+    "date_create": "2024.4.3",
+    "cpu_gpu_combinations": "코어i5-13400F + RTX 4070 SUPER 조합",
+    "quotation_summary": " i5 13400F / RTX 4070 SUPER / RAM 32GB / SSD 1TB# FHD/QHD 게이밍",
+    "quote_person_introduction": "안녕하세요. 로카프입니다.우리 주변에는 아직 컴퓨터 견적구성을 어떻게 할 지 몰라 고민에 빠지는 분들이 많이 계십니다.성능은 괜찮을까? 고장은 나지 않을까? 가격은 괜찮은건가? 이런 고민들을 한 번쯤은 해보셨을 겁니다.용도에 알맞는 성능과 합리적인 가격, 최우선으로 안정성과 신뢰도 높은 부품들로 구성된 견적을 추천해드리겠습니다.컴퓨터를 처음 알아보시는 분들의 입장에서 생각하고 견적을 구성해드리는 견적맨이 되겠습니다.",
+    "quote_feedback": "게이밍용도의 i5 13400F + RTX 4070 SUPER 조합의 견적 구성 도와드렸습니다.메모리는 16GB 2장 총 32GB 용량 맞춰드렸으며그래픽카드는 QHD 게이밍까지도 고려해볼 수 있는 RTX 4070 SUPER입니다.SSD는 PCIe4.0 상위스펙 1TB 용량 제품이며파워는 12VHPWR 케이블 있는 750W 용량 제품이면 충분하겠습니다.CPU쿨러는 싱글타워공랭쿨러 구성하셔도 됩니다만쿨링성능 좀 더 신경쓰신다면 듀얼타워공랭쿨러 구성도 좋습니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13400F (랩터레이크) (정품)상세보기[메인보드]ASRock B760M Pro-A 대원씨티에스상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 SUPER WINDFORCE OC D6X 12GB 피씨디렉트상세보기[케이스]DAVEN SIX FLOW 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]DARKFLASH Ellsworth D21 (BLACK)상세보기[이벤트특가][SSD + RAM] 마이크론 Crucial T500 1TB + Crucial DDR5-5600 (32GB(16Gx2)) 패키지 대원씨티에스상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 고성능을 발휘하는 P코어 6개 효율성 높은 E코어 4개로 이루어진 빅리틀 구조의 i5 13400F CPU이며 따라서 윈도우11 사용이 권장됩니다. 내장그래픽이 없는 제품이므로 영상편집 시 퀵싱크 기능 활용은 불가능합니다.메인보드는 메인보드는 13400~13500, 14400~14500 CPU와 구성하여 사용하기에 적절하고 전원부방열판과 M.2 SSD 방열판 잘 구성되어있는 제품입니다. M.2 SSD 슬롯이 총 3개 구성되어있어 추후 M.2 SSD 추가도 용이하며 5V ARGB 헤더가 3개인 점도 장점입니다.그래픽카드는 RTX 4070과 RTX 4070 Ti 제품 사이에 위치한 라인업이며 길이 261mm, 두께 50mm의 제원을 가지고 있어 케이스 호환성이 좋은 편입니다. 보조전원 커넥터는 12V-2x6 규격입니다.케이스는 140mm 기본팬 6개를 제공하고 CPU쿨러최대호환가능높이 185mm, 그래픽카드최대호환가능길이 350mm 제원의 DAVEN SIX FLOW입니다. 좌측면 스윙도어 형태이며 LED ON/OFF 스위치가 있어 사용자 취향에 따라 켜고 끌 수 있습니다.파워서플라이는 무상보증10년 고주파증상도 원활한 A/S받을 수 있는 SKULL 제품으로 750W 골드급 ATX3.0 제품입니다. 12VHPWR 커넥터도 지원합니다.CPU쿨러는 듀얼타워공랭쿨러 가운데 뛰어난 쿨링성능과 소음수치가 비교제품군들 가운데 낮은 편으로 정숙성이 훌륭한 D21 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13400F",
+            "가격": "251,630원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M Pro-A 대원씨티에스",
+            "가격": "226,230원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 SUPER WINDFORCE OC D6X 12GB 피씨디렉트",
+            "가격": "918,890원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN SIX FLOW 블랙",
+            "가격": "46,430원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth D21",
+            "가격": "47,200원",
+            "수량": "1"
+        },
+        "SSD + RAM": {
+            "제품명": "마이크론 Crucial T500 1TB + Crucial DDR5-5600 패키지 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1744280원",
+    "CPU": "인텔 코어i5-13세대 13400F (랩터레이크) (정품)",
+    "Motherboard": "ASRock B760M Pro-A 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 SUPER WINDFORCE OC D6X 12GB 피씨디렉트",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "DARKFLASH Ellsworth D21 (BLACK)",
+    "cpu_score": 399,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 25232,
+    "gpu_benchmarkscore": 31768
+}

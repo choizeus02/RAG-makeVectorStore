@@ -1,0 +1,76 @@
+{
+    "quote_number": "4393",
+    "quote_title": "코어i5-14세대 14600KF + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.3.17",
+    "cpu_gpu_combinations": "코어i5-14600KF + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 코어i5-14세대 14600KF + 지포스 RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 14코어 20스레드가 적용되어 있는 게임 성능이 우수한 14600KF 벌크로 구성인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다.2. 메인보드는 튼튼한 전원부와 더불어 기판까지 화이트로 제대로 된 화이트 감성을 느낄 수 있는 GIGABYTE B760M AORUS ELITE X AX 피씨디렉트로 구성3.  메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 구성듀얼타워 공랭쿨러로 구성을 해서 메모리가 보이지 않아서 화이트 감성보다는 안정성과 가성비를 고려했습니다.4. 그래픽카드는 1티어 AS 중에서도 최상위면서 가격적인 메리트도 높은 이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB로 구성5. SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 구성6. 케이스는 최근 가장 핫한 파노라마 뷰 어항 디자인의 제품 중에서는 압도적인 비주얼과 가성비 그리고 C타입 포트와 하단부 타공망 적용으로 쿨링 효율까지 챙긴 끝장 화이트 감성의 몬스타 가츠 X520LA 화이트 (미들타워)로 구성7. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 구성8. CPU쿨러는 최상위 성능군이면서 소음은 가장 낮은 수준이고 케이스와도 아주 잘 어울리는 3RSYS Socoool RC 1800 Quiet ARGB (WHITE)로 구성9. 모니터는 32인치 QHD해상도 165Hz 고주사율 게이밍 제품인 크로스오버 323QH3 GAMING 165 HDR 평면 PLUS 무결점으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600KF (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE B760M AORUS ELITE X AX 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]몬스타 가츠 X520LA 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]크로스오버 323QH3 GAMING 165 HDR 평면 PLUS 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600KF",
+            "가격": "400,040원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B760M AORUS ELITE X AX 피씨디렉트",
+            "가격": "217,200원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB",
+            "가격": "1,178,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 화이트",
+            "가격": "61,940원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "61,500원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 323QH3 GAMING 165 HDR 평면 PLUS 무결점",
+            "가격": "249,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2714640원",
+    "CPU": "코어i5-14세대 14600KF (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE B760M AORUS ELITE X AX 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 Ti SUPER MIRACLE WHITE D6X 16GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (WHITE)",
+    "cpu_score": 181,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 31768
+}

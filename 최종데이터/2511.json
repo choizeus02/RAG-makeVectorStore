@@ -1,0 +1,66 @@
+{
+    "quote_number": "2511",
+    "quote_title": "7950X3D + RTX 4090 최상급 게이밍",
+    "date_create": "2024.2.4",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": " 7950X3D + RTX 4090 최상급 게이밍# 7950X3D + RTX 4090 최상급 게이밍",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7950X3D + RTX 4090 최상급 게이밍",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock X670E Pro RS 에즈윈상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB상세보기[SSD]삼성전자 990 PRO M.2 NVMe (4TB)상세보기[케이스]3RSYS L600 Quiet 화이트 (미들타워)상세보기[파워서플라이]맥스엘리트 MAXWELL DUKE 1000W 80PLUS PLATINUM 풀모듈러 ATX 3.1 (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC-1800 Quiet 솔더링 (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7천번대 최상급 게이밍 + 작업용 CPU입니다.메모리는 믿고 사는 갓 서린의 메모리입니다.그래픽카드는 화이트 제품은 아니지만 감성과 성능, AS까지 모두 잡은 그래픽카드입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "892,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock X670E Pro RS 에즈윈",
+            "가격": "447,260원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  32GB",
+            "가격": "115,830원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+            "가격": "2,874,850원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 990 PRO M.2 NVMe 4TB",
+            "가격": "507,800원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L600 Quiet 화이트",
+            "가격": "87,900원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "맥스엘리트 MAXWELL DUKE 1000W 80PLUS PLATINUM 풀모듈러 ATX 3.1",
+            "가격": "235,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC-1800 Quiet 솔더링",
+            "가격": "64,500원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5341870원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock X670E Pro RS 에즈윈",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+    "SSD": "삼성전자 990 PRO M.2 NVMe (4TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개",
+    "Power Supply": "맥스엘리트 MAXWELL DUKE 1000W 80PLUS PLATINUM 풀모듈러 ATX 3.1 (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC-1800 Quiet 솔더링 (WHITE)",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

@@ -1,0 +1,71 @@
+{
+    "quote_number": "4726",
+    "quote_title": "[라이젠] 화이트 PC 5600+4060",
+    "date_create": "2024.3.26",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 4060 조합",
+    "quotation_summary": " 가성비PC,PC방,FHD,풀옵션,게이밍,5600,RTX 4060,화이트# 가성비PC# PC방# FHD# 풀옵션# 게이밍# 5600# RTX 4060# 화이트",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 Mr.홍금보 입니다.퀘이사존 다년간 좋은 인지도로 굳게 자리 잡았으며,저렴하다고 제품이 다 좋거나 가성비가 좋은건 아닙니다!합리적인 구매를 하실 수 있게 검증된 제품으로만 판매를 하고 구성을 하고 있으며,기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.믿고 맡겨주신다면, 그에 부응하도록 최선을 다할것을 굳게 약속 드리겠습니다!",
+    "quote_feedback": "가성비PC,PC방,FHD,풀옵션,게이밍,5600,RTX 4060,화이트",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]마이크론 Crucial DDR4-3200 CL22 대원씨티에스 (8GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4060 EX WHITE OC D6 8GB상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]DAVEN AQUA 화이트 (미들타워)상세보기[파워서플라이]시소닉 A12 Standard 230V EU SSR-600RA LLC상세보기[CPU쿨러]DARKFLASH Ellsworth S21 ARGB (화이트)상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTKM01 화이트 데스크탑용 메모리 램카드 방열판 x 2 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 100만원 이하 게이밍 PC 구성이 가능한 이유! 최고의 가성비 CPU메인보드는 DP, HDMI 사용가능한 메인보드!SSD는 안정성, 가격 가성비 SSD!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "144,380원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "83,990원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4-3200 CL22 대원씨티에스  8GB",
+            "가격": "21,500원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4060 EX WHITE OC D6 8GB",
+            "가격": "502,310원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN AQUA 화이트",
+            "가격": "30,950원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "시소닉 A12 Standard 230V EU SSR-600RA LLC",
+            "가격": "75,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21 ARGB",
+            "가격": "26,900원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTKM01 화이트 데스크탑용 메모리 램카드 방열판 x 2 개",
+            "가격": "6,300원",
+            "수량": "2"
+        }
+    },
+    "total_price": "998130원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4060 EX WHITE OC D6 8GB",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "마이크론 Crucial DDR4-3200 CL22 대원씨티에스 (8GB) x 2 개",
+    "Power Supply": "시소닉 A12 Standard 230V EU SSR-600RA LLC",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 ARGB (화이트)",
+    "cpu_score": 504,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 22891
+}

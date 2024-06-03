@@ -1,0 +1,66 @@
+{
+    "quote_number": "3764",
+    "quote_title": "인텔 코어i5-14세대 14600K + 지포스 RTX 4060 Ti",
+    "date_create": "2024.3.4",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 4060 Ti 조합",
+    "quotation_summary": " 인텔 코어i5-14세대 14600K + 지포스 RTX 4060 Ti# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 14세대까지 출시가 끝난 상황이고 가격차이도 없어서 14600K로 변경2. 메모리는 16기가 1개가 아니라 16기가 2개로 구성해야 성능이 제대로 나옵니다.라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경3. SSD는 최근에 출시된 젠4 규격의 끝판왕급 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)로 변경4. 파워는 정격 600W에 스탠다드보다 상위인 브론즈 인증 제품 중에서는 최상위 퀄리티면서 최근 7만원 중후반 대에서 5만원 초반 대로 가격을 대폭 인하하여 갓성비가 된 (마이크로닉스) New Performance 600W 80Plus Bronze Change-up으로 변경5. CPU쿨러는 대장급 성능의 듀얼타워 공랭 쿨러 중에서는 월등한 가성비를 자랑하는 PentaWave S06D LE ARGB로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-14세대 14600K (랩터레이크 리프레시) (정품)상세보기[메인보드]MSI MAG B760M 박격포 맥스 WIFI상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]잘만 i4 TG 블랙 (미들타워)상세보기[파워서플라이](마이크로닉스) New Performance 600W 80Plus Bronze Change-up /파워상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-14세대 14600K",
+            "가격": "433,200원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 맥스 WIFI",
+            "가격": "217,840원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+            "가격": "531,230원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "잘만 i4 TG 블랙",
+            "가격": "46,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "New Performance 600W 80Plus Bronze Change-up /파워",
+            "가격": "70,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "33,370원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1587100원",
+    "CPU": "인텔 코어i5-14세대 14600K (랩터레이크 리프레시) (정품)",
+    "Motherboard": "MSI MAG B760M 박격포 맥스 WIFI",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "(마이크로닉스) New Performance 600W 80Plus Bronze Change-up /파워",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 181,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 22891
+}

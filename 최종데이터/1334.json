@@ -1,0 +1,71 @@
+{
+    "quote_number": "1334",
+    "quote_title": "7600 + RTX 4070 Ti + 가성비",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 Ti 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "컴알못 견적 한번만 봐주시면 감사하겠습니다!! > PC조립/견적 | 퀘이사존 QUASARZONE삼성렘 이슈가 좀 있다보니그냥 5600mhz 마이크론 쪽으로 구성하는게 가격차이 거의 없고 성능은 소폭 더 좋을 겁니다.SSD의 경우 저 가격이라면 PCie 4.0 기반인 p5 plus로 하거나아니면 동급에서는 970 evo plus가 더 저렴합니다 ^^HDD의 경우 SMR 작동 방식이 안정성이 떨어지다보니PMR 혹은 CMR 로 구성하시는게 좋을 듯 합니다.2TB급 용량이라면 토시바 P300 7200RPM 64MB 제품이 대체품으로 가성비 좋을 듯 합니다~나머진 크게 문제 없을 듯 합니다.쿨러 같은 경우에도 가성비로 하실꺼라면 S21이나 팔라딘 400 정도만 사용해도 발열은 충분히 잡을 수 있습니다~G사 4070 ti의 경우 상위 모델부터 발열이나 소음이 상당한 편입니다.가성비 모델로 구성하실꺼라면이엠텍 GamingPro, 갤럭시 ST, 조텍 Trinity 추천드립니다 ^^",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning 에즈윈상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 Ti BLACK STORM D6X 12GB상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]아이구주 PRAY 30 PLUS (미들타워)상세보기[파워서플라이]쿨러마스터 G800 GOLD상세보기[CPU쿨러]잘만 CNPS9X PERFORMA RGB (SILVER)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 새로나온 가성비 CPU!\n동급 인텔대비 월등한 게이밍 성능!메인보드는 6페이즈 Dr.mos 300A 전원부!\n7800x3d까지 넉넉하게 커버!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!SSD는 이천 특산물! SK 하이닉스!\nPCIe 3.0의 끝판왕!데스크탑 HDD는 유일한 가성비 PMR!파워서플라이는 RX 6800은 750w 이상!\n가성비로 본다면 쿨러마스터 G800CPU쿨러는 가성비 좋고 성능 좋고!\n3만원 미만에서의 갓성비 모델!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "239,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning 에즈윈",
+            "가격": "156,020원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 Ti BLACK STORM D6X 12GB",
+            "가격": "1,229,220원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "97,260원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "아이구주 PRAY 30 PLUS",
+            "가격": "54,090원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 G800 GOLD",
+            "가격": "89,990원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 CNPS9X PERFORMA RGB",
+            "가격": "33,740원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2168260원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning 에즈윈",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 Ti BLACK STORM D6X 12GB",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "쿨러마스터 G800 GOLD",
+    "CPU Cooler": "잘만 CNPS9X PERFORMA RGB (SILVER)",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

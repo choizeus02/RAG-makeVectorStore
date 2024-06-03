@@ -1,0 +1,71 @@
+{
+    "quote_number": "5209",
+    "quote_title": "코어i7-14세대 14700KF + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.4.10",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 4070 SUPER 조합",
+    "quotation_summary": " 코어i7-14세대 14700KF + 지포스 RTX 4070 SUPER# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 작업용도라면 라이젠보다는 인텔의 성능이 훨씬 더 좋습니다. 20코어 28스레드로 7700X와는 비교하기가 미안할 정도로 높은 작업 성능을 자랑하죠. 14세대 들어오면서 E코어 4개가 추가되면서 i9에도 근접하는 작업 성능을 가지게 되었습니다.인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다. 14700K 벌크로 변경2. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 GIGABYTE Z790 AORUS ELITE X 피씨디렉트로 변경3. 구성하신 메모리는 노트북용이라 호환이 되지도 않고 삼성과 마이크론 램은 대규모 불량이슈도 있었던 제품입니다.메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경4. 그래픽카드는 4070보다 15%이상 성능이 더 좋은 1티어 AS에 2년 추가 RMA포함 총 5년의 무상AS를 제공하고 동일한 제품군에서는 가격적인 메리트도 있는 조택 4070 SUPER로 변경. 고가의 그래픽카드일수록 추가되는 2년의 무상AS는 아주 큰 메리트가 됩니다.5. SSD는 최근에 출시된 젠4 규격의 끝판왕급 성능 제품인 마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)로 변경6. 구성한 케이스는 미니타워고 메인보드는 ATX 규격이라 조립 자체가 불가능합니다. 어항케이스 중 압도적인 비주얼과 가성비를 제공하는 ATX 규격의 몬스타 가츠 X620A 리버스 블랙 (미들타워)로 변경7. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로 변경8. CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 최상위 성능군이면서 가격은 저렴한 압도적인 가성비를 제공하는 잘만 Alpha II A36 (BLACK)으로 변경9. 모니터는 가장 선호되는 IPS패널을 적용한 27인치 QHD 해상도 제품인 크로스오버 27GQ7 IPS QHD 크로스기어 무결점으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700K (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)상세보기[케이스]몬스타 가츠 X620A 리버스 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]잘만 Alpha II A36 (BLACK)상세보기[모니터]크로스오버 27GQ7 IPS QHD 크로스기어 무결점상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기그래픽카드는 RTX 4070과 RTX 4070 Ti 제품 사이에 위치한 라인업이며 길이 234.1mm, 두께 40.2mm의 제원을 가지고 있습니다. 보조전원 커넥터는 12VHPWR 규격이며 구매 후 14일 이내 제품 등록 시 무상 3년 보증에 추가로 2년 확대보증 서비스를 제공하여 오래도록 사용할 수 있습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700K",
+            "가격": "571,760원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,750원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "66,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+            "가격": "912,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 1TB",
+            "가격": "126,800원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X620A 리버스 블랙",
+            "가격": "59,510원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,430원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 27GQ7 IPS QHD 크로스기어 무결점",
+            "가격": "154,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2535880원",
+    "CPU": "코어i7-14세대 14700K (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4070 SUPER TWIN Edge OC D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "잘만 Alpha II A36 (BLACK)",
+    "cpu_score": 98,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 31768
+}

@@ -1,0 +1,86 @@
+{
+    "quote_number": "3929",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 라데온 RX 6800",
+    "date_create": "2024.3.7",
+    "cpu_gpu_combinations": "라이젠5 7500F + RX 6800 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 라데온 RX 6800# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 그래픽카드는 이전 세대 하이엔급 성능인 3070 Ti 보다도 깡성능이 더 높은 넘사벽 갓성비 제품이라고 할 수 있는 XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB로 변경AFMF를 적용한다면 4070 Ti 이상급의 프레임까지도 기대할 수 있을 정도로 메리트가 높은 제품입니다.50만원 내외의 퍼포먼스 라인에 있어서는 ㅗ치고의 선택지라고 보면 되겠습니다.https://youtu.be/K2Hg-CM6U6A그래픽카드 가성비 비교표 3월 ( SUPER 포함, 3050 6G, 7900GRE 포함) - 신성조 <- 참고하시면 좋을 영상 첨부합니다.2. 그래픽카드 길이가 340mm로 제법 긴 편이라 케이스는 371mm까지 장착지원을 하고 최근 6만원 내외의 금액대에서 3만원 중반대로 가격을 대폭 인하하여 갓성비가 된 3RSYS J700 RGB BLACK (미들타워)로 변경3. 파워는 6년 무상AS에 무려 9종에 달하는 보호회로를 적용하여 안정성에 몰빵을 하고서도 가격은 아주 착한 수준으로 출시가 되었고 현재 출시 이벤트로 가격을 더 인하해서 판매 중이라 갓성비 중에서도 갓성비라고 할 수 있는 몬스타 가츠 ExtremeX FX800 80PLUS STANDARD로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS EX B650M-V7 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB상세보기[SSD]삼성전자 PM9A1 M.2 NVMe 벌크 (1TB)상세보기[케이스]3RSYS J700 RGB BLACK (미들타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX800 80PLUS STANDARD상세보기[CPU쿨러]3RSYS Socoool RC350 ARGB (BLACK)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[키보드]스카이디지탈 NKEYBOARD NKEY-2상세보기[마우스]로지텍코리아 G102 LIGHTSYNC 벌크 (블랙)상세보기[쿨러.튜닝.조명.액세서리]케이엘시스템 KLcom M.2 2280 방열판 (SILVER)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "그래픽카드는 RTX 4070 바로 아랫 등급!\nRTX 4060 Ti보다 월등히 좋지만 더 좋은 가성비 제품!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "203,900원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS EX B650M-V7 대원씨티에스",
+            "가격": "137,680원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB",
+            "가격": "507,420원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M.2 NVMe 벌크 1TB",
+            "가격": "103,200원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS J700 RGB BLACK",
+            "가격": "39,100원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX800 80PLUS STANDARD",
+            "가격": "49,850원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 ARGB",
+            "가격": "22,800원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,510원",
+            "수량": "1"
+        },
+        "키보드": {
+            "제품명": "스카이디지탈 NKEYBOARD NKEY-2",
+            "가격": "29,560원",
+            "수량": "1"
+        },
+        "마우스": {
+            "제품명": "로지텍코리아 G102 LIGHTSYNC 벌크",
+            "가격": "19,710원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "케이엘시스템 KLcom M.2 2280 방열판",
+            "가격": "1,260원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1416590원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS EX B650M-V7 대원씨티에스",
+    "Graphic Card": "XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB",
+    "SSD": "삼성전자 PM9A1 M.2 NVMe 벌크 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX800 80PLUS STANDARD",
+    "CPU Cooler": "3RSYS Socoool RC350 ARGB (BLACK)",
+    "cpu_score": 355,
+    "gpu_score": 25,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 25024
+}

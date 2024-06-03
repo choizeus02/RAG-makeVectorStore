@@ -1,0 +1,66 @@
+{
+    "quote_number": "4309",
+    "quote_title": "CAD 포토샵 일러스트 스케치업 렌더링 i5 13500 + RTX 3060 12GB 작업용 컴퓨터 견적",
+    "date_create": "2024.3.25",
+    "cpu_gpu_combinations": "코어i5-13500 + RTX 3060 조합",
+    "quotation_summary": " i5 13500 / RTX 3060 12GB / RAM 32GB / SSD 500GB# 작업용# CAD# 포토샵# 일러스트# 스케치업# 레빗# 렌더링",
+    "quote_person_introduction": "안녕하세요. 로카프입니다.우리 주변에는 아직 컴퓨터 견적구성을 어떻게 할 지 몰라 고민에 빠지는 분들이 많이 계십니다.성능은 괜찮을까? 고장은 나지 않을까? 가격은 괜찮은건가? 이런 고민들을 한 번쯤은 해보셨을 겁니다.용도에 알맞는 성능과 합리적인 가격, 최우선으로 안정성과 신뢰도 높은 부품들로 구성된 견적을 추천해드리겠습니다.컴퓨터를 처음 알아보시는 분들의 입장에서 생각하고 견적을 구성해드리는 견적맨이 되겠습니다.",
+    "quote_feedback": "사용용도 고려해서 i5 13500 + RTX 3060 12GB 조합의 견적 구성 도와드렸습니다.메모리는 16GB 2장 총 32GB 용량 맞춰드렸으며그래픽카드는 VRAM 10GB 이상 제품 중 비교적 금액부담 덜한 편인 RTX 3060 12GB입니다.SSD는 PCIe4.0 규격 준수한 스펙의 500GB 제품이며파워는 600W 용량 제품이면 충분하겠습니다.CPU쿨러는 상급 듀얼타워공랭쿨러로 마무리했습니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13500 (랩터레이크) (정품)상세보기[메인보드]ASRock B760M Pro-A 대원씨티에스상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개상세보기[그래픽카드]MSI 지포스 RTX 3060 벤투스 2X OC D6 12GB상세보기[SSD]마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (500GB)상세보기[케이스]DAVEN D6 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]DARKFLASH SAVEMOST 600W 80PLUS STANDARD상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 고성능을 발휘하는 P코어 6개 효율성 높은 E코어 8개로 이루어진 빅리틀 구조의 CPU인 13500이며 따라서 윈도우11 사용이 권장됩니다. 12400F보다 보다 나은 멀티성능을 보여주며 내장그래픽 탑재 모델로 프리미어 프로 작업 시 퀵싱크 기능을 통해 작업능률 향상을 도모할 수 있습니다.메인보드는 메인보드는 13400~13500, 14400~14500 CPU와 구성하여 사용하기에 적절하고 전원부방열판과 M.2 SSD 방열판 잘 구성되어있는 제품입니다. M.2 SSD 슬롯이 총 3개 구성되어있어 추후 M.2 SSD 추가도 용이하며 5V ARGB 헤더가 3개인 점도 장점입니다.메모리는 라이프워런티정책으로 A/S정책 좋은 ADATA 5600클럭 JEDEC 표준 일반램입니다.그래픽카드는 FHD 게이밍을 무리없이 즐길 수 있으며 VRAM이 12GB인 것이 특징인 RTX 3060입니다. VRAM이 많이 필요하면서 가격부담이 적은 제품을 찾을 때 제격입니다.SSD는 PCIe 4.0을 지원하기때문에 3.0규격 SSD에 비해 월등히 좋은 성능을 보여줌과 동시에 가성비도 좋은 제품입니다.케이스는 기본팬 6개를 제공하며 CPU쿨러 최대 173mm, 그래픽카드 최대 330mm까지 지원가능한 D6 MESH 제품입니다. 케이스 LED 제어 스위치가 있어 사용자의 취향에 맞춰 RGB를 켜고 끌 수 있으며 상단 280mm 수랭쿨러까지 구성가능합니다.파워서플라이는 5년보증 새제품교환3년정책의 비용부담 크지 않은 SAVEMOST 600W 스탠다드 제품입니다.CPU쿨러는 듀얼타워공랭쿨러 가운데 탁월한 쿨링성능과 정숙성을 보여주는 Peerless Assassin 120 SE 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13500",
+            "가격": "1,489,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M Pro-A 대원씨티에스",
+            "가격": "153,190원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  16GB",
+            "가격": "64,970원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 3060 벤투스 2X OC D6 12GB",
+            "가격": "360,720원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS 500GB",
+            "가격": "69,430원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN D6 MESH 강화유리 블랙",
+            "가격": "36,830원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH SAVEMOST 600W 80PLUS STANDARD",
+            "가격": "52,770원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2328830원",
+    "CPU": "인텔 코어i5-13세대 13500 (랩터레이크) (정품)",
+    "Motherboard": "ASRock B760M Pro-A 대원씨티에스",
+    "Graphic Card": "MSI 지포스 RTX 3060 벤투스 2X OC D6 12GB",
+    "SSD": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (500GB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개",
+    "Power Supply": "DARKFLASH SAVEMOST 600W 80PLUS STANDARD",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 257,
+    "gpu_score": 47,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 32035,
+    "gpu_benchmarkscore": 20545
+}

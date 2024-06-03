@@ -1,0 +1,54 @@
+{
+    "quote_number": "1637",
+    "quote_title": "저렴한 사무용PC견적서",
+    "date_create": "2023.6.7",
+    "cpu_gpu_combinations": "라이젠5 5600G +  조합",
+    "quotation_summary": " 1. 본 견적은 가성비 위주로 셋팅한 내장그래픽 제품입니다.2. 간단한 사무 작업 및 저사양 게임 플레이유저를 위한 견적입니다.3. 가성비도 가성비지만 제품 품질과 AS 도 고려하였습니다.# 40만원대사무용PC구매자# 리그오브레전드# 롤# 오버워치2# 사무용",
+    "quote_person_introduction": "세계 최초 견적견 이춘장 입니다...!컴퓨터에 대한 매니악한 지식과 애정을 총동원하여 견적을 마음에 명중시켜드리겠습니다.",
+    "quote_feedback": "간단한 저사양 게임을 하시거나 사무용으로 구매하시기 적당한 제품입니다..!",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600G (세잔) (멀티팩)상세보기[메인보드]GIGABYTE A520M K V2 피씨디렉트상세보기[메모리]삼성전자 DDR4-3200 (8GB) PC4-25600 x 2 개상세보기[SSD]삼성전자 PM9A1 M.2 NVMe 병행수입 (512GB)상세보기[케이스]DARKFLASH DK110 (미들타워)상세보기[파워서플라이]SF-500R12ST MEGA 80PLUS STANDARD 230V EU상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 내장그래픽과 제품성능 둘다 잡은 5600G!메인보드는 가성비와 AS 를 동시에 챙긴 메인보드 입니다.메모리는 DDR4는 아직 삼성..!SSD는 가성비와 2년AS로 마음편하게 사용가능한 제품입니다.케이스는 다크플레쉬 최고의 가성비 케이스파워서플라이는 현시점 탑 티어급 AS 처리..",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600G",
+            "가격": "152,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE A520M K V2 피씨디렉트",
+            "가격": "68,080원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "삼성전자 DDR4-3200 PC4-25600  8GB",
+            "가격": "20,750원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M.2 NVMe 병행수입 512GB",
+            "가격": "68,550원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK110",
+            "가격": "18,560원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SF-500R12ST MEGA 80PLUS STANDARD 230V EU",
+            "가격": "46,466원",
+            "수량": "1"
+        }
+    },
+    "total_price": "395156원",
+    "CPU": "AMD 라이젠5-4세대 5600G (세잔) (멀티팩)",
+    "Motherboard": "GIGABYTE A520M K V2 피씨디렉트",
+    "SSD": "삼성전자 PM9A1 M.2 NVMe 병행수입 (512GB)",
+    "Memory": "삼성전자 DDR4-3200 (8GB) PC4-25600 x 2 개",
+    "Power Supply": "SF-500R12ST MEGA 80PLUS STANDARD 230V EU",
+    "cpu_score": 504,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": null
+}

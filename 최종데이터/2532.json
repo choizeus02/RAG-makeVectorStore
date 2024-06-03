@@ -1,0 +1,91 @@
+{
+    "quote_number": "2532",
+    "quote_title": "14600K + 4060 TI(듀얼모니터 구성)",
+    "date_create": "2024.2.5",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 4060 Ti 조합",
+    "quotation_summary": " 14600K + 4060 TI(듀얼모니터 구성)으로 워크스테이션 및 게임용으로 적합합니다.# 14600K + 4060 TI(듀얼모니터 구성)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14600K + 4060 TI(듀얼모니터 구성)으로 워크스테이션 및 게임용으로 적합합니다.",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600K (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4060 Ti STORM X Dual OC D6 8GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DAVEN APEX Black (미들타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]크로스오버 27GFA5 IPS 165 아이세이브 게이밍 무결점상세보기[키보드]마이크로닉스 MANIC EX580L 기계식 키보드 (블랙적축)상세보기[마우스]로지텍코리아 G304 LIGHTSPEED 무선 (정품) (블랙)상세보기[게이밍헤드셋.스피커.마이크]Britz 브리츠 Z2200 Cheek 2채널 USB전원 북쉘프 스피커상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 갓서린에서 유통하는 팀그룹 DDR5 5600 클럭 메모리입니다.그래픽카드는 AS 1티어 이엠텍의SSD는 PCIe4.0 최상급 성능의 SSD입니다.케이스는 그래픽카드 호환성 350mm로 준수한 호환성과 쿨링성능을 자랑하는 케이스입니다.파워서플라이는 브론즈 효율에 PCIE5 규격으로 가격대도 저렴한 가성비 좋은 마이크로닉스 파워입니다.CPU쿨러는 대장급 공랭 중 뛰어난 정숙성과 성능을 겸비한 쿨러입니다.소프트웨어는 인텔 12세대 이후로는 고성능 코어와 효율 코어로 나뉘면서 윈도우 11을 권장합니다.\n인텔의 경우 일부 게임에선 윈11이 성능이 더 잘나옵니다.모니터는 165Hz 고주사율에 IPS 패널에 350cd 밝기로 색감도 좋고 가격대도 좋아 가성비가 뛰어나 해당 제품으로 구성 추천드립니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600K",
+            "가격": "436,800원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포",
+            "가격": "199,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 Ti STORM X Dual OC D6 8GB",
+            "가격": "554,040원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN APEX Black",
+            "가격": "46,650원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,690원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 27GFA5 IPS 165 아이세이브 게이밍 무결점",
+            "가격": "169,000원",
+            "수량": "1"
+        },
+        "키보드": {
+            "제품명": "마이크로닉스 MANIC EX580L 기계식 키보드",
+            "가격": "32,550원",
+            "수량": "1"
+        },
+        "마우스": {
+            "제품명": "로지텍코리아 G304 LIGHTSPEED 무선",
+            "가격": "51,660원",
+            "수량": "1"
+        },
+        "게이밍헤드셋.스피커.마이크": {
+            "제품명": "Britz 브리츠 Z2200 Cheek 2채널 USB전원 북쉘프 스피커",
+            "가격": "29,500원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2052740원",
+    "CPU": "코어i5-14세대 14600K (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 Ti STORM X Dual OC D6 8GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 700W ETA BRONZE PCIE5",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 181,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 22891
+}

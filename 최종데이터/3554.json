@@ -1,0 +1,65 @@
+{
+    "quote_number": "3554",
+    "quote_title": "14700K 반본체(워크스테이션)",
+    "date_create": "2024.2.27",
+    "cpu_gpu_combinations": "코어i7-14700K +  조합",
+    "quotation_summary": " 14700K 반본체(워크스테이션)# 14700K 반본체(워크스테이션)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14700K 반본체(워크스테이션)",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700K (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (32GB) x 2 개상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Toshiba X300 Refresh 7200/256M (HDWR480, 8TB)상세보기[케이스]앱코 SUITMASTER M2000 NOVA ARGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]맥스엘리트 MAXWELL COUNT 850W 80PLUS GOLD 풀모듈러 ATX 3.1 (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 인텔 14세대 i7메인보드는 16+1+2페이즈 1440A(90A)의 뛰어난 전원부로 14세대도 문제 없는 강력한 보드입니다.SSD는 PCIE4.0 대역폭 상급 SSDCPU쿨러는 10이하에서 상급 성능에 소음도 검증된 갓성비 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700K",
+            "가격": "576,050원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,720원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  32GB",
+            "가격": "119,450원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,490원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba X300 Refresh 7200/256M",
+            "가격": "284,450원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "앱코 SUITMASTER M2000 NOVA ARGB 강화유리 블랙",
+            "가격": "79,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "맥스엘리트 MAXWELL COUNT 850W 80PLUS GOLD 풀모듈러 ATX 3.1",
+            "가격": "159,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,400원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1984510원",
+    "CPU": "코어i7-14세대 14700K (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (32GB) x 2 개",
+    "Power Supply": "맥스엘리트 MAXWELL COUNT 850W 80PLUS GOLD 풀모듈러 ATX 3.1 (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 98,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": null
+}

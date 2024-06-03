@@ -1,0 +1,71 @@
+{
+    "quote_number": "1438",
+    "quote_title": "7950x + RTX 4080 + 언리얼 엔진 작업 견적 + 마야 작업 견적",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠9 7950X + RTX 4080 SUPER 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "렘오버 하실꺼 아니라면 굳이 하이닉스가 아닌마이크론이나 팀그룹 사용하셔도 무방 할 겁니다.(작업용이니 오버는 안하시는게 좋을 듯 합니다)파워 저 가격이라면 차라리 상기 모델 하시는게효율도 더 높고 케이블 화이트 인거 동일 할 겁니다.AS 정책 역시 상당히 좋은 편이구요언리얼, 마야, 에펙 모두다 GPU 성능빨을 타는 제품군들입니다.즉 가능하면 더 투자해 주시는게 좋은 부분일 듯 하고글카 화이트를 따로 엄청 저렴하게 구매하신게 아니라면조텍 AMP AIRO 화이트, 긱바 AERO 시리즈 중 저렴한걸 구성하시는게낫다고 보여집니다.메인보드의 경우 PCIe 5.0을 여러장 사용하실게 아니라면그냥 화이트 감성 통일하는 방식으로 이런 메인보드만 사용해도 무방 할 겁니다.WIFI 나 무선연결 지원하는 것도 동일한 제품이구요다만 수냉이 좀 걸리는게 LT, LS 시리즈 소음이 좀 있습니다.비슷한 급에서 라니는 이슈가 크게 있었고 호라이즌 역시 소음이 있는 편이라가격적으로 아낄 수 있는 부분을 낮추고크라켄 신형 가시는게 좋을 듯 합니다(존스보 신형은 이제 막 나온 제품이라 실사용 데이터를 좀 봐야 할 듯 합니다)",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X (라파엘) (정품)상세보기[메인보드]GIGABYTE B650 AERO G 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity D6X 16GB Black상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[데스크탑 HDD]Western Digital 4TB Ultrastar DC HC310 패키지 (SATA3/7200/256M)상세보기[케이스]DARKFLASH DLX4000 MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]발키리 GL360 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 현존 최강의 작업용 CPU\n그렇다고 게임성능이 떨어지지는 않음!메모리는 하이닉스 A다이 언락 모델!\n인식률 / 수율 최상! 안정성도 최상!그래픽카드는 조텍만의 특별한 3+2 AS!\n4080 SUPER 기준 가성비 갓갓!CPU쿨러는 새로나온 끝판왕 수냉!\n성능이면 성능, 저소음이면 저소음까지!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X",
+            "가격": "893,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AERO G 피씨디렉트",
+            "가격": "376,280원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,450원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity D6X 16GB Black",
+            "가격": "1,514,700원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital 4TB Ultrastar DC HC310 패키지",
+            "가격": "1,320,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX4000 MESH 강화유리 화이트",
+            "가격": "115,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "215,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 GL360 ARGB",
+            "가격": "162,903원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4998188원",
+    "CPU": "AMD 라이젠9-5세대 7950X (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650 AERO G 피씨디렉트",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 SUPER Trinity D6X 16GB Black",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "발키리 GL360 ARGB (WHITE)",
+    "cpu_score": 60,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62909,
+    "gpu_benchmarkscore": 34625
+}

@@ -1,0 +1,71 @@
+{
+    "quote_number": "3390",
+    "quote_title": "AMD 라이젠 스레드리퍼 PRO 7975WX + 지포스 RTX 4090",
+    "date_create": "2024.2.24",
+    "cpu_gpu_combinations": "라이젠 스레드리퍼 PRO 7975WX (스톰 픽) + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠 스레드리퍼 PRO 7975WX + 지포스 RTX 4090# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 제온의 경우 현재 유통도 제대로 안되고 있고 현 세대 제품도 없고 스레드리퍼에 비교할 만한 제품이 전무한 상태입니다. 32코어 64스레드인 스톰 픽 7975WX로 구성2. 메인보드는 RTX50 소켓 중 유통사도 많고 가격적인 메리트도 있는  GIGABYTE TRX50 AERO D 피씨디렉트로 구성3. 메모리는 ECC 서버용 메모리만 호환이 가능하고 삼성전자 DDR5-4800 ECC/REG (64GB) 4채널 256GB로 넉넉하게 구성4. 그래픽카드는 4090 중 두께가 얇아서 멀티 GPU 하기에 용이한 MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3  2개로 구성5. SSD는 현재 가장 빠른 속도를 자랑하는 젠5 규격의 마이크론 Crucial T700 M.2 NVMe 대원씨티에스 (2TB)로 구성6. HDD는 8TB로 넉넉하게 구성7. 케이스는 가격대비 미친 수준의 고퀄리티를 제공하는 빅타워인 마이크로닉스 ML-420 BTF 블랙 (빅타워)로 구성8. 파워는 12VHPWR 케이블 2개를 제공하는 플래티넘 인증 1650W 고용량 제품인 FSP HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)로 구성9. CPU쿨러는 최상위 성능의 420mm 라디이에터 수냉쿨러인 Phanteks GLACIER ONE 420 D30 (BLACK)으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠 스레드리퍼 PRO 7975WX (스톰 픽) (멀티팩(정품))상세보기[메인보드]GIGABYTE TRX50 AERO D 피씨디렉트상세보기[메모리]삼성전자 DDR5-4800 ECC/REG (64GB) x 4 개상세보기[그래픽카드]MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 x 2 개상세보기[SSD]마이크론 Crucial T700 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5640/128M (WD80EAZZ, 8TB)상세보기[케이스]마이크로닉스 ML-420 BTF 블랙 (빅타워)상세보기[파워서플라이]HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)상세보기[CPU쿨러]Phanteks GLACIER ONE 420 D30 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠 스레드리퍼 PRO 7975WX)",
+            "가격": "5,582,780원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE TRX50 AERO D 피씨디렉트",
+            "가격": "1,033,560원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "삼성전자 DDR5-4800 ECC/REG x 4 개 64GB",
+            "가격": "352,940원",
+            "수량": "4"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 x 2 개",
+            "가격": "2,993,850원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T700 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "157,950원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5640/128M",
+            "가격": "168,790원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "마이크로닉스 ML-420 BTF 블랙",
+            "가격": "132,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "HYDRO PTM PRO 1650W Platinum ATX3.0",
+            "가격": "555,490원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Phanteks GLACIER ONE 420 D30",
+            "가격": "283,540원",
+            "수량": "1"
+        }
+    },
+    "total_price": "15313570원",
+    "CPU": "AMD 라이젠 스레드리퍼 PRO 7975WX (스톰 픽) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE TRX50 AERO D 피씨디렉트",
+    "Graphic Card": "MSI 지포스 RTX 4090 게이밍 X 슬림 D6X 24GB 트라이프로져3 x 2 개",
+    "SSD": "마이크론 Crucial T700 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "삼성전자 DDR5-4800 ECC/REG (64GB) x 4 개",
+    "Power Supply": "HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)",
+    "CPU Cooler": "Phanteks GLACIER ONE 420 D30 (BLACK)",
+    "cpu_score": 13,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 94351,
+    "gpu_benchmarkscore": 38694
+}

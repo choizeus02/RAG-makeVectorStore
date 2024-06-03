@@ -1,0 +1,66 @@
+{
+    "quote_number": "3064",
+    "quote_title": "AMD 라이젠5-4세대 5600 + 라데온 RX 6600",
+    "date_create": "2024.2.16",
+    "cpu_gpu_combinations": "라이젠5 5600 + RX 6600 조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600 + 라데온 RX 6600# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "100만원 언더에서 가성비를 최대한 고려한 구성입니다.웬만한 게임은 FHD 해상도 기준에서는 즐기는데 문제가 없는 수준입니다.정확한 용도와 예산을 적어주시면 보다 자세한 조언이 가능합니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[그래픽카드]ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]3RSYS J540 (미들타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX600 80PLUS STANDARD상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현재 게임 가성비가 가장 좋은 CPUSSD는 젠3 제품 중에서는 5년 무상AS에 성능도 좋고 가격적인 메리트도 있는 SSD케이스는 보급형 끝판왕급 제품",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "71,450원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "20,510원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스",
+            "가격": "254,500원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS J540",
+            "가격": "31,800원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX600 80PLUS STANDARD",
+            "가격": "40,640원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "680870원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "Graphic Card": "ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX600 80PLUS STANDARD",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 504,
+    "gpu_score": 88,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 16473
+}

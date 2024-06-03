@@ -1,0 +1,76 @@
+{
+    "quote_number": "4241",
+    "quote_title": "인텔 코어i9-14세대 14900KF + 지포스 RTX 4090",
+    "date_create": "2024.3.13",
+    "cpu_gpu_combinations": "코어i9-14900KF + RTX 4090 조합",
+    "quotation_summary": " 인텔 코어i9-14세대 14900KF + 지포스 RTX 4090# 방송용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경규격램이라 자동으로 5600MHz 클럭으로 동작을 하는지라 4800MHz보다는 성능이 높습니다.2. SSD는 젠4 규격의 끝판왕급 제품이라고 할 수 있는 마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)로 변경3. 구성하신 씨게이트 HDD는 SMR방식이라 추천을 하지 않습니다. PMR방식의 원천기술을 가지고 있는 도시바의 P300으로 변경4. 케이스는 고성능 저소음 140mm 5V ARGB 시스템 4개를 기본장착하고 C타입 포트 등 편의 기능을 대부분 적용하여 완성형에 가까운 3RSYS R640 Quiet 화이트 (미들타워)로 변경8개의 팬을 제어할 수 있는 5V ARGB & PWM 허브를 기본 제공하고 무엇보다도 현재 유통중인 제품 중 가장 조용한 케이스입니다.5. 파워는 12VHPWR 모듈러 포트로 개선해서 새롭게 출시한 마이크로닉스 Classic II 850W 80PLUS GOLD 230V EU 풀모듈러 화이트로 변경플래티넘 인증을 받았지만 골드로 출시해서 가격적인 메리트를 많이 높인 제품으로 웬만한 플래티넘 인증 제품보다도 높은 효율을 자랑합니다.6. CPU쿨러는 대장급 성능 중에서도 최상위권이 있으면서 가격도 착한 편인 잘만 Alpha II A36 (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900KF (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)상세보기[데스크탑 HDD]Toshiba 2TB P300 HDWD120 (SATA3/7200/64M)상세보기[케이스]3RSYS R640 Quiet 화이트 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 1050W 80PLUS GOLD 230V EU 풀모듈러 화이트12VHPWR 케이블 제공상세보기[CPU쿨러]잘만 Alpha II A36 (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기데스크탑 HDD는 안정성 높은 PMR 방식의 HDD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900KF",
+            "가격": "783,710원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "336,940원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE  32GB",
+            "가격": "117,730원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+            "가격": "2,874,550원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 1TB",
+            "가격": "129,690원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Toshiba 2TB P300 HDWD120",
+            "가격": "100,780원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS R640 Quiet 화이트",
+            "가격": "92,760원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 1050W 80PLUS GOLD 230V EU 풀모듈러 화이트12VHPWR 케이블 제공",
+            "가격": "200,280원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,530원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5044190원",
+    "CPU": "인텔 코어i9-14세대 14900KF (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4090 GAMEROCK D6X 24GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 2 개",
+    "Power Supply": "마이크로닉스 Classic II 1050W 80PLUS GOLD 230V EU 풀모듈러 화이트12VHPWR 케이블 제공",
+    "CPU Cooler": "잘만 Alpha II A36 (WHITE)",
+    "cpu_score": 56,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 38694
+}

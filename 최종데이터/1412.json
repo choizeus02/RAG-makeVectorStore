@@ -1,0 +1,66 @@
+{
+    "quote_number": "1412",
+    "quote_title": "디아블로4 게이밍 pc, qhd, 4k (7800x 3d, rtx 4070 ti)",
+    "date_create": "2023.12.26",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti 조합",
+    "quotation_summary": " 1. qhd 해상도 모니터를 사용하시는 분2. 고사양의 게임을 즐기시는 분3. 3d 캐시의 영향을 많이 받는 온라인 게임을 주로 하시는 분# QHD# 게이밍 PC# 스팀# 고사양게임# 호그와트 레거시# 롤# 에이펙스# 배그# 발로란트# 마인크래프트",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 견적맨으로 활동하고 있는 coke-bear 입니다.퀘이사존에서 주로 활동하며 그 외 커뮤니티에서도 간간히 활동하고 있습니다.하드웨어에 관심이 많아 제품을 직접 사용해보기도 하고 주변 지인들 PC 견적부터 조립도 해주다보니PC 구매를 어려워하거나 용도에 맞지 않게 구매하여 불필요한 지출을 하는 경우를 보게 되었습니다.그런 분들께 조금이라도 도움이 되고자 PC 구매자분들께 합리적인 구매를 할 수 있게 견적맨으로 활동하게 되었습니다.",
+    "quote_feedback": "온라인 게임의 경우 3d 캐시의 영향을 많이 받는 편으로 인텔 제품 대비하여 3d 캐시로 인해 13900ks와 동급의 성능을 내면서 가격대는 훨씬 저렴한 7800x 3d cpu 기반의 게이밍 pc 입니다.4070 ti 그래픽카드 구성으로 fhd 해상도는 물론 qhd 해상도까지도 고사양 게임들을 쾌적하게 즐기실 수 있습니다.디아블로4와 같이 dlss 옵션을 지원하는 게임의 경우 4k 에서도 원활한 프레임으로 쾌적하게 즐기실 수 있습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]ADATA DDR5-5600 CL46 패키지 (32GB(16Gx2)) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 Ti WINDFORCE OC D6X 12GB 피씨디렉트상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]DARKFLASH DK260 Air MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)상세보기[CPU쿨러]PentaWave Z06D (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7000번대 제품 중 13900KS 와 게임 성능 동급의 게임이 최강의 CPU 입니다.메인보드는 b650 칩셋의 메인보드 중 전원부 성능 대비 20만원 초반대의 저렴한 가격대의 메인보드입니다. 7900 cpu 까지도 사용 가능하여 7800x 3d를 쓰는데 여유있는 제품입니다.메모리는 ADATA의 5600 클럭 기본 메모리입니다. 하이닉스 A 다이 제품으로 호환성이 좋습니다.그래픽카드는 기가바이트의 중급기 4070 TI 제품입니다.케이스는 다크 플래쉬의 DK 260 AIR 미들타워 제품입니다. 가격 대비 강판 두께나 기본팬 성능이 출중한 편입니다.파워서플라이는 국내 파워 브랜드 중 유일하게 고주파 발생까지 무제한 새제품 교환 정책을 가진 슈퍼플라워의 850W 골드 등급 제품입니다. PCIE5 규격으로 12핀 그래픽카드 케이블 사용이 가능합니다.CPU쿨러는 트윈타워형 공랭쿨러 중 가장 쿨링 성능이 좋은 rc1800을 대체 가능한 쿨링 성능을 가진 트윈타워형 공랭쿨러 입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "207,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46 패키지)  32GB",
+            "가격": "112,700원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 Ti WINDFORCE OC D6X 12GB 피씨디렉트",
+            "가격": "1,447,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK260 Air MESH RGB 강화유리 블랙",
+            "가격": "50,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK",
+            "가격": "154,407원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z06D",
+            "가격": "56,910원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2806707원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 Ti WINDFORCE OC D6X 12GB 피씨디렉트",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46 패키지 (32GB(16Gx2)) x 2 개",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)",
+    "CPU Cooler": "PentaWave Z06D (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

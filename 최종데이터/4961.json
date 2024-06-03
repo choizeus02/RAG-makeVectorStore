@@ -1,0 +1,71 @@
+{
+    "quote_number": "4961",
+    "quote_title": "코어i7-14세대 14700KF + 지포스 RTX 4060",
+    "date_create": "2024.4.1",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 4060 조합",
+    "quotation_summary": " 코어i7-14세대 14700KF + 지포스 RTX 4060# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 그래픽카드는 유통하는 업체가 몇 없어서 견적왕의 최대 메리트인 견적비교가 원활하지 않습니다.1티어 AS 중에서도 최상위면서 화이트 색상에 가격적인 메리트도 높은 이엠텍 지포스 RTX 4060 MIRACLE WHITE D6 8GB로 변경2. SSD는 젠4 규격의 끝판왕급 성능 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경3. 케이스는 구성하신 S402는 어항케이스이긴 한데 전면과 측면 강화유리 사이에 패널이 있어서 270도 파노라마 뷰가 아닌지라 프레임이 없는 프레임리스 제품이면서 압도적인 비주얼과 가성비를 겸비한 몬스타 가츠 X620A 리버스 화이트 (미들타워)로 변경DAVEN AQUARIUM 화이트 (미들타워) 케이스는 C타입 포트 미적용에 USB 포트도 2개만 제공하고 강판도 얇은 편이라 원가 절감한 티가 많이 나는 케이스입니다.4. 4060 그래픽카드는 최대 전력 소모량이 115W 수준의 초저전력 제품이라 정격 500W 이상이면 충분히 사용할 수 있습니다. 전력 소모량이 적어서 효율에 따른 체감도 크지 않아서 브론즈 인증제품이면 충분하구요.7년 무상 AS에 브론즈 인증, 140mm 팬 장착, 12V 가용력 100%, 성능으로 세계적에서 유명한 국산 삼영콘덴서를 메인콘덴서로 채용, 6종 보호회로 적용 등 가격대비 퀄리티는 최고수준으로 보급형에서는 끝판왕급인 탑파워 가디언 600W 화이트로 변경5. CPU쿨러는 소음과 성능 그리고 가격까지 모든 항목을 봤을 때 GL360보다도 오히려 더 좋은 지표를 가지고 있는 잘만 Alpha II A36 (WHITE)로 변경40dBA 고정에서는 잘만이 더 좋고 풀RPM일 때는 발키리가 0.58도 낮습니다. 소음은 잘만이 더 조용하고 가격도 마찬가지라서 전체적으로 잘만 알파2가 더 낫죠.https://quasarzone.com/bbs/qc_qsz/views/1657751<- CPU쿨러 벤치 자료입니다.6. 추천드리는 케이스는 따로 쿨러를 추가할 필요가 없어서 제외를 했고 M.2 방열판도 메인보드에서 기본 제공해서 제외했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700K (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 제이씨현상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 (64GB(32Gx2))상세보기[그래픽카드]이엠텍 지포스 RTX 4060 MIRACLE WHITE D6 8GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)상세보기[케이스]몬스타 가츠 X620A 리버스 화이트 (미들타워)상세보기[파워서플라이]topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE상세보기[CPU쿨러]잘만 Alpha II A36 (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기케이스는 흔히 어항케이스라고 불리우는 디자인이 적용된 X620A 리버스입니다. CPU쿨러 최대호환가능높이 165mm, 그래픽카드 최대호환가능길이 430mm 제원을 가졌으며 ATX 사이즈 메인보드까지 호환가능한 미들타워 제품입니다. 측면 120mm 기본팬 3개, 후면 120mm 기본팬 1개 총 4개를 제공하며 ARGB를 지원하여 메인보드 제조사 프로그램을 통해 색상 조정이 가능합니다.파워서플라이는 topower사의 600W 브론즈등급 화이트색상 제품입니다. A/S보증기간 7년을 제공하고 화이트 색상 제품이라 화이트감성 PC에 알맞는 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700K",
+            "가격": "573,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 제이씨현",
+            "가격": "382,240원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지) 64GB",
+            "가격": "340,000원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 MIRACLE WHITE D6 8GB",
+            "가격": "452,810원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,690원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/256M",
+            "가격": "158,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X620A 리버스 화이트",
+            "가격": "64,840원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+            "가격": "65,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,430원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2383950원",
+    "CPU": "코어i7-14세대 14700K (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 제이씨현",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 MIRACLE WHITE D6 8GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 (64GB(32Gx2))",
+    "Power Supply": "topower Guardian TOP-600DG Single Rail 80PLUS BRONZE WHITE",
+    "CPU Cooler": "잘만 Alpha II A36 (WHITE)",
+    "cpu_score": 98,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 22891
+}

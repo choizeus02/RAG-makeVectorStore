@@ -1,0 +1,71 @@
+{
+    "quote_number": "5112",
+    "quote_title": "13600KF  + RX 7800 XT (Segotep P10 Endura Pro+ M 화이트)",
+    "date_create": "2024.4.6",
+    "cpu_gpu_combinations": "코어i5-13600KF + RX 7800 XT 조합",
+    "quotation_summary": " 13600KF  + RX 7800 XT (Segotep P10 Endura Pro+ M 화이트)# 13600KF  + RX 7800 XT (Segotep P10 Endura Pro+ M 화이트)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "13600KF  + RX 7800 XT (Segotep P10 Endura Pro+ M 화이트)",
+    "computer_estimate_data": "[CPU]인텔 코어i5-13세대 13600KF (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))상세보기[그래픽카드]PowerColor 라데온 RX 7800 XT Hellhound Spectral White D6 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)상세보기[케이스]Segotep P10 Endura Pro+ M 화이트 (미니타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]잘만 Alpha II A36 (WHITE)상세보기[쿨러.튜닝.조명.액세서리]잘만 ZM-PF120 PWM ARGB (WHITE) x 3 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 벌크도 공식적으로 3년 보증을 지원해 14600KF급으로 구성하신다면 벌크로는 14600KF보다 금액적 메리트가 높아 13600KF 쪽이 나으실 거 같습니다.메모리는 화이트 감성에 화이트 튜닝 메모리가 빠질 수 없겠죠 ^^파워서플라이는  10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책도 동일하고 가격대도 좋은 파워입니다.CPU쿨러는 전면 온도 표시와 상급 성능까지 겸비한 잘만의 수냉 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-13세대 13600KF",
+            "가격": "400,740원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "212,880원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린) 32GB",
+            "가격": "168,781원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "PowerColor 라데온 RX 7800 XT Hellhound Spectral White D6 16GB",
+            "가격": "731,120원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 1TB",
+            "가격": "126,800원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Segotep P10 Endura Pro+ M 화이트",
+            "가격": "70,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,430원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "잘만 ZM-PF120 PWM ARGB x 3 개",
+            "가격": "10,660원",
+            "수량": "3"
+        }
+    },
+    "total_price": "1983561원",
+    "CPU": "인텔 코어i5-13세대 13600KF (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "PowerColor 라데온 RX 7800 XT Hellhound Spectral White D6 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "잘만 Alpha II A36 (WHITE)",
+    "cpu_score": 194,
+    "gpu_score": 11,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 38111,
+    "gpu_benchmarkscore": 29006
+}

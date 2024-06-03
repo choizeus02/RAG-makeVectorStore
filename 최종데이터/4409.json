@@ -1,0 +1,66 @@
+{
+    "quote_number": "4409",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + RTX 4070 SUPER",
+    "date_create": "2024.3.18",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + RTX 4070 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 이전에 추천드린 견적에서 수정을 조금 해드리겠습니다. 우선은 S406같이 상단에 공간이 많은 어항케이스는 공랭쿨러가 가능하더라도 수냉쿨러 장착하는 것이 갬성상 강추하는 부분입니다. 다만 어항케이스 중에서 공랭쿨러용으로 나온 제품도 있고 디자인도 괜찮아서 해당 조합도 고려를 한다면 공랭쿨러로도 충분히 갬성을 챙길 수 가 있습니다.2. 메인보드는 드라이버 모스펫 전원부와 와이파이&블루투스 모듈이 적용되어 있는 가성비 좋은 ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴으로 구성3. 공랭쿨러로 조립하게 되면 듀얼타워 제품으로 구성을 할텐데 메모리 슬롯을 다 덮어버려서 메모리가 보이지 않습니다. 튜닝 메모리로 구성하더라도 보이지가 않아서 메리트가 떨어지게 되죠. 안정성과 가성비를 챙길 수 있도록 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 구성4. 그래픽카드는 1티어에 준하는 AS를 제공하면서 트리플 팬이 적용되어 있고 가격적인 메리트도 높은 inno3D 지포스 RTX 4070 SUPER OC D6X 12GB X3로 구성5. SSD는 젠4 규격의 끝판왕급 제품이라고 할 수 있는 마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)로 구성6. 케이스는 앞서 언급한 공랭쿨러용 어항케이스로 압도적인 비주얼과 가성비 그리고 C타입 포트와 하단부 타공망 적용으로 쿨링 효율까지 챙긴 몬스타 가츠 X520LA 리버스 블랙 (미들타워)로 구성7. 4070 SUPER는 정격 700W면 충분한 파워 용량이 됩니다. ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로 구성8. CPU쿨러는 케이스와 잘 어울리면서 최상위 성능군에 소음은 가장 낮은 수준이라 사실상 공랭쿨러 끝판왕이라 할 수 있는 3RSYS Socoool RC 1800 Quiet ARGB (BLACK)으로 구성참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]inno3D 지포스 RTX 4070 SUPER OC D6X 12GB X3상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)상세보기[케이스]몬스타 가츠 X520LA 리버스 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC 1800 Quiet ARGB (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 가성비 좋은 화이트 B650M WiFi 킷 메인보드",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴",
+            "가격": "209,510원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "inno3D 지포스 RTX 4070 SUPER OC D6X 12GB X3",
+            "가격": "937,600원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 1TB",
+            "가격": "129,690원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 리버스 블랙",
+            "가격": "56,110원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC 1800 Quiet ARGB",
+            "가격": "61,500원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2166520원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴",
+    "Graphic Card": "inno3D 지포스 RTX 4070 SUPER OC D6X 12GB X3",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC 1800 Quiet ARGB (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

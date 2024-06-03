@@ -1,0 +1,81 @@
+{
+    "quote_number": "3224",
+    "quote_title": "인텔 코어i5-12세대 12400F + 지포스 RTX 4060 ti",
+    "date_create": "2024.2.20",
+    "cpu_gpu_combinations": "코어i5-12400F + RTX 4060 Ti 조합",
+    "quotation_summary": " 인텔 코어i5-12세대 12400F + 지포스 RTX 4060 ti# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 앞서 적은 글에서 언급을 했지만 i5는 B칩셋으로 구성해야 제대로 된 성능이 나옵니다. 인텔로 꼭 가야겠다면 B760 칩셋으로 구성해야 하구요.14세대가 출시가 끝난 상황에서 12세대로 구성하는 것은 추천을 하기가 어렵지만 금액상 어쩔 수 없다면 DDR4 시스템으로 구성하는 것이 좋습니다. 12세대에서는 메모리 규격별 성능 차이가 없습니다.2. 메모리는 라이프타임 워런티로 삼성램 대비 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 사용해서 안정성도 높고 가격도 저렴한 ESSENCORE KLEVV DDR4-3200 CL22 (8GB) 2개 16기가로 변경3. 파워는 정격 600W 브론즈 인증 제품인 쿨러마스터 MWE 600 BRONZE V2 230Vㅁ로 변경4. CPU쿨러는 싱글타워 끝판왕급 성능에 최근 3만원 대에서 만원 중후반대로 가격을 대폭인하해서 갓성비 중에서도 갓성비라고 할 수 있는 3RSYS TEAMMOST TM40으로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i5-12세대 12400F (엘더레이크)(벌크)상세보기[메인보드]ASRock B760M PG LIGHTNING/D4 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4060 Ti WINDFORCE OC D6 8GB 피씨디렉트상세보기[SSD]ADATA XPG SX8200 Pro M.2 2280 코잇 (1TB)상세보기[케이스]DAVEN AQUA 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]크로스오버 27GFA5 IPS 165 아이세이브 게이밍 무결점상세보기[키보드]마이크로닉스 MANIC EX580L 기계식 키보드 (블랙적축)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 정품과 동일한 3년 AS를 제공하는 12세대 인텔 i5 12400F (벌크) CPU",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i5-12세대 12400F",
+            "가격": "160,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+            "가격": "137,970원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "20,510원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4060 Ti WINDFORCE OC D6 8GB 피씨디렉트",
+            "가격": "535,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "ADATA XPG SX8200 Pro M.2 2280 코잇 1TB",
+            "가격": "115,200원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN AQUA 블랙",
+            "가격": "28,220원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "160,650원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 27GFA5 IPS 165 아이세이브 게이밍 무결점",
+            "가격": "169,000원",
+            "수량": "1"
+        },
+        "키보드": {
+            "제품명": "마이크로닉스 MANIC EX580L 기계식 키보드",
+            "가격": "32,550원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1470800원",
+    "CPU": "인텔 코어i5-12세대 12400F (엘더레이크)(벌크)",
+    "Motherboard": "ASRock B760M PG LIGHTNING/D4 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4060 Ti WINDFORCE OC D6 8GB 피씨디렉트",
+    "SSD": "ADATA XPG SX8200 Pro M.2 2280 코잇 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 595,
+    "gpu_score": 32,
+    "performance_grade": "저성능",
+    "cpu_benchmarkscore": 19566,
+    "gpu_benchmarkscore": 22891
+}

@@ -1,0 +1,66 @@
+{
+    "quote_number": "5142",
+    "quote_title": "AMD 라이젠7-5세대 7700 + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.4.8",
+    "cpu_gpu_combinations": "라이젠7 7700 + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7700 + 지포스 RTX 4070 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 동일 제품군 미니보드로 변경해도 7700과는 안정적으로 사용할 수 있습니다.ASRock B650M Pro RS 디앤디컴으로 변경2. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 추천드리구요.해당 메인보드에서는 어떤 오류도 없이 사용가능합니다. 5600MHz 규격 램의 경우 아무런 설정없이 사용하게 되면 5200MHz로 안정적으로 동작을 하고 바이오스에 들어가서 EXPO 클릭을 한 번만 해주면 5600MHz로도 사용이 가능해서 선택지가 하나 더 생기게 됩니다. 5200 규격램보다는 메리트가 더 크다고 할 수 있죠.3. 그래픽카드는 1티어 AS 중에서도 최상위면서 화이트 색상에 가격적인 메리트도 높은 이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB로 변경4. SSD는 최근에 출시한 젠4 규격의 끝판왕급 성능 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경5. 구성하신 DAVEN AQUARIUM 화이트 (미들타워)는 상단 3열 수냉쿨러 장착이 가능한 케이스로 수냉쿨러를 장착하지 않으면 공간이 많이 남게 됩니다. 어항케이스는 튜닝을 하라고 만들어 놓은 제품이라 3열 수냉쿨러를 장착하지 않는다면 시스템 팬이라도 3개 추가하는 것이 좋죠. 개인적으로는 공랭쿨러 전용으로 출시되었고 압도적인 비주얼과 가성비를 제공하고 시스템 팬도 5개 기본 장착되어 있어서 완벽한 튜닝이 가능한 Antec CX200M RGB ELITE 화이트 (미니타워)로 추천드립니다.6. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 변경7. CPU쿨러는 메모리를 다 가려서 화이트 감성을 더 높여줄 대장급 성능의 듀얼타워 공랭쿨러인 3RSYS Socoool RC1200 ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7700 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 디앤디컴상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]Antec CX200M RGB ELITE 화이트 (미니타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool RC1200 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "그래픽카드는 RTX 4070과 RTX 4070 Ti 제품 사이에 위치한 라인업이며 A/S퀄리티 1티어인 이엠텍사 화이트색상 제품입니다. 보조전원 커넥터는 12VHPWR 규격이며 제원 상 길이 315mm, 두께 50mm입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7700",
+            "가격": "401,348원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 디앤디컴",
+            "가격": "182,860원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,030원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB",
+            "가격": "922,830원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "230,690원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec CX200M RGB ELITE 화이트",
+            "가격": "53,400원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC1200 ARGB",
+            "가격": "34,410원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2078428원",
+    "CPU": "AMD 라이젠7-5세대 7700 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 디앤디컴",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 SUPER MIRACLE X3 WHITE D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool RC1200 ARGB (WHITE)",
+    "cpu_score": 209,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 35970,
+    "gpu_benchmarkscore": 31768
+}

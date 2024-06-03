@@ -1,0 +1,66 @@
+{
+    "quote_number": "1880",
+    "quote_title": "2023년 10월 월간견적 - 중급 QHD 게이밍 (AMD",
+    "date_create": "2024.3.4",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4070 Ti 조합",
+    "quotation_summary": " # QHD 게이밍# RTX 4070 Ti 게이밍# 로아 풀옵션# 배그 풀옵션",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "2023년 10월 월간견적 - 중급 QHD 게이밍 (AMD",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock A620M-HDV/M.2+ 에즈윈상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개상세보기[그래픽카드]MSI 지포스 RTX 4070 Ti 벤투스 3X E OC D6X 12GB상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DF2100 MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]잘만 CNPS9X PERFORMA (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 7600 이랑 2-3% 성능차이\n거의 동급 수준의 가성비 게이밍 CPU!메인보드는 7900까지 충분히 커버 가능한 탄탄한 전원부!\nA620에서 M.2 3장을 사용 할 수 있는 갓성비!메모리는 하이닉스 선별 IC 제품!\n인식률 좋고 제품 안정성도 좋고!그래픽카드는 가성비 RTX 4070 Ti!\nMSI만의 강력한 쿨링 솔루션!SSD는 PCie 4.0 기반 가장 빠른 SSD!\n믿음의 WD 제품!케이스는 DLX21과 똑같은 확장성!\n하지만 조금더 가성비!파워서플라이는 AS 10년! 고주파 AS 대응!\nATX 3.0 정식 지원!CPU쿨러는 가성비 좋은 공냉쿨러!\n인텔은 13400F까지, 라이젠은 7600까지!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock A620M-HDV/M.2+ 에즈윈",
+            "가격": "108,511원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  16GB",
+            "가격": "64,700원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4070 Ti 벤투스 3X E OC D6X 12GB",
+            "가격": "1,149,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe 1TB",
+            "가격": "131,570원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DF2100 MESH RGB 강화유리 블랙",
+            "가격": "81,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 CNPS9X PERFORMA",
+            "가격": "25,220원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1954421원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock A620M-HDV/M.2+ 에즈윈",
+    "Graphic Card": "MSI 지포스 RTX 4070 Ti 벤투스 3X E OC D6X 12GB",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "잘만 CNPS9X PERFORMA (BLACK)",
+    "cpu_score": 355,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 31768
+}

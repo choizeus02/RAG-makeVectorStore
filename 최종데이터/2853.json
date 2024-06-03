@@ -1,0 +1,64 @@
+{
+    "quote_number": "2853",
+    "quote_title": "AMD 라이젠5-5세대 7500F + 지포스 RTX 4060 Ti",
+    "date_create": "2024.2.13",
+    "cpu_gpu_combinations": "라이젠5 7500F + RTX 4060 Ti 조합",
+    "quotation_summary": " AMD 라이젠5-5세대 7500F + 지포스 RTX 4060 Ti# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "두 메인보드의 차이에 대해서 말씀드리겠습니다.우선 A620과 B650은 칩셋에 따른 확장성 차이가 가장 크고 또한 자동오버클럭 PBO 지원여부도 크죠.ASRock A620M Pro RS6+2+1 전원부 - 300A급 출력 / 1GB 랜 / 젠4 SSD만 지원 / PCIe 슬롯 1개ASRock B650M Pro RS8+2+1 전원부 - 400A급 출력 / 2.5GB 랜 / 젠5 SSD 지원 / PCIe 슬롯 2개눈으로 보이는 가장 큰 차이는 이 정도입니다.호환 문제는 없습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS 대원씨티에스상세보기[그래픽카드]이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB상세보기[케이스]DARKFLASH DK1000 MESH 강화유리 화이트 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 풀체인지 700W 80PLUS BRONZE 230V EU 화이트상세보기[CPU쿨러]DARKFLASH Ellsworth S21 (화이트)상세보기[이벤트특가][SSD + RAM] 마이크론 Crucial T500 2TB + Crucial DDR5-5600 (32GB(16Gx2)) 패키지 대원씨티에스상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTKM01 화이트 데스크탑용 메모리 램카드 방열판 x 2 개상세보기[쿨러.튜닝.조명.액세서리]장우컴퍼니 JW-HTK01 M.2 방열판상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 B650칩셋 제품이라서 PBO와 커브옵티마이저 기능을 지원하는 제품입니다. 400A급 드라이버모스펫 구성의 전원부 성능을 가지고 있으며 기판일부와 방열판색상이 화이트라 화이트조합에 알맞습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS 대원씨티에스",
+            "가격": "172,490원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+            "가격": "580,590원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK1000 MESH 강화유리 화이트",
+            "가격": "66,200원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 풀체인지 700W 80PLUS BRONZE 230V EU 화이트",
+            "가격": "84,100원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21",
+            "가격": "27,000원",
+            "수량": "1"
+        },
+        "SSD + RAM": {
+            "제품명": "마이크론 Crucial T500 2TB + Crucial DDR5-5600 패키지 대원씨티에스 2TB",
+            "가격": "183,290원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "장우컴퍼니 JW-HTK01 M.2 방열판",
+            "가격": "1,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1319760원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4060 Ti MIRACLE WHITE D6 8GB",
+    "Power Supply": "마이크로닉스 Classic II 풀체인지 700W 80PLUS BRONZE 230V EU 화이트",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 (화이트)",
+    "cpu_score": 355,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 22891
+}

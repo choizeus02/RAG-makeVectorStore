@@ -1,0 +1,96 @@
+{
+    "quote_number": "3323",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4080 SUPER",
+    "date_create": "2024.2.22",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4080 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4080 SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 7800X3D는 100MB에 육박하는 L3 캐시 메모리로 게임을 박살 내는 타입의 제품으로 다른 CPU에 비해서 메모리 클럭의 영향을 덜 받습니다. 또한 듀얼 타워 공랭쿨러로 조립을 하게 되면 메모리 슬롯을 다 덮어버려서 메모리가 보이지 않아 튜닝 메모리의 메리트가 많이 낮습니다. 5600MHz 고클럭 규격램으로 구성해도 충분한 게이밍 퍼포먼스를 제공하고 6000MHz와의 차이는 체감이 불가능합니다. 메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경2. 도시바는 PMR 방식의 원천 기술을 가지고 있는 제조사로서 엔터프라이즈는 그 중에서도 최상위 제품군이라 아주 잘 구성하셨습니다. 그대로 구성하시면 되구요.3. 딱히 문제될 부분은 없어서 메모리만 수정하고 진행하면 될 것 같습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4080 SUPER ST D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD](Toshiba) 6TB MG04ACA600 Enterprise SATA3/7200RPM/128M /HDD상세보기[케이스]몬스타 가츠 X520LA 리버스 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE ARGB 서린상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[모니터]LG전자 울트라기어 32GQ850L상세보기[키보드]CHERRY MX BOARD 2.0S (블랙, 저소음 적축)상세보기[마우스패드]커세어 CORSAIR MM350 PRO EXTENDED XL BLACK상세보기[게이밍헤드셋.스피커.마이크]Creative T60 (정품)상세보기[게이밍헤드셋.스피커.마이크]커세어 CORSAIR VOID ELITE RGB WIRELESS노이즈캔슬링 헤드셋(카본)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,290원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "213,420원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  32GB",
+            "가격": "115,410원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4080 SUPER ST D6X 16GB",
+            "가격": "1,689,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,490원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "6TB MG04ACA600 Enterprise SATA3/7200RPM/128M /HDD",
+            "가격": "239,770원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X520LA 리버스 블랙",
+            "가격": "56,110원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "134,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE ARGB 서린",
+            "가격": "43,243원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "168,990원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "LG전자 울트라기어 32GQ850L",
+            "가격": "835,360원",
+            "수량": "1"
+        },
+        "키보드": {
+            "제품명": "CHERRY MX BOARD 2.0S",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "마우스패드": {
+            "제품명": "커세어 CORSAIR MM350 PRO EXTENDED XL BLACK",
+            "가격": "42,200원",
+            "수량": "1"
+        },
+        "게이밍헤드셋.스피커.마이크": {
+            "제품명": "커세어 CORSAIR VOID ELITE RGB WIRELESS노이즈캔슬링 헤드셋",
+            "가격": "142,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4620693원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4080 SUPER ST D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE ARGB 서린",
+    "cpu_score": 225,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 34625
+}

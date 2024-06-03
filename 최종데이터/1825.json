@@ -1,0 +1,66 @@
+{
+    "quote_number": "1825",
+    "quote_title": "[상급/180만] 7600 + 4070_RGB White Window Steam Ready",
+    "date_create": "2024.1.15",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 조합",
+    "quotation_summary": " 1. 7600 + 4070 화이트 RGB 감성 조합입니다.2. 과도하지 않은 화이트 RGB 구성입니다.3. 높은 쿨링 성능으로 시스템 전반의 온도가 낮습니다.# 180만원# 180만원 예산의 최적 조합# 단아한 화이트에 VGA RGB 포인트",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "7600은 인텔의 12세대 13세대의 약진을 한번에 저지했습니다.7600+4070 조합은 높은 게이밍 성능을 보장합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴상세보기[메모리]G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))상세보기[그래픽카드]MSI 지포스 RTX 4070 게이밍 X 슬림 화이트 D6X 12GB 트라이프로져3상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]DarkFlash DLM22 RGB 강화유리 화이트 (미니타워)상세보기[파워서플라이]마이크로닉스 Classic II 풀체인지 700W 80PLUS BRONZE 230V EU 화이트상세보기[CPU쿨러]DARKFLASH Ellsworth S21 (화이트)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현재 게이머들에게 가장 큰 사랑을 받고 있습니다. 인텔이 야심차게 준비한 13400 13500울 모두 꺾은 제품입니다.메인보드는 화이트 히트싱크를 통해 단정한 화이트 시스템을 완성 시켜줄 겁니다. 여기에 3개의 M.2 슬롯, Dr.Mos 가 적용된 8+2+1페이즈의 넉넉한 구성, 무선 장비에 대응가능한 Wifi 모듈까지 기본 탑재입니다.메모리는 튜닝 메모리 명가 GSKILL 제품입니다. 블랙&화이트 방열판과 위로 빛나는 하얀 RGB가 일품입니다.그래픽카드는 화이트 장인에 도전 중인 MSI 입니다. 세련되게 깎인 쿨러와 균일하게 도포 된 새 하얀 염료가 인상적입니다.SSD는 PCIe 4.0 하이앤드 제품입니다. 명불 허전이죠.케이스는 확장성이 뛰어난 제품입니다. 큰 케이스가 필요한 이유는 확장성 때문입니다.파워서플라이는 마이크로닉스가 파워 명가로 자리잡은지 꽤 오래 되었습니다. 유일한 화이트 버전의 700w 제품입니다. 좋은 성능에 좋은 가격은 말할 것도 없구요.CPU쿨러는 대형 날개를 통해 시스템 내부의 공기 흐름마저도 효율적으로 바꿔줍니다.조립PC관련는 믿고 맡길 수 있는 서비스",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600",
+            "가격": "234,040원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴",
+            "가격": "209,680원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지) 32GB",
+            "가격": "196,990원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4070 게이밍 X 슬림 화이트 D6X 12GB 트라이프로져3",
+            "가격": "1,007,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DarkFlash DLM22 RGB 강화유리 화이트",
+            "가격": "46,760원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 풀체인지 700W 80PLUS BRONZE 230V EU 화이트",
+            "가격": "85,210원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21",
+            "가격": "27,120원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1973790원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M Pro RS + WiFi6E 모듈 패키지 디앤디컴",
+    "Graphic Card": "MSI 지포스 RTX 4070 게이밍 X 슬림 화이트 D6X 12GB 트라이프로져3",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB 화이트 패키지 (32GB(16Gx2))",
+    "Power Supply": "마이크로닉스 Classic II 풀체인지 700W 80PLUS BRONZE 230V EU 화이트",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 (화이트)",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

@@ -1,0 +1,66 @@
+{
+    "quote_number": "3178",
+    "quote_title": "7800X3D + 4070 TI SUPER (리안리 A4-H20 Silver 미니 ITX 시스템)",
+    "date_create": "2024.2.19",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 7800X3D + 4070 TI SUPER (리안리 A4-H20 Silver 미니 ITX 시스템)# 7800X3D + 4070 TI SUPER (리안리 A4-H20 Silver 미니 ITX 시스템)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7800X3D + 4070 TI SUPER (리안리 A4-H20 Silver 미니 ITX 시스템)",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS ROG STRIX B650E-I GAMING WIFI STCOM상세보기[메모리]ESSENCORE KLEVV DDR5-6000 CL30 BOLT V 패키지 서린 (32GB(16Gx2))상세보기[그래픽카드]ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]리안리 A4-H20 Silver (미니ITX)상세보기[파워서플라이]쿨러마스터 V850 SFX GOLD ATX 3.0 (PCIE5)상세보기[CPU쿨러]Thermalright FROZEN MAGIC 240 ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 라이젠 7000번대 3D 모델 주인공인 7800X3D입니다. 순정 상태에서 13900KS를 넘어서는 뛰어난 게임 성능과 뛰어난 전성비가 장점입니다.메모리는 하인기스 에센코어의 고클럭 메모리입니다.그래픽카드는 AS 3대장 조텍의 RTX 4070 Ti SUPER Trinity 입니다.SSD는 PCIE4.0 대역폭 상급 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,390원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ROG STRIX B650E-I GAMING WIFI STCOM",
+            "가격": "443,220원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-6000 CL30 BOLT V 패키지 서린) 32GB",
+            "가격": "167,990원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+            "가격": "1,189,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "리안리 A4-H20 Silver",
+            "가격": "253,380원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 V850 SFX GOLD ATX 3.0",
+            "가격": "219,670원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright FROZEN MAGIC 240 ARGB",
+            "가격": "93,040원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3115980원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS ROG STRIX B650E-I GAMING WIFI STCOM",
+    "Graphic Card": "ZOTAC 지포스 RTX 4070 Ti SUPER Trinity D6X 16GB Black",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-6000 CL30 BOLT V 패키지 서린 (32GB(16Gx2))",
+    "Power Supply": "쿨러마스터 V850 SFX GOLD ATX 3.0 (PCIE5)",
+    "CPU Cooler": "Thermalright FROZEN MAGIC 240 ARGB",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

@@ -1,0 +1,60 @@
+{
+    "quote_number": "3417",
+    "quote_title": "5600G 사무용 + 롤",
+    "date_create": "2024.2.25",
+    "cpu_gpu_combinations": "라이젠5 5600G +  조합",
+    "quotation_summary": " 5600G 사무용 + 롤# 5600G 사무용 + 롤",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "5600G 사무용 + 롤",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600G (세잔) (멀티팩)상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]1stPlayer T7-P 블랙 (미들타워)상세보기[파워서플라이]마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE상세보기[CPU쿨러]DARKFLASH Ellsworth S21 ARGB (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 6코어 12스레드에 뛰어난 내장 그래픽 성능으로 가벼운 포토샵 작업까지 문제 없는 사무용 PC입니다.메인보드는 DP와 HDMI 포트를 모두 지원해 듀얼 모니터 사용도 문제 없고 모니터 호환성도 좋은 가성비 보드입니다.SSD는 이천 특산물로 불리며 낮은 발열과 뛰어난 성능으로 게임용이나 사무용도로도 훌륭한 제품입니다. \n안정성이 이미 검증된 제품이죠케이스는 케이스는 시소닉 유통사 맥스엘리트에서 나온 1stPlayer T7-P 블랙 제품이 가격대비 호환성도 좋고, 정숙성이 뛰어난 하이드로 베어링이 탑재된 쿨링팬이 기본 6개에 가성비가 뛰어납니다.CPU쿨러는 다크플래쉬의 새로운 가성비 쿨러입니다",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600G",
+            "가격": "152,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "77,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "20,510원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7-P 블랙",
+            "가격": "38,230원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE",
+            "가격": "41,380원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21 ARGB",
+            "가격": "26,950원",
+            "수량": "1"
+        }
+    },
+    "total_price": "456310원",
+    "CPU": "AMD 라이젠5-4세대 5600G (세잔) (멀티팩)",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "마이크로닉스 COOLMAX FOCUS II 500W ETA BRONZE",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 ARGB (블랙)",
+    "cpu_score": 504,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": null
+}

@@ -1,0 +1,60 @@
+{
+    "quote_number": "3605",
+    "quote_title": "라이젠 4650G 사무용 PC",
+    "date_create": "2024.2.29",
+    "cpu_gpu_combinations": "라이젠5 PRO 4650G +  조합",
+    "quotation_summary": " 라이젠 4650G 사무용 PC# 라이젠 4650G 사무용 PC",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "라이젠 4650G 사무용 PC",
+    "computer_estimate_data": "[CPU]AMD 라이젠5 PRO 르누아르 4650G (정품 멀티팩)(쿨러포함)상세보기[메인보드]ASRock A520M-HDV 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]컴이지 킹덤 AIR Mini RGB (미니타워)상세보기[파워서플라이]에너지옵티머스 EXCEL II 500W 80PLUS STANDARD 230V EU상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 인텔보다 내장그래픽 성능면에서 이점도 있고, 현재 가격대가 낮아져 인텔 i3로 구성하시는 것보다 저렴하게 구성 가능합니다.SSD는 이천 특산물로 불리며 낮은 발열과 뛰어난 성능으로 게임용이나 사무용도로도 훌륭한 제품입니다. \n안정성이 이미 검증된 제품이죠",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5 PRO 르누아르 4650G",
+            "가격": "105,050원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock A520M-HDV 대원씨티에스",
+            "가격": "72,210원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR4-3200 CL22  8GB",
+            "가격": "20,510원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "컴이지 킹덤 AIR Mini RGB",
+            "가격": "21,370원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "에너지옵티머스 EXCEL II 500W 80PLUS STANDARD 230V EU",
+            "가격": "33,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "370450원",
+    "CPU": "AMD 라이젠5 PRO 르누아르 4650G (정품 멀티팩)(쿨러포함)",
+    "Motherboard": "ASRock A520M-HDV 대원씨티에스",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "ESSENCORE KLEVV DDR4-3200 CL22 (8GB) x 2 개",
+    "Power Supply": "에너지옵티머스 EXCEL II 500W 80PLUS STANDARD 230V EU",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 745,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": null,
+    "gpu_benchmarkscore": null
+}

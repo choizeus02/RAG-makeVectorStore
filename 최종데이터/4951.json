@@ -1,0 +1,64 @@
+{
+    "quote_number": "4951",
+    "quote_title": "가성비 4K 게이밍 PC (7800X 3D + RX 7900 XTX)",
+    "date_create": "2024.4.1",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RX 7900 XTX 조합",
+    "quotation_summary": " 1. 4K 게이밍2. AFMF 기능3. 신작 찍먹파# 4K# 게임# 신작 게임# 스팀 게임# 최적화",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 견적맨으로 활동하고 있는 coke-bear 입니다.퀘이사존에서 주로 활동하며 그 외 커뮤니티에서도 간간히 활동하고 있습니다.하드웨어에 관심이 많아 제품을 직접 사용해보기도 하고 주변 지인들 PC 견적부터 조립도 해주다보니PC 구매를 어려워하거나 용도에 맞지 않게 구매하여 불필요한 지출을 하는 경우를 보게 되었습니다.그런 분들께 조금이라도 도움이 되고자 PC 구매자분들께 합리적인 구매를 할 수 있게 견적맨으로 활동하게 되었습니다.",
+    "quote_feedback": "4K 게이밍 PC 구성 중 4090의 가격대가 부담된다면 고려할 수 있는 선택지입니다.최근 최적화가 덜되서 나온 게임에서 AFMF 기능으로 4090 보다 상위 프레임 유지가 가능해서 각광받고 있습니다.AFMF 기능 전과 후가 다를 정도로 매우 평가가 달라진 제품 중 하나 입니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650 PG Lightning 대원씨티에스상세보기[그래픽카드]PowerColor 라데온 RX 7900 XTX Hellhound D6 24GB 대원씨티에스상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]Thermalright Peerless Assassin 120 SE 서린상세보기[이벤트특가][SSD + RAM] 마이크론 Crucial T500 1TB + Crucial DDR5-5600 (32GB(16Gx2)) 패키지 대원씨티에스상세보기[쿨러.튜닝.조명.액세서리]darkFlash C6S RGB (블랙 1PACK) x 3 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 7000번대 제품 중 13900KS 와 게임 성능 동급의 게임이 최강의 CPU 입니다.메인보드는 b650 칩셋의 메인보드 중 7950x 까지 커버 가능하여 추후 am5 소켓 지원하는 신제품 사용시에도 재사용 가능한 성능의 메인보드 입니다.그래픽카드는 라데온의 끝판왕 그래픽카드 입니다. 파워컬러 제품이 현재 가격도 저렴하고 AS 도 대원CTS가 맡고 있습니다.케이스는 다크플래쉬의 빅타워급 케이스인 DLX21 케이스 입니다. 동일 가격대 제품들이 비슷한 호환성을 가지고 있지만 강판 두께나 기본팬 성능, 측면팬과 그래픽카드 지지대가 포함되어 있어 가성비도 좋은 편입니다.파워서플라이는 슈퍼플라워 유통사인 뉴젠의 스컬 850W 골드 등급 제품입니다.\n고주파 발생까지도 무제한 새제품 교환 정책을 동일하게 가지고 있으면서 가격은 저렴합니다.CPU쿨러는 트윈타워형 공랭쿨러 제품 중 5만원 대의 가격에 쿨링 성능에서는 최상위 권의 성능을 가진 제품입니다. 깔끔한 블랙 색상의 도색으로 블랙 색상의 구성에도 준수하며 RGB 버전과 화이트 RGB 버전도 있어 PC 구성 컨셉에 따라 변경하여 구성이 가능합니다.이벤트특가는 견적왕에서만 구매 가능한 PCIE4.0 최상위 제품인 T500 1TB + 32GB 메모리 패키지 입니다.쿨러.튜닝.조명.액세서리는 DLX21에 장착된 기본팬입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "529,200원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650 PG Lightning 대원씨티에스",
+            "가격": "153,020원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "PowerColor 라데온 RX 7900 XTX Hellhound D6 24GB 대원씨티에스",
+            "가격": "1,394,890원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,360원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "129,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Peerless Assassin 120 SE 서린",
+            "가격": "36,950원",
+            "수량": "1"
+        },
+        "SSD + RAM": {
+            "제품명": "마이크론 Crucial T500 1TB + Crucial DDR5-5600 패키지 대원씨티에스 1TB",
+            "가격": "129,070원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "darkFlash C6S RGB x 3 개",
+            "가격": "6,740원",
+            "수량": "3"
+        }
+    },
+    "total_price": "2486390원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650 PG Lightning 대원씨티에스",
+    "Graphic Card": "PowerColor 라데온 RX 7900 XTX Hellhound D6 24GB 대원씨티에스",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "Thermalright Peerless Assassin 120 SE 서린",
+    "cpu_score": 225,
+    "gpu_score": 6,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 30951
+}

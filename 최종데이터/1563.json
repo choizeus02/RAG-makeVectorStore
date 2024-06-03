@@ -1,0 +1,66 @@
+{
+    "quote_number": "1563",
+    "quote_title": "라이젠 7600 x 4060 Ti 최신 부품 조합",
+    "date_create": "2024.4.9",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4060 Ti 조합",
+    "quotation_summary": " 1. Ryzen 7600 x RTX 4060 Ti2. 140만원 미만 게이밍 구성# 돈주고 구형을 사긴 싫은 분들을 위한 신형 부품 조합",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "140만원 미만에 최신 부품들만을 이용해서 구성해봤습니다.Ryzen 7600, RTX 4060 Ti 최신 부품들로만 만들었습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS TUF Gaming A620M-PLUS 대원씨티에스상세보기[메모리]GeIL DDR5-5600 CL46 PRISTINE V (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DARKFLASH DK200 RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]DARKFLASH SAVEMOST 600W 80PLUS STANDARD상세보기[CPU쿨러]DARKFLASH Ellsworth S21 ARGB (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 저발열, 고성능 가성비 1등 최신 CPU메인보드는 현재 A620 최고의 가성비메모리는 이미 많은 판매로 검증된 DDR5 메모리 입니다.그래픽카드는 RTX 3070보다 깡성능이 부족하다지만 그래도 최신제품이라는 기분은 대신할 수 없죠SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD케이스는 가성비 공랭 구성에서는 이녀석을 제외하기 어렵죠.파워서플라이는 떠오르는 가성비 파워CPU쿨러는 떠오르는 신흥 가성비 쿨러 강자...!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "239,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS TUF Gaming A620M-PLUS 대원씨티에스",
+            "가격": "164,770원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "GeIL DDR5-5600 CL46 PRISTINE V  16GB",
+            "가격": "62,490원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+            "가격": "538,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK200 RGB 강화유리 블랙",
+            "가격": "36,280원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH SAVEMOST 600W 80PLUS STANDARD",
+            "가격": "52,870원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth S21 ARGB",
+            "가격": "27,120원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1312950원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS TUF Gaming A620M-PLUS 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "GeIL DDR5-5600 CL46 PRISTINE V (16GB) x 2 개",
+    "Power Supply": "DARKFLASH SAVEMOST 600W 80PLUS STANDARD",
+    "CPU Cooler": "DARKFLASH Ellsworth S21 ARGB (블랙)",
+    "cpu_score": 312,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 22891
+}

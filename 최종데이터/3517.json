@@ -1,0 +1,76 @@
+{
+    "quote_number": "3517",
+    "quote_title": "코어i7-14세대 14700K + 지포스 RTX 4080 SUPER",
+    "date_create": "2024.2.27",
+    "cpu_gpu_combinations": "코어i7-14700K + RTX 4080 SUPER 조합",
+    "quotation_summary": " 코어i7-14세대 14700K + 지포스 RTX 4080 SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "추가하려는 시스템 팬 3팩 제품이 컨트롤러 하나가 있고 CPU쿨러인 크라켄에도 컨트롤러가 있습니다.또한 크라켄에는 두 개의 컨트롤러를 하나의 USB 2.0 헤더에 연결할 수 있는 스플리터도 제공해서 별 문제 없이 모든 팬을 동기화해서 제어할 수 있습니다.문제될 부분이 없는 구성이라 그대로 진행하시면 될 것 같구요.HDD도 Western Digital WD BLUE 5400/256M (WD40EZAZ, 4TB)가 SMR 방식이고 현재 구성하신 Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)은 PMR 방식이라 그대로 진행해도 됩니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700K (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]OLOy DDR5-6000 CL32 (32GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (2TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)상세보기[케이스]NZXT H9 Flow Matte White (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]NZXT KRAKEN 360 RGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]NZXT F120 RGB CORE White (1PACK)상세보기[쿨러.튜닝.조명.액세서리]NZXT F120 RGB CORE White (3PACK/Controller) x 2 개상세보기[쿨러.튜닝.조명.액세서리]LEADCOOL RH-1 EVO ARGB 메모리 방열판 화이트 (2PACK)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700K",
+            "가격": "576,050원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "379,890원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "OLOy DDR5-6000 CL32  32GB",
+            "가격": "198,570원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+            "가격": "1,547,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 2TB",
+            "가격": "289,000원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/256M",
+            "가격": "158,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "NZXT H9 Flow Matte White",
+            "가격": "231,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NZXT KRAKEN 360 RGB",
+            "가격": "309,210원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "LEADCOOL RH-1 EVO ARGB 메모리 방열판 화이트",
+            "가격": "13,660원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4040590원",
+    "CPU": "코어i7-14세대 14700K (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4080 SUPER MIRACLE WHITE D6X 16GB",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (2TB)",
+    "Memory": "OLOy DDR5-6000 CL32 (32GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "NZXT KRAKEN 360 RGB (WHITE)",
+    "cpu_score": 98,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": 34625
+}

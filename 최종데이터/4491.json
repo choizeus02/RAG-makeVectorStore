@@ -1,0 +1,71 @@
+{
+    "quote_number": "4491",
+    "quote_title": "NVIDIA RTX ADA A.I 시스템 PC",
+    "date_create": "2024.3.20",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX A6000 조합",
+    "quotation_summary": " 향후에 다른 A.I. 모델에 대응 할 수 있는 PC로써,16코어 32쓰레드의 CPU와 총 96GB에 달하는 메인메모리를 기본 구성으로 하여 LLMs A.I.를 처리 할 수 있는 GPU의 장착까지현재 개인이 구비 할 수 있는 최고의 시스템 입니다.# AI 및 각종 시뮬레이션 프로그램을 활요하는 분# 전문직# 회사",
+    "quote_person_introduction": "안녕하세요. 견적왕에서 활동하고 있는 라인이80 입니다.컴퓨터를 구매 하시는 분들에게 가장 알맞고 적합한 제품으로 a/s 및 제품 호환성을 가장 먼저 생각하고 구성해 드립니다.",
+    "quote_feedback": "최근에 점점 증가하는 생성형 인공지능 및 AI 관련된 업무에 맞게 구성된 시스템 입니다.16코어 32쓰레드의 CPU와 총 96GB에 달하는 메인메모리를 기본 구성으로 하여 LLMs A.I.를 처리 할 수 있는 GPU의 장착까지향후에 다른 A.I. 모델까지 대응 할 수 있는 PC 입니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]MSI MPG X670E 카본 WiFi상세보기[메모리]G.SKILL DDR5-5600 CL40 RIPJAWS S5 J 블랙 패키지 (96GB(48Gx2))상세보기[그래픽카드]NVIDIA RTX 6000 Ada Generation D6 48GB 엔비디아코리아 정품상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (2TB)상세보기[케이스]BRAVOTEC GUARDIAN 5100M 타이탄 글래스 Black (빅타워)상세보기[파워서플라이]SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)상세보기[CPU쿨러]NOCTUA NH-D15 Chromax.black상세보기[쿨러.튜닝.조명.액세서리]NF-A14 PWM chromax black swap x 4 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 AI 프로그램에 최적화된 CPU입니다.메인보드는 고사양 CPU에 가장 적합한 고등급의 메인보드 입니다.메모리는 안정적인 사용을 위한 고 용량의 메인 메모리 제품 입니다.그래픽카드는 AI 및 시뮬레이션 작업에 반드시 필요한 GPU입니다.SSD는 빈번한 데이타 이동 속도에 맞게 M.2 SSD 제품중에 가장 인기있고 안정적인 제품 입니다.케이스는 발열로 인한 시스템 다운이나 쓰로틀링의 방지를 위한 통풍이 잘되는 케이스 입니다.파워서플라이는 사용자의 안정적인 PC 사용을 위한 고용량 고출력 제품의 파워 입니다.CPU쿨러는 서버 및 임베디드 시스템 쿨러 전문 제조회사의 제품으로 먼지로 인한 쿨러 불량, 열 배기를 잘 처리 할 수 있는 제품입니다.쿨러.튜닝.조명.액세서리는 서버 및 임베디드 시스템 쿨러 전문 제조회사의 제품으로 먼지로 인한 쿨러 불량, 열 배기를 잘 처리 할 수 있는 제품입니다.조립PC관련는 주문 후 사후 처리까지 해드립니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "891,920원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MPG X670E 카본 WiFi",
+            "가격": "676,460원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-5600 CL40 RIPJAWS S5 J 블랙 패키지) 96GB",
+            "가격": "463,664원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "NVIDIA RTX 6000 Ada Generation D6 48GB 엔비디아코리아 정품",
+            "가격": "11,440,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 2TB",
+            "가격": "289,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "BRAVOTEC GUARDIAN 5100M 타이탄 글래스 Black",
+            "가격": "85,410원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0",
+            "가격": "227,420원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NOCTUA NH-D15 Chromax.black",
+            "가격": "167,270원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "NF-A14 PWM chromax black swap x 4 개",
+            "가격": "31,390원",
+            "수량": "4"
+        }
+    },
+    "total_price": "14366704원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "MSI MPG X670E 카본 WiFi",
+    "Graphic Card": "NVIDIA RTX 6000 Ada Generation D6 48GB 엔비디아코리아 정품",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (2TB)",
+    "Memory": "G.SKILL DDR5-5600 CL40 RIPJAWS S5 J 블랙 패키지 (96GB(48Gx2))",
+    "Power Supply": "SuperFlower SF-1000F14XG LEADEX VII GOLD ATX 3.0 (PCIE5)",
+    "CPU Cooler": "NOCTUA NH-D15 Chromax.black",
+    "cpu_score": 63,
+    "gpu_score": 14,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 28212
+}

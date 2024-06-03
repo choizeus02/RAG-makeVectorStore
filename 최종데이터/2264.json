@@ -1,0 +1,54 @@
+{
+    "quote_number": "2264",
+    "quote_title": "[인텔] i3 사무용PC 12100+내장그래픽",
+    "date_create": "2024.1.26",
+    "cpu_gpu_combinations": "코어i3-12100 +  조합",
+    "quotation_summary": " [인텔] i3 사무용PC 12100+내장그래픽# 사무용# 가정용# 인텔# 12100# 동영상시청# 문서작업# 웹서핑",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 Mr.홍금보 입니다.퀘이사존 다년간 좋은 인지도로 굳게 자리 잡았으며,저렴하다고 제품이 다 좋거나 가성비가 좋은건 아닙니다!합리적인 구매를 하실 수 있게 검증된 제품으로만 판매를 하고 구성을 하고 있으며,기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.믿고 맡겨주신다면, 그에 부응하도록 최선을 다할것을 굳게 약속 드리겠습니다!",
+    "quote_feedback": "인텔 사무용PC를 원하시는 경우, 웹서핑, 동영상,OTT 시청, 문서작업 등 간단한 사무용, 가정용으로 적합합니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i3-12세대 12100 (엘더레이크) (정품)상세보기[메인보드]ASRock H610M-HDV/M.2 R2.0 D4 디앤디컴상세보기[메모리]마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]DARKFLASH DK110 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 500 BRONZE V2 230V상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 4코어 8쓰레드 내장그래픽 탑재!메인보드는 HDMI, DP 포트 탑재!메모리는 저렴한 가성비 RAMSSD는 안정성, 가격 가성비 SSD!케이스는 사무용에 적합한 케이스!파워서플라이는 가격도 성능도 준수한 파워!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i3-12세대 12100",
+            "가격": "150,390원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock H610M-HDV/M.2 R2.0 D4 디앤디컴",
+            "가격": "94,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4 8G PC4-25600 CL22",
+            "가격": "21,480원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK110",
+            "가격": "18,550원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 500 BRONZE V2 230V",
+            "가격": "44,860원",
+            "수량": "1"
+        }
+    },
+    "total_price": "430740원",
+    "CPU": "인텔 코어i3-12세대 12100 (엘더레이크) (정품)",
+    "Motherboard": "ASRock H610M-HDV/M.2 R2.0 D4 디앤디컴",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개",
+    "Power Supply": "쿨러마스터 MWE 500 BRONZE V2 230V",
+    "cpu_score": 844,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 14250,
+    "gpu_benchmarkscore": null
+}

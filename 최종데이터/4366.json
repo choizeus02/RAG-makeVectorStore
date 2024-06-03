@@ -1,0 +1,76 @@
+{
+    "quote_number": "4366",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + RTX 4070 Ti SUPER",
+    "date_create": "2024.3.17",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + RTX 4070 Ti SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 언더볼팅을 해주는 업체는 없는 걸로 알고 있습니다. 14700K는 Z790 칩셋과 대장급 성능의 3열 수냉쿨러를 강제합니다.2. 윈도우 이슈는 11 출시 초기에나 있었고 지금은 해당 사항없습니다. 윈도우 10은 서비스 종료 예정이고 가격대도 비정상적으로 높아져서 추천을 하지 않구요.3. ODD 장착이 불가능한 케이스입니다. 내장으로 장착을 하고 싶다면 잘만 Z1 PLUS 강화유리 (미들타워)로 변경해주시구요.4. CPU발을 많이 받는 게임이면 14900K보다도 대부분의 게임에서 더 높은 프레임을 보여주는 게임 끝판왕인 7800X3D로 추천을 드립니다.5. 7800X3D의 경우 100MB에 육박하는 L3 캐시 메모리로 게임을 박살 내는 타입의 제품으로 메모리 클럭의 영향을 덜 받고 압도적인 전성비로 공랭쿨러로 완벽한 온도 제어까지 가능합니다.6. 가격대비 성능이 월등히 좋은 제품들 위주로 견적 구성해드렸습니다. 참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB상세보기[SSD]삼성전자 990 PRO M.2 NVMe (2TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 7200/256M (WD20EZBX, 2TB)상세보기[케이스]잘만 Z1 PLUS 강화유리 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[ODD]Lite-On DVD-ROM DH-18DFSH상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU쿨러는 케이스와도 잘 어울리는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "213,740원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB",
+            "가격": "1,230,410원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 990 PRO M.2 NVMe 2TB",
+            "가격": "272,880원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 7200/256M",
+            "가격": "77,100원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "잘만 Z1 PLUS 강화유리",
+            "가격": "53,170원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "129,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,060원",
+            "수량": "1"
+        },
+        "ODD": {
+            "제품명": "Lite-On DVD-ROM DH-18DFSH",
+            "가격": "19,520원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2678840원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB",
+    "SSD": "삼성전자 990 PRO M.2 NVMe (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

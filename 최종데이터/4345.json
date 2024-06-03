@@ -1,0 +1,71 @@
+{
+    "quote_number": "4345",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4070",
+    "date_create": "2024.3.16",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4070# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 게임은 평균프레임도 중요하지만 로우 1%프레임도 상당히 중요하죠. 평균 프레임도 1% 로우 프레임도 압도적으로 높은 7800X3D로 추천을 드립니다. 인텔은 14세대가 출시된 상황인데 12세대로 구성하는 것도 그렇고 7800X3D는 인텔의 최상위 CPU인 14900K보다도 오버워치와 발로란트에서는 프레임이 더 잘 나옵니다.2. 메인보드는 600A급 출력의 드라이버 모스펫 전원부가 적용되어 있는 ASRock B650M PG Riptide 대원씨티에스로 변경3. 7800X3D는 100MB에 육박하는 L3 캐시메모리로 게임을 박살 내버리는 타입의 제품이라 다른 CPU에 비해서 메모리 클럭의 영향을 덜 받습니다. 5600MHz 고클럭 규격램으로 구성해도 최고의 게임 퍼포먼스를 보여줍니다.TeamGroup DDR5-5600 CL46 Elite (16GB) x 2개 32기가로 변경4. 구성하신 GIGABYTE 지포스 RTX 4070 Gaming OC D6X 12GB 피씨디렉트 그래픽카드는 한 곳만 유독 싸게 판매를 하고 있어서 실구매가는 올라가게 됩니다.1티어 AS에 많은 업체에서 평균적인 금액대에 판매중이라 가격적인 메리트도 높은 갤럭시 GALAX 지포스 RTX 4070 2X D6X 12GB로 변경5. 케이스는 4개의 팬을 기본장착하고 C타입 포트가 적용되어 있는 파노라마 뷰 어항디자인의 제품 중에서는 압도적인 가성비를 제공하는 DARKFLASH DS900 ARGB 강화유리 블랙 (미들타워)로 변경6. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 가성비 좋은 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)로 변경7. 7800X3D는 공랭쿨러로도 온도가 완벽히 제어가 되지만 어항케이스 조합이라 대장급 성능의 3열 수냉쿨러 중에서는 가성비가 가장 좋고 케이스와 같은 제조사인 DARKFLASH NEBULA DN-360 ARGB (블랙)으로 변경해서 깔맞춤 했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 2X D6X 12GB상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]DARKFLASH DS900 ARGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]DARKFLASH NEBULA DN-360 ARGB (블랙)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU쿨러는 CPU쿨러는 대장급 성능의 3열 수냉쿨러 중에서는 압도적인 가성비를 제공하는 DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "213,740원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 2X D6X 12GB",
+            "가격": "993,980원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,520원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DS900 ARGB 강화유리 블랙",
+            "가격": "52,750원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "129,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH NEBULA DN-360 ARGB",
+            "가격": "81,340원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2397780원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 2X D6X 12GB",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "DARKFLASH NEBULA DN-360 ARGB (블랙)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

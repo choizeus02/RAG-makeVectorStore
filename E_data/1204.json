@@ -1,0 +1,63 @@
+{
+  "quote_number": "1204",
+  "quote_title": "100만원 이하 극한의 가성비 라라랜드",
+  "date_create": "2024.2.23",
+  "cpu_gpu_combinations": "라이젠5 5600 + RX 7600 조합",
+  "quotation_summary": " 1. 라라랜드 극한의 가성비(Ryzen 5600 x RX 6700 XT)2. 국내게임보다는 해외 게임 위주로 하시는 분들에게 적합# 100만원 이하로 게이밍 가성비 PC를 찾는분",
+  "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+  "quote_feedback": "VRAM 용량까지 많이 필요한 게이머를 위해 준비해봤습니다.라데온 특성상 국내 인기게임보다는 해외 인기게임 및 플레이스테이션 기반 게임들에서 성능이 잘나옵니다.가성비의 대명사 라라랜드로 그중에서도 가성비가 제일 좋은 Ryzen 5600 x 라데온 RX 6700 XT 조합의 구성입니다.",
+  "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME B550M-A 대원CTS상세보기[메모리]마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개상세보기[그래픽카드]SAPPHIRE 라데온 RX 7600 PULSE OC D6 8GB상세보기[SSD]마이크론 Crucial P3 Plus 대원씨티에스 (500GB)상세보기[케이스]DARKFLASH DK200 RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]맥스엘리트 MAXELITE MAXWELL BARON 700W 80PLUS BRONZE 플랫상세보기[CPU쿨러]DARKFLASH Ellsworth S21 ARGB (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+  "quote_description": "CPU는 설명하자면 손이 아픈 CPU입니다.\n현존 가성비 1등위 6코어 12스레드 게이밍 CPU메인보드는 Ryzen 5700X 또는 5800X3D를 게임용으로 사용가능한 가성비 좋은 메인보드메모리는 JEDEC 표준 스팩 제품중 AS와 가격 모두 합리적인 제품그래픽카드는 현재 100만원 미만 구성에 필수인 RX 7600!SSD는 DRAMLESS SSD지만 게임용도로는 충분하죠케이스는 가성비 공랭 구성에서는 이녀석을 제외하기 어렵죠.파워서플라이는 무난한게 최고다. 맥스엘리트 정격 700W 파워CPU쿨러는 떠오르는 신흥 가성비 쿨러 강자...!",
+  "parts_price": {
+    "CPU": {
+      "제품명": "AMD 라이젠5-4세대 5600",
+      "가격": "143,660원",
+      "수량": "1"
+    },
+    "메인보드": {
+      "제품명": "ASUS PRIME B550M-A 대원CTS",
+      "가격": "113,890원",
+      "수량": "1"
+    },
+    "메모리": {
+      "제품명": "마이크론 Crucial DDR4 8G PC4-25600 CL22",
+      "가격": "21,480원",
+      "수량": "2"
+    },
+    "그래픽카드": {
+      "제품명": "SAPPHIRE 라데온 RX 7600 PULSE OC D6 8GB",
+      "가격": "364,760원",
+      "수량": "1"
+    },
+    "SSD": {
+      "제품명": "마이크론 Crucial P3 Plus 대원씨티에스 500GB",
+      "가격": "59,740원",
+      "수량": "1"
+    },
+    "케이스": {
+      "제품명": "DARKFLASH DK200 RGB 강화유리 블랙",
+      "가격": "36,280원",
+      "수량": "1"
+    },
+    "파워서플라이": {
+      "제품명": "맥스엘리트 MAXELITE MAXWELL BARON 700W 80PLUS BRONZE 플랫",
+      "가격": "74,520원",
+      "수량": "1"
+    },
+    "CPU쿨러": {
+      "제품명": "DARKFLASH Ellsworth S21 ARGB",
+      "가격": "27,120원",
+      "수량": "1"
+    }
+  },
+  "total_price": "862930원",
+  "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+  "Motherboard": "ASUS PRIME B550M-A 대원CTS",
+  "Graphic_Card": "SAPPHIRE 라데온 RX 7600 PULSE OC D6 8GB",
+  "SSD": "마이크론 Crucial P3 Plus 대원씨티에스 (500GB)",
+  "Memory": "마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개",
+  "Power_Supply": "맥스엘리트 MAXELITE MAXWELL BARON 700W 80PLUS BRONZE 플랫",
+  "CPU_Cooler": "DARKFLASH Ellsworth S21 ARGB (블랙)",
+  "games": "해외게임, 플레이스테이션 게임",
+  "purpose": "게이밍"
+}

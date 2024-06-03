@@ -1,0 +1,76 @@
+{
+    "quote_number": "4604",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.3.23",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4070 SUPER# 게임용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1.https://photo.coolenjoy.co.kr/data/editor/2401/efa65f5dbc58af32a6525429131bf9329f3514e7.png그래픽카드 성능 벤치 자료입니다.보통 1%의 성능을 높이기 위해서 들어가는 기회비용을 만원 정도로 봅니다. 즉 10%의 성능을 올리려면 10만원 정도가 적당하다는 말이죠.위 링크한 주소 복사해서 들어가보면 4070 SUPER와 4070 Ti 그리고 4070 TI SUPER가 촘촘하게 붙어있고 5% 정도씩 차이가 나는 것을 알 수 있습니다.위에 언급했듯이 1%당 만원을 적용해 본다면 5만원씩 차이가 날 때 각 그래픽카드의 가성비가 좋다고 할 수 있죠.현재 구성하신 이노3D 4070 SUPER가 89만원대고 웬만한 4070 Ti SUPER는 123만원 정도에 판매하고 있습니다. 두 제품간의 가격차이는 34만원이죠. 34%의 성능차이가 날 때 투자가치가 있다는 말인데 두 제품간의 성능 차이는 10%가 조금 넘는 수준입니다.이론상으로 보면 4070 SUPER의 가성비가 4070 Ti SUPER를 압도하는 수준이고 비교조차 안된다고 보면 맞습니다.2. 근데 사실 그래픽카드는 이런 이론상의 수치보다는 게임에 따른 자기 만족도가 높기때문에 더 많은 금액을 투자하더라도 높은 성능의 제품으로 구성하기 마련입니다. 개인적으로는 반대는 하지 않지만 34만원의 투자가치에 따른 성능은 본인이 판단을 하시기 바랍니다. 전 가치가 없다고 보고 그대로 구성하는 것을 추천드리구요.3. 현재 구성대로 진행해서도 QHD 해상도까지는 아무런 문제가 없는 구성입니다. 듀얼모니터를 사용한다고 해서 그래픽카드 사양이 더 높아야 되는 것도 아니구요.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]inno3D 지포스 RTX 4070 SUPER OC D6X 12GB X3상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/64M (WD20EARZ, 2TB)상세보기[케이스]1stPlayer T7 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!CPU쿨러는 케이스와도 잘 어울리는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 압도적인 가성비를 제공",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "518,680원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "214,920원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "63,500원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "inno3D 지포스 RTX 4070 SUPER OC D6X 12GB X3",
+            "가격": "937,580원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "105,000원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/64M",
+            "가격": "79,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7 블랙",
+            "가격": "37,920원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,060원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,470원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2353950원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "inno3D 지포스 RTX 4070 SUPER OC D6X 12GB X3",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

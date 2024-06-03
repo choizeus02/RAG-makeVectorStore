@@ -1,0 +1,71 @@
+{
+    "quote_number": "3052",
+    "quote_title": "AMD 라이젠7-5세대 7700 + RTX 4070 Ti SUPER",
+    "date_create": "2024.2.16",
+    "cpu_gpu_combinations": "라이젠7 7700 + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7700 + RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "케이스 스펙상 문제될 부분은 없는 것 같습니다.혹시나 놓친 부분이 있다면 조립 단계에서 업체에서 연락이 갈 겁니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7700 (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS ROG STRIX B650E-I GAMING WIFI STCOM상세보기[메모리]ESSENCORE KLEVV DDR5-6400 CL32 CRAS V RGB 패키지 서린 (64GB(32Gx2))상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 제이씨현상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[SSD]마이크론 Crucial T500 히트싱크 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]SSUPD MESHROOM D Snow White (리틀밸리)상세보기[파워서플라이]쿨러마스터 V850 SFX GOLD White Edition상세보기[CPU쿨러]NZXT KRAKEN 280 RGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]Thermalright TL-B9W상세보기[쿨러.튜닝.조명.액세서리]ARCTIC P12 PWM PST ARGB 피씨디렉트 (white)상세보기[쿨러.튜닝.조명.액세서리]Thermalright TL-B8W 서린 x 2 개상세보기[쿨러.튜닝.조명.액세서리]Thermalright TL-FAN and ARGB HUB x8상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기SSD는 PCI-E 4.0 새롭게 떠오르는 가성비 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7700",
+            "가격": "402,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ROG STRIX B650E-I GAMING WIFI STCOM",
+            "가격": "443,210원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-6400 CL32 CRAS V RGB 패키지 서린) 64GB",
+            "가격": "356,700원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 제이씨현",
+            "가격": "1,368,910원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 히트싱크 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "255,080원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "SSUPD MESHROOM D Snow White",
+            "가격": "172,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 V850 SFX GOLD White Edition",
+            "가격": "215,810원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NZXT KRAKEN 280 RGB",
+            "가격": "249,400원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "Thermalright TL-FAN and ARGB HUB x8",
+            "가격": "19,300원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3483690원",
+    "CPU": "AMD 라이젠7-5세대 7700 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS ROG STRIX B650E-I GAMING WIFI STCOM",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 Ti SUPER AERO OC D6X 16GB 제이씨현",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-6400 CL32 CRAS V RGB 패키지 서린 (64GB(32Gx2))",
+    "Power Supply": "쿨러마스터 V850 SFX GOLD White Edition",
+    "CPU Cooler": "NZXT KRAKEN 280 RGB (WHITE)",
+    "cpu_score": 209,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 35970,
+    "gpu_benchmarkscore": 31768
+}

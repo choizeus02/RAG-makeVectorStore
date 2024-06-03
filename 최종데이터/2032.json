@@ -1,0 +1,66 @@
+{
+    "quote_number": "2032",
+    "quote_title": "게이밍 풀세트 구성(모니터, 운영체제, 주변기기 포함)",
+    "date_create": "2024.3.22",
+    "cpu_gpu_combinations": "라이젠7 7700 + RTX 4060 Ti 조합",
+    "quotation_summary": " 1. 라라랜드(7500f + RX 7600) 조합의 가성비 구성2. 모니터, 운영체제, 주변기기 풀세트 구성# 150만원에 가성비 좋은 게이밍 풀세트 구성이 필요하신 분들께",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "가성비가 나쁠 수 없는 라이젠 7500f x 라데온 RX 7600 조합입니다.소위 라라랜드 또는 R+R 조합이라 불리는 구성이고, 가성비 구간으로는 최고 만족도 아닐까싶습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7700 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock A620M-HDV/M.2+ 에즈윈상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]DARKFLASH DK200 RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]DARKFLASH SAVEMOST 600W 80PLUS STANDARD상세보기[CPU쿨러]DARKFLASH Ellsworth D21 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 AM5 A620 칩셋중 가성비 최고의 제품메모리는 검증된 가성비 DDR5 5600클럭 제품SSD는 게이밍 목적으로는 이만한 가성비 제품이 없죠.케이스는 가성비 공랭 구성에서는 이녀석을 제외하기 어렵죠.파워서플라이는 떠오르는 가성비 파워조립PC관련는 -",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7700",
+            "가격": "402,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock A620M-HDV/M.2+ 에즈윈",
+            "가격": "108,511원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  16GB",
+            "가격": "64,700원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+            "가격": "539,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK200 RGB 강화유리 블랙",
+            "가격": "36,280원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH SAVEMOST 600W 80PLUS STANDARD",
+            "가격": "52,870원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DARKFLASH Ellsworth D21",
+            "가격": "47,480원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1454531원",
+    "CPU": "AMD 라이젠7-5세대 7700 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock A620M-HDV/M.2+ 에즈윈",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (16GB) x 2 개",
+    "Power Supply": "DARKFLASH SAVEMOST 600W 80PLUS STANDARD",
+    "CPU Cooler": "DARKFLASH Ellsworth D21 (BLACK)",
+    "cpu_score": 209,
+    "gpu_score": 32,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 35970,
+    "gpu_benchmarkscore": 22891
+}

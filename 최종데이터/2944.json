@@ -1,0 +1,71 @@
+{
+    "quote_number": "2944",
+    "quote_title": "7500F + RX 7600 라라랜드",
+    "date_create": "2024.2.14",
+    "cpu_gpu_combinations": "라이젠5 7500F + RX 7600 조합",
+    "quotation_summary": " 7500F + RX 7600 라라랜드# 7500F + RX 7600 라라랜드",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7500F + RX 7600 라라랜드",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS EX B650M-V7 대원씨티에스상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (8GB) x 2 개상세보기[그래픽카드]ASRock 라데온 RX 7600 CHALLENGER OC D6 8GB 디앤디컴상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]1stPlayer T7-P 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]3RSYS TEAMMOST TM40상세보기[쿨러.튜닝.조명.액세서리]잘만 ZM-MH10 ARGB 메모리 방열판 (1PACK) x 2 개상세보기[쿨러.튜닝.조명.액세서리]JONSBO JELLY M.2 SSD HEATSINK AUTO RGB상세보기[쿨러.튜닝.조명.액세서리]엠스톤글로벌 mStone 아틀라스 아크릴 ARGB 그래픽카드 지지대상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 최고의 게이밍 가성비 CPU입니다메인보드는 ASUS의 가성비 B650 보드SSD는 삼성 980 프로 OEM 제품으로 가성비가 좋습니다.파워서플라이는 가성비 좋은 쿨러마스터의 브론즈 등급 제품으로 대양에서 유통해서 AS도 좋습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7500F",
+            "가격": "204,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS EX B650M-V7 대원씨티에스",
+            "가격": "137,680원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  8GB",
+            "가격": "38,090원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ASRock 라데온 RX 7600 CHALLENGER OC D6 8GB 디앤디컴",
+            "가격": "354,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,110원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "1stPlayer T7-P 블랙",
+            "가격": "38,230원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS TEAMMOST TM40",
+            "가격": "18,800원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "엠스톤글로벌 mStone 아틀라스 아크릴 ARGB 그래픽카드 지지대",
+            "가격": "4,900원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1007990원",
+    "CPU": "AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS EX B650M-V7 대원씨티에스",
+    "Graphic Card": "ASRock 라데온 RX 7600 CHALLENGER OC D6 8GB 디앤디컴",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (8GB) x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "3RSYS TEAMMOST TM40",
+    "cpu_score": 355,
+    "gpu_score": 72,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 26926,
+    "gpu_benchmarkscore": 17905
+}

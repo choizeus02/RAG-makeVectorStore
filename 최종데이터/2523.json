@@ -1,0 +1,66 @@
+{
+    "quote_number": "2523",
+    "quote_title": "5600 + 3050 가성비 캐주얼 게이밍",
+    "date_create": "2024.2.4",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 3050 조합",
+    "quotation_summary": " 5600 + 3050 가성비 캐주얼 게이밍# 5600 + 3050 가성비 캐주얼 게이밍",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "5600 + 3050 가성비 캐주얼 게이밍",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개상세보기[그래픽카드]MSI 지포스 RTX 3050 벤투스 2X XS OC D6 8GB상세보기[SSD]SK하이닉스 Gold P31 M2 NVMe (1TB)상세보기[케이스]아이구주 HATCH 3 배너 메쉬 강화유리 블랙 (미들타워)상세보기[파워서플라이]쿨러마스터 MWE 600 BRONZE V2 230V상세보기[CPU쿨러]DEEPCOOL AG400상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 여전히 가성비 게이밍 CPU로 명성이 자자한 CPU입니다.메인보드는 DP와 HDMI 포트를 모두 지원해 듀얼 모니터 사용도 문제 없고 모니터 호환성도 좋은 가성비 보드입니다.메모리는 가격도 좋고 보증 정책 괜찮은 메모리입니다.SSD는 발열도 적어 게임용으로도 많이 추천되는 제품입니다.파워서플라이는 가성비 좋은 쿨러마스터의 브론즈 등급 제품으로 대양에서 유통해서 AS도 좋습니다.CPU쿨러는 팔라딘 400 급 성능에 2만원 초반선의 극가성비 쿨러입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "71,450원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4 8G PC4-25600 CL22",
+            "가격": "21,480원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 3050 벤투스 2X XS OC D6 8GB",
+            "가격": "300,200원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Gold P31 M2 NVMe 1TB",
+            "가격": "138,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "아이구주 HATCH 3 배너 메쉬 강화유리 블랙",
+            "가격": "36,670원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "쿨러마스터 MWE 600 BRONZE V2 230V",
+            "가격": "71,400원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DEEPCOOL AG400",
+            "가격": "21,700원",
+            "수량": "1"
+        }
+    },
+    "total_price": "826040원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "Graphic Card": "MSI 지포스 RTX 3050 벤투스 2X XS OC D6 8GB",
+    "SSD": "SK하이닉스 Gold P31 M2 NVMe (1TB)",
+    "Memory": "마이크론 Crucial DDR4 8G PC4-25600 CL22 x 2 개",
+    "Power Supply": "쿨러마스터 MWE 600 BRONZE V2 230V",
+    "CPU Cooler": "DEEPCOOL AG400",
+    "cpu_score": 504,
+    "gpu_score": 170,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 12885
+}

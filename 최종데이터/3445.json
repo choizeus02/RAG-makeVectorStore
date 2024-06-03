@@ -1,0 +1,76 @@
+{
+    "quote_number": "3445",
+    "quote_title": "7600 + RTX 4070 (QHD",
+    "date_create": "2024.2.25",
+    "cpu_gpu_combinations": "라이젠5 7600 + RTX 4070 조합",
+    "quotation_summary": " 7600 + RTX 4070 (QHD# 7600 + RTX 4070 (QHD",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7600 + RTX 4070 (QHD",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))상세보기[메인보드]ASRock B650M PG Lightning + WiFi6E 모듈 패키지 디앤디컴상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 WINDFORCE OC D6X 12GB 제이씨현상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DARKFLASH DK290 Air MESH RGB 강화유리 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]DEEPCOOL AG400상세보기[모니터]크로스오버 27GQ7 IPS QHD 크로스기어 무결점상세보기[쿨러.튜닝.조명.액세서리]엠스톤 M.2 SSD 히트파이프 방열판 (블랙)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 라이젠 NON X 버전으로 발열을 잡고 나와 2~3만원대 공랭쿨러로 커버 가능해 가성비가 좋아졌습니다. \n게임성능도 인텔 13세대 i5 13500보다 뛰어납니다.메모리는 팀그룹의 DDR5 5600 패키지로 호환성이나 가성비가 좋은 제품입니다.SSD는 PCIe4.0 최상급 성능의 SSD입니다.파워서플라이는 10년 보증에 슈퍼플라워랑 같은 유통사로 고주파 발생시 새제품 교환 등 AS 정책에 뛰어난 가성비까지 겸비한 파워입니다.CPU쿨러는 팔라딘 400 급 성능에 2만원 초반선의 극가성비 쿨러입니다.쿨러.튜닝.조명.액세서리는 히트파이프가 들어간 m.2 방열판입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-5세대 7600)",
+            "가격": "234,070원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Lightning + WiFi6E 모듈 패키지 디앤디컴",
+            "가격": "196,760원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 WINDFORCE OC D6X 12GB 제이씨현",
+            "가격": "920,560원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "128,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DK290 Air MESH RGB 강화유리 블랙",
+            "가격": "39,740원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "DEEPCOOL AG400",
+            "가격": "21,620원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "크로스오버 27GQ7 IPS QHD 크로스기어 무결점",
+            "가격": "154,000원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "엠스톤 M.2 SSD 히트파이프 방열판",
+            "가격": "4,900원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1950370원",
+    "CPU": "AMD 라이젠5-5세대 7600 (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASRock B650M PG Lightning + WiFi6E 모듈 패키지 디앤디컴",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 WINDFORCE OC D6X 12GB 제이씨현",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "DEEPCOOL AG400",
+    "cpu_score": 312,
+    "gpu_score": 4,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 28555,
+    "gpu_benchmarkscore": 31768
+}

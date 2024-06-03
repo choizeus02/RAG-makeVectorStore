@@ -1,0 +1,66 @@
+{
+    "quote_number": "3960",
+    "quote_title": "코어i5-14세대 14600K + 지포스 RTX 4070 SUPER",
+    "date_create": "2024.3.7",
+    "cpu_gpu_combinations": "코어i5-14600K + RTX 4070 SUPER 조합",
+    "quotation_summary": " 코어i5-14세대 14600K + 지포스 RTX 4070 SUPER# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 14600K와 13600K는 온도 차이가 크지 않습니다. 아이들 시에는 오히려 14600K가 4도가량 낮은 편이고 풀로드 시에는 2도 가량 높은 편이죠. 69도와 71도인지라 온도는 3%정도 차이입니다. 원래 5% 이내는 오차범위 내라고 하죠. 온도 차이가 없다고 보면 됩니다.https://photo.coolenjoy.co.kr/data/editor/2310/7a46341cf64095f3a29c8b5d00e64c6caf604932.pngCPU 온도 벤치 자료입니다.인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다. 정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다. 14600K 벌크로 변경2. i5는 B760 칩셋으로도 온도 제어 및 성능을 충분히 낼 수 있습니다. 900A급 출력으로 웬만한 Z790 보급형 제품보다도 높은 퀄리티의 전원부가 적용되어 있는 MSI MAG B760M 박격포 II로 변경3. 그래픽카드는 1티어 AS에 가격적인 메리트도 높은 갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB로 변경4. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 변경DLX21을 디자인이나 성능 그리고 편의성 등 모든 부분에서 완벽하게 대체할 수 있는 케이스라고 보면 됩니다.5. CPU쿨러는 케이스와 잘 어울리는 5V ARGB LED팬이 적용되어 있는 대장급 성능의 듀얼타워 공랭쿨러 중에서는 가성비가 가장 좋은 편인 PentaWave S06D LE ARGB로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600K (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 II상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600K",
+            "가격": "433,190원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 II",
+            "가격": "212,830원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+            "가격": "994,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 아스크텍 1TB",
+            "가격": "129,690원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "124,830원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,060원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2116490원",
+    "CPU": "코어i5-14세대 14600K (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 II",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4070 SUPER 2X D6X 12GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 아스크텍 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 750SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 181,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": 31768
+}

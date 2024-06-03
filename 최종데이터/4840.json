@@ -1,0 +1,60 @@
+{
+    "quote_number": "4840",
+    "quote_title": "7960X + RTX 4070 TI SUPER(딥러닝, SSD 제외)",
+    "date_create": "2024.3.29",
+    "cpu_gpu_combinations": "라이젠 스레드리퍼 7960X (스톰 픽) + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " 7960X + RTX 4070 TI SUPER(딥러닝, SSD 제외)# 7960X + RTX 4070 TI SUPER(딥러닝# SSD 제외)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7960X + RTX 4070 TI SUPER(딥러닝, SSD 제외)",
+    "computer_estimate_data": "[CPU]AMD 라이젠 스레드리퍼 7960X (스톰 픽) (정품)상세보기[메인보드]GIGABYTE TRX50 AERO D 피씨디렉트상세보기[메모리]삼성전자 DDR5-4800 ECC/REG (64GB) x 2 개상세보기[그래픽카드]이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB상세보기[케이스]Antec PERFORMANCE 1 MESH SILENT (빅타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]Phanteks GLACIER ONE 420 D30 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기그래픽카드는 AS 1티어 이엠텍 RTX 4070 Ti SUPER파워서플라이는 10년 보증에 ATX 3.0 규격 제품이면서 850W에 11만원대라 가성비는 더 뛰어나고 슈퍼플라워 유통사라 고주파 발생시 새제품 교환 정책도 동일하게 적용되어 가성비 좋게 구성하시기 좋습니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠 스레드리퍼 7960X",
+            "가격": "2,329,220원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE TRX50 AERO D 피씨디렉트",
+            "가격": "1,033,370원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "삼성전자 DDR5-4800 ECC/REG  64GB",
+            "가격": "360,800원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB",
+            "가격": "1,227,450원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec PERFORMANCE 1 MESH SILENT",
+            "가격": "181,900원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "129,680원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Phanteks GLACIER ONE 420 D30",
+            "가격": "283,540원",
+            "수량": "1"
+        }
+    },
+    "total_price": "5906760원",
+    "CPU": "AMD 라이젠 스레드리퍼 7960X (스톰 픽) (정품)",
+    "Motherboard": "GIGABYTE TRX50 AERO D 피씨디렉트",
+    "Graphic Card": "이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB",
+    "Memory": "삼성전자 DDR5-4800 ECC/REG (64GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "Phanteks GLACIER ONE 420 D30 (BLACK)",
+    "cpu_score": 24,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 83028,
+    "gpu_benchmarkscore": 31768
+}

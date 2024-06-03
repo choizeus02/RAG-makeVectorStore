@@ -1,0 +1,66 @@
+{
+    "quote_number": "1645",
+    "quote_title": "7800X3D + 4080 구성 고사양 게이밍 PC",
+    "date_create": "2023.6.8",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4080 조합",
+    "quotation_summary": " 1. 300만원대 고사양 PC 견적2. 현시점 기준 성능과 차후 AS 까지 고려한 최적의 셋팅# 300만원대 게이밍 PC를 원하시는분# 다이블로4# 디아4# 영상편집# 배틀그라운드# QHD 끝판왕 게임용# 게이밍pc 원컴방송# 호그와트",
+    "quote_person_introduction": "세계 최초 견적견 이춘장 입니다...!컴퓨터에 대한 매니악한 지식과 애정을 총동원하여 견적을 마음에 명중시켜드리겠습니다.",
+    "quote_feedback": "최고의 성능과 가성비 그리고 AS 3박자를 맞춘 고사양 PC입니다..!제품 품질과 AS 서비스 모두 고려한 견적입니다..!",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (정품)상세보기[메인보드]ASRock B650M PG Riptide 대원씨티에스상세보기[메모리]마이크론 Crucial DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB상세보기[SSD]마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)상세보기[CPU쿨러]PentaWave Z06D (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 최고의 전성비메인보드는 650M 가성비 원탑...!메모리는 무난무난한 마이크론 메모리그래픽카드는 AS와 가성비를 동시에 잡은SSD는 최근 핫한 제품케이스는 무난함과 안정성을 동시에파워서플라이는 설명이 필요없는 슈플..!CPU쿨러는 준수한 성능과 검정 감성.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "526,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650M PG Riptide 대원씨티에스",
+            "가격": "207,500원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR5-5600 CL46  16GB",
+            "가격": "126,350원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB",
+            "가격": "1,595,800원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS 1TB",
+            "가격": "127,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK",
+            "가격": "154,407원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave Z06D",
+            "가격": "56,910원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3014807원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650M PG Riptide 대원씨티에스",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4080 AMP EXTREME AIRO D6X 16GB",
+    "SSD": "마이크론 Crucial P5 Plus M.2 NVMe 대원CTS (1TB)",
+    "Memory": "마이크론 Crucial DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-850F14HG LEADEX III GOLD BLACK (PCIE 5)",
+    "CPU Cooler": "PentaWave Z06D (BLACK)",
+    "cpu_score": 225,
+    "gpu_score": 1,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 34625
+}

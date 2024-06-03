@@ -1,0 +1,76 @@
+{
+    "quote_number": "2020",
+    "quote_title": "생성형 Ai 이미지 스테이블 디퓨전 최고사양",
+    "date_create": "2024.3.1",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": " 1. 스테이블 디퓨전(생성형 Ai 이미지)를 위한 구성2. 현존 최고사양(병렬 연산 구성 제외)# GPU 딥러닝을 사용하고자 하는 모든 분들께",
+    "quote_person_introduction": "안녕하세요.네이버 지식in에서 활동하는 지식in갓 입니다.지식in 상위 500명 (0.0008%) 이내에 해당하는 최상위권 답변자구요 ^0^)/조립 컴퓨터를 직접 구매/조립해서 사용한지 어느덧 20년이 가까워져 가는 고인물입니다.오랜 시간 누적된 지식을 바탕으로 하드웨어 및 사용하실 목적(소프트웨어) 모두 고려해 견적을 추천드리고 있으며,견적왕 활동을 통해 생기는 포인트로 다양한 하드웨어를 직접 구매 후 테스트 해보면서 더 나은 제품 추천드리기 위해 열심히 활동하고 있습니다 ^0^",
+    "quote_feedback": "스테이블 디퓨전을 위한 Ai 이미지 생성에 최적화된 구성입니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]ASRock B650E 스틸레전드 WiFi 대원씨티에스상세보기[메모리]TeamGroup DDR5-4800 CL40 Elite 서린 (32GB) x 2 개상세보기[그래픽카드]MSI 지포스 RTX 4090 슈프림X D6X 24GB 트라이프로져3S상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[데스크탑 HDD]도시바 10TB X300 HDWR11A상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)상세보기[CPU쿨러]발키리 V360 ARGB (BLACK)상세보기[모니터]ASUS ProArt PA329C상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 P코어로만 이루어진 고성능 CPU메인보드는 PCI-E GEN5 초고속 NVMe M.2를 지원하는 메인보드메모리는 32GB 모듈중 현재 검증된 TeamGroup 제품그래픽카드는 RTX 4090 재고가 급속도로 사라지고있어서 재고 있는 제품들로 그때그때 수정중입니다.SSD는 990 Pro 와 경쟁모델이면서도 가격은 너무 착한 제품데스크탑 HDD는 HDD는 도시바케이스는 상단 3열 수냉 설치가 가능하고, 전면 C타입 포트가 있는 제품중\n가성비 1등의 제품, 이제는 너무나 유명한 다크플래시죠.파워서플라이는 믿고 쓰는 국내 AS 1티어 슈퍼플라워CPU쿨러는 현존 360 사이즈 제품중에서는 최고라 불러도 될 제품모니터는 프로를 위한, 프로에 의한 오직 프로만을 위한 제품조립PC관련는 -조립PC관련는 -",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "892,980원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B650E 스틸레전드 WiFi 대원씨티에스",
+            "가격": "355,920원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-4800 CL40 Elite 서린  32GB",
+            "가격": "115,402원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "MSI 지포스 RTX 4090 슈프림X D6X 24GB 트라이프로져3S",
+            "가격": "3,039,870원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,490원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "도시바 10TB X300 HDWR11A",
+            "가격": "338,210원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 블랙",
+            "가격": "93,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK",
+            "가격": "205,402원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "발키리 V360 ARGB",
+            "가격": "308,700원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "ASUS ProArt PA329C",
+            "가격": "1,901,200원",
+            "수량": "1"
+        }
+    },
+    "total_price": "7596076원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "ASRock B650E 스틸레전드 WiFi 대원씨티에스",
+    "Graphic Card": "MSI 지포스 RTX 4090 슈프림X D6X 24GB 트라이프로져3S",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-4800 CL40 Elite 서린 (32GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM BLACK (PCIE 5)",
+    "CPU Cooler": "발키리 V360 ARGB (BLACK)",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

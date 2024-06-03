@@ -1,0 +1,60 @@
+{
+    "quote_number": "1889",
+    "quote_title": "[최고급] 가정사무용 (윈도우, 모니터 미포함)_Pure Black Magic Office",
+    "date_create": "2023.10.9",
+    "cpu_gpu_combinations": "라이젠7 5700G +  조합",
+    "quotation_summary": " 1. OFFICE 성능 촤상급 견적입니다.2. 최고의 가정 사무용 PC 입니다.# 60만원 대# 최고급 가정사무용# 케주얼 게임 완벽 소화",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "무거운 PPT EXCEL 등 사무 작업을 모두 소화 가능합니다.넉넉한 출력단자를 통해 듀얼, 트리플 모니터 모두 사용 가능합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-4세대 5700G (세잔) (정품)상세보기[메인보드]ASRock A520M-HDV 대원씨티에스상세보기[메모리]마이크론 Crucial DDR4-3200 CL22 (16GB) x 2 개상세보기[SSD]SK하이닉스 GOLD P31 M2 NVMe (500GB)상세보기[케이스]DARKFLASH DS200 강화유리 블랙 (미니타워)상세보기[파워서플라이]DARKFLASH SAVEMOST 500W 83+ 블랙상세보기[CPU쿨러]PCCOOLER PALADIN 400상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 현존 최상 성능의 제품입니다.메인보드는 해당 영역대는 제품에 큰 차이가 없어 AS가 깡패입니다.메모리는 마이크론의 안정성을 담보 받은 16G 제품입니다. 삼성, 하이닉스와 함께 DRAM 제조가 가능한 기업의 제품입니다.SSD는 P31을 이 가격대에 만날 수 있는 날이 언제일까... 오늘이네요?케이스는 깔끔한 블랙 바디에 RGB 없이 단정합니다. 발열 해소는 기본입니다.파워서플라이는 Darkflash에서 야심차게 거품을 걷어내고 출시했습니다.CPU쿨러는 몇 년 동안 부동의 1위 자리를 차지하고 있습니다. 공랭 가성비 1위 쿨러 입니다.조립PC관련는 믿고 맡길 수 있는 서비스",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-4세대 5700G",
+            "가격": "266,760원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock A520M-HDV 대원씨티에스",
+            "가격": "72,290원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4-3200 CL22  16GB",
+            "가격": "41,250원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 GOLD P31 M2 NVMe 500GB",
+            "가격": "79,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DS200 강화유리 블랙",
+            "가격": "40,660원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH SAVEMOST 500W 83+ 블랙",
+            "가격": "35,500원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PCCOOLER PALADIN 400",
+            "가격": "28,990원",
+            "수량": "1"
+        }
+    },
+    "total_price": "605700원",
+    "CPU": "AMD 라이젠7-4세대 5700G (세잔) (정품)",
+    "Motherboard": "ASRock A520M-HDV 대원씨티에스",
+    "SSD": "SK하이닉스 GOLD P31 M2 NVMe (500GB)",
+    "Memory": "마이크론 Crucial DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "DARKFLASH SAVEMOST 500W 83+ 블랙",
+    "CPU Cooler": "PCCOOLER PALADIN 400",
+    "cpu_score": 359,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 26707,
+    "gpu_benchmarkscore": null
+}

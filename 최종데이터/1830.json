@@ -1,0 +1,60 @@
+{
+    "quote_number": "1830",
+    "quote_title": "[중급/110만] 5600 + 4060 ti_RGB Point Black Cuby",
+    "date_create": "2023.12.11",
+    "cpu_gpu_combinations": "라이젠5 5600 + RTX 4060 Ti 조합",
+    "quotation_summary": " 1. 5600 + RTX 4060 ti 블랙 단정한 조합입니다.2. RGB가 불편한 차분한 분께 적합한 제품입니다.# 110만원 게이밍# 품질 보증의 블랙 라벨# RGB가 불편한 분께 강력 추천",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "5600 + 4060 ti 조합은 100만원 견적에서 가장 인기 있는 견적입니다.4060 ti로 즐길 수 있는 게임이 많은 만큼 만족스러운 구매가 될 것입니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))상세보기[메인보드]ASRock B550M PRO4 에즈윈상세보기[메모리]마이크론 Crucial DDR4-3200 CL22 (16GB) x 2 개상세보기[그래픽카드]ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB상세보기[SSD]SK하이닉스 Platinum P41 M.2 NVMe (1TB)상세보기[케이스]DAVEN V300 Black (미니타워)상세보기[파워서플라이]DARKFLASH SAVEMOST 600W 80PLUS STANDARD상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "CPU는 저렴하게 세팅된 메인보드와 결합하여 최고의 가성비 CPU로 거듭났습니다.\n4060 Ti까지는 너끈히 감당합니다.메인보드는 화이트 방열판에 풍부한 확장성을 가지고 있습니다.메모리는 마이크론의 안정성을 담보 받은 16G 제품입니다. 삼성, 하이닉스와 함께 DRAM 제조가 가능한 기업의 제품입니다.그래픽카드는 다크한 바디에 영롱한 옆 선을 가지고 있습니다. 자칫 밋밋할 수 있는 바디에 한줄기 임펙트를 줍니다.SSD는 PCIe 4.0 하이앤드 제품입니다. 명불 허전이죠.케이스는 큐브형 외형으로 감성 충만하고 시스템실과 파워실이 구분되어 발열 관리에 유리합니다.파워서플라이는 다크플래시의 인증받은 600w 제품입니다. 5년 AS는 기본이네요.조립PC관련는 믿고 맡길 수 있는 서비스",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600",
+            "가격": "143,660원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock B550M PRO4 에즈윈",
+            "가격": "122,612원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "마이크론 Crucial DDR4-3200 CL22  16GB",
+            "가격": "41,250원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+            "가격": "538,990원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "SK하이닉스 Platinum P41 M.2 NVMe 1TB",
+            "가격": "166,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN V300 Black",
+            "가격": "36,910원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "DARKFLASH SAVEMOST 600W 80PLUS STANDARD",
+            "가격": "52,870원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1143542원",
+    "CPU": "AMD 라이젠5-4세대 5600 (버미어) (멀티팩(정품))",
+    "Motherboard": "ASRock B550M PRO4 에즈윈",
+    "Graphic Card": "ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB",
+    "SSD": "SK하이닉스 Platinum P41 M.2 NVMe (1TB)",
+    "Memory": "마이크론 Crucial DDR4-3200 CL22 (16GB) x 2 개",
+    "Power Supply": "DARKFLASH SAVEMOST 600W 80PLUS STANDARD",
+    "cpu_score": 504,
+    "gpu_score": 32,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": 22891
+}

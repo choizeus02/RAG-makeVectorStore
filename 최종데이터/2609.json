@@ -1,0 +1,66 @@
+{
+    "quote_number": "2609",
+    "quote_title": "AMD 라이젠9-5세대 7950X + 지포스 RTX 409",
+    "date_create": "2024.2.6",
+    "cpu_gpu_combinations": "라이젠9 7950X + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X + 지포스 RTX 409# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 기판까지 화이트로 제대로 된 화이트 감성을 느낄 수 있고 전원부도 튼튼해서 7950X와 조합해도 안정적으로 사용할 수 있는 GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트로 변경2. 구성한 SSD는 NVMe 규격 중에서 속도가 가장 느린 젠3 제품입니다.SSD는 젠4 제품 중 넘사벽 갓성비의 삼성전자 980PRO OEM버전인 삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)으로 변경3. 케이스는 5V ARGB 140mm 고성능 저소음 시스템 팬 4개를 기본 장착하고 C타입 포트 등 각종 편의 기능을 적용하여 완성형에 가까운 3RSYS R640 Quiet 화이트 (미들타워)로 변경8개의 팬을 제어할 수 있는 5V ARGB & PWM 허브를 제공하고 무엇보다도 현재 유통 중인 케이스 중 가장 조용한 편에 속하는 제품입니다.4. 파워는 4090의 경우 정격 850W 이상이면 사용이 가능하고 넉넉히 사용하더라도 1000W면 충분한 수준입니다.화이트 색상인 SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)로 변경5. CPU쿨러는 최상위 성능군으로 GL360과 동급이면서 소음은 아주 낮은 수준으로 사실상 3열 수냉쿨러의 끝판왕이라고 할 수 있는 3RSYS Socoool 라니 XY-360 Quiet (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X (라파엘) (정품)상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]3RSYS R640 Quiet 화이트 (미들타워)상세보기[파워서플라이]SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공상세보기[CPU쿨러]3RSYS Socoool 라니 XY-360 Quiet (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X",
+            "가격": "892,890원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,910원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 서린  16GB",
+            "가격": "64,460원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+            "가격": "2,933,900원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "104,500원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS R640 Quiet 화이트",
+            "가격": "92,600원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE12VHPWR 케이블 제공",
+            "가격": "215,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool 라니 XY-360 Quiet",
+            "가격": "162,230원",
+            "수량": "1"
+        }
+    },
+    "total_price": "4838355원",
+    "CPU": "AMD 라이젠9-5세대 7950X (라파엘) (정품)",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "SuperFlower SF-1000F14PE LEADEX VI PRO PLATINUM WHITE (PCIE 5)12VHPWR 케이블 제공",
+    "CPU Cooler": "3RSYS Socoool 라니 XY-360 Quiet (WHITE)",
+    "cpu_score": 60,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62909,
+    "gpu_benchmarkscore": 38694
+}

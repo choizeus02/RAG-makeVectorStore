@@ -1,0 +1,71 @@
+{
+    "quote_number": "4406",
+    "quote_title": "7970X + RTX 4090 워크스테이션",
+    "date_create": "2024.3.17",
+    "cpu_gpu_combinations": "라이젠 스레드리퍼 7970X (스톰 픽) + RTX 4090 조합",
+    "quotation_summary": " 7970X + RTX 4090 워크스테이션# 7970X + RTX 4090 워크스테이션",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "7970X + RTX 4090 워크스테이션",
+    "computer_estimate_data": "[CPU]AMD 라이젠 스레드리퍼 7970X (스톰 픽) (정품)상세보기[메인보드]GIGABYTE TRX50 AERO D 피씨디렉트상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 4 개상세보기[그래픽카드]PNY XLR8 지포스 RTX 4090 VERTO EPIC-X RGB TF OC D6X 24GB 마이크로닉스상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]Antec PERFORMANCE 1 FT MESH 강화유리 Black (빅타워)상세보기[파워서플라이]맥스엘리트 MAXWELL DUKE 1000W 80PLUS PLATINUM 풀모듈러 ATX 3.1 (PCIE5)상세보기[CPU쿨러]NOCTUA NH-U14S TR5-SP6상세보기[모니터]LG전자 울트라HD 27UP550N상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "SSD는 PCIE4.0 대역폭 상급 SSD",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠 스레드리퍼 7970X",
+            "가격": "3,695,950원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE TRX50 AERO D 피씨디렉트",
+            "가격": "1,033,450원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE x 4 개 32GB",
+            "가격": "123,900원",
+            "수량": "4"
+        },
+        "그래픽카드": {
+            "제품명": "PNY XLR8 지포스 RTX 4090 VERTO EPIC-X RGB TF OC D6X 24GB 마이크로닉스",
+            "가격": "3,226,670원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,220원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Antec PERFORMANCE 1 FT MESH 강화유리 Black",
+            "가격": "206,600원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "맥스엘리트 MAXWELL DUKE 1000W 80PLUS PLATINUM 풀모듈러 ATX 3.1",
+            "가격": "227,420원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NOCTUA NH-U14S TR5-SP6",
+            "가격": "203,290원",
+            "수량": "1"
+        },
+        "모니터": {
+            "제품명": "LG전자 울트라HD 27UP550N",
+            "가격": "388,990원",
+            "수량": "1"
+        }
+    },
+    "total_price": "9705190원",
+    "CPU": "AMD 라이젠 스레드리퍼 7970X (스톰 픽) (정품)",
+    "Motherboard": "GIGABYTE TRX50 AERO D 피씨디렉트",
+    "Graphic Card": "PNY XLR8 지포스 RTX 4090 VERTO EPIC-X RGB TF OC D6X 24GB 마이크로닉스",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 4 개",
+    "Power Supply": "맥스엘리트 MAXWELL DUKE 1000W 80PLUS PLATINUM 풀모듈러 ATX 3.1 (PCIE5)",
+    "CPU Cooler": "NOCTUA NH-U14S TR5-SP6",
+    "cpu_score": 11,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 97273,
+    "gpu_benchmarkscore": 38694
+}

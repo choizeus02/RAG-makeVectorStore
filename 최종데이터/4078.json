@@ -1,0 +1,54 @@
+{
+    "quote_number": "4078",
+    "quote_title": "코어i5-14세대 14600KF",
+    "date_create": "2024.3.10",
+    "cpu_gpu_combinations": "코어i5-14600KF +  조합",
+    "quotation_summary": " 코어i5-14세대 14600KF# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 인텔은 12세대부터 벌크도 정품과 동일한 3년 무상 AS를 제공합니다.정품 박스가 꼭 필요한 것이 아니라면 벌크로 구성하는 것이 보다 효율적입니다. 14600K 벌크로 변경2. 메인보드는 900A급 출력의 드라이버 모스펫이 적용되어 있어서 B760 칩셋 제품 중에서는 끝판왕 퀄리티를 자랑하는 MSI MAG B760M 박격포 맥스 WIFI로 변경3. 메모리의 경우 하이닉스 A다이 언락 제품은 수동으로 램 오버클럭을 할 때 메리트가 있는 제품입니다. 오버클럭을 하지 않는다면 추천할 이유가 없어서 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경4.  케이스는 식스팬이 적용되어 있으면 LED 설정 변경 및 팬 속도 조절까지도 가능한 갓성비 제품인 EDDY A1 RGB MESH 강화유리 (미들타워)로 변경5. 파워는 6년 무상AS에 무려 9종에 달하는 보호회로를 적용하여 안정성에 몰빵을 하고서도 가격은 아주 착한 수준으로 출시가 되었고 현재 출시 이벤트로 가격을 더 인하해서 판매 중이라 갓성비 중에서도 갓성비라고 할 수 있는 몬스타 가츠 ExtremeX FX800 80PLUS STANDARD로 변경800W 고용량이라 그래픽카드 업그레이드에서 대응할 수 있도록 했습니다.6. CPU쿨러는 케이스와도 잘 어울리면서 대장급 성능의 듀얼타워 공랭쿨러 중에서는 월등한 가성비를 제공하는 PentaWave S06D LE ARGB로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]코어i5-14세대 14600KF (랩터레이크)(벌크)상세보기[메인보드]MSI MAG B760M 박격포 맥스 WIFI상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개상세보기[케이스]EDDY A1 RGB MESH 강화유리 (미들타워)상세보기[파워서플라이]몬스타 가츠 ExtremeX FX800 80PLUS STANDARD상세보기[CPU쿨러]PentaWave S06D LE ARGB상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i5-14세대 14600KF",
+            "가격": "400,150원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI MAG B760M 박격포 맥스 WIFI",
+            "가격": "212,810원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite  16GB",
+            "가격": "64,300원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "EDDY A1 RGB MESH 강화유리",
+            "가격": "33,380원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "몬스타 가츠 ExtremeX FX800 80PLUS STANDARD",
+            "가격": "49,850원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "PentaWave S06D LE ARGB",
+            "가격": "35,060원",
+            "수량": "1"
+        }
+    },
+    "total_price": "859850원",
+    "CPU": "코어i5-14세대 14600KF (랩터레이크)(벌크)",
+    "Motherboard": "MSI MAG B760M 박격포 맥스 WIFI",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite (16GB) x 2 개",
+    "Power Supply": "몬스타 가츠 ExtremeX FX800 80PLUS STANDARD",
+    "CPU Cooler": "PentaWave S06D LE ARGB",
+    "cpu_score": 181,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 39510,
+    "gpu_benchmarkscore": null
+}

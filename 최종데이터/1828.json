@@ -1,0 +1,66 @@
+{
+    "quote_number": "1828",
+    "quote_title": "[워크스테이션/1800만] 5995WX + 4090 x2_Pure Black Work station Standard",
+    "date_create": "2024.1.6",
+    "cpu_gpu_combinations": "라이젠 PRO 5995WX (샤갈 프로) + RTX 4090 조합",
+    "quotation_summary": " 1. 엔터프라이즈급 AI 워크스테이션으로 진입하기 바로 전 제품입니다.2. 1800만원이라는 합리적인 가격에 구매할 수 있습니다.3. 64C / 128T / 512G 메모리 / 4090 x 2 / 8TB SSD / 1600w 파워. 모든 걸 가진 제품입니다.# 딥러닝# Ai# 가성비 워크스테이션",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "1억에 육박하는 엔터프라이즈 진입 전 단계의 최선의 선택지 입니다.현재 이 이상의 선택지는 없습니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠 스레드리퍼 PRO 5995WX (샤갈 프로) (정품)상세보기[메인보드]ASRock WRX80 Creator 대원씨티에스상세보기[메모리]삼성전자 DDR4-3200 ECC/REG (64GB) PC4-25600 x 8 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4090 SG OC V2 D6X 24GB x 2 개상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (4TB) x 2 개상세보기[케이스]Fractal Design Meshify 2 XL Light 강화유리상세보기[파워서플라이](SuperFlower) SF-1600F14HT LEADEX TITANIUM /파워12VHPWR 케이블 제공상세보기[CPU쿨러]NZXT KRAKEN ELITE 360상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 엔터프라이즈 적용 전 최상의 옵션입니다. 64C / 128T의 강력한 성능과 8채널의 메모리 관리 기술이 들어있습니다.메인보드는 5995WX를 만나 최고의 제품이 됩니다. 2개의 10Gb 네트워크, 14레이어의 PCB는 안정성과 성능 모두를 보증합니다.메모리는 8개가 만나 512G를 구성할 메모리 입니다. 수율로 보나 뭘로 보나 최선의 선택입니다.그래픽카드는 AS 3대장 갤럭시 유통 제품입니다. 팬을 둘러싼 RGB가 일품입니다.SSD는 높은 TBW, 높은 성능 최고의 제품입니다.케이스는 대형 시스템의 구축에 빠질 수 없는 대형 케이스 입니다. 이 모든 구성을 한데 넣을 수 있습니다.파워서플라이는 단 하나의 제품으로 4090을 두 대 모두 안정적으로 돌릴 수 있는 흔하지 않은 제품입니다. 고주파 관련 AS 또한 일품입니다.CPU쿨러는 초고도 발열의 CPU도 문제 없습니다. KRAKEN의 명성은 그냥 나온 게 아닙니다.조립PC관련는 믿고 맡길 수 있는 서비스조립PC관련는 수랭은 전문가의 손에 맡겨져야 합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠 스레드리퍼 PRO 5995WX",
+            "가격": "8,141,520원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASRock WRX80 Creator 대원씨티에스",
+            "가격": "1,019,800원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "삼성전자 DDR4-3200 ECC/REG PC4-25600 x 8 개 64GB",
+            "가격": "899,610원",
+            "수량": "8"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4090 SG OC V2 D6X 24GB x 2 개",
+            "가격": "2,853,790원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe x 2 개 4TB",
+            "가격": "505,140원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "Fractal Design Meshify 2 XL Light 강화유리",
+            "가격": "314,600원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SF-1600F14HT LEADEX TITANIUM /파워12VHPWR 케이블 제공",
+            "가격": "584,520원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NZXT KRAKEN ELITE 360",
+            "가격": "304,950원",
+            "수량": "1"
+        }
+    },
+    "total_price": "24280130원",
+    "CPU": "AMD 라이젠 스레드리퍼 PRO 5995WX (샤갈 프로) (정품)",
+    "Motherboard": "ASRock WRX80 Creator 대원씨티에스",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4090 SG OC V2 D6X 24GB x 2 개",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (4TB) x 2 개",
+    "Memory": "삼성전자 DDR4-3200 ECC/REG (64GB) PC4-25600 x 8 개",
+    "Power Supply": "(SuperFlower) SF-1600F14HT LEADEX TITANIUM /파워12VHPWR 케이블 제공",
+    "CPU Cooler": "NZXT KRAKEN ELITE 360",
+    "cpu_score": 14,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 93192,
+    "gpu_benchmarkscore": 38694
+}

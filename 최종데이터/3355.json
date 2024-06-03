@@ -1,0 +1,66 @@
+{
+    "quote_number": "3355",
+    "quote_title": "AMD 라이젠9-5세대 7900X3D + RTX 4070 SUPER",
+    "date_create": "2024.2.23",
+    "cpu_gpu_combinations": "라이젠9 7900X3D + RTX 4070 SUPER 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7900X3D + RTX 4070 SUPER# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. CPU는 압도적인 게임 성능과 함께 12코어 24스레드로 작업성능까지 좋은 7900X3D로 변경2. 메인보드는 기판까지 화이트 색상으로 현재 구성하시려는 핑크&화이트 구성에 아주 잘 어울리는 GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트로 변경3. 구성하신 메모리는 현재 유통사가 많이 없어서 견적왕의 최대 메리트라고 할 수 있는 견적 비교가 되지 않습니다.메모리는 라이프타임 워런티로 압도적인 AS기간을 제공하는 ADATA 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경4. 그래픽카드는 현시점 최고의 가성비라고 할 수 있으면서 화이트 색상이 적용되어 있는 GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC ICE D6X 12GB 제이씨현으로 변경보통 그래픽카드 성능 1% 올리는데 들어가는 비용을 10만원 정도로 보는데 4070 SUPER와 4070 TI의 성능 차이는 7% 정도입니다. 즉 4070 Ti의 가성비가 좋기 위해서는 7만원 이내의 가격차이가 나야하는데 지금처럼 20만원이 넘어가버리면 비교하는 것 자체가 무의미해지죠. 4070 SUPER 강추하구요.5. 파워는 유일한 핑크 색상의 제품인 마이크로닉스 Classic II 750W 80PLUS Bronze 230V EU HDB PINK로 변경했는데 화이트 색상인 지금 구성한 제품으로 해도 상관은 없습니다.6. 7900X3D는 전성비가 아주 높은 제품으로 공랭쿨러와 수냉쿨러 사이에도 온도 차이가 크지 않은 CPU입니다. 수냉쿨러 사이에서는 온도차이가 나지 않아서 대장급 성능이면서 압도적인 가성비를 제공하는 화이트 색상의 앱코 T360 테티스 풀체인지 ARGB (화이트)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]ADATA DDR5-5600 CL46-45-45 (32GB) x 2 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC ICE D6X 12GB 제이씨현상세보기[SSD]삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)상세보기[케이스]DARKFLASH DLX21 RGB MESH 강화유리 핑크 (미들타워)상세보기[파워서플라이]Classic II 750W 80PLUS Bronze 230V EU HDB PINK상세보기[CPU쿨러]앱코 T360 테티스 풀체인지 ARGB (화이트)상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900X3D",
+            "가격": "659,110원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,800원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ADATA DDR5-5600 CL46-45-45  32GB",
+            "가격": "119,450원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC ICE D6X 12GB 제이씨현",
+            "가격": "958,330원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 PM9A1 M2 NVMe 병행수입 1TB",
+            "가격": "101,540원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX21 RGB MESH 강화유리 핑크",
+            "가격": "98,500원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "Classic II 750W 80PLUS Bronze 230V EU HDB PINK",
+            "가격": "72,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "앱코 T360 테티스 풀체인지 ARGB",
+            "가격": "77,000원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2513180원",
+    "CPU": "AMD 라이젠9-5세대 7900X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4070 SUPER EAGLE OC ICE D6X 12GB 제이씨현",
+    "SSD": "삼성전자 PM9A1 M2 NVMe 병행수입 (1TB)",
+    "Memory": "ADATA DDR5-5600 CL46-45-45 (32GB) x 2 개",
+    "Power Supply": "Classic II 750W 80PLUS Bronze 230V EU HDB PINK",
+    "CPU Cooler": "앱코 T360 테티스 풀체인지 ARGB (화이트)",
+    "cpu_score": 111,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 50417,
+    "gpu_benchmarkscore": 31768
+}

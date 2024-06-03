@@ -1,0 +1,65 @@
+{
+    "quote_number": "2357",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.1.31",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D + 지포스 RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하시려는 어항케이스는 튜닝에 특화된 제품이라 최대한 튜닝을 해 주는 것을 추천드립니다.2. 메인보드는 화이트 계열의 방열판이 적용되어 있는 상위 칩셋인 ASUS PRIME X670-P-CSM 대원씨티에스로 변경3. 메모린느 화이트 LED가 적용되어 있는 튜닝 메모리인 TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))으로 변경4. 그래픽카드는 화이트 컨셉이면서 1티어 AS 제품인 갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB로 변경5. 케이스는 어항케이스 퀄리티 끝판왕이라고 감히 단언할 수 있는 MONTECH KING 95 화이트 (미들타워)로 변경어항케이스의 최대 단점이 쿨링 효율이 떨어지는 건데 추천드리는 케이스는 전면 패널이 메쉬 디자인으로 변신까지 가능해서 뜨거운 한여름에도 걱정없이 사용할 수 있는 메리트도 있습니다.6. 파워는 ATX3.0과 PCIE5 규격을 동시에 지원하는 NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)로 구성7. 케이스 시스템 팬은 고성능 저소음으로 수냉쿨러 쿨링 팬과 동일해서 내부의 모든 LED를 동기화 시킬 수 있는 3RSYS SILENCE XY 팬 6개 추가했습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]ASUS PRIME X670-P-CSM 대원씨티에스상세보기[메모리]TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB상세보기[케이스]MONTECH KING 95 화이트 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)상세보기[CPU쿨러]3RSYS Socoool 라니 XY-360 Quiet (WHITE)상세보기[쿨러.튜닝.조명.액세서리]3RSYS SILENCE XY 140 ARGB (WHITE) x 2 개상세보기[쿨러.튜닝.조명.액세서리]3RSYS SILENCE XY 120 ARGB (WHITE) x 4 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,990원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME X670-P-CSM 대원씨티에스",
+            "가격": "403,730원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린) 32GB",
+            "가격": "164,400원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB",
+            "가격": "1,321,990원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "MONTECH KING 95 화이트",
+            "가격": "233,000원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE",
+            "가격": "139,350원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool 라니 XY-360 Quiet",
+            "가격": "162,230원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "3RSYS SILENCE XY 120 ARGB x 4 개",
+            "가격": "11,230원",
+            "수량": "4"
+        }
+    },
+    "total_price": "2989610원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "ASUS PRIME X670-P-CSM 대원씨티에스",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB",
+    "Memory": "TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD WHITE (PCIE5)",
+    "CPU Cooler": "3RSYS Socoool 라니 XY-360 Quiet (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}

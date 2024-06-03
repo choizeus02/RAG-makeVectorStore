@@ -1,0 +1,66 @@
+{
+    "quote_number": "1829",
+    "quote_title": "[워크스테이션/1000만] 7950X3D + 4090 x2_RGB Point Black Work station Basic",
+    "date_create": "2024.1.6",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": " 1. 워크스테이션 입문 스펙입니다.2. 1000만원이라는 합리적인 가격에 구매할 수 있습니다.3. 퍼스널 컴퓨터 최상위 버전의 제품 조합이면 기본은 합니다.# 딥러닝# AI# 입문 워크스테이션",
+    "quote_person_introduction": "안녕하세요. 화이트 장인 PC 다지이너 입니다.단순한 게임기, 단순한 사무기기로써의 PC를 지양합니다.PC는 전원을 넣지 않아도 행복을 줘야 하는 디지털기기 입니다.성능은 기본입니다.감성도 함께 전달합니다.",
+    "quote_feedback": "워크스테이션 입문 스펙입니다.해당 제품의 사용을 통해 추가 니즈를 파악하기 용이할 뿐 아니라 성능 역시 가격대비 우수합니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]ASUS ROG CROSSHAIR X670E HERO STCOM상세보기[메모리]G.SKILL DDR5-6400 CL32 TRIDENT Z5 RGB J 패키지 (96GB(48Gx2)) x 2 개상세보기[그래픽카드]갤럭시 GALAX 지포스 RTX 4090 SG OC V2 D6X 24GB x 2 개상세보기[SSD]Western Digital WD BLACK SN850X M.2 NVMe (4TB) x 2 개상세보기[케이스]Fractal Design Meshify 2 XL Light 강화유리상세보기[파워서플라이](SuperFlower) SF-1600F14HT LEADEX TITANIUM /파워12VHPWR 케이블 제공상세보기[CPU쿨러]3RSYS Socoool 라니 XY-360 Quiet (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 퍼스널컴퓨터 최강의 CPU입니다. 워크스테이션에 사용해도 모자라지 않은 성능을 보여줍니다.메인보드는 4슬롯 VGA가 2개 장착 가능한 몇 안되는 메인보드 입니다. 후면 포트를 확인하는 순간 우와... 이게 X670E 풀패키지 이구나 하실 제품입니다.메모리는 DDR5 최고 용량 제품입니다. 메모리 선도 기업 지스킬 제품으로 호환성 우려가 없습니다. 우수한 성능은 기본입니다.그래픽카드는 AS 3대장 갤럭시 유통 제품입니다. 팬을 둘러싼 RGB가 일품입니다.SSD는 높은 TBW, 높은 성능 최고의 제품입니다.케이스는 대형 시스템의 구축에 빠질 수 없는 대형 케이스 입니다. 이 모든 구성을 한데 넣을 수 있습니다.파워서플라이는 단 하나의 제품으로 4090을 두 대 모두 안정적으로 돌릴 수 있는 흔하지 않은 제품입니다. 고주파 관련 AS 또한 일품입니다.CPU쿨러는 상급 성능의 수랭 쿨러 입니다. 인텔 i9의 높은 발열까지도 해결 가능합니다.조립PC관련는 믿고 맡길 수 있는 서비스조립PC관련는 수랭은 전문가의 손에 맡겨져야 합니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "893,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ROG CROSSHAIR X670E HERO STCOM",
+            "가격": "1,005,480원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6400 CL32 TRIDENT Z5 RGB J 패키지)  96GB",
+            "가격": "561,630원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 GALAX 지포스 RTX 4090 SG OC V2 D6X 24GB x 2 개",
+            "가격": "2,853,790원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "Western Digital WD BLACK SN850X M.2 NVMe x 2 개 4TB",
+            "가격": "505,140원",
+            "수량": "2"
+        },
+        "케이스": {
+            "제품명": "Fractal Design Meshify 2 XL Light 강화유리",
+            "가격": "314,600원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "SF-1600F14HT LEADEX TITANIUM /파워12VHPWR 케이블 제공",
+            "가격": "584,520원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool 라니 XY-360 Quiet",
+            "가격": "162,230원",
+            "수량": "1"
+        }
+    },
+    "total_price": "10800950원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "ASUS ROG CROSSHAIR X670E HERO STCOM",
+    "Graphic Card": "갤럭시 GALAX 지포스 RTX 4090 SG OC V2 D6X 24GB x 2 개",
+    "SSD": "Western Digital WD BLACK SN850X M.2 NVMe (4TB) x 2 개",
+    "Memory": "G.SKILL DDR5-6400 CL32 TRIDENT Z5 RGB J 패키지 (96GB(48Gx2)) x 2 개",
+    "Power Supply": "(SuperFlower) SF-1600F14HT LEADEX TITANIUM /파워12VHPWR 케이블 제공",
+    "CPU Cooler": "3RSYS Socoool 라니 XY-360 Quiet (BLACK)",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

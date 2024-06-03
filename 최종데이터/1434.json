@@ -1,0 +1,66 @@
+{
+    "quote_number": "1434",
+    "quote_title": "7900 + RTX 4070 + 저소음 PC + 영상편집 + 영상 작업",
+    "date_create": "2024.3.31",
+    "cpu_gpu_combinations": "라이젠9 7900 + RTX 4070 조합",
+    "quotation_summary": "",
+    "quote_person_introduction": "안녕하세요! 견적왕 견적맨 총괄 매니저 로비오트입니다!퀘이사존 유저랭킹 1등을 계속해서 유지하고 있고견적게시판에서만 주로 활동하는 유저로그 누구보다 제품의 장단점, 성능적인 파악을 정확하게 하고 있습니다.물건을 판매하려는 견적이 아닌 실질적인 소비자 기준으로 구성을 하고 있으며기본적으로 A/S가 좋지 않은 곳은 걸러서 구성하고 있습니다.또한 블랙컨슈머로 인한 A/S이슈는 고려하지도듣지도 보지도 않고 있으니 이런 부분도 걸러 듣고 견적을 작성하고 있습니다!",
+    "quote_feedback": "녹투아 대체품이 은근 좀 많을 겁니다..팬텀 스피릿 120 se , 피어리스 어썌신 120 정도만 해도 소음은 상당히 낮으면서 발열도 잘 잡고가격도 확실히 저렴 할 겁니다4070 그래픽 카드 다 괜찮기는 한데..스톰 듀얼이.. 그렇게 좋은 점수는 아닌지라차라리 AS 고려해서 구성 하실꺼라면이노3디 제품도 좋은 대체품이라 보여지고 가격적으로 나쁘지는 않을 겁니다.나머진 문제 없어 보입니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))상세보기[메인보드]MSI PRO B650M-A WIFI상세보기[메모리]ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개상세보기[그래픽카드]inno3D 지포스 RTX 4070 D6X 12GB TWIN X2상세보기[SSD]삼성전자 980 PRO M.2 NVMe (1TB)상세보기[케이스]DARKFLASH DLX4000 MESH 강화유리 블랙 (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 750W 80PLUS GOLD 230V EU 풀모듈러12VHPWR 케이블 제공상세보기[CPU쿨러]Thermalright Phantom Spirit 120 SE상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "메인보드는 7900까지 버티는 탄탄한 전윈부!\nWIFI까지 활용 가능한 전천후 메인보드!메모리는 하이닉스 A다이 메모리\n인식률 호환성 안정성 굳!파워서플라이는 PCIe 5.0 케이블 정격지원!\n가성비 좋은 골드 파워!",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7900",
+            "가격": "523,320원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "MSI PRO B650M-A WIFI",
+            "가격": "180,880원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "ESSENCORE KLEVV DDR5-5600 CL46  16GB",
+            "가격": "65,000원",
+            "수량": "2"
+        },
+        "그래픽카드": {
+            "제품명": "inno3D 지포스 RTX 4070 D6X 12GB TWIN X2",
+            "가격": "904,080원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 980 PRO M.2 NVMe 1TB",
+            "가격": "159,540원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DARKFLASH DLX4000 MESH 강화유리 블랙",
+            "가격": "102,330원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 750W 80PLUS GOLD 230V EU 풀모듈러12VHPWR 케이블 제공",
+            "가격": "128,150원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "Thermalright Phantom Spirit 120 SE",
+            "가격": "55,337원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2183637원",
+    "CPU": "AMD 라이젠9-5세대 7900 (라파엘) (멀티팩(정품))",
+    "Motherboard": "MSI PRO B650M-A WIFI",
+    "Graphic Card": "inno3D 지포스 RTX 4070 D6X 12GB TWIN X2",
+    "SSD": "삼성전자 980 PRO M.2 NVMe (1TB)",
+    "Memory": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) x 2 개",
+    "Power Supply": "마이크로닉스 Classic II 750W 80PLUS GOLD 230V EU 풀모듈러12VHPWR 케이블 제공",
+    "CPU Cooler": "Thermalright Phantom Spirit 120 SE",
+    "cpu_score": 107,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 51896,
+    "gpu_benchmarkscore": 31768
+}

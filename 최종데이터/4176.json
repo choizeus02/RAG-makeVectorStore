@@ -1,0 +1,81 @@
+{
+    "quote_number": "4176",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090",
+    "date_create": "2024.3.12",
+    "cpu_gpu_combinations": "라이젠9 7950X3D + RTX 4090 조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D + 지포스 RTX 4090# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 메인보드는 인텔용이라 AMD용 화이트 컨셉의 제품인 ASUS ROG STRIX X670E-A GAMING WIFI 대원씨티에스로 변경2. 메모리는 삼성 램의 경우 불량 이슈가 크게 터졌던 제품이라 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈 적용으로 안정적으로 사용할 수 있는 패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 4개 128기가로 변경3. 구성한 씨게이트 HDD는 SMR방식이라 추천을 하지 않습니다. PMR방식의 Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)로 변경4. 구성한 케이스는 후면에 120mm팬만 장착을 지원해서 140mm 대신 리안리 UNI FAN SL-INF 120 RGB WHITE (1PACK) x 2개로 변경5. 7950X3D는 공랭쿨러로도 온도 제어가 되는 전성비가 아주 높은 제품입니다. 수냉쿨러로 장착하게 되면 7만원 짜리든 30만원짜리든 동일한 온도가 나와서 변별력이 없는 CPU죠. 리안리 컨셉에 맞게 NZXT 대신 리안리 GALAHAD AIO 360 ARGB (WHITE)로 변경했고 3팩 시스템 팬 1개는 수냉쿨러 라디에이터 쿨링 팬으로 장착해서 사용하면 내부의 모든 팬을 깔맞춤할 수 있습니다.참고해서 합적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]ASUS ROG STRIX X670E-A GAMING WIFI 대원씨티에스상세보기[메모리]패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 4 개상세보기[그래픽카드]GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트상세보기[SSD]삼성전자 990 PRO M.2 NVMe (2TB)상세보기[데스크탑 HDD]Western Digital WD BLUE 5400/256M (WD40EZAX, 4TB)상세보기[케이스]리안리 PC-O11 VISION White (빅타워)상세보기[파워서플라이]맥스엘리트 MAXELITE MAXWELL DUKE 1300W 80PLUS PLATINUM 풀모듈러 ATX 3.0 WHITE상세보기[CPU쿨러]리안리 GALAHAD AIO 360 ARGB (WHITE)상세보기[소프트웨어]Microsoft Windows 11 Home (처음사용자용 한글)상세보기[쿨러.튜닝.조명.액세서리]리안리 UNI FAN SL-INF 120 RGB WHITE (3PACK/Controller) x 2 개상세보기[쿨러.튜닝.조명.액세서리]리안리 UNI FAN SL-INF 120 RGB WHITE (1PACK) x 2 개상세보기[쿨러.튜닝.조명.액세서리]BRAVOTEC 스톤마일 NEO ARGB (화이트) x 4 개상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "891,920원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ROG STRIX X670E-A GAMING WIFI 대원씨티에스",
+            "가격": "771,800원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE x 4 개 32GB",
+            "가격": "123,900원",
+            "수량": "4"
+        },
+        "그래픽카드": {
+            "제품명": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+            "가격": "2,933,870원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "삼성전자 990 PRO M.2 NVMe 2TB",
+            "가격": "272,880원",
+            "수량": "1"
+        },
+        "데스크탑 HDD": {
+            "제품명": "Western Digital WD BLUE 5400/256M",
+            "가격": "158,000원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "리안리 PC-O11 VISION White",
+            "가격": "315,700원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "맥스엘리트 MAXELITE MAXWELL DUKE 1300W 80PLUS PLATINUM 풀모듈러 ATX 3.0 WHITE",
+            "가격": "297,100원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "리안리 GALAHAD AIO 360 ARGB",
+            "가격": "170,050원",
+            "수량": "1"
+        },
+        "소프트웨어": {
+            "제품명": "Microsoft Windows 11 Home",
+            "가격": "173,490원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "BRAVOTEC 스톤마일 NEO ARGB x 4 개",
+            "가격": "14,240원",
+            "수량": "4"
+        }
+    },
+    "total_price": "6537370원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "ASUS ROG STRIX X670E-A GAMING WIFI 대원씨티에스",
+    "Graphic Card": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 피씨디렉트",
+    "SSD": "삼성전자 990 PRO M.2 NVMe (2TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-5600 CL46 SIGNATURE (32GB) x 4 개",
+    "Power Supply": "맥스엘리트 MAXELITE MAXWELL DUKE 1300W 80PLUS PLATINUM 풀모듈러 ATX 3.0 WHITE",
+    "CPU Cooler": "리안리 GALAHAD AIO 360 ARGB (WHITE)",
+    "cpu_score": 63,
+    "gpu_score": 0,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": 38694
+}

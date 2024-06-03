@@ -1,0 +1,66 @@
+{
+    "quote_number": "3686",
+    "quote_title": "인텔 코어i9-14세대 14900KF + NVIDIA RTX A2000",
+    "date_create": "2024.3.2",
+    "cpu_gpu_combinations": "코어i9-14900KF + RTX A2000 조합",
+    "quotation_summary": " 인텔 코어i9-14세대 14900KF + NVIDIA RTX A2000# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 메인보드는 1440A급 출력의 드라이버 모스펫 전원부가 적용되어 있어서 14900K와 조합하기 좋은 GIGABYTE Z790 AORUS ELITE X 피씨디렉트로 변경2. 메모리는 32기가 1개가 아니라 16기가 2개로 구성해야 제대로 된 성능이 나옵니다.라이프타임 워런티로 압도적인 AS기간을 제공하는 팀그룹 5600MHz 고클럭 규격램 16기가 2개 32기가로 변경3. SSD는 젠4 규격의 끝판왕급 제품인 마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)로 변경4. 케이스는 상단 3열 수냉쿨러 장착이 가능하고 원터치 스냅도어와 C타입 포트 등을 적용하고서도 가격을 대폭 인하하여 새롭게 출시한 갓성비 제품인 3RSYS L700 LITE (미들타워)로 변경5. 파워는 세계 최대의 글로벌 제조사인 CWT에서 OEM으로 생산 압도적인 전압변동률을 제공해서 안정적인 시스템을 만들어 줄 MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)로 변경6. CPU쿨러는 구성하신 크라켄 360보다도 성능이 좋으면서 가격은 성능 대비 아주 저렴한 대장급 제품인 잘만 Alpha II A36 (BLACK)로 변경7. 케이스와 CPU쿨러의 LED는 모두 OFF가 가능해서 LED를 선호하지 않는다면 끄고 사용하시면 됩니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]인텔 코어i9-14세대 14900KF (랩터레이크 리프레시) (정품)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE X 피씨디렉트상세보기[메모리]TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))상세보기[그래픽카드]NVIDIA RTX A2000 D6 12GB 엔비디아코리아 정품상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]3RSYS L700 LITE (미들타워)상세보기[파워서플라이]MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)상세보기[CPU쿨러]잘만 Alpha II A36 (BLACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "인텔 코어i9-14세대 14900KF",
+            "가격": "785,940원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+            "가격": "337,720원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-5600 CL46 Elite 패키지) 32GB",
+            "가격": "125,890원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "NVIDIA RTX A2000 D6 12GB 엔비디아코리아 정품",
+            "가격": "714,920원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "227,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "3RSYS L700 LITE",
+            "가격": "58,290원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0",
+            "가격": "144,190원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "잘만 Alpha II A36",
+            "가격": "116,600원",
+            "수량": "1"
+        }
+    },
+    "total_price": "2511040원",
+    "CPU": "인텔 코어i9-14세대 14900KF (랩터레이크 리프레시) (정품)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE X 피씨디렉트",
+    "Graphic Card": "NVIDIA RTX A2000 D6 12GB 엔비디아코리아 정품",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "TeamGroup DDR5-5600 CL46 Elite 패키지 (32GB(16Gx2))",
+    "Power Supply": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 (PCIE5)",
+    "CPU Cooler": "잘만 Alpha II A36 (BLACK)",
+    "cpu_score": 56,
+    "gpu_score": 132,
+    "performance_grade": "중성능",
+    "cpu_benchmarkscore": 63947,
+    "gpu_benchmarkscore": 13742
+}

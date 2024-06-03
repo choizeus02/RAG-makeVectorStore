@@ -1,0 +1,65 @@
+{
+    "quote_number": "3174",
+    "quote_title": "14700K 반본체(4080 장착 가능, DAVEN AQUARIUM 블랙)",
+    "date_create": "2024.2.19",
+    "cpu_gpu_combinations": "코어i7-14700K +  조합",
+    "quotation_summary": " 14700K 반본체(4080 장착 가능, DAVEN AQUARIUM 블랙)# 14700K 반본체(4080 장착 가능# DAVEN AQUARIUM 블랙)",
+    "quote_person_introduction": "퀘이사존, 다나와, 쿨엔에서 활동 중인  잉여인간17호입니다.다양한 필테 경력과 컴덕질을 경험삼아 도움 드리고자 합니다.어떠한 스폰도 받지 않는 유저 입장에서 직접 사용해보고 테스트한 견적 위주로 견적드리겠습니다.",
+    "quote_feedback": "14700K 반본체(4080 장착 가능, DAVEN AQUARIUM 블랙)",
+    "computer_estimate_data": "[CPU]코어i7-14세대 14700K (랩터레이크)(벌크)상세보기[메인보드]GIGABYTE Z790 AORUS ELITE AX 피씨디렉트상세보기[메모리]TeamGroup DDR5-6000 CL48 Elite 서린 (16GB) x 2 개상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)상세보기[케이스]DAVEN AQUARIUM 블랙 (미들타워)상세보기[파워서플라이]NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)상세보기[CPU쿨러]NZXT KRAKEN 360상세보기[쿨러.튜닝.조명.액세서리]LEADCOOL RH-1 EVO ARGB 메모리 방열판 블랙 (2PACK)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기CPU는 인텔 14세대 i7메인보드는 전원부 16+1+2페이즈 1440A(90A)로 업그레이드되어 14세대도 문제 없고, WIFI와 블루투스 무선 연결을 지원하는 보드입니다.메모리는 믿고 쓰는 서린의 6000 클럭 DDR5 메모리입니다.SSD는 PCIe4.0 최상급 성능의 SSD입니다.케이스는 어항형 케이스 중 투챔버 형태로 파워가 옆면에 장착되어 온도면이나 감성면에서도 훌륭한 케이스입니다.파워서플라이는 10년 보증에 ATX 3.0 규격 제품이면서 850W에 11만원대라 가성비는 더 뛰어나고 슈퍼플라워 유통사라 고주파 발생시 새제품 교환 정책도 동일하게 적용되어 가성비 좋게 구성하시기 좋습니다.CPU쿨러는 크라켄의 신형 3열 수냉입니다. 안정성이나 소음에서 가장 평이 좋고 성능도 검증된 제품입니다.",
+    "parts_price": {
+        "CPU": {
+            "제품명": "코어i7-14세대 14700K",
+            "가격": "579,010원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE Z790 AORUS ELITE AX 피씨디렉트",
+            "가격": "384,560원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup DDR5-6000 CL48 Elite 서린  16GB",
+            "가격": "68,690원",
+            "수량": "2"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 1TB",
+            "가격": "130,450원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "DAVEN AQUARIUM 블랙",
+            "가격": "56,960원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD",
+            "가격": "134,000원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NZXT KRAKEN 360",
+            "가격": "309,210원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "LEADCOOL RH-1 EVO ARGB 메모리 방열판 블랙",
+            "가격": "14,050원",
+            "수량": "1"
+        }
+    },
+    "total_price": "1745620원",
+    "CPU": "코어i7-14세대 14700K (랩터레이크)(벌크)",
+    "Motherboard": "GIGABYTE Z790 AORUS ELITE AX 피씨디렉트",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (1TB)",
+    "Memory": "TeamGroup DDR5-6000 CL48 Elite 서린 (16GB) x 2 개",
+    "Power Supply": "NEWZEN SKULL 850SM MODULAR ATX 3.0 80PLUS GOLD (PCIE5)",
+    "CPU Cooler": "NZXT KRAKEN 360",
+    "cpu_score": 98,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 53708,
+    "gpu_benchmarkscore": null
+}

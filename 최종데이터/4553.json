@@ -1,0 +1,60 @@
+{
+    "quote_number": "4553",
+    "quote_title": "AMD 라이젠9-5세대 7950X3D",
+    "date_create": "2024.3.21",
+    "cpu_gpu_combinations": "라이젠9 7950X3D +  조합",
+    "quotation_summary": " AMD 라이젠9-5세대 7950X3D# 워크스테이션",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 메인보드는 2WAY 구성시 X8 X4로 동작을 하는 제품입니다. X8 X8로 동작을 하면서 가겨차이도 크지 않은 ASUS ProArt X670E-CREATOR WIFI 대원씨티에스로 변경2. 메모리의 경우 삼성 램은 불량 이슈가 아주 크게 터졌던 제품이라 라이프타임 워런티로 압도적인 AS기간을 제공하고 SK하이닉스 모듈을 적용하여 안정적으로 사용할 수 있는 패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 4개 128기가로 변경3. CPU쿨러는 케이스와도 잘 어울리고 더 조용하면서 실성능은 더 좋은 420mm 라디에이터가 적용되어 있는 ARCTIC Liquid Freezer III 420 서린으로 변경---추가로 질문하신 부분은 호환이 되지 않습니다.CPU는 최근 출시된 현세대 스레드리퍼인 스톰 픽으로 구성해야 호환이 되는 점 확인하시고 변경하시기 바랍니다.참고해서 합적인 구매하세요.",
+    "computer_estimate_data": "[CPU]AMD 라이젠9-5세대 7950X3D (라파엘) (정품)상세보기[메인보드]ASUS ProArt X670E-CREATOR WIFI 대원씨티에스상세보기[메모리]패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 4 개상세보기[SSD]삼성전자 990 PRO M.2 NVMe (4TB)상세보기[케이스]Fractal Design Define 7 XL Light 강화유리 (빅타워)상세보기[파워서플라이]HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)상세보기[CPU쿨러]ARCTIC Liquid Freezer III 420 서린상세보기[조립PC관련]수랭 쿨러 조립 추가 비용상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠9-5세대 7950X3D",
+            "가격": "891,920원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS ProArt X670E-CREATOR WIFI 대원씨티에스",
+            "가격": "768,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE x 4 개 32GB",
+            "가격": "121,550원",
+            "수량": "4"
+        },
+        "SSD": {
+            "제품명": "삼성전자 990 PRO M.2 NVMe 4TB",
+            "가격": "507,780원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "Fractal Design Define 7 XL Light 강화유리",
+            "가격": "338,539원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "HYDRO PTM PRO 1650W Platinum ATX3.0",
+            "가격": "555,490원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "ARCTIC Liquid Freezer III 420 서린",
+            "가격": "157,930원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3706839원",
+    "CPU": "AMD 라이젠9-5세대 7950X3D (라파엘) (정품)",
+    "Motherboard": "ASUS ProArt X670E-CREATOR WIFI 대원씨티에스",
+    "SSD": "삼성전자 990 PRO M.2 NVMe (4TB)",
+    "Memory": "패트리어트 PATRIOT DDR5-4800 CL40 SIGNATURE (32GB) x 4 개",
+    "Power Supply": "HYDRO PTM PRO 1650W Platinum ATX3.0 (12V-2x6)",
+    "CPU Cooler": "ARCTIC Liquid Freezer III 420 서린",
+    "cpu_score": 63,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 62530,
+    "gpu_benchmarkscore": null
+}

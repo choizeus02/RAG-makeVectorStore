@@ -1,0 +1,60 @@
+{
+    "quote_number": "4026",
+    "quote_title": "AMD 라이젠5-4세대 5600G",
+    "date_create": "2024.3.9",
+    "cpu_gpu_combinations": "라이젠5 5600G +  조합",
+    "quotation_summary": " AMD 라이젠5-4세대 5600G# 사무용",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 구성하신 메모리는 규격램과 동일한 3200MHz 클럭의 제품으로 튜닝 램으로 구성하는 메리트가 많지 않은 제품입니다. 화이트 컨셉의 1티어 튜닝 램이면서 클럭도 3600MHz로 높은 TeamGroup T-Force DDR4-3600 CL18 Delta RGB 화이트 패키지 (16GB(8Gx2)로 변경2. 구성한 SSD는 디램리스 제품이라 메인드라이브로는 추천을 하지 않구요. 젠4 규격이라 젠3만 지원하는 현 시스템에 장착하더라도 속도는 반토막이 나게 됩니다.5년 무상AS에 젠3 규격 최대 속도 제품으로 디램 버퍼메모리와 전용 히트싱크까지 적용되어 있는 ADATA XPG SX8100 M.2 2280 (1TB)로 변경3. 케이스는 그래픽카드가 없는 내장 그래픽 시스템이라 공간활용성이 높고 월등한 가성비를 자랑하는 화이트 제품인 몬스타 가츠 X320M 화이트 (미니타워) 변경4. 5600G는 번들쿨러로도 사용하는 유저들이 있을 정도로 온도가 높지 않아서 듀얼타워 공랭쿨러가 필요하지 않습니다.CPU쿨러는 케이스와도 잘 어울리는 화이트 색상에 성능도 좋고 ARGB를 지원하는 제품 중에서는 가격적인 메리트도 가장 높은 갓성비 제품인 3RSYS Socoool RC350 ARGB (WHITE)로 변경참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠5-4세대 5600G (세잔) (정품)상세보기[메인보드]ASUS PRIME A520M-A II 대원CTS상세보기[메모리]TeamGroup T-Force DDR4-3600 CL18 Delta RGB 화이트 패키지 (16GB(8Gx2)상세보기[SSD]ADATA XPG SX8100 M.2 2280 (1TB)상세보기[케이스]몬스타 가츠 X320M 화이트 (미니타워)상세보기[파워서플라이]마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트상세보기[CPU쿨러]3RSYS Socoool RC350 ARGB (WHITE)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠5-4세대 5600G",
+            "가격": "152,000원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "ASUS PRIME A520M-A II 대원CTS",
+            "가격": "83,980원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "TeamGroup T-Force DDR4-3600 CL18 Delta RGB 화이트 패키지 16GB",
+            "가격": "69,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "ADATA XPG SX8100 M.2 2280 1TB",
+            "가격": "105,490원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "몬스타 가츠 X320M 화이트",
+            "가격": "37,260원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+            "가격": "61,580원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "3RSYS Socoool RC350 ARGB",
+            "가격": "22,800원",
+            "수량": "1"
+        }
+    },
+    "total_price": "532110원",
+    "CPU": "AMD 라이젠5-4세대 5600G (세잔) (정품)",
+    "Motherboard": "ASUS PRIME A520M-A II 대원CTS",
+    "SSD": "ADATA XPG SX8100 M.2 2280 (1TB)",
+    "Memory": "TeamGroup T-Force DDR4-3600 CL18 Delta RGB 화이트 패키지 (16GB(8Gx2)",
+    "Power Supply": "마이크로닉스 Classic II 풀체인지 600W 80PLUS BRONZE 230V EU 화이트",
+    "CPU Cooler": "3RSYS Socoool RC350 ARGB (WHITE)",
+    "cpu_score": 504,
+    "gpu_score": null,
+    "performance_grade": "정보 없음",
+    "cpu_benchmarkscore": 21908,
+    "gpu_benchmarkscore": null
+}

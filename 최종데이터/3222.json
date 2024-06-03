@@ -1,0 +1,71 @@
+{
+    "quote_number": "3222",
+    "quote_title": "AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4070 Ti SUPER",
+    "date_create": "2024.2.20",
+    "cpu_gpu_combinations": "라이젠7 7800X3D + RTX 4070 Ti SUPER 조합",
+    "quotation_summary": " AMD 라이젠7-5세대 7800X3D  + 지포스 RTX 4070 Ti SUPER# 게임",
+    "quote_person_introduction": "안녕하세요! 인벤에서 주로 활동하고 있는 Skywalkers입니다.가성비와 성능비 그리고 감성비까지 모두 고려해서 가장 합리적인 구성을 찾을 수 있도록 추천을 드리겠습니다.",
+    "quote_feedback": "1. 140mm쿨러가 블랙 색상인데 화이트 색상의 패키지 제품으로 구성해서 컨트롤러를 하나 추가했고 여기에 3개의 RGB팬을 연결하면 됩니다.2. 구성하신 수냉쿨러에 컨트롤러 하나가 있고 USB 스플리터 케이블을 제공해서 2개의 컨트롤러를 연결해서 USB 2.0 헤더에 연결하면 별도의 컨트롤러를 추가할 필요가 없습니다.크라켄 조합으로 진행을 하실 예정이면 컨트롤러 제외하고 2팩 화이트 140mm 컨트롤러 포함 제품으로 변경하면 되겠습니다.참고해서 합리적인 구매하시기 바랍니다.",
+    "computer_estimate_data": "[CPU]AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))상세보기[메인보드]GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트상세보기[메모리]G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB J 실버 패키지 (32GB(16Gx2))상세보기[그래픽카드]갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB상세보기[SSD]마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)상세보기[케이스]NZXT H6 Flow RGB Matte White (미들타워)상세보기[파워서플라이]마이크로닉스 Classic II 850W 80PLUS GOLD 230V EU 풀모듈러 화이트12VHPWR 케이블 제공상세보기[CPU쿨러]NZXT KRAKEN 360 RGB (WHITE)상세보기[쿨러.튜닝.조명.액세서리]NZXT F120 RGB CORE White (1PACK)상세보기[쿨러.튜닝.조명.액세서리]NZXT F140 RGB CORE White (2PACK/Controller)상세보기[조립PC관련][견적왕] 조립 서비스 + 1년 출장 A/S상세보기",
+    "quote_description": "[조립PC관련]수랭 쿨러 조립 추가 비용상세보기",
+    "parts_price": {
+        "CPU": {
+            "제품명": "AMD 라이젠7-5세대 7800X3D",
+            "가격": "519,390원",
+            "수량": "1"
+        },
+        "메인보드": {
+            "제품명": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+            "가격": "307,880원",
+            "수량": "1"
+        },
+        "메모리": {
+            "제품명": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB J 실버 패키지) 32GB",
+            "가격": "174,404원",
+            "수량": "1"
+        },
+        "그래픽카드": {
+            "제품명": "갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB",
+            "가격": "1,322,000원",
+            "수량": "1"
+        },
+        "SSD": {
+            "제품명": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 2TB",
+            "가격": "229,400원",
+            "수량": "1"
+        },
+        "케이스": {
+            "제품명": "NZXT H6 Flow RGB Matte White",
+            "가격": "202,210원",
+            "수량": "1"
+        },
+        "파워서플라이": {
+            "제품명": "마이크로닉스 Classic II 850W 80PLUS GOLD 230V EU 풀모듈러 화이트12VHPWR 케이블 제공",
+            "가격": "167,405원",
+            "수량": "1"
+        },
+        "CPU쿨러": {
+            "제품명": "NZXT KRAKEN 360 RGB",
+            "가격": "309,210원",
+            "수량": "1"
+        },
+        "쿨러.튜닝.조명.액세서리": {
+            "제품명": "NZXT F140 RGB CORE White",
+            "가격": "33,500원",
+            "수량": "1"
+        }
+    },
+    "total_price": "3265399원",
+    "CPU": "AMD 라이젠7-5세대 7800X3D (라파엘) (멀티팩(정품))",
+    "Motherboard": "GIGABYTE B650 AORUS ELITE AX ICE 피씨디렉트",
+    "Graphic Card": "갤럭시 BOY 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB",
+    "SSD": "마이크론 Crucial T500 M.2 NVMe 대원씨티에스 (2TB)",
+    "Memory": "G.SKILL DDR5-6000 CL36 TRIDENT Z5 RGB J 실버 패키지 (32GB(16Gx2))",
+    "Power Supply": "마이크로닉스 Classic II 850W 80PLUS GOLD 230V EU 풀모듈러 화이트12VHPWR 케이블 제공",
+    "CPU Cooler": "NZXT KRAKEN 360 RGB (WHITE)",
+    "cpu_score": 225,
+    "gpu_score": 4,
+    "performance_grade": "고성능",
+    "cpu_benchmarkscore": 34357,
+    "gpu_benchmarkscore": 31768
+}
